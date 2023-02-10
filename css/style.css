@@ -1,0 +1,43 @@
+
+/* cover de peliculas */
+img{
+	width: 150px;
+	height: 280px;
+	border-radius: 20px;
+	
+}
+
+/* barra de inicio  */
+.nav-inicio{
+	background: black;
+	color: white;
+	padding: 10px 30px;
+	display: inline-block;
+	text-decoration: none;	
+}
+
+/* barra de inicio / mouse  */
+.nav-inicio:hover{
+	background: red;
+	
+}
+
+/* contenedor de la barra de inicio  */
+ nav{
+	 display: flex;
+	background: green;
+	padding: 10px;
+	justify-content: center;
+	
+	
+}
+
+
+@media (max-width: 1560px){
+	
+	nav{
+		flex-direction: column;
+		
+	}
+	
+}
