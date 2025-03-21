@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/America.png" tvg-country="AR" tvg-language="Spanish" group-title="General",001 - America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TVPublica.png" tvg-country="AR" tvg-language="Spanish" group-title="General",002 - TV Pública 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/telefe.php" tvg-logo="https://telegratuita.com/img/telefe.png" group-title="General",003 - TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" group-title="General",004 - Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",005 - A24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+#EXTINF:-1 tvg-id="https://tycsports.com.ar/envivo/24hs" tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",006 - TyC Sports
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",007 - Canal 10 Mar del Plata
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" tvg-country="RU" tvg-language="Spanish" group-title="Noticias Internacional",008 - RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" tvg-country="DE" tvg-language="Spanish" group-title="Noticias Internacional",009 - DW en Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="24Horas.TV" tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/24HTVE.png" tvg-country="ES" tvg-language="Spanish" group-title="Noticias Internacional",010 - Canal 24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/adn40.php" tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Noticias Internacional",011 - ADN40 (MEX)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/teleformula.php" tvg-logo="https://telegratuita.com/img/teleformula.png" group-title="Noticias Internacional",012 - TeleFormula (MEX)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/multimedios.php" tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="General Internacional",013 - Canal 6 Multimedios (MEX)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/canal10-mx.php" tvg-logo="https://telegratuita.com/img/canal10.png" group-title="General Internacional",014 - Canal 10 (MEX)
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/canalonce-mx.php" tvg-logo="https://i.ibb.co/SXJX7JLW/canalonce.png" group-title="General Internacional",015 - Canal Once (MEX)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/estrellatv.php" tvg-logo="https://i.ibb.co/ZzQnR0qK/estrellatv.png" group-title="General Internacional",016 - Estrella TV (MEX)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/imagentv.php" tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="General Internacional",017 - Imagen TV (MEX)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/mexiquense.php" tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="General Internacional",018 - Mexiquense (MEX)
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/nuevetv.php" tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="General Internacional",019 - Nueve TV (MEX)
+https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/tvmas.php" tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="General Internacional",020 - TV Mas (MEX)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/tvpacifico.php" tvg-logo="https://i.ibb.co/q3NZg8s7/tvpacifico.png" group-title="General Internacional",021 - TV Pacifico (MEX)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+#EXTINF:-1 tvg-id="https://telegratuita.com/en-vivo/vibetv.php" tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="General Internacional",022 - Vibe TV (MEX)
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+
+
