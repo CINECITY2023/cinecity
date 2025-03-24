@@ -5,6 +5,7 @@
 --------------                  ---------------------------------------------------------------------------------------------------------------------------
 
 --001 - America--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="General",001 - America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
@@ -62,6 +63,10 @@ http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 --013 - TLC--
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="General",013 - TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
+
+--014 - Tl Novelas--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tln.png?raw=true" group-title="General",014 - Tl Novelas
+http://tv.teleclub.xyz/club/server_2/mundo/tlnovelas/index.m3u8
 
 --014 - Alterna TV--
 #EXTINF:-1 tvg-logo="https://archive.org/download/alterna-tv/Alterna%20TV.png" group-title="General",014 - Alterna TV
@@ -480,51 +485,59 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/galavson.png?raw=true" group-title="Canales Internacionales",7016 - Galavision (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
 
---7017 - Canal 21 (El Salvador)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",7017 - Canal 21 (El Salvador)
+--7017 - Unicable (Mexico)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/uniclb.png?raw=true" group-title="Canales Internacionales",7017 - Unicable (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/unicable/index.m3u8
+
+--7018 - Canal 21 (El Salvador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",7018 - Canal 21 (El Salvador)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
---7018 - Ecuador TV (Ecuador)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",7018 - Ecuador TV (Ecuador)
+--7019 - Ecuador TV (Ecuador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",7019 - Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
---7019 - Ecuavisa (Ecuador)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ecuavs.png?raw=true" group-title="Canales Internacionales",7019 - Ecuavisa (Ecuador)--
+--7020 - Ecuavisa (Ecuador)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ecuavs.png?raw=true" group-title="Canales Internacionales",7020 - Ecuavisa (Ecuador)--
 http://tv.teleclub.xyz/club/server_2/mundo/ecuavisa/index.m3u8
 
---7020 - BTV (Bolivia)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",7020 - BTV (Bolivia)
+--7021 - BTV (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",7021 - BTV (Bolivia)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
---7021 - BoliVision (Bolivia)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",7021 - BoliVision (Bolivia)
+--7022 - BoliVision (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",7022 - BoliVision (Bolivia)
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
---7022 - VPI TV (Venezuela)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7022 - VPI TV (Venezuela)
+--7023 - VPI TV (Venezuela)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7023 - VPI TV (Venezuela)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
---7023 - ATV (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7023 - ATV (Peru)
+--7024 - ATV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7024 - ATV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
---7024 - America Television (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7024 - America Television (Peru)
+--7025 - America Television (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7025 - America Television (Peru)
 https://cgxheq.fubohd.com/americatv/mono.m3u8?token=83c4f9bbb3edfc03dd561a7c681aa9429ce61214-12-1742834975-1742798975
 http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
 
---7025 - Latina TV (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",7025 - Latina TV (Peru)
+--7026 - Latina TV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",7026 - Latina TV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
 
---7026 - Caracol TV (Colombia)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",7026 - Caracol TV (Colombia)
+--7027 - Caracol TV (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",7027 - Caracol TV (Colombia)
 http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
 
---7027 - RCN (Colombia)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/rcntv.png?raw=true" group-title="Canales Internacionales",7027 - RCN (Colombia)
+--7028 - RCN (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/rcntv.png?raw=true" group-title="Canales Internacionales",7028 - RCN (Colombia)
 http://tv.teleclub.xyz/club/server_2/mundo/rcn/index.m3u8
+
+--7029 - Telemundo (Puerto Rico)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tlmndo.png?raw=true" group-title="Canales Internacionales",7029 - Telemundo (Puerto Rico)
+http://tv.teleclub.xyz/club/server_2/mundo/telemundopuertorico/index.m3u8
 
 
 
