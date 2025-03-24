@@ -73,6 +73,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 --013 - TLC--
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="General",013 - TLC sd
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
