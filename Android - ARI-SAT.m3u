@@ -1,0 +1,653 @@
+#EXTM3U
+
+
+               GENERAL ARGENTINA
+--------------                  ---------------------------------------------------------------------------------------------------------------------------
+
+--001 - America--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="General",001 - America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
+
+
+--002 - TV Pública--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/tv-publica_202503/TV%20P%C3%BAblica.png" group-title="General",002 - TV Pública 
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+--003 - El Nueve--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/el-nueve/El%20Nueve.png" tvg-country="AR" group-title="General",003 - El Nueve
+https://sae12.playlist.ttvnw.net/v1/playlist/CvsFYbuFcIyxaaJYHg12sljUEYYQS5WMlBYEsHBVSC358YuLJSxRofk9QbIaA9-mDTlavsJv-nlne8vEslQ7UJscS1ISjP2GK4W1FdI5gDIukqin7zfobCxiNPqaySbl8hxXeSWd-sq4iWJtncf9kSGq-qCgNySoThq1sLFxen_IS-9IFAOwfbul8z5Fy4efpXpS2YJV5WGXnMeQSRIv3UPg_CX0Himp4M4-1Bi5lqhQ29AqG-ChuZRT-RCy2Bh0jKcW0O7wzaQbecZVop887LJZ0ZwZGvAXsFndvFf0nPsgTgg2jad2Nx13RBYvpRZikDh-zTscKsT_JQOr_HFOyfhU14vZEwichSCGl2Uq3qF7StbJfa7QqfLgLHnNjAaGKxKjknnJVcmATLy-S7AuMcnsFBr5osUCgt3U86rafMzPW5W_NLOd2iJlrRXTPBqqu855EYinsVo7aLExVddsulL5ZKmpNZkJ_vYuX1e1z0-dpNwDXWitIugUsxJVbvm1f6b3c0RaSc3HdmL1isBAONVjkO79Vqv7jgHE5Iem5iHKsy2uWfaxkdndiBcrNFKaDgBU39VRC1wfN7vVQyJETXrqd7kaO8x-Axl6-XVM7Hl2NGoU35HVZHUHyXuVFOqoV4yPnKKaaz_KGdT1oWz7fKaj2YEMmPA8EAmJtutcD0JvD20sMLxTCtaVOBkOQYU97WpiEV0jE_m94QU9mZXaTOQJvHqPcQSsI4tndD7B-LaXBnshSkn8KRTB6awUtrKhELrfLnxc3JNCoGNSx7YBz8FHYHgOBpMQU4TRPwoX4mCs3k6XnYEEf-bTM2rVALaK8oqrXDXKzspzprAv1lqgs2Jb_gSX8sGc6rFOoZT_FC9BM6PiNeaVHeVkep2KdWIIaySQZa-M1d_O-9n3q9BQkxpzL5B8LI4cbTO1DWo2U91hn9lxO5XDy8SHwoE-ecSNmdUUa3XmXLPKJcqZi9pHrry58MhHk8A0F-A0BKr8TeXMMNL4iEI4HUoLHIGzfBoMpSopBawfZ6uoPVVtIAEqCXVzLWVhc3QtMjDuCw.m3u8
+
+--004 - TELEFE--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/telefe_202503/TELEFE.png" group-title="General",004 - TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
+
+--005 - El Trece--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/el-trece/El%20Trece.png" group-title="General",005 - El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
+
+--006 - Canal de la Ciudad--
+
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/canal-de-la-ciudad/Canal%20de%20la%20Ciudad.png" tvg-country="AR" group-title="General",006 - Canal de la Ciudad
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
+
+--007 - Net TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/net-tv_202503/Net%20TV.png" tvg-country="AR" group-title="General",007 - Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+--008 - Telemax--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/telemax_202503/Telemax.png" tvg-country="AR" group-title="General",008 - Telemax
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+--009 Ciudad Magazine--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/ciudad-magazine/Ciudad%20Magazine.png" group-title="General",009 Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+
+--010 - Bayres TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/bayres-tv/Bayres%20TV.png" group-title="General",010 - Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+--011 - Argentinisima Satelital--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/argentinisima-satelital/Argentinisima%20Satelital.png" group-title="General",011 - Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+--012 - E!--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="General",012 - E!
+http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
+
+--013 - TLC--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="General",013 - TLC
+http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
+
+--014 - Tl Novelas--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tln.png?raw=true" group-title="General",014 - Tl Novelas
+http://tv.teleclub.xyz/club/server_2/mundo/tlnovelas/index.m3u8
+
+--014 - Alterna TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/alterna-tv/Alterna%20TV.png" group-title="General",014 - Alterna TV
+https://alternatv.ar/stream/hls/live.m3u8
+
+
+
+
+
+
+
+               NOTICIAS ARGENTINA
+--------------                   ---------------------------------------------------------------------------------------------------------------------------
+
+--1000 - C5N--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/606px-C5N_(2017).png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1000 - C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742853612/ei/jIHhZ6mTJPi_-LAPlaaNsQ4/ip/2802%3A8010%3A21bb%3A5801%3A187d%3Ad665%3Acf43%3A258b/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/maudio/1/bui/AccgBcOWGN5nK8CAp7P0qvawo8FS6sA5ZQ-KvSmkgGPJ4NnSVJmzpvIUWtFlnmwpwJuyP2HO7KSPG1Wd/spc/_S3wKjQSEicnRmC3o5CDiCAgQTDaSgXhKii-tASLXokxk2I9uE7h4LZc5OwBEFunb963kvE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP4LmyLlVS8_KLBUWGawFcw7sFX5V27ieha83qKsLQRnAiEAna1T9k-5KA-Ho_j-d87HocMLBqTK_ZAghFm-x1JjMs8%3D/file/index.m3u8
+
+--1000 - A24--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1000 - A24
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742855735/ei/14nhZ7LIFPL21sQPlsqWyAg/ip/2802%3A8010%3A21bb%3A5801%3A187d%3Ad665%3Acf43%3A258b/id/QGpHLgRnrx4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNR3L6iIrLOWArJJqukeBnmbxtDZwKTAvYwQoNSepROYkadBLE2Z_dcRgfwyznpgLKLTWcyqdn_/spc/_S3wKj5MjSWh--LiCqfvtUcqC3CUrV3CljrfPcp6ZBDegW-7KEjnBGJ1xQx1JaW4H_aUhSI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJQCcf3TvwV2yUscrGc2ubT6kTbN7O49oFtHkRenh27LAiBhEglm6TwJrspLEttzvNUiy3KS5Aor38BGlPPiB1Pwtw%3D%3D/file/index.m3u8
+https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
+
+--1001 - Cronica HD--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Cronica.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1001 - Cronica HD
+https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
+
+--1002 - IP--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canalip.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1002 - IP
+https://sae11.playlist.ttvnw.net/v1/playlist/CoEGKEqMSNweHKltgn97irJ9XNjtN4UtlTbc21pfCM7DhJQ-m2OKUqRG_zN7Y5PGldQtRzzHCpNqa7r0l_w3dzWlneh11UJmwqBKOrUHmzN_ETmJbZC-auU88KTgGD762pZsRM9waJ9a85IOiioz_dkeVdnsFlZXipS0BvRr3OoYlXf8_yWvbvXyfiXnb_m7kY8n4Nh2KyvZZFyk8tWu-QPnZJQixw1kG03FVCWs73mE1WlNs6FktL8I8-C0gSsvFWacdqwT9aSKPt7I2OJGBmNrhmuJIZ6s9WnYQZYsCU9YP29TruBMg78NRQJ6UnEgQHjT0mA3cQYyXwnSAYRckHydFZb8keB9-RXjbMACkcsFoC4px-nOe7bV80MWEZ3t8JFiq7JamgBrLpeSTp-mqQeMonxXJYNcPkef77QBE6tLr5oHoU-PSNGZY_Ywo_Fr70o-7ShWiwQELB9O9Po812nuZWcdyHY9K2JDlYBlbsBZc0Unf67cIza5Q4MR8nxhjD58zKWESQsEV-UiYBfFsWheE5VX3iobzvsIpwpwGujBGqQ00PdTNxT0sUhjtNenxcsUkzrs7RreRpyjjkTVDs3Vg-gZusmL8WmkGTtP91trMotaLD7ON1OR4JCRjR9uB35ORrdfiMPxk0Jwc9s7eCRczWfO6c1SAjBOSGHI16BTIEAT0w2t0fY_h5GFNMMzcHKAubA8csjaXwmQ_bXBrl-0iZkCdz6UmBpf_BU4zXgFN8qAjHsW189Ib-8AAvbnsGUDCqFLRE8YmyZW9noVOK7qW3bq1MaM9TVKT-8lzHr-irxjs5sTSLl7aGDV6FbckWGS1BfoqYvbWVAHaCmw7BHOa-8CHKf_ktALaIj-GrDwi9oTta0InJcyx_ka39YQO-gBvGL0acvw3UpYv6Qm0yUgidj09RzZDoe6tqVCwSxoZgZ9kf23-Zcrh8-tHYetn-MaI9jql20Dg5qt_w2ZfTDfFSXeRkeVlq4JmxMnQsfm3I-qzvzTTg8FhQ1_k7eJ2wRa1xoMW84v4JHTwKJc2TMlIAEqCXVzLWVhc3QtMjDuCw.m3u8
+
+--1003 - 24/7 Canal de Noticias--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",1003 - 24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+
+
+
+
+               CANAL DE PELICULAS
+--------------                   ---------------------------------------------------------------------------------------------------------------------------
+
+--2000 - Free TV Accion--
+#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="CINE",2000 - Free Tv Accion
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d167d6c668784cd3778d2f04482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e85810d93aa6b6014892284dfa83439fd401b389815d83158471f614999bf483d311d08c8c599e06e627475c2b79ebc213d39d0fef89c33e68cd272c1e4f02b2a0c1a91c6bd3451405fbfcc8bc63a7169fd17ff50a5dae13a75f96399c6aa910d58724c4fc82f16c1b49cead5a6534eee6af9aeb3441de0c9af2b388190d98f2073646d97de7313f3782f8f40196cf67d6dc5d8da07d0d2b9ade0a8c8aa5cde9a2884f883384c4fb9572464b750d01834ef8eb07bd28d96be6c710533b272184bb7789d7831d5a0b4e829310d31615abdef9f5b57a14d8691c53e661d55e162cc8312c5af728fcae0a36c14c74d93d29ef486fcf0dfdbc3fbbb2c8f9073fa690d251a150ffa703c4f701b01f5a3366e2cb02711f0417beef621e7e78d355dbd1dfef7305059e81a78ac35c3549361b4b019bf7f4718fc0e63b1813f5657c0e1e77169217986dd1143b6344a84e89db631384023263f3b5332f3606fccea38482c2dc0ab670de958553433a5d70f332153651ddb7805c8f5021185c4f850a50758ff83b289efd227212e114acbd56e851430664c0fe03480753011b60f9a349a790660e7fc3f6f953d9fb8552648839b108139faaab045b4630a63d7fb6a6580b6299d02eca331bc605d127899006b053eeb77d4e216ab8e276ea5ab7d089870a933ea85c4918801ceac4bbeb84323e82e09cd72fb9861e5ef20fc6dc395320362ddba6c206eb58f4e256a80d75213842d096095087a75509993b71739a81c299a8d939ddab04fb58c67a0aaa5b0c61b48268aacb85faf48360431399989f0ceaf1c6d19796fd2f705d386bdbd909013e9807e09c0be49a187ec4809faa8f3dc03bb163fbcc9d06d0118c87fc02a79b98bedc721455551ebce2ffe81bd6b94514e82f951d6348d2daa4c764fddbae0e37bf0eb7cb5438dc4b1437fea2f500c73caba6687a95e0476d9525628fb0856576ae03a82f3571f4b7f14d33ddcc02960dd6d5c00642880709f7053945a96ff193b0796583e84118300d6ab175ea5aae47075e6ee0c38b7da4c6a756c25d8bf3/42/848x480_1686360/index.m3u8
+
+--2001 - EPIX--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Epix.png" group-title="CINE",2001 - EPIX
+https://fl2.moveonjoy.com/EPIX/index.m3u8
+
+
+               CANAL DE DEPORTES
+--------------                   ---------------------------------------------------------------------------------------------------------------------------
+
+--3000 - ESPN--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",3000 - ESPN
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+
+
+--3001 - ESPN 2--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn2.webp" group-title="Deportes",3001 - ESPN 2
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
+
+--3002 - ESPN 3--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn3.webp" group-title="Deportes",3002 - ESPN 3
+http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+
+--3003 - ESPN 4--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn4.webp" group-title="Deportes",3003 - ESPN 4
+http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+
+--3004 - ESPN 5--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn5.webp" group-title="Deportes",3004 - ESPN 5
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+
+--3005 - ESPN 6--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn6.webp" group-title="Deportes",3005 - ESPN 6
+https://y2fzdgxl.fubohd.com/espn6/mono.m3u8?token=4772728469a136bbc3563ba309f298a268723502-d8-1742826383-1742790383
+http://tv.teleclub.xyz/club/server_2/deportes/espn6/index.m3u8
+
+--3006 - ESPN 7--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn7.png" group-title="Deportes",3006 - ESPN 7
+https://a2vlca.fubohd.com/espn7/mono.m3u8?token=8b0584fcbaa14697d0812367bb2746501c3c5c9b-4f-1742826488-1742790488
+http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
+
+--3007 - ESPN Premium--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",3007 - ESPN Premium
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
+
+
+--3008 - ESPN Deportes--
+*********EXTINF:-1 tvg-logo="https://television-libre.tv/img/espndep.png" group-title="Deportes",3008 - ESPN Deportes
+
+
+--3009 - TyC Sports--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",3009 - TyC Sports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
+
+--3010 - TnT Sports Premium--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",3010 - TnT Sports Premium
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
+
+--3011 - Fox Sports--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxsports.png" group-title="Deportes",3011 - Fox Sports
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
+
+--3012 - Fox Sports 2--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",3012 - Fox Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
+http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
+
+--3013 - Fox Sports 3--
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports3.png" group-title="Deportes",3013 - Fox Sports 3
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
+
+--3014 - Fox Sports Premium--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxpr.png" group-title="Deportes",3014 - Fox Sports Premium
+http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
+
+--3015 - Fox Sports Deportes--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxdep.png" group-title="Deportes",3015 - Fox Sports Deportes
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+
+--3016 - L1Max--
+#EXTINF:-1 tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3016 - L1Max
+http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
+
+--3017 - Gol Peru--
+#EXTINF:-1 tvg-logo="https://xn--ftbollibre-ndb.su/img/logo-canal/gol_peru.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3017 - Gol Peru
+https://ym9yzq.fubohd.com/golperu/mono.m3u8?token=4ac5bc3ca4c762d403c8f1555ab41900c257951d-db-1742832677-1742796677
+
+-3018 - Gol TV--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/GOL_TV_Stacked.png" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3018 - Gol TV
+https://florcd.pricesaskeloadsc.com/goltv/tracks-v1a1/mono.m3u8?token=4f02529e280afff159bd187569c8aeda44e6f46e-9c-1742813321-1742780921
+
+--3019 - WinSports--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/winspots.png?raw=true" group-title="Deportes",3019 - Win Sports
+http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
+
+--3020 - Win Sports+--
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/winsports.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3020 - Win Sports+
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
+
+--3021 - TVC Deportes Mexico--
+*****************EXTINF:-1 tvg-logo="https://television-libre.tv/img/tvcdep.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3021 - TVC Deportes Mexico
+
+
+--3022 - Bein Sports Extra--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",3022 - Bein Sports Extra
+https://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
+
+--3023 - Claro Sports--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",3023 - Claro Sports
+http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
+http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
+
+--3024 - DAZN F1--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",3024 - DAZN F1
+http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
+
+--3025 - Directv Sports--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",3025 - Directv Sports
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+
+--3026 - Directv Sports +--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",3026 - Directv Sports +
+http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
+
+--3027 - Directv Sports 2--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",3027 - Directv Sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
+
+--3028 - TUDN--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",3028 - TUDN
+http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
+
+--3029 - TUDN VIX +--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudnvix.jpg?raw=true" group-title="Deportes",3029 - TUDN VIX +
+http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
+
+--3030 - InterneTV Deportes--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Internet_tv_deportes.jpg" group-title="Deportes",3030 - InterneTV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
+
+--3031 - AYM SPORTS--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",3031 - AYM SPORTS
+https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+
+--3032 - Garage TV--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3032 - Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+
+
+
+
+               CANALES LOCALES
+--------------                  ---------------------------------------------------------------------------------------------------------------------
+
+--4001 - Canal 2 Misiones--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/2Misiones.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4001 - Canal 2 Misiones
+https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
+
+--4001 - Canal 2 Misiones--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CN3_2.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4002 - Canal 3 Pinamar
+https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+--4003 - 5TV Corrientes--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Locales",4003 - 5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+--4004 - Canal 9 Televida Mendoza--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/9Televida.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4004 - Canal 9 Televida Mendoza
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
+
+--4005 - Canal 10 Mar del Plata--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/10MDP.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4005 - Canal 10 Mar del Plata
+https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
+
+--4006 - Canal 12 Puerto Madryn--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/12PM.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4006 - Canal 12 Puerto Madryn
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+
+--4007 - Canal 13 La Rioja--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/13LR.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4007 - Canal 13 La Rioja
+http://arcast.net:1935/mp/mp/playlist.m3u8
+
+--4008 - 13Max Televisión Corrientes--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Locales",4008 - 13Max Televisión Corrientes
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+--4009 - Canal 22 Web CABA--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal22Web.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4009 - Canal 22 Web CABA
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+--4010 - Canal 79 Mar del Plata--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Canal79.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4010 - Canal 79 Mar del Plata
+https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+--4011 - Aire de Santa Fe--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Locales",4011 - Aire de Santa Fe
+https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+
+--4012 - ATV Argentina--
+*************************EXTINF:-1 tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="Locales",4012 - ATV Argentina
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+
+--4013 - CPE TV La Pampa--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CPETV.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4013 - CPE TV La Pampa
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+
+--4014 - RTN Neuquen--
+***********************EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RTN.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4014 - RTN Neuquen
+http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
+
+
+--4015 - Canal Provincial San Miguel--
+***************************************EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Provincial.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4015 - Canal Provincial San Miguel
+https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+
+--4016 - Canal 2 AVCHD Monte Casero--
+**************************************EXTINF:-1 tvg-logo="https://i.imgur.com/8CT4y1O.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4016 - Canal 2 AVCHD Monte Casero
+https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
+
+--4017 - Cable Imagen Armstrong Santa Fe--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-country="AR" tvg-language="Spanish" group-title="Locales",4017 - Cable Imagen Armstrong Santa Fe
+https://stream.arcast.com.ar/casse/casse/playlist.m3u8
+ 
+
+
+
+               NOTICIAS INTERNACIONALES
+--------------                         ---------------------------------------------------------------------------------------------------------------------------
+
+--5000 - RT en Español (RUS)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" group-title="Noticias Internacional",5000 - RT en Español (RUS)
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
+
+--5001 - DW en Español (ALE)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" group-title="Noticias Internacional",5001 - DW en Español (ALE)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/dwchannel/index.m3u8
+
+--5002 - Canal 24 Horas (ESP)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/24HTVE.png" group-title="Noticias Internacional",5002 - Canal 24 Horas (ESP)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+--5003 - Telesur (VEN)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Telesur.png" group-title="Noticias Internacional",5003 - Telesur (VEN)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+--5004 - TeleFormula (MEX)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/teleformula.png" group-title="Noticias Internacional",5004 - TeleFormula (MEX)
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+
+--5005 - Milenio (MEX)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/250px-Milenio_Television.png" group-title="Noticias Internacional",5005 - Milenio (MEX)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+--5006 - N+ FORO (MEX)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/N%2BFORO.jpg" group-title="Noticias Internacional",5006 - N+ FORO (MEX)
+https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
+https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1742704918~acl=/*~hmac=10179ac791dfaa59ea684eb00562fce2a9943c889fe5d772cc1d22bcc2bd7ec1
+
+--5007 - N+ (MEX)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/N%2B_2022.png" group-title="Noticias Internacional",5007 - N+ (MEX)
+https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
+
+
+
+
+               CANALES INFANTIL
+--------------                   ---------------------------------------------------------------------------------------------------------------------------
+
+--6000 - Magic Kids--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" tvg-country="AR" tvg-language="Spanish" group-title="Infantil",6000 - Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+--6001 - Pequeradio TV (ESP)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" group-title="Infantil",6001 - Pequeradio TV (ESP)
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+--6002 - Animestation (ARG)--
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",6002 - Animestation (ARG)
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+
+
+
+               CANALES INTERNACIONAL
+--------------                         ---------------------------------------------------------------------------------------------------------------------------
+
+--7000 - Azteca Internacional (Mexico)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",7000 - Azteca Internacional (Mexico)
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+--7001 - Azteca Uno (Mexico)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/aztecauno.png" group-title="Canales Internacionales",7001 - Azteca Uno (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8
+
+--7002 - Azteca 7 (Mexico)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Logo_de_Azteca_7_2025.png" group-title="Canales Internacionales",7002 - Azteca 7 (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8
+
+--7003 - Las Estrellas (Mexico)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",7003 - Las Estrellas (Mexico)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
+
+--7004 - Canal 5 (Mexico)--
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Canales Internacionales",7004 - Canal 5 (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/canal5/index.m3u8
+
+--7005 - Canal 10 (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/canal10.png" group-title="Canales Internacionales",7005 - Canal 10 (Mexico)
+https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+--7006 - Canal Once (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXJX7JLW/canalonce.png" group-title="Canales Internacionales",7006 - Canal Once (Mexico)
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/oncetv/index.m3u8
+
+--7007 - Estrella TV (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzQnR0qK/estrellatv.png" group-title="Canales Internacionales",7007 - Estrella TV (Mexico)
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+--7008 - Imagen TV (mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="Canales Internacionales",7008 - Imagen TV (mexico)
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/imagenmx/index.m3u8
+
+--7009 - Mexiquense (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="Canales Internacionales",7009 - Mexiquense (Mexico)
+https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
+
+--7010 - Nueve TV (Mexico)--
+****************************EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",7010 - Nueve TV (Mexico)
+
+
+--7011 - TV Mas (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="Canales Internacionales",7011 - TV Mas (Mexico)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+
+--7012 - TV Pacifico (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3NZg8s7/tvpacifico.png" group-title="Canales Internacionales",7012 - TV Pacifico (Mexico)
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+
+--7013 - Vibe TV (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="Canales Internacionales",7013 - Vibe TV (Mexico)
+https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+--7014 - Canal 6 Multimedios (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",7014 - Canal 6 Multimedios (Mexico)
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+
+--7015 - ADN40 (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Canales Internacionales",7015 - ADN40 (Mexico)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+--7016 - Galavision (Mexico)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/galavson.png?raw=true" group-title="Canales Internacionales",7016 - Galavision (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
+
+--7017 - Unicable (Mexico)--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/uniclb.png?raw=true" group-title="Canales Internacionales",7017 - Unicable (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/unicable/index.m3u8
+
+--7018 - Unimas (Mexico)--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",7018 - Unimas (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
+
+--7018 - Canal 21 (El Salvador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",7018 - Canal 21 (El Salvador)
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
+
+--7019 - Ecuador TV (Ecuador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",7019 - Ecuador TV (Ecuador)
+https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
+
+--7020 - Ecuavisa (Ecuador)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ecuavs.png?raw=true" group-title="Canales Internacionales",7020 - Ecuavisa (Ecuador)--
+http://tv.teleclub.xyz/club/server_2/mundo/ecuavisa/index.m3u8
+
+--7021 - BTV (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",7021 - BTV (Bolivia)
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
+
+--7022 - BoliVision (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",7022 - BoliVision (Bolivia)
+https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
+
+--7023 - VPI TV (Venezuela)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7023 - VPI TV (Venezuela)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+
+--7024 - ATV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7024 - ATV (Peru)
+http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
+
+--7025 - America Television (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7025 - America Television (Peru)
+https://cgxheq.fubohd.com/americatv/mono.m3u8?token=83c4f9bbb3edfc03dd561a7c681aa9429ce61214-12-1742834975-1742798975
+http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
+
+--7026 - Latina TV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",7026 - Latina TV (Peru)
+http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
+
+--7027 - Caracol TV (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",7027 - Caracol TV (Colombia)
+http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
+
+--7028 - RCN (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/rcntv.png?raw=true" group-title="Canales Internacionales",7028 - RCN (Colombia)
+http://tv.teleclub.xyz/club/server_2/mundo/rcn/index.m3u8
+
+--7029 - Telemundo (Puerto Rico)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tlmndo.png?raw=true" group-title="Canales Internacionales",7029 - Telemundo (Puerto Rico)
+http://tv.teleclub.xyz/club/server_2/mundo/telemundopuertorico/index.m3u8
+
+
+
+                 RADIO EN VIVO
+----------------              -----------------------------------------------------------------------------------------------------------------------------
+
+--8000 - AN24--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" tvg-country="AR" tvg-language="Spanish" group-title="Radio en Vivo",8000 - AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
+--8001 - Vorterix--
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Radio en Vivo",8001 - Vorterix
+https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+
+--8002 - Azahares Radiovisual Multimedia--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Radio en Vivo",8002 - Azahares Radiovisual Multimedia
+https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
+
+
+
+
+                 CANALES DE MUSICA
+----------------                  -----------------------------------------------------------------------------------------------------------------------------
+
+--9000 - MusicTop--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/MusicTop.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Musica",9000 - MusicTop
+http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+
+--9001 - Beats Radio--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Musica",9001 - Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+--9002 - Tierramia TV--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TierramiaTV.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Musica",9002 - Tierramia TV
+http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
+--9003 - Telpin TV Pinamar--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TelpinTV.png" tvg-country="AR" tvg-language="Spanish" group-title="Musica",9003 - Telpin TV Pinamar
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
+
+
+            CANAL RELIGION
+-----------                   --------------------------------------------------------------------------------------------------------------------------
+
+--10.000 - María Visión--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Maria-vision.jpg" group-title="Religion",10.000 - María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+--10.001 - EWTN--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/ewtn-logo.jpg" group-title="Religion",10.001 - EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
+
+
+
+                 RADIOS
+-----------                   --------------------------------------------------------------------------------------------------------------------------
+
+--FM 99.9 Mar del Plata--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radio Audio",FM 99.9 Mar del Plata 
+https://fm999.info/test/index.m3u8
+
+--Radio Disney Argentina 94.3--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/RadioDisney.jpg" group-title="Radio Audio",Radio Disney Argentina 94.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.m3u8?dist=web-radiodisney
+
+
+
+
+             CAMARAS VIGILANCIA
+-----------                     --------------------------------------------------------------------------------------------------------------------------
+
+--Camaras de Villa Gesell (Av. 3 y 104)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Camaras",Camaras de Villa Gesell (Av. 3 y 104)
+http://cam104y3.gesell.com.ar/playlist.m3u8
+
+--Camaras de Villa Gesell (La Pinocha)--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/VillaGesell.jpg" tvg-country="AR" tvg-language="Spanish" group-title="Camaras",Camaras de Villa Gesell (La Pinocha)
+http://camlapinocha.gesell.com.ar/playlist.m3u8
+
+
+
+
+                VIDEOS
+-----------                     --------------------------------------------------------------------------------------------------------------------------
+
+--Video Del Dia--
+*****************EXTINF:-1 tvg-logo="https://image.api.playstation.com/vulcan/ap/rnd/202407/0401/670c294ded3baf4fa11068db2ec6758c63f7daeb266a35a1.png" tvg-country="AR" tvg-language="Spanish" group-title="Videos",Video Del Dia
+https://api3.mp4.to/static/downloads/6668da0c-76eb-49ee-bd7e-6d9eef6b0c70/C%C3%B3mo-hacer-MONTA%C3%91AS-con-WORLDEDIT-en-Minecraft.m3u8
