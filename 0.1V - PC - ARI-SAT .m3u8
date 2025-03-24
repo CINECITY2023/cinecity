@@ -11,64 +11,78 @@
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 --002 - TV Pública--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/tv-publica_202503/TV%20P%C3%BAblica.png" group-title="General",002 - TV Pública 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 --003 - El Nueve--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-nueve/El%20Nueve.png" tvg-country="AR" group-title="General",003 - El Nueve
 https://sae12.playlist.ttvnw.net/v1/playlist/CvsFYbuFcIyxaaJYHg12sljUEYYQS5WMlBYEsHBVSC358YuLJSxRofk9QbIaA9-mDTlavsJv-nlne8vEslQ7UJscS1ISjP2GK4W1FdI5gDIukqin7zfobCxiNPqaySbl8hxXeSWd-sq4iWJtncf9kSGq-qCgNySoThq1sLFxen_IS-9IFAOwfbul8z5Fy4efpXpS2YJV5WGXnMeQSRIv3UPg_CX0Himp4M4-1Bi5lqhQ29AqG-ChuZRT-RCy2Bh0jKcW0O7wzaQbecZVop887LJZ0ZwZGvAXsFndvFf0nPsgTgg2jad2Nx13RBYvpRZikDh-zTscKsT_JQOr_HFOyfhU14vZEwichSCGl2Uq3qF7StbJfa7QqfLgLHnNjAaGKxKjknnJVcmATLy-S7AuMcnsFBr5osUCgt3U86rafMzPW5W_NLOd2iJlrRXTPBqqu855EYinsVo7aLExVddsulL5ZKmpNZkJ_vYuX1e1z0-dpNwDXWitIugUsxJVbvm1f6b3c0RaSc3HdmL1isBAONVjkO79Vqv7jgHE5Iem5iHKsy2uWfaxkdndiBcrNFKaDgBU39VRC1wfN7vVQyJETXrqd7kaO8x-Axl6-XVM7Hl2NGoU35HVZHUHyXuVFOqoV4yPnKKaaz_KGdT1oWz7fKaj2YEMmPA8EAmJtutcD0JvD20sMLxTCtaVOBkOQYU97WpiEV0jE_m94QU9mZXaTOQJvHqPcQSsI4tndD7B-LaXBnshSkn8KRTB6awUtrKhELrfLnxc3JNCoGNSx7YBz8FHYHgOBpMQU4TRPwoX4mCs3k6XnYEEf-bTM2rVALaK8oqrXDXKzspzprAv1lqgs2Jb_gSX8sGc6rFOoZT_FC9BM6PiNeaVHeVkep2KdWIIaySQZa-M1d_O-9n3q9BQkxpzL5B8LI4cbTO1DWo2U91hn9lxO5XDy8SHwoE-ecSNmdUUa3XmXLPKJcqZi9pHrry58MhHk8A0F-A0BKr8TeXMMNL4iEI4HUoLHIGzfBoMpSopBawfZ6uoPVVtIAEqCXVzLWVhc3QtMjDuCw.m3u8
 
 --004 - TELEFE--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/telefe_202503/TELEFE.png" group-title="General",004 - TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
 --005 - El Trece--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-trece/El%20Trece.png" group-title="General",005 - El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 --006 - Canal de la Ciudad--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-de-la-ciudad/Canal%20de%20la%20Ciudad.png" tvg-country="AR" group-title="General",006 - Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 --007 - Net TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/net-tv_202503/Net%20TV.png" tvg-country="AR" group-title="General",007 - Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 --008 - Telemax--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/telemax_202503/Telemax.png" tvg-country="AR" group-title="General",008 - Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 --009 Ciudad Magazine--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/ciudad-magazine/Ciudad%20Magazine.png" group-title="General",009 Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 --010 - Bayres TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/bayres-tv/Bayres%20TV.png" group-title="General",010 - Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 --011 - Argentinisima Satelital--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/argentinisima-satelital/Argentinisima%20Satelital.png" group-title="General",011 - Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 --012 - E!--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="General",012 - E!
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 --013 - TLC--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="General",013 - TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 --014 - Tl Novelas--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tln.png?raw=true" group-title="General",014 - Tl Novelas
 http://tv.teleclub.xyz/club/server_2/mundo/tlnovelas/index.m3u8
 
 --014 - Alterna TV--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/alterna-tv/Alterna%20TV.png" group-title="General",014 - Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
