@@ -83,8 +83,12 @@ https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
---1002 - 24/7 Canal de Noticias--
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",1002 - 24/7 Canal de Noticias
+--1002 - IP--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canalip.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1002 - IP
+https://sae11.playlist.ttvnw.net/v1/playlist/CoEGKEqMSNweHKltgn97irJ9XNjtN4UtlTbc21pfCM7DhJQ-m2OKUqRG_zN7Y5PGldQtRzzHCpNqa7r0l_w3dzWlneh11UJmwqBKOrUHmzN_ETmJbZC-auU88KTgGD762pZsRM9waJ9a85IOiioz_dkeVdnsFlZXipS0BvRr3OoYlXf8_yWvbvXyfiXnb_m7kY8n4Nh2KyvZZFyk8tWu-QPnZJQixw1kG03FVCWs73mE1WlNs6FktL8I8-C0gSsvFWacdqwT9aSKPt7I2OJGBmNrhmuJIZ6s9WnYQZYsCU9YP29TruBMg78NRQJ6UnEgQHjT0mA3cQYyXwnSAYRckHydFZb8keB9-RXjbMACkcsFoC4px-nOe7bV80MWEZ3t8JFiq7JamgBrLpeSTp-mqQeMonxXJYNcPkef77QBE6tLr5oHoU-PSNGZY_Ywo_Fr70o-7ShWiwQELB9O9Po812nuZWcdyHY9K2JDlYBlbsBZc0Unf67cIza5Q4MR8nxhjD58zKWESQsEV-UiYBfFsWheE5VX3iobzvsIpwpwGujBGqQ00PdTNxT0sUhjtNenxcsUkzrs7RreRpyjjkTVDs3Vg-gZusmL8WmkGTtP91trMotaLD7ON1OR4JCRjR9uB35ORrdfiMPxk0Jwc9s7eCRczWfO6c1SAjBOSGHI16BTIEAT0w2t0fY_h5GFNMMzcHKAubA8csjaXwmQ_bXBrl-0iZkCdz6UmBpf_BU4zXgFN8qAjHsW189Ib-8AAvbnsGUDCqFLRE8YmyZW9noVOK7qW3bq1MaM9TVKT-8lzHr-irxjs5sTSLl7aGDV6FbckWGS1BfoqYvbWVAHaCmw7BHOa-8CHKf_ktALaIj-GrDwi9oTta0InJcyx_ka39YQO-gBvGL0acvw3UpYv6Qm0yUgidj09RzZDoe6tqVCwSxoZgZ9kf23-Zcrh8-tHYetn-MaI9jql20Dg5qt_w2ZfTDfFSXeRkeVlq4JmxMnQsfm3I-qzvzTTg8FhQ1_k7eJ2wRa1xoMW84v4JHTwKJc2TMlIAEqCXVzLWVhc3QtMjDuCw.m3u8
+
+--1003 - 24/7 Canal de Noticias--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",1003 - 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 
@@ -146,7 +150,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 
 --3008 - ESPN Deportes--
 *********EXTINF:-1 tvg-logo="https://television-libre.tv/img/espndep.png" group-title="Deportes",3008 - ESPN Deportes
-https://florcd.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=91820631ef6e491e7477245462fb8c74a56852a8-2e-1742638138-1742605738
+
 
 --3009 - TyC Sports--
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",3009 - TyC Sports
