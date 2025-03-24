@@ -380,8 +380,8 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
 
-               CANALES DE MEXICO
---------------                   ---------------------------------------------------------------------------------------------------------------------------
+               CANALES INTERNACIONAL
+--------------                         ---------------------------------------------------------------------------------------------------------------------------
 
 --7000 - Azteca Internacional (Mexico)--
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",7000 - Azteca Internacional (Mexico)
@@ -412,8 +412,8 @@ https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 --7008 - Nueve TV (Mexico)--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",7008 - Nueve TV (Mexico)
-https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+****************************EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",7008 - Nueve TV (Mexico)
+
 
 --7009 - TV Mas (Mexico)--
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="Canales Internacionales",7009 - TV Mas (Mexico)
@@ -459,6 +459,9 @@ https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7018 - VPI TV (Venezuela)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
+--7019 - ATV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Mundo",7019 - ATV (Peru)
+http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
                  RADIO EN VIVO
 ----------------              -----------------------------------------------------------------------------------------------------------------------------
@@ -516,10 +519,6 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
                  RADIOS
 -----------                   --------------------------------------------------------------------------------------------------------------------------
-
---Antena 91--
-******EXTINF:-1 tvg-logo="https://i.imgur.com/HAJxHcV.png" group-title="Radio Audio",Antena 91
-https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 
 --FM 99.9 Mar del Plata--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/radiologos/FM999.png" group-title="Radio Audio",FM 99.9 Mar del Plata 
