@@ -462,7 +462,7 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
 --7020 - America Television (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Mundo",7020 - America Television (Peru)
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Mundo",7020 - America Television (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
 
 
