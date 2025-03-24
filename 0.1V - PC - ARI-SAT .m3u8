@@ -500,6 +500,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
 
 --7017 - Unicable (Mexico)--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/uniclb.png?raw=true" group-title="Canales Internacionales",7017 - Unicable (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/unicable/index.m3u8
 
