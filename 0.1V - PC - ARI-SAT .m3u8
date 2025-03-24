@@ -411,15 +411,61 @@ https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 --6000 - Magic Kids--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" tvg-country="AR" tvg-language="Spanish" group-title="Infantil",6000 - Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
---6001 - Pequeradio TV (ESP)--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" group-title="Infantil",6001 - Pequeradio TV (ESP)
+--6001 - Cartoonito--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",6001 - Cartoonito
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
+http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
+
+--6002 - Discovery Kids--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil",6002 - Discovery Kids
+http://tv.teleclub.xyz/club/server_2/infantil/discoverykids/index.m3u8
+http://tv.teleclub.xyz/club/server_3/infantil/discoverykids/index.m3u8
+
+--6003 - Disney Channel--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil",6003 - Disney Channel
+http://tv.teleclub.xyz/club/server_3/infantil/disneychannel/index.m3u8
+http://tv.teleclub.xyz/club/server_2/infantil/disneychannel/index.m3u8
+
+--6004 - Disney JR--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil",6004 - Disney JR
+http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
+
+--6005 - EnerGeek Retro !Ex--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeek_Retro.png?raw=true" group-title="Infantil",6005 - EnerGeek Retro !Ex
+http://tv.teleclub.xyz/club/server_url/infantil/energeekretro/index.m3u8
+
+--6006 - Fanpop TV !Ex--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/FanpopTV.png?raw=true" group-title="Infantil",6006 - Fanpop TV !Ex
+http://tv.teleclub.xyz/club/server_url/infantil/fanpoptv/index.m3u8
+
+--6007 - Nickelodeon--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Infantil",6007 - Nickelodeon
+http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
+
+--6008 - Tooncast--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",6008 - Tooncast
+http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
+
+--6009 - Pequeradio TV (ESP)--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/PequeradioTV.png" tvg-country="ES" tvg-language="Spanish" group-title="Infantil",6009 - Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
---6002 - Animestation (ARG)--
-#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",6002 - Animestation (ARG)
+--6010 - Animestation (ARG)--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",6010 - Animestation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
@@ -517,6 +563,7 @@ http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unvisn.png?raw=true" group-title="Canales Internacionales",7019 - Univisión (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/univision/index.m3u8
+http://tv.teleclub.xyz/club/server_3/mundo/univision/index.m3u8
 
 --7018 - Canal 21 (El Salvador)--
 EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
@@ -558,6 +605,10 @@ http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
 --7026 - Latina TV (Peru)--
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",7026 - Latina TV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
+
+--7027 - Willax TV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/willaxtv.png?raw=true" group-title="Canales Internacionales",7027 - Willax TV (Peru)
+http://tv.teleclub.xyz/club/server_2/mundo/willaxtv/index.m3u8
 
 --7027 - Caracol TV (Colombia)--
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",7027 - Caracol TV (Colombia)
