@@ -398,7 +398,7 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 --7001 - Azteca Uno (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="Canales Internacionales",7001 - Azteca Uno (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/aztecauno.png" group-title="Canales Internacionales",7001 - Azteca Uno (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8
 
 --7002 - Azteca 7 (Mexico)--
