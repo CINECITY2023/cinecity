@@ -143,7 +143,7 @@ https://fl2.moveonjoy.com/EPIX/index.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 --3000 - ESPN--
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",3000 - ESPN
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
