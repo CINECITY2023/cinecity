@@ -458,11 +458,11 @@ https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 --7019 - ATV (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Mundo",7019 - ATV (Peru)
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7019 - ATV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
 --7020 - America Television (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Mundo",7020 - America Television (Peru)
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7020 - America Television (Peru)
 https://cgxheq.fubohd.com/americatv/mono.m3u8?token=83c4f9bbb3edfc03dd561a7c681aa9429ce61214-12-1742834975-1742798975
 http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
 
