@@ -73,6 +73,10 @@ http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
                NOTICIAS ARGENTINA
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
+--1000 - C5N--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/606px-C5N_(2017).png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1000 - C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742853612/ei/jIHhZ6mTJPi_-LAPlaaNsQ4/ip/2802%3A8010%3A21bb%3A5801%3A187d%3Ad665%3Acf43%3A258b/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/maudio/1/bui/AccgBcOWGN5nK8CAp7P0qvawo8FS6sA5ZQ-KvSmkgGPJ4NnSVJmzpvIUWtFlnmwpwJuyP2HO7KSPG1Wd/spc/_S3wKjQSEicnRmC3o5CDiCAgQTDaSgXhKii-tASLXokxk2I9uE7h4LZc5OwBEFunb963kvE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAP4LmyLlVS8_KLBUWGawFcw7sFX5V27ieha83qKsLQRnAiEAna1T9k-5KA-Ho_j-d87HocMLBqTK_ZAghFm-x1JjMs8%3D/file/index.m3u8
+
 --1000 - A24--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1000 - A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
