@@ -18,45 +18,43 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/logotipoC9.png" tvg-country="AR" tvg-language="Spanish" group-title="General",003 - El Nueve
 https://sae13.playlist.ttvnw.net/v1/playlist/Cv4F8DoDqAnnxw7gxVQt6zARsK-3pEbpeE-uxQwWbHbKPjlYyQ4BJ5zzb-uWRiGrHGTyx9Z6Uyv9jmtNAE03L9-H_Wz_WJniD2OJVAGsdnzGyNLHorcONP3zuh62t6B_aLKqf5HQxKl1-iNS5f_Xlrj0kUIobFEpAAjUCro5UXoNWSovaGhF0GMjY_rIQ_KzHlWpQ24zzjnbvX9F4dC9MGEqAN6j1GFwMYQNa0LJcrNPmnKHjb6Q0SgJGQVPomDYwrrhJr46ZqPerUej7gofKXv_DaN4bGyy7296ZOyyXMFu_CdeGfhWRKNUcJbwEOj1Ta2tR62eiTqdOZOVDAgIrC4aEnIk2_keCe6hnuCadnYDwJl2JIVQVyDWW0HByBPVN3vQqWdyqwNuHeSSRsqwtvaoxCsqoCAERrBcrYhGtT1pca1hFHsJljUKqdEh-hEWtak5944tFq-cp0US-6aaD8O9fVrLd00V5-OX7qSmIM6RKjCSr3HT-Gsn122lNZHs82wAGIKxEMTm1UfYwRYuRTuEyoGNwbDAYaxYVoKH50TLLYcJV-ffzOFXUt2iYQbSUB1mqeAx3PUErov0UrM1hNQoZ78Qk1SdoR540tiWVhrr8NheUjkwaUVxqYcQ6ENXmpbnKmI_jf0Q_uceWGAigSwp9rSRH5t7-ULxluducpbqOEm-GMkVKNeHSchrKiPG6GzmN5rKc5RpKSuqjauEo0wTWQEfeFqBmTyWkM7w_whO70vaQhp6GvttBZ9RYy9yHaeULPYdUTDeKb--_crFczA5qCID0_5tGrEUMmey1SGcGUgvHM9n2f1thSoz5GEMMSZwfIQmv_LGCLVjOnhsHXFdAa3r0yJV7H-869C9ixqqep8Jd6DUcR-BbsfaCfIqmjYuJ-Xg6ftrK6tXfzEjZBXXA8hBmfzDtUOk5ouroNkBnBIXD-8ZYaIVAE6aQ3wIX4cvaJR9IWo6L0ARw9XWtAXkUz5JDR0BQkQBky_MUPuC4cmTZVXP19AaDOnDcXmSWRoMjSKZf17Z2ZmtbsIlIAEqCXVzLWVhc3QtMjDuCw.m3u8
 
-
---003 - TELEFE--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/telefe.png" group-title="General",003 - TELEFE
+--004 - TELEFE--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/telefe.png" group-title="General",004 - TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
---004 - El Trece--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="General",004 - El Trece
+--005 - El Trece--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="General",005 - El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
---005 - Canal de la Ciudad--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" group-title="General",005 - Canal de la Ciudad
+--006 - Canal de la Ciudad--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" group-title="General",006 - Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
---006 - Net TV--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="General",006 - Net TV
+--007 - Net TV--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/NetTV.png" tvg-country="AR" tvg-language="Spanish" group-title="General",007 - Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
---007 - Telemax--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" group-title="General",007 - Telemax
+--008 - Telemax--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/TLX.png" tvg-country="AR" tvg-language="Spanish" group-title="General",008 - Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
---008 - Alterna TV--
-#EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" tvg-country="AR" tvg-language="Spanish" group-title="General",008 - Alterna TV
+--009 - Alterna TV--
+#EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" tvg-country="AR" tvg-language="Spanish" group-title="General",009 - Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
---009 Ciudad Magazine--
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" tvg-country="AR" tvg-language="Spanish" group-title="General",009 Ciudad Magazine
+--010 Ciudad Magazine--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V1xZV72.png" tvg-country="AR" tvg-language="Spanish" group-title="General",010 Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-
---009 - Bayres TV--
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" tvg-country="AR" tvg-language="Spanish" group-title="General",009 - Bayres TV
+--011 - Bayres TV--
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" tvg-country="AR" tvg-language="Spanish" group-title="General",011 - Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
---010 - Argentinisima Satelital--
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="General",010 - Argentinisima Satelital
+--012 - Argentinisima Satelital--
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="General",012 - Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 
