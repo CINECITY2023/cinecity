@@ -149,8 +149,9 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
 
 --3007 - ESPN Premium--
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",3007 - ESPN Premium
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
+
 
 --3008 - ESPN Deportes--
 *********EXTINF:-1 tvg-logo="https://television-libre.tv/img/espndep.png" group-title="Deportes",3008 - ESPN Deportes
