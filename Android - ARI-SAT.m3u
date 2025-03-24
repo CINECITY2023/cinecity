@@ -35,7 +35,6 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 --006 - Canal de la Ciudad--
-
 EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-de-la-ciudad/Canal%20de%20la%20Ciudad.png" tvg-country="AR" group-title="General",006 - Canal de la Ciudad
@@ -74,7 +73,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 --013 - TLC--
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=500,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="General",013 - TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
