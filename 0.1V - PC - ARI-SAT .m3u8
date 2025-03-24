@@ -80,6 +80,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742853612/ei/j
 --1000 - A24--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/A24.png" tvg-country="AR" tvg-language="Spanish" group-title="Noticias",1000 - A24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742855735/ei/14nhZ7LIFPL21sQPlsqWyAg/ip/2802%3A8010%3A21bb%3A5801%3A187d%3Ad665%3Acf43%3A258b/id/QGpHLgRnrx4.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcNR3L6iIrLOWArJJqukeBnmbxtDZwKTAvYwQoNSepROYkadBLE2Z_dcRgfwyznpgLKLTWcyqdn_/spc/_S3wKj5MjSWh--LiCqfvtUcqC3CUrV3CljrfPcp6ZBDegW-7KEjnBGJ1xQx1JaW4H_aUhSI/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJQCcf3TvwV2yUscrGc2ubT6kTbN7O49oFtHkRenh27LAiBhEglm6TwJrspLEttzvNUiy3KS5Aor38BGlPPiB1Pwtw%3D%3D/file/index.m3u8
 https://g4.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_360p.m3u8
 
 --1001 - Cronica HD--
