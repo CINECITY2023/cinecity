@@ -56,7 +56,7 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 --012 - E!--
-#EXTINF:-1 tvg-logo="https://archive.org/download/e_20250324/E%21.png" group-title="General",012 - E!
+#EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="General",012 - E!
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 --013 - TLC--
