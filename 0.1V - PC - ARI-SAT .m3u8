@@ -143,8 +143,6 @@ https://florcd.pricesaskeloadsc.com/espndeportes/tracks-v1a1/mono.m3u8?token=918
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
-
-
 --3010 - TnT Sports Premium--
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",3010 - TnT Sports Premium
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
@@ -153,7 +151,6 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxsports.png" group-title="Deportes",3011 - Fox Sports
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
-
 
 --3012 - Fox Sports 2--
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",3012 - Fox Sports 2
@@ -179,7 +176,8 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,F
 http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
 
 --3017 - Gol Peru--
-***************EXTINF:-1 tvg-logo="https://xn--ftbollibre-ndb.su/img/logo-canal/gol_peru.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3017 - Gol Peru
+#EXTINF:-1 tvg-logo="https://xn--ftbollibre-ndb.su/img/logo-canal/gol_peru.webp" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3017 - Gol Peru
+https://ym9yzq.fubohd.com/golperu/mono.m3u8?token=4ac5bc3ca4c762d403c8f1555ab41900c257951d-db-1742832677-1742796677
 
 -3018 - Gol TV--
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/GOL_TV_Stacked.png" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",3018 - Gol TV
