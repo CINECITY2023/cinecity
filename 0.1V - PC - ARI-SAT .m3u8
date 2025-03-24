@@ -21,10 +21,12 @@ https://sae13.playlist.ttvnw.net/v1/playlist/Cv4F8DoDqAnnxw7gxVQt6zARsK-3pEbpeE-
 --004 - TELEFE--
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/telefe.png" group-title="General",004 - TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
 --005 - El Trece--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ElTrece.png" tvg-country="AR" tvg-language="Spanish" group-title="General",005 - El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 --006 - Canal de la Ciudad--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/CanalCBA.png" tvg-country="AR" tvg-language="Spanish" group-title="General",006 - Canal de la Ciudad
@@ -56,6 +58,14 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 --012 - Argentinisima Satelital--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/ArgenSat.png" tvg-country="AR" tvg-language="Spanish" group-title="General",012 - Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
+
+--013 - E!--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="General",E!
+http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
+
+--013 - TLC--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="Mundo",013 - TLC
+http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 
 
@@ -325,10 +335,12 @@ https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 --5000 - RT en Español (RUS)--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/RT.png" group-title="Noticias Internacional",5000 - RT en Español (RUS)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
 
 --5001 - DW en Español (ALE)--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/DW.png" group-title="Noticias Internacional",5001 - DW en Español (ALE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/dwchannel/index.m3u8
 
 --5002 - Canal 24 Horas (ESP)--
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/24HTVE.png" group-title="Noticias Internacional",5002 - Canal 24 Horas (ESP)
@@ -385,86 +397,121 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",7000 - Azteca Internacional (Mexico)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
---7001 - Las Estrellas (Mexico)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",7001 - Las Estrellas (Mexico)
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+--7001 - Azteca Uno (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="Canales Internacionales",7001 - Azteca Uno (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8
 
---7002 - Canal 10 (Mexico)--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/canal10.png" group-title="Canales Internacionales",7002 - Canal 10 (Mexico)
+--7002 - Azteca 7 (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Canales Internacionales",7002 - Azteca 7 (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8
+
+--7003 - Las Estrellas (Mexico)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",7003 - Las Estrellas (Mexico)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
+
+--7004 - Canal 5 (Mexico)--
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Canales Internacionales",7004 - Canal 5 (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/canal5/index.m3u8
+
+--7005 - Canal 10 (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/canal10.png" group-title="Canales Internacionales",7005 - Canal 10 (Mexico)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
---7003 - Canal Once (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXJX7JLW/canalonce.png" group-title="Canales Internacionales",7003 - Canal Once (Mexico)
+--7006 - Canal Once (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SXJX7JLW/canalonce.png" group-title="Canales Internacionales",7006 - Canal Once (Mexico)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/oncetv/index.m3u8
 
---7004 - Estrella TV (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzQnR0qK/estrellatv.png" group-title="Canales Internacionales",7004 - Estrella TV (Mexico)
+--7007 - Estrella TV (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZzQnR0qK/estrellatv.png" group-title="Canales Internacionales",7007 - Estrella TV (Mexico)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
---7006 - Imagen TV (mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="Canales Internacionales",7006 - Imagen TV (mexico)
+--7008 - Imagen TV (mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="Canales Internacionales",7008 - Imagen TV (mexico)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/imagenmx/index.m3u8
 
---7007 - Mexiquense (Mexico)--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="Canales Internacionales",7007 - Mexiquense (Mexico)
+--7009 - Mexiquense (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="Canales Internacionales",7009 - Mexiquense (Mexico)
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
---7008 - Nueve TV (Mexico)--
-****************************EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",7008 - Nueve TV (Mexico)
+--7010 - Nueve TV (Mexico)--
+****************************EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",7010 - Nueve TV (Mexico)
 
 
---7009 - TV Mas (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="Canales Internacionales",7009 - TV Mas (Mexico)
+--7011 - TV Mas (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="Canales Internacionales",7011 - TV Mas (Mexico)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
---7010 - TV Pacifico (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q3NZg8s7/tvpacifico.png" group-title="Canales Internacionales",7010 - TV Pacifico (Mexico)
+--7012 - TV Pacifico (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q3NZg8s7/tvpacifico.png" group-title="Canales Internacionales",7012 - TV Pacifico (Mexico)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
---7011 - Vibe TV (Mexico)--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="Canales Internacionales",7011 - Vibe TV (Mexico)
+--7013 - Vibe TV (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="Canales Internacionales",7013 - Vibe TV (Mexico)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
---7012 - Canal 6 Multimedios (Mexico)--
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",7012 - Canal 6 Multimedios (Mexico)
+--7014 - Canal 6 Multimedios (Mexico)--
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",7014 - Canal 6 Multimedios (Mexico)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 
---7013 - ADN40 (Mexico)--
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Canales Internacionales",7013 - ADN40 (Mexico)
+--7015 - ADN40 (Mexico)--
+#EXTINF:-1 tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Canales Internacionales",7015 - ADN40 (Mexico)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
---7014 - Canal 21 (El Salvador)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",7014 - Canal 21 (El Salvador)
+--7016 - Galavision (Mexico)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/galavson.png?raw=true" group-title="Canales Internacionales",7016 - Galavision (Mexico)
+http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
+
+--7017 - Canal 21 (El Salvador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",7017 - Canal 21 (El Salvador)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
---7015 - Ecuador TV (Ecuador)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",7015 - Ecuador TV (Ecuador)
+--7018 - Ecuador TV (Ecuador)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",7018 - Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
---7016 - BTV (Bolivia)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",7016 - BTV (Bolivia)
+--7019 - Ecuavisa (Ecuador)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ecuavs.png?raw=true" group-title="Canales Internacionales",7019 - Ecuavisa (Ecuador)--
+http://tv.teleclub.xyz/club/server_2/mundo/ecuavisa/index.m3u8
+
+--7020 - BTV (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",7020 - BTV (Bolivia)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
---7017 - BoliVision (Bolivia)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",7017 - BoliVision (Bolivia)
+--7021 - BoliVision (Bolivia)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",7021 - BoliVision (Bolivia)
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
---7018 - VPI TV (Venezuela)--
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7018 - VPI TV (Venezuela)
+--7022 - VPI TV (Venezuela)--
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",7022 - VPI TV (Venezuela)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
---7019 - ATV (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7019 - ATV (Peru)
+--7023 - ATV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",7023 - ATV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
---7020 - America Television (Peru)--
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7020 - America Television (Peru)
+--7024 - America Television (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",7024 - America Television (Peru)
 https://cgxheq.fubohd.com/americatv/mono.m3u8?token=83c4f9bbb3edfc03dd561a7c681aa9429ce61214-12-1742834975-1742798975
 http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
+
+--7025 - Latina TV (Peru)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",7025 - Latina TV (Peru)
+http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
+
+--7026 - Caracol TV (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",7026 - Caracol TV (Colombia)
+http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
+
+--7027 - RCN (Colombia)--
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/rcntv.png?raw=true" group-title="Canales Internacionales",7027 - RCN (Colombia)
+http://tv.teleclub.xyz/club/server_2/mundo/rcn/index.m3u8
 
 
 
