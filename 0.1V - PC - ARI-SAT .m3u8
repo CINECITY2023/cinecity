@@ -558,6 +558,10 @@ http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
 
 Cartoon Network
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
+http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
+
+Cartoon Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://tv.teleclub.xyz/club/server_3/infantil/cartoonnetwork/index.m3u8
 
 Discovery Kids
@@ -1120,6 +1124,10 @@ http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
 MTV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV
 http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8
+
+MTV
+#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/mtv_thumb_d55s0whf.png" group-title="Musica",MTV
+http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 MTV Hits*****
 EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits
