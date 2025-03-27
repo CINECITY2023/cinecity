@@ -182,9 +182,14 @@ Cinecanal
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Cine",Cinecanal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
 
+Cine Latino
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Cine",Cine Latino
+http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
+
 Cinemax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
 http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
 
 Cinemax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
@@ -194,6 +199,10 @@ DHE
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
 http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
 
+DHE
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
+http://89.117.146.57/televall/YbVVqpeaWU/83.m3u8
+
 De Pelicula
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
 http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
@@ -201,6 +210,18 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
 De Pelicula
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
 http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
+
+Euro Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="Cine",Euro Channel
+http://89.117.146.57/televall/YbVVqpeaWU/89.m3u8
+
+Europa Europa
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBauvZybnLKT2YylcWMk4EynXnxkAblXMCQ&s" group-title="Cine",Europa Europa
+http://89.117.146.57/televall/YbVVqpeaWU/87.m3u8
+
+Films&arts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Cine",Films&arts
+http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 FX
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Cine",FX
@@ -214,6 +235,7 @@ http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
 Golden
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
 http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
 
 Golden
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
@@ -230,6 +252,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
 Golden Premier
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
 
 Golden Premier
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Premier
@@ -279,9 +302,17 @@ EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Cine",HBO Sign
 http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbosignature/index.m3u8
 
+Morbido TV
+EXTINF:-1 tvg-logo="https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png" group-title="Cine",Morbido TV
+http://89.117.146.57/televall/YbVVqpeaWU/84.m3u8
+
 Multipremier
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
+
+Multipremier
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
+http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 
 Paramount Network
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Cine",Paramount Network
@@ -296,14 +327,14 @@ Sony Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Cine",Sony Channel
 http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
 
-Sony Cine*****
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/son_cine.png?raw=true" group-title="Cine",Sony Cine
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+Sony Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="Cine",Sony Movies
+http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
 
-Space*****
+Space
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Cine",Space
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
 
 Space
@@ -318,6 +349,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
 Star Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/82.m3u8
 
 Star Channel
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
@@ -335,12 +367,21 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
 Studio Universal 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
 Syfy*****
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="Cine",Syfy
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/syfy/index.m3u8
+
+TCM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoNsuSZUZXHHnUR6zJPUBfNvP3hWg-OffsQ&s" group-title="Cine",TCM
+http://89.117.146.57/televall/YbVVqpeaWU/86.m3u8
+
+TNT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
+http://89.117.146.57/televall/YbVVqpeaWU/77.m3u8
 
 TNT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
@@ -403,6 +444,14 @@ Adult Swim*****
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/adultswim/index.m3u8
 
+Cine Dinamita
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="Cine",Cine Dinamita
+http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
+
+Mega Ficcion
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKX7XCZ6rrIKyx_kk82zsFdpqFkiqYvjBppLu81XuCZifLDK3Yeawqe8q0xCfKJ2k7u0" group-title="Cine",Mega Ficcion
+http://89.117.146.57/televall/YbVVqpeaWU/105.m3u8
+
 Comedy Central
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cine",Comedy Central
 http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8
@@ -443,23 +492,33 @@ http://tv.teleclub.xyz/club/server_3/mundo/tlnovelas/index.m3u8
 
 ESPN
 #EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",ESPN
+http://89.117.146.57/televall/YbVVqpeaWU/94.m3u8
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/114.m3u8
 
 ESPN
 #EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",ESPN
+http://89.117.146.57/televall/YbVVqpeaWU/92.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
 ESPN 2
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn2.webp" group-title="Deportes",ESPN 2
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/115.m3u8
 
 ESPN 2
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn2.webp" group-title="Deportes",ESPN 2
+http://89.117.146.57/televall/YbVVqpeaWU/93.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 
 ESPN 3
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn3.webp" group-title="Deportes",ESPN 3
 http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/116.m3u8
+
+ESPN 3
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn3.webp" group-title="Deportes",ESPN 3
+http://89.117.146.57/televall/YbVVqpeaWU/95.m3u8
 
 ESPN 4
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn4.webp" group-title="Deportes",ESPN 4
@@ -490,6 +549,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
 ESPN Premium
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",ESPN Premium
 http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/101.m3u8
 
 ESPN Premium
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",ESPN Premium
@@ -507,9 +567,17 @@ TyC Sports
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",TyC Sports
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
+TnT Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports
+http://89.117.146.57/televall/YbVVqpeaWU/102.m3u8
+
 TnT Sports Premium
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports Premium
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
+
+TnT Sports Premium
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports Premium
+http://89.117.146.57/televall/YbVVqpeaWU/103.m3u8
 
 Fox Sports
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxsports.png" group-title="Deportes",Fox Sports
@@ -519,12 +587,21 @@ http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
 Fox Sports 2
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",Fox Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/99.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/100.m3u8
+
+Fox Sports 2
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",Fox Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
 http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/97.m3u8
 
 Fox Sports 3
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports3.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+
+Fox Sports 3
+#EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports3.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
 
 Fox Sports Premium
@@ -556,9 +633,13 @@ Win Sports+
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/winsports.webp" tvg-country="AR" group-title="Deportes",Win Sports+
 http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 
-TVC Deportes*****
+Win Sports+
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/winsports.webp" tvg-country="AR" group-title="Deportes",Win Sports+
+http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
+
+TVC Deportes
 #EXTINF:-1 tvg-logo="https://www.tvplusgratis2.com/imge/tvcdeportes.png" group-title="Deportes",TVC Deportes (12:00 23/3/25)
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/117.m3u8
 
 Bein Sports Extra
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",Bein Sports Extra
@@ -567,6 +648,10 @@ https://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
 Claro Sports
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/107.m3u8
+
+Claro Sports
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Spor
 http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
 
 DAZN F1
@@ -576,6 +661,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 Directv Sports
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",Directv Sports
 http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/109.m3u8
 
 Directv Sports
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",Directv Sports +
@@ -602,12 +688,28 @@ AYM SPORTS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",AYM SPORTS
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
+AYM SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",AYM SPORTS
+http://89.117.146.57/televall/YbVVqpeaWU/118.m3u8
+
 VTV Plus*****
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="Deportes",VTV Plus
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
+ECDF
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="Deportes",ECDF
+http://89.117.146.57/televall/YbVVqpeaWU/112.m3u8
+
+Adrenalina Sports Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Deportes",Adrenalina Sports Network
+http://89.117.146.57/televall/YbVVqpeaWU/120.m3u8
+
+Latin American Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdSy1M1l3GIn3FhToK0jNZpbGnoWn_nOSa1VZHbQx-c3nd9XDe" group-title="Deportes",Latin American Sports
+http://89.117.146.57/televall/YbVVqpeaWU/119.m3u8
+
 Garage TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" tvg-country="AR" tvg-language="Spanish" group-title="Deportes",Garage TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 
@@ -1034,6 +1136,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 Canal 5 (Mexico)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Canales Internacionales",Canal 5 (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/canal5/index.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/10.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
 Canal 10 (Mexico)
