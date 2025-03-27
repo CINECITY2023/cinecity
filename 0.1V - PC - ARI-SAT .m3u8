@@ -131,11 +131,11 @@ IP
 https://sae12.playlist.ttvnw.net/v1/playlist/CooGfrNHJc_fNi9FwhwNg6YUTdq6c_S0CIiCnH2-1lTDUotQx1M2k2yOfwLDp4DTGsPOnZe-GoYB6M4w_tnJ_0mAS2eiha3FKBSTKEYUZ1kcEZBmQzxzBRhg-Zhp2X2JJIuGLeuYJI2QflHlK34E3QSacsfYmlUEvxl5V672zxmbkd4cv7AV45fnEMtsiXD1sqCmxdutRrRF2cOu5ZPLw_NoWXx_-jsjbXRWNtErG05d9pwT2KPKCpQg0NczrSbwqMcQyzW3tpExoruv5Z5SBAaUmQIFEnPqjS9frhNWZdOb6795_wZcczY5ASOJezP7Edc-59_zR3w0TcPdGTiEQay1idYGRH-Tto6x6lvUvQlCCo_zTvv76b8sa2fULP5BHatI4JJNDdrABrRomkD3UWyBjwLrN6RIg_lHI8_hktwZMy_gHKTugJnR0AEKaQQOnM089cyuIZgru7tQVhVkBycNaPIXdcO5NEQX9IEBtNL1bD-S67mC9kIalm7-TNhayX4DIqEQFFh5FYbf0UW_TPD3Cvr8bCTAUylWW__2R8iS5n6frtvU9bRV6ME0McrNCoAxqTca6nSmAkEEFNIy5Z4Sy1bV0LG1hW-S4zJX9wI7ef0Lj9vK6JL_4DECq_1QK169nXGHjbYUBE58JguBjgiSK6zhuewHE66zlEEhNuiSkta6aWT1WA3SlN3sldsu1Kn5vBw-JteEwiBWB2agC7-MARDnJUikI9EBZAI0h0XhPV1RgWL0lcnAHB7NPzzO6RfIsHTOsARVYTlGh8RCs4Xyxhgqtlaofb_J-1aDEjAyKOkO0K7GbOOKEgWvLbPwhv4WMiz_JnhsU7836qSc-70bPOZc4nUhnMQC_i7iOM4rSHX_Ctb--FGUXeN3PqddLKVlGQdNURcrs6YH22QuqLi0t3Utt6QonivXVxNqJakzQX7TXO3ogc_TGm6NEpdiwzVF7PQYqtWmhBVKDgkcyHdNKjnmKRVSvNiNyCjLEm7nHk52crEZuEw6VAF6WbuvMdVObXm907WYl49fzBoM0vyJW83BI7ww5K0cIAEqCXVzLWVhc3QtMjDxCw.m3u8
 
 LN+******
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias",LN+ (13:54)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias",LN+
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 TN******
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN (14:20)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 
@@ -242,24 +242,24 @@ Golden
 http://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
 
 Golden Edge*****
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Edge
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Cine",Golden Edge
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 Golden Plus
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Plus
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg" group-title="Cine",Golden Plus
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
 
 Golden Premier
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
 
 Golden Premier
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
 
 Golden Premier 2
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden Premier 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCDZINCUaOqw3Qh7NXkLovXjKikLFrSACoQ&s" group-title="Cine",Golden Premier 2
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
 
 HBO
@@ -445,7 +445,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/adultswim/index.m3u8
 
 Cine Dinamita
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="Cine",Cine Dinamita
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="Cine",Cinema Dinamita
 http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
 
 Mega Ficcion
@@ -568,7 +568,7 @@ TyC Sports
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
 TnT Sports
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgccaOIjB-QFxDD3UmZdT5oaoMEPphL3XAR2OHR9St00ohZDREZcQXw5ScLqp0Obotmg" group-title="Deportes",TnT Sports
 http://89.117.146.57/televall/YbVVqpeaWU/102.m3u8
 
 TnT Sports Premium
@@ -618,7 +618,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
 
 Gol Peru*****
-#EXTINF:-1 tvg-logo="https://xn--ftbollibre-ndb.su/img/logo-canal/gol_peru.webp" group-title="Deportes",3017 - Gol Peru
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQituRltWzlovFGmC1dzCQ_VMyjpwK_QlglwA&s" group-title="Deportes",3017 - Gol Peru
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 Gol TV*****
@@ -638,7 +638,7 @@ Win Sports+
 http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
 
 TVC Deportes
-#EXTINF:-1 tvg-logo="https://www.tvplusgratis2.com/imge/tvcdeportes.png" group-title="Deportes",TVC Deportes (12:00 23/3/25)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TVC_Deportes_2015.png" group-title="Deportes",TVC Deportes
 http://89.117.146.57/televall/YbVVqpeaWU/117.m3u8
 
 Bein Sports Extra
@@ -779,20 +779,23 @@ Disney JR
 http://89.117.146.57/televall/YbVVqpeaWU/61.m3u8
 
 Nick JR
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Infantil",Nick JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Infantil",Nick JR
 http://89.117.146.57/televall/YbVVqpeaWU/62.m3u8
 
 Nickelodeon
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Infantil",Nickelodeon
 http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
 
 TeenNick
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/nckn.png?raw=true" group-title="Infantil",TeenNick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Infantil",TeenNick
 http://89.117.146.57/televall/YbVVqpeaWU/66.m3u8
 
 Tooncast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",Tooncast
 http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
+
+Tooncast
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",Tooncast
 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
 
 Magic Kids
@@ -1012,7 +1015,7 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 Canal 9 Litoral (Entre Rios)
-#EXTINF:-1 tvg-id="Canal9Litoral.ar" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Locales",Canal 9 Litoral (Entre Rios)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png" group-title="Locales",Canal 9 Litoral (Entre Rios)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 Canal 3 (La Pampa)
@@ -1083,21 +1086,6 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 ATV Argentina (Tucuman)******
 EXTINF:-1 tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" group-title="Locales",ATV Argentina (Tucuman)
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1298,28 +1286,24 @@ http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
                  RADIO EN VIVO
 ----------------              -----------------------------------------------------------------------------------------------------------------------------
 
-AN24
-#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" group-title="Radio en Vivo",AN24
-https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+UrbanaPlayFM
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-70x70.png" group-title="Radio en Vivo",UrbanaPlayFM
+https://sae13.playlist.ttvnw.net/v1/playlist/CvgF2ndrYnmH3PK7UITSTAjIrNfAJ93NdX9HsQ5luQmw3oSeou2RFiJIiwKO7y0BEaAPY2UkC4TU0hm8eky0PfWEZR9b5rnb_pG9Mm7fu89Bx4KVUsnnec-QpHoXeA4h7Zrkw-8ZzeHa7LvKATgj8KQA3AnUfL3rbs88B0-GXMWWcBZ94kj0du2TpV836Ty0gb_Td2CNCOb3zqVpty4B3-wO16zN-bDOTcEGZ5NSyWl5h3RJjbgNYDbtWxdSSOTVmxIo9tDK3s8fzzWL-nNwNSaH5ekat44YXcm3JQenlX3f7GO1Kg7C4qsG_MKBTr1Kc1_MAzr7UoV--tJ1-Hs--TxOPE61EZLgbWjK6ci1AO3cHyIwEVdV-n7ESs6-vuWtUrmPyf9vj356oXqPm_MLoDDM54iONyScfLEejAYj8ivVO-Gy5bNZn_-hbV2iZ33xzF93kYs1JgcOV1GSjJDDqVckfU76bS905eMGLaSsRqabkJOEmmkvCYnnWiDkBLkyzWI3itjoieO-pauK4l1pv7iejSJZosAGL7Gk9OvVrW--S6LoW3o71D05R1uEYatQsQGTn9d4xE9dvfIBjzNpYQVxNvgZaM55PAbRvLfhnuDLE9WPKKQNV4Y-217jK-urdzUFxWS_IiJwzbHxEHd41OpWAmjumrjwYrkY2MxpTzUTmc6ceWKy6JubfJQw3LYRvS90-yJ0eMaOTXzndIbNt8-60ALI4WxZoFNGaEv-u6_YHpyedPcxm37qV9ccCS8Eq9SKv3uFH8XThc-3-S72x-EzaahqLAjs8ENjhUojf8TYjuSGVSeCAodASLMqKXP6DFQG4KqCFxvcqNRUWfIHfjYqk1lEyCYcqu80eMTniuXuFZmrQ46fLMJT9p3tP_PcpXOVz4p7gZjqlVLowM55dMsplukMx4TtEnTkxwL4W8U_e24JdcTypiloMVi_PUqFBkjB-1mhWUhfgdaeFcR97Pirr7XBVLESlMbLC1jQ7Ep79ZHaYcrTrj2lGhoMu7wfqQZguXkwilCPIAEqCXVzLWVhc3QtMjDxCw.m3u8
 
-FMRockAndPop
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0b920569-1c9f-4dd3-9fab-23d65174fa2b-profile_image-70x70.png" group-title="Radio en Vivo",FMRockAndPop
-https://sae11.playlist.ttvnw.net/v1/playlist/CrAGLTkb3tCUtGxj4VnJf26lhMXmigwW1o60Vp0Gohq8wZCseqDApnSHbDdcqjPxyJh6iIOtx6F1tiY3a1s1ywjs5DKCqTSiuPdnUdjrDUPikD4kRE9WlO5jz2vS661UCt8swFgDdoKmYzr9ctWI4E0cwPlsFpeXcCDbGuWioaH0ZU18kxKEaBrnxUvyG11ejOzgDaQsJyFBN_Hf0RgX7YYUCUcHaGOV4rsjLRRdo-ioxBKuuF4r5TSNQJmn6fetxk7iDwmVTwhsReTqwVMLTtfIXNrjWR236vh4lz8kLUgL3ZT7ZKZGoYdlLNPu-8wluB61kISWjz5UyksYTs0ARQSCHQE1eov3ZYnwFu2ruaZFZpRB-3K3Amxj4i1b6OE1QFtnm_cuIcqxD82kD6JP8lrQ2_s6HAP0erGsIn9dpPbO2gAN20XbZp9NMLm8tM-BfUmYlJMEAYt6s35LBQduHXhyqXB1P2ywvcpUFe89MIaykhRvfXCExpunYyKHqn_qXNpLRO0KC3Z4wVsWuvvCryfToKigxhFrxkyr3OK_S6uAg9baZYT4Vx48LMrNbxpaOihVOD8KO2UrxWQlPgI_YVNFBIj_JL5giMqKhm-fdWhVWf8BW0WhPjbIv6U7dPZrqsUfx94DyKOSgTl-oKeEKWxOXGkleHjkj7m-A0MTLRyCt2xXiYYnVinFnmqVARxJz8Ueoh0Hc17_FGv8ec6fOrl8y9sBKlugw7SkxnxYiRpA77iJslxKJHikPG-3UjElVKnouIDPrl40rArWB_hZze8YRMVeBwZ6tYh-o_msAHEmcnLLPMJmPdQYZAL53Ty-xy7ph366zZbDldwx-Cz0QE1_6K14tsYDOMNPToTYHQgzt5xDA8IFpz77t_Xzla4u4zNpIHBxtrLcK57zE0kdd0Pp7xQ-Bxquh--vpZTmLHILojOyuZotPoZQJwOav10cq_tYZmL5FUHwoq1fl0Qq5aeVZJK-RwlGoVVzfYUhbG-956dWLog7fGRzGlAdZyE5efDFn-DFsvDscaxWxJxmKYpne5qN1-uJ2QQDYuJaiGhIzUtVyWqJOXuZDv4aAfQhmhbIGgzIirWYpijQTGfoF8cgASoJdXMtZWFzdC0yMPEL.m3u8
+El Destape
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-70x70.png" group-title="Radio en Vivo",El Destape
+https://vod3.cf.dmcdn.net/sec2(W1o6cN4wI82m--26evNOr4PxzZWsjn8FpAOAPHzndfPW_yGMZ9Cu9Z4IQO9E-PFmEuRlKjTAgdQIOwG4prxbCob4LST4IVU8fbXlKA5jiKzYwjsD-LePaYpOCWTkC8sLjS-ucZd90ZF2kZQtnA9Teve1alPNdkXjqbMD9G2Uba3K3f91-g5DifJG-JC9gi5W)/video/013/129/513921310_mp4_h264_aac_hq_1.m3u8#cell=cf3
 
 NeuraMedia
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/bc2ba1f0-fa3d-4742-ae71-ea6c5875e4c7-profile_image-70x70.png" group-title="Radio en Vivo",FMRockAndPop
 https://usw21-0.playlist.ttvnw.net/v1/playlist/CswHjydef92JCCApMNRXpSV1aYcXZgQCO22ZeZK_3c3QL6_yIQJIGYmxVVcyO0554FiZBlAZvoGxYmfk3ZLCNC_gZm4jt2QqgrEZlNNP7IefUptieEa3uTyuG-uHRU2BhEemt0lXg7T6SbYC5zoiWFN23eMguRvdBb2UgRZUb6f6VL3PHwrNV5d_IyRmxBYe7CCtXOqFYxoQ1VqhNN1iIxA41vDgIyJdGmSH5jxthQKzS_WZADtQHi7wUkU3oz24CH-t5O3BUujV8dNaI-DGcfbN8WQ24ZdBOwgTFZ_j5IP4so8hwiggUb1BGvnETT8arkldO-iV4ypQ7cHgE_5bwPBE4kMhjj4-csrzLmcHmn829ZjtKmjZMayqzTo520FsJ0ICU-ANveB1p0gMT5Fr1BMFf_6hYI_yJmUbQJIxWavNhr4YNJgjVOTGdI8TNb0hih93BZs7fQeHoEFmpPWYj5EKsLRj3nyG5yFzQABaMr2YdKcoaH6gBmdiBwN1xKc5N58dhPM_2jstAIpLz0FzgB5l3U4cUX-UJv__Cgo9GbaooZF90FYGEQ__9DMwMj8DvPCziPay5e-numwQeyd9vuTk3-ikkHI4UPp3ESElCzsZf_r17mxsnEtDYrsIv4kKlxbLBi7H-WQkQ_zLRwN-xY7zp7ocyPvGnd44WxU7YbuXMvglPyXDLTcK8J2YUPRzvCZKq5SvUx8gQoMWjFik2j2U1xwuzzAf4bmugwfO5kENv5xsczf9JVDpc2Oul9zAAouBFt994KY3WsGBhCsZ45qUL_ELP7CYym0nXvdWILZBXPoocD7EYyQRryTAmz3-pZoGCMHapGX__CpIcCHckxRmRObHOXO52S3mMvzXIxz5rNEtCWfu-VaK2WB5Bam5C80mEXI6X5YPpFGe5PAh8ZEuevgzjSrmm0yspkxsW30O3J3s6nURdjnMzx_RSWGpigCiNV45cwuHhDchVyF1aC0-w4DiRML3iqXMq7CJemmKYQC7FafCGaKYtBkLhsYQHFpOUnRjPaqMO713eiHqGKp7Gc7gb1ER7FYuFgoTZW6EZVkuxutITcYNGm_m_kIXZJ9QhYyzOtlk-frY5MQrQmF6AgAXWztd8qq6wGDOKazslET33Uqffn-EctcaUvCr2OsxIzrN0lAOpsOjTBZDOO6fr__JtCMh2mmHp2i-rtKHXJ_0HSy59KJlAWHc4lcRqiVy2sEYkv4B5OOf59tfGjYadzZtNw5Ec4bTbadKhXwLSa8zb1inKGX8CwQUtUfeie86CSTwPRV5mRg87fZIGgww53wpLK7P_GFuGqggASoJdXMtZWFzdC0yMPEL.m3u8
-
-UrbanaPlayFM
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/cebcaef4-7090-4893-b340-8aecad1b68bd-profile_image-70x70.png" group-title="Radio en Vivo",UrbanaPlayFM
-https://sae13.playlist.ttvnw.net/v1/playlist/CvgF2ndrYnmH3PK7UITSTAjIrNfAJ93NdX9HsQ5luQmw3oSeou2RFiJIiwKO7y0BEaAPY2UkC4TU0hm8eky0PfWEZR9b5rnb_pG9Mm7fu89Bx4KVUsnnec-QpHoXeA4h7Zrkw-8ZzeHa7LvKATgj8KQA3AnUfL3rbs88B0-GXMWWcBZ94kj0du2TpV836Ty0gb_Td2CNCOb3zqVpty4B3-wO16zN-bDOTcEGZ5NSyWl5h3RJjbgNYDbtWxdSSOTVmxIo9tDK3s8fzzWL-nNwNSaH5ekat44YXcm3JQenlX3f7GO1Kg7C4qsG_MKBTr1Kc1_MAzr7UoV--tJ1-Hs--TxOPE61EZLgbWjK6ci1AO3cHyIwEVdV-n7ESs6-vuWtUrmPyf9vj356oXqPm_MLoDDM54iONyScfLEejAYj8ivVO-Gy5bNZn_-hbV2iZ33xzF93kYs1JgcOV1GSjJDDqVckfU76bS905eMGLaSsRqabkJOEmmkvCYnnWiDkBLkyzWI3itjoieO-pauK4l1pv7iejSJZosAGL7Gk9OvVrW--S6LoW3o71D05R1uEYatQsQGTn9d4xE9dvfIBjzNpYQVxNvgZaM55PAbRvLfhnuDLE9WPKKQNV4Y-217jK-urdzUFxWS_IiJwzbHxEHd41OpWAmjumrjwYrkY2MxpTzUTmc6ceWKy6JubfJQw3LYRvS90-yJ0eMaOTXzndIbNt8-60ALI4WxZoFNGaEv-u6_YHpyedPcxm37qV9ccCS8Eq9SKv3uFH8XThc-3-S72x-EzaahqLAjs8ENjhUojf8TYjuSGVSeCAodASLMqKXP6DFQG4KqCFxvcqNRUWfIHfjYqk1lEyCYcqu80eMTniuXuFZmrQ46fLMJT9p3tP_PcpXOVz4p7gZjqlVLowM55dMsplukMx4TtEnTkxwL4W8U_e24JdcTypiloMVi_PUqFBkjB-1mhWUhfgdaeFcR97Pirr7XBVLESlMbLC1jQ7Ep79ZHaYcrTrj2lGhoMu7wfqQZguXkwilCPIAEqCXVzLWVhc3QtMjDxCw.m3u8
 
 Vorterix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/Vorterix.jpg" group-title="Radio en Vivo",Vorterix
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-RADIOCONVOS
+Radio Con Vos 89.9
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/788c77a9-6c85-4814-a6d7-53047185fa73-profile_image-70x70.png" group-title="Radio en Vivo",UrbanaPlayFM
 https://sae11.playlist.ttvnw.net/v1/playlist/CrIHVEJWXfRg5pAr9ucDtphZzySVtd7qgyKRC_2ZO4XRkUBvXN2-iLN7OYn8Pv5dpUppsYW36kmJ0hUePA1BYPc9IJkQDVWHEBAEIa6rH1b7yFSl_Y61gSOGVXQ-EzWL-qGIoB9znoODT6878BUhC4z9IQWijN7HUwcKM9ueryrMwZcZr3CTc46CdgPBYRFrpaj7p-yBQJfxXmZG4r0DuVXIQlvE2QAZ0p_2zGsYT0ZT4DcUBLdjvnXaGnxGLeD3d-Qllaii4nixmMW8uST0WBmvUp5H2S2gkrnmpHk3HLLWgbc6ysa0F_md1xUGPCd3OQ8wBkmF-kVmnw59IMZkWxtCjxvnLonqnRsKiXBLDt-ue90X9AnyPx8SmzmuIzLcHToerMr2bb-87XDvh5Q1954L0wTvDupeBW-s6RZ6adnvxzYbLmrbHViTBMcs4YGgZeymKizZ2ZqcBSwRgC_ybACEsjGz4n7xwDJ-VFi71DnjSxXe1ZetUwLxheiOiAari8Dvq70vHtggzbcPLu-dw-DPZ4jsAKtBMQ3243r5a9TIg3JHBCmS-lcV43aA9aF4vUnFFzHhofnBlTWNQ-MjKYglMLvXkRDF-XIqQwazdnp1iOjS_CTbvYj-O5S7Y_uRZggXYH2yCbOW30Oln6GuM98ePJqQXjHExa4yIyb4UnUiIUD4_YLnSk6DFzGKoXL1dh3uRd4RRBffHwsV93dqUcQlyfmVCzHqfocP0hx0zYlg3R-m7ZMqCpVVLfFGTpx1i_RyMeU96PdMkwBzyKmXHY85Et0ByLQ9A1P6kuY0tA90NjVz4anTPK1ouhlZwy-AQwGpEo9a3eKNhemXby4TDuw-4yv2PDxneR3U7ztX4p2dZYhewdq9cx-DHTnmrtYZONYCCu_R33jp8MOvKbiqdlzBMjhUEG1xKXlWN_DLGK1nF2V6vFZHofvJydNNfRWq5a5h6iUMR9zNiQxelxm3Vuw1gvOnRw9CL77SYF8wLgDgdc-2HiyalPVjukfUGVBV8DtMtl0znp5XT8cw70tVsaYmLq_Wm9aXZoLclTnD0Qi4z3E6YpJLLX5IFGrJZrx3euxK0UTYET-l50zhJ4_VDwaPtQTz92q1SKkbfllSZLPjbfsUjzlDZDox3RGT4NdDfK2TBidYJoU_3MyWrBrL91At936zodNaXwMkFzuf4TKOU_mIgYYCt2jABpr4uQI6_JAh93rkvlyUJZFyy9NpbYCTK4K_ifQx2YXDHyMBNFCwlWnp7RoM0JPpLb8byGZnjspGIAEqCXVzLWVhc3QtMjDxCw.m3u8
 
@@ -1328,13 +1312,17 @@ UrbanaPlayFM
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d05e993c-446e-4c73-803b-3ba38e31f681-profile_image-70x70.png" group-title="Radio en Vivo",La100oficial
 https://use23-0.playlist.ttvnw.net/v1/playlist/CtIHN_FsMtFDbpWZGMHGeQH_VzsQ9yKdl5NZeCaKfDYtIwJ7ejom3tC12zSbRW_KeROmrZQ7ntfh36KZoaU5zHfwVLhXaBtoXwnUb8tVYOzG2_KG0DrNQfHRtFuUGb-yNTbQ2hfpThA4f1k08RU820kvXdpAGlGlkBjoEI550b6vfST6fYxorvEdfT_U0hgSkxUcMGoOpazDOOar6UjawLIdEnT3VMdF1amdHZTEFv3n8mPkMo3a8JNva6t7Epe9yUpUUBFFX4Nn8rlyX_88xh8OLvjHALss6KWAF8mCQYyS-CnQ70mlTkiwMjDQ8fDLZ4E-f7dBLxgD6TN9yHFzTuoStCwtEUdJ7wbWldc8UUgRKVYKFZir-9EmlU7O1YaSTCugKIf4JU9nFEJwQLmoqhr0vWw1k8KpQdyco7wNUdOEQpnO0ErYm9AxwopiWxHZ8_2fPQjcP4HAt4VCc6S4JpuDZpNZ-YORRSPwgltIcc0tjowp0Uxl5U5zTKKU0Bbw7DedN49tcWNlw3nxlKKc3IhGJHGf8OimtiRUkwI6wn6-UixHLB8XvBA_4YSFefOJRLnV9F6awwKp8sxW7cu4gJK0GqH2s7Zu0kKmgqKAhHl8sN3PIicQbpxxIXlA8nyO7udd3qIjXaZpSwMjh0s5ib0qTcXRbgQ9zlMVpWV_W3Ytrz9PLtZjxzkjApaztcN9gxd8FTkE_rgFdOTBrnh6zRWpH4nO78gEVri65U2NSYbQzs4a3G3eUVdhcCFBjR00nccyt4ZHQLexUBgdWnE3iqQCmcrAMckN9alAoXyCXOBiJTKIEB5uqz95PpEKLIUzBrLTFPfcQPjw8_OcUAw0mbT8Oqu7_Mg2Q7OHx_H9SZUMFHUAynjrWWpYeUelYIvsCOPh8e6ExJ3xtWmU7ZMuEz8CKTiip3qAT0jvM4RvICbxXBldwK2DmzLdptso5CQgy3gMfd3mD0LF3hxKoml3aoNMFAzWgMYEckCar-dzemB6XSx4nEqpS8eyRbWsX1ED4PjnCHuV-YBwvxoE__TI1w1uJn2q296j1Tc6NBDhi48stAEm_B3f-VhMVd261Ie8Jq-2XmvYGfPRP3umvklu2VM9WXN-AqIJPg1_htsQryFxFGMRpedG41HRtrfgGBDgWqZk7yfHWplj0x-DHxlcdmvH_0u1O_5GxBUyxW8mFA5Kc4hgTfAdzBte6tCp5YVDnL10beYxgy3S3ZfKtkBP8IboQIF8qY9xL3pb-_xo0d5j2vnoA1qQ_3Ofqu6DSEdtRRucLZYoJ--4dQKPxB9VQJ2KoRt7GgwdHVyK6vUxVgB6Z54gASoJdXMtZWFzdC0yMPEL.m3u8
 
+FMRockAndPop
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/0b920569-1c9f-4dd3-9fab-23d65174fa2b-profile_image-70x70.png" group-title="Radio en Vivo",FMRockAndPop
+https://sae11.playlist.ttvnw.net/v1/playlist/CrAGLTkb3tCUtGxj4VnJf26lhMXmigwW1o60Vp0Gohq8wZCseqDApnSHbDdcqjPxyJh6iIOtx6F1tiY3a1s1ywjs5DKCqTSiuPdnUdjrDUPikD4kRE9WlO5jz2vS661UCt8swFgDdoKmYzr9ctWI4E0cwPlsFpeXcCDbGuWioaH0ZU18kxKEaBrnxUvyG11ejOzgDaQsJyFBN_Hf0RgX7YYUCUcHaGOV4rsjLRRdo-ioxBKuuF4r5TSNQJmn6fetxk7iDwmVTwhsReTqwVMLTtfIXNrjWR236vh4lz8kLUgL3ZT7ZKZGoYdlLNPu-8wluB61kISWjz5UyksYTs0ARQSCHQE1eov3ZYnwFu2ruaZFZpRB-3K3Amxj4i1b6OE1QFtnm_cuIcqxD82kD6JP8lrQ2_s6HAP0erGsIn9dpPbO2gAN20XbZp9NMLm8tM-BfUmYlJMEAYt6s35LBQduHXhyqXB1P2ywvcpUFe89MIaykhRvfXCExpunYyKHqn_qXNpLRO0KC3Z4wVsWuvvCryfToKigxhFrxkyr3OK_S6uAg9baZYT4Vx48LMrNbxpaOihVOD8KO2UrxWQlPgI_YVNFBIj_JL5giMqKhm-fdWhVWf8BW0WhPjbIv6U7dPZrqsUfx94DyKOSgTl-oKeEKWxOXGkleHjkj7m-A0MTLRyCt2xXiYYnVinFnmqVARxJz8Ueoh0Hc17_FGv8ec6fOrl8y9sBKlugw7SkxnxYiRpA77iJslxKJHikPG-3UjElVKnouIDPrl40rArWB_hZze8YRMVeBwZ6tYh-o_msAHEmcnLLPMJmPdQYZAL53Ty-xy7ph366zZbDldwx-Cz0QE1_6K14tsYDOMNPToTYHQgzt5xDA8IFpz77t_Xzla4u4zNpIHBxtrLcK57zE0kdd0Pp7xQ-Bxquh--vpZTmLHILojOyuZotPoZQJwOav10cq_tYZmL5FUHwoq1fl0Qq5aeVZJK-RwlGoVVzfYUhbG-956dWLog7fGRzGlAdZyE5efDFn-DFsvDscaxWxJxmKYpne5qN1-uJ2QQDYuJaiGhIzUtVyWqJOXuZDv4aAfQhmhbIGgzIirWYpijQTGfoF8cgASoJdXMtZWFzdC0yMPEL.m3u8
+
+AN24
+#EXTINF:-1 tvg-logo="https://telechancho.github.io/telechancho-iptv/tvlogos/AN24.png" group-title="Radio en Vivo",AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
+
 Azahares Radiovisual Multimedia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Radio en Vivo",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-
-
-
-
 
 
 
