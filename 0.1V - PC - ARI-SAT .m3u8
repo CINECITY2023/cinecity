@@ -742,7 +742,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 Baby TV
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/baby-tv_thumb_t5awsrbl.png" group-title="Infantil",Baby TV
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+http://185.189.225.150:85/BabyTV/index.m3u8
 
 Cartoonito
 #EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",Cartoonito
@@ -795,6 +795,10 @@ http://89.117.146.57/televall/YbVVqpeaWU/62.m3u8
 Nickelodeon
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Infantil",Nickelodeon
 http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
+
+Nickelodeon
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Infantil",Nickelodeon
+http://185.189.225.150:85/nickelodeon/index.m3u8
 
 TeenNick
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Infantil",TeenNick
@@ -1172,6 +1176,7 @@ Mexiquense (Mexico)
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="Canales Internacionales",Mexiquense (Mexico)
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
+
 Nueve (Mexico)
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/nu9ve-gala-tv_thumb_wlk5cx59.png" group-title="Canales Internacionales",Nueve (Mexico)
 http://89.117.146.57/televall/YbVVqpeaWU/11.m3u8
@@ -1410,6 +1415,9 @@ Chamame TV
 #EXTINF:-1 tvg-logo="https://archive.org/download/chamame-tv/ChamameTV.png" group-title="Musica",Chamame TV
 https://srv2.zcast.com.br/chamame/chamame/chunklist_w1771895490.m3u8
 
+002 Radio
+#EXTINF:-1 tvg-logo="https://archive.org/download/002-radio_202503/002Radio.png" group-title="Musica",002 Radio
+https://cdn.002radio.com:3909/live/radio002live.m3u8
 
             CANAL RELIGION
 -----------                   --------------------------------------------------------------------------------------------------------------------------
