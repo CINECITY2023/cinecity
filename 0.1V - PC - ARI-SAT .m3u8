@@ -34,14 +34,14 @@ Bragado TV
 #EXTINF:-1 tvg-logo="https://archive.org/download/bragado-tv/BragadoTV.png" group-title="Buenos Aires",Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
-Canal 3 Pinamar (cierra trasmision 00:00)
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-3-pinamar/Canal3Pinamar.png" group-title="Buenos Aires",Canal 3 Pinamar
+Canal 3 Pinamar HD (cierra trasmision 00:00)
+#EXTINF:-1 tvg-logo="https://archive.org/download/canal-3-pinamar/Canal3Pinamar.png" group-title="Buenos Aires",Canal 3 Pinamar HD
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-Canal 4 La Matanza
+Canal 4 La Matanza HD
 ##EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-4-la-matanza/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza
+#EXTINF:-1 tvg-logo="https://archive.org/download/canal-4-la-matanza/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 Canal 10 de Junín
@@ -1248,12 +1248,18 @@ Vibe TV (Mexico)
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="Canales Internacionales",Vibe TV (Mexico)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
-Canal 6 Multimedios (Mexico)
-#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",Canal 6 Multimedios (Mexico)
-https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+Canal 6 Multimedios MTY (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico)
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+
+Canal 6 Multimedios CDMX (Mexico)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",Canal 6 Multimedios CDMX (Mexico)
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 ADN40 (Mexico)
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Canales Internacionales",ADN40 (Mexico)
@@ -1656,8 +1662,8 @@ CNN (EEUU)
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4cCoXRcVVy0UJJgpf81y4aukfmpDK1up1A&s" group-title="Otros Idiomas",CNN (EEUU)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-United Nations TV (EEUU)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_of_the_United_Nations_%28B%26W%29.svg/902px-Logo_of_the_United_Nations_%28B%26W%29.svg.png" group-title="Otros Idiomas",United Nations TV (EEUU)
+United Nations TV (EEUU) FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_of_the_United_Nations_%28B%26W%29.svg/902px-Logo_of_the_United_Nations_%28B%26W%29.svg.png" group-title="Otros Idiomas",United Nations TV (EEUU) FHD
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/.m3u8
 
 1HD (RUS)
@@ -1668,8 +1674,8 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Otros Idiomas",1-2-3 TV (ALE)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 
-CNA (ALB)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png"  group-title="Otros Idiomas",CNA (ALB)
+CNA (ALB) FHD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png"  group-title="Otros Idiomas",CNA (ALB) FHD
 https://live1.mediadesk.al/cnatvlive.m3u8
 
 
@@ -1677,12 +1683,12 @@ https://live1.mediadesk.al/cnatvlive.m3u8
              CAMARAS VIGILANCIA
 -----------                     --------------------------------------------------------------------------------------------------------------------------
 
---Camaras de Villa Gesell (Av. 3 y 104)--
-#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (Av. 3 y 104)
+--Camaras de Villa Gesell (Av. 3 y 104) FHD--
+#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (Av. 3 y 104) FHD
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
---Camaras de Villa Gesell (La Pinocha)--
-#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (La Pinocha)
+--Camaras de Villa Gesell (La Pinocha) FHD --
+#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (La Pinocha) FHD
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 
