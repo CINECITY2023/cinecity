@@ -1363,10 +1363,15 @@ http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
                  RADIO EN VIVO
 ----------------              -----------------------------------------------------------------------------------------------------------------------------
 
-Vorterix
+Vorterix SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix
+#EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix SD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
+
+Vorterix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix HD
+https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 AN24
 #EXTINF:-1 tvg-logo="https://archive.org/download/an-24_202503/An24.png" group-title="Radio en Vivo",AN24
