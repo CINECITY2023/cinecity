@@ -8,8 +8,11 @@ SIN SEÑAL http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index
                Buenos Aires
 --------------                  ---------------------------------------------------------------------------------------------------------------------------
 
-
-
+#EXTVLCOPT:network-caching=500
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:0 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png",Bienvenidos
+https://archive.org/download/output0_20250329/output.m3u8
+#EXTVLCOPT:loop
 
 America SD
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
@@ -83,13 +86,18 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://live-01-01-tn.vodgc.net/live-01-01-tn.vodgc.net/index.m3u8
 
 El Nueve
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-nueve/El%20Nueve.png" tvg-country="AR" group-title="Buenos Aires",El Nueve
-https://sae11.playlist.ttvnw.net/v1/playlist/Cv4FEiXb_4QWkh39OWQravaZEQHEpF4WJH2Ml77UCpowwC9ASTkRRPfO4AEKxLZP6Ze4J6R8UmZ0LCO4eVYiHw7pY2b5Zwb7FTDbnhhQ1EH9GSEW8oiSe5rNbenmAFeq9x7s5bLjFpzVC8JqV15wfe3kEsEA4B9SHrUG76IrJ0OWdud7VgGP-Iw8MYt4FxzyYxUY5n4E4uL8917xJMBv6D6vEBK2LUvzbaBR7Wn9ywRuI94lQwnJqEDiPkKR06HXOg4P9d-XzXd02OCVUPOptc84FIHLNAq3toQFwI2ro7iSqtrHKyuyQ10IZD06nsrOeW97PoQnIYdVXqoWu5UkSrKYqgMobXVcjM4cdqil-eHWNuIXXWvvzS315Q0jGW9RzrIHNaMU3kYaQBX4I_bZcjpYAseleMMtMhem1wEvmzk5I8SiFJygQR5dNuPyQ-6HVGIwqzz5z44NmGzHuD52ZPjoP-h1fuIJLgyNavqGiWHkGnfPeCL-OR01ext8MijZdXevdBuFm_rVUkkxxr_KeTlnrDKQMG1K9qG938zpKM86p3Py7XzArOPPn4UdFsoPX_LAdcKapsbH-h_767YGMXXU0xtsUNuz4Zub_0zzgDxKKCikxLbq9xhy6viPkVPvuO83DB8DS9Jc7VOGsEnJK8KomqgZ1a7ru75q-4BOk-xgGDoGVn8vTUOTUxe4p-gJOvhrkdkjAMOLpA9FIHpSFfIG89cI0Lv_ZRA650uhU8Vg5vgIPJcRezUDGidCp7wM_X-PvqHlzrv42HeBQBxYQ6lZhtpg3BMG-Ua5f_B27pLUvXKQloLeHNMdsXH86eoMWVd4M2fgAzwsjHukXha6t6se0mC1B6XlIxI8tznkP10Yq5Fi17qM3mk0oiETmFYmmMVPuIgaJfOIG340_X9H1VpbZ3UvbPnCPArZ0sNf17Mbt2HCxQsVQ_aMXhF19BxvI28Js4p9iqyZp-iXGOrLC53LgbqypxCVPqiRQ6JVnClQWKyup8HYz_GLijRzo7MMdxoMGJBK9x9n1qvDHBhnIAEqCXVzLWVhc3QtMjDxCw.m3u8
+https://sae11.playlist.ttvnw.net/v1/playlist/Cv0Fy0IdD6sYacluT4VLgOHRm6o-vyjJZFQ9vDufymXj9NCupKYBobYzoFrv1k5HkvuyKGKkwc3iWBI-ldTCSAMmjM32hfD4bfZ2FympRskVczWsNEiiFl2qGe4dGryvndFA0Onxftl8k_Azs64q0Efn5fsun_UHvdu3dw-AiLUhMA-wMsr-CT5fEz0WOdp61EwsgiClmc7IORRqxlajFUGjsMspaKa2W7wH93RPUX2xb0wi_v7N0_5bybzDqf071D42nPWuDWSPe8xIbzXWQZDH9E4pshVvofu8jGFHpS_7AY7eqJaiBVT0Ewjo0s4u386m22VRgzg_ENsblhnXrsO0JPbKsJ19MrtxQbuiZqVFakP6k7BHn5IoDRH6kQfBWxbVGsbHt4JaJSp8WDtWasE7iIdoj3dMm1S-smejE2q7emMH5nzLIcu6VduMVIe0HDAr1qZvYKW7u443f8BwOZgxr9LvoY8i5UzyAbUDeViyt0iy0TeDee0La7sSI91aBM0J9kWYpd1aJZVHEL--oQj4ppLzN1eM4rwx1KggvhSmunYatwhqNZ4X8B6GOJnNKuP-dFRmNRNK5sTTT9tKhtWMmfZGAJMsQOUVuTpqZe_m7iGP8kkadKBzqU9bEHdCXvnHO8dUrpH36RxiSCIw6qQdCe6Laucl-QEy21H430mwOtolPTqiSvadbjwASs7HJZiWwRyS6coGLIkFzSIyU9ZrTzdmsqNd5oMDvbJQV0989e8g3oHSsQXFoS7WsJI4oi1yOsYUTK942i5SBiJPncXmhckZB1kAV3L21HFEU0VT1OgILRYCEpsQp93cSXv4tb3cD57sZwN2y7QK-Nq3wQneMweW1NyHzzGxFmsTZTl5s4hrVDn2gc70cxT-ol49gy3JN9gQeURZx66rpiXYz_nEeRg9Rr8A6lqdFg08y8iIenWEO2bmERUMtp90nRJ0xE9fOFHNUL9LJs1sUBGNzyUylVP4pDdBA8LB7zEXpEBAYV6_qBUZ45ip02EFJNXgGgyanMltf9sUR-jNLs8gASoJdXMtZWFzdC0yMPML.m3u8
 
 El Trece
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-trece/El%20Trece.png" group-title="Buenos Aires",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
+
+Sicardi TV La pLata
+#EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2025-03-28+03%3A00%3A55.193454" group-title="Buenos Aires",Sicardi TV La pLata
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 TELEFE
 #EXTINF:-1 tvg-logo="https://archive.org/download/telefe_202503/TELEFE.png" group-title="Buenos Aires",TELEFE
@@ -212,9 +220,11 @@ Cinecanal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
 
 Cinemax
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
-http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
+http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
+
 
 Cinemax
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
@@ -430,6 +440,10 @@ Bayres TV******
 EXTINF:-1 tvg-logo="https://archive.org/download/bayres-tv/Bayres%20TV.png" group-title="Cine",Bayres TV
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+Pluto TV Cine Accion
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/thumbnail.jpg" group-title="Cine",Pluto TV Cine Accion
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=1d6040ab-0c40-11f0-8eef-368012a94a02&sid=1d6040ab-0c40-11f0-8eef-368012a94a02&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZDYwNDBhYi0wYzQwLTExZjAtOGVlZi0zNjgwMTJhOTRhMDIiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NDhhNDplNzViOjcyMDpiOTUyIiwiY2l0eSI6IkJ1ZW5vcyBBaXJlcyIsInBvc3RhbENvZGUiOiJjMTIwNiBhYmUiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuNjEwMDAwNjEwMzUxNTYsImRldmljZUxvbiI6LTU4LjQxOTk5ODE2ODk0NTMxLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzQuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjEwLjAtNzY1Y2M2YTI0N2ZiYjExODM1NWI3MDFhOWY0YWMzODFiZDJiZDNmMiIsImNsaWVudElEIjoiOTFmODdiOTctYmFmMy00MDUxLThhZDItOTA0ZjExMjA2NzkxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL0J1ZW5vc19BaXJlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZ3VmNJRDJDb3BwYSI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiOTFmODdiOTctYmFmMy00MDUxLThhZDItOTA0ZjExMjA2NzkxIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwMywxMDAxMywxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNSwxMDAxNiwxMDAyMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk9URm1PRGRpT1RjdFltRm1NeTAwTURVeExUaGhaREl0T1RBMFpqRXhNakEyTnpreCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NDMyOTkzOTUsImlhdCI6MTc0MzIxMjk5NSwianRpIjoiYmNiZTNjYzEtYzM3MC00MGMzLTliZjUtM2E3ZjgzMTJmYTlhIn0.W6r4-Slyr_KKRNwBl9zLuDLvSByj2CyooxilWBE1jz0&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEowowQJDvoMuQBb2Jf3580qHZxM2NYsqLdFUxSz9W_M7gp46DIVZslSysklP67fQ8BkirdiVEScFGcz-WI_sU8DNuxwkO8KG2rGgekBgUGJTWWWckA_mswAR7MmT0AstlISn3fwhNKFbq24p9lnReG_U_fHoFJXtMf7BU6-u9Wl3NwQLbGa8-gcfQ5sIurXJkjvRup55_uG7-bxW3C7ufOtVRUESLz0uPbn4Nid28VAY8qnDHehMidMMSlceb6_T6HrQ5Pt_02MMEFSL3vdJm5lxOOXFTAAd3K2rmcAPKo98PALigc3ZC5GUVMdrh5xDgOzWAfO0BP6lZDpJitCFL-hYA6UsG8xR_v_BXpKP9ObePC4pGWKlga7o3NTKOCVWjYeZy9TtG_Qkyi3x-PUX7QnV5M5LvBsUoT8zrTst7RoXsM5hR_a5ATjMmBy4hjuPKHYr6EK7IRN6WrMaEIWJuH11N_FzYmO_SqQ9CGiL8wo65RQ41NLxe0bbSnXY3A-3UEKEn4BipNq2uNCQ0v06NtsW6W8EyeM5wTiM7zLYdQi9tUV2_HgNX14xQJoD_QBFd205o_roShqX6AMr5F_XwYCPiayXve3BPllH0GtJ9snggt2r-3O9IQgQKqIibBM-RCAIggwV4Bi3MQFIfUHPQMXduWi-F2TUy9g21MaDtvVvEQJTuTg77QbH2GtI7dKJe7qjUNUeHOhcrsuuLf0MCsrmcsgmZJqRl2C-Fb50a0zu2qISW9p5KHhphUlIxN4PCDewhQNrmohAvTGbcxxDyEmDFk3lVKNo0itfmjVcxQjzn7RihgKxX0LjwyDQ7HTQbVSuSkzEwDjIFo0CAgK87xYb0rMIYBqWVPCnHs0Y-nOtjj1Nh93QFxaeTdhagGAT-1pKaA1kb0VzmeV6MdZfCwAzv731uDoGEEpSDS5qM295oKc1YTMZxysB_VufO0iBWGs4kzlyD6G0ryngr4hq06nOhspbboP-KTqLoTPMTHoLXrXhLuDZgmGYZ0LGlfks4wayG6C5clSIzZiqLdBw8aWgmu8AAJl5GVHu2HSDk-vS91biao46gEmqix39a9TL6Hr_IMipls85A0TyxJ8xSx-2vQLdFAGe6iOWL9QzYHGX5A4bChey1ZV9cVPr4R7n_OYAbpK0aMNbGdF2KHiqurqAX2dZ3p3icwb8ngrMGcVSXhC6Kf-wsnMgRhs6qHwyuWml_pmrqKxKj4KdO64RYAEgVqw..&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e1983cfc-fbd9-4d7e-be78-60c8cd1cb943%22%2Csu
 
 Free TV Accion
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine",Free Tv Accion
@@ -1286,6 +1300,11 @@ https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2b
 Mexico Travel Channel (Mexico)*****
 EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/03/header-mtch-logo-copia-2.png" group-title="Canales Internacionales",Mexico Travel Channel (Mexico)
 
+(VIP) Unimas (Mexico)
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",(VIP) Unimas (Mexico)
+https://dcs-vod.mp.lura.live/vod/p/544400/prog.m3u8?i=i176963794-nef6bb355-3b11-4638-814c-66e170fc7e7a&anvtrid=a20b00583e11b2cce247c256077ed711
+http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
+
 Canal 21 (El Salvador)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",Canal 21 (El Salvador)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
@@ -1361,9 +1380,18 @@ Star TVE (España)
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tve_thumb_r95zsfz8.png" group-title="Canales Internacionales",Star TVE (España)
 http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
 
-(VIP) Unimas (Mexico)*****
-EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",(VIP) Unimas (Mexico)
-http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
+La 2 TV (España)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Canales Internacionales",La 2 TV (España)
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
+
+13 TV (España)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Canales Internacionales",13 TV (España)
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+El Toro TV (España)
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Canales Internacionales",El Toro TV (España)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
                  RADIO EN VIVO
@@ -1391,8 +1419,9 @@ Azahares Radiovisual Multimedia
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Radio en Vivo",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-
-
+RNE para todos
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio en Vivo",RNE para todos
+https://ztnr.rtve.es/ztnr/6688753.m3u8
 
 
 
@@ -1530,8 +1559,9 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ROAD.png?raw=true" group-title="VIDEOS 24/7",Correcaminos
 http://tv.teleclub.xyz/club/server_2/24_7/correcaminos/index.m3u8
 
---Pitufos--*****
-EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="VIDEOS 24/7",Pitufos
+--Pitufos-- (20:40 28/3/2025 plex)
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="VIDEOS 24/7",Pitufos
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-639ba57d3f4612cc150a5723/variant.m3u8?x-plex-token=y-G9CWUasTqsi4aUJQhb&x-plex-advertising-identifier=&x-plex-client-identifier=68841cab-9aa4-4119-a910-b515f90c5145&x-plex-playback-id=p_0422a62f-6ad1-4254-b0de-205d48dd9b03&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743204966&url=e4a5ea4d28daaea971cbcf47528277dd-a87d88022dabd68da3690ec38e1b4fdf2e37e1908fbd29a9cfda75d749c877e777b881358c0198bb38cdeeb1d79db633a9704a9290d9b973d76661a016a2a9fe7cc71055300c8acf50af935d5d082f2598305ce83e201e5a51558067127e40e6
 http://tv.teleclub.xyz/club/server_2/24_7/pitufos/index.m3u8
 
 --Padrinos Mágicos--
@@ -1690,6 +1720,10 @@ http://cam104y3.gesell.com.ar/playlist.m3u8
 --Camaras de Villa Gesell (La Pinocha) FHD --
 #EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (La Pinocha) FHD
 http://camlapinocha.gesell.com.ar/playlist.m3u8
+
+--Camaras de Santa Teresita (Costa)--
+#EXTINF:-1 tvg-logo="https://www.santateresita.com.ar/images/logo.png" group-title="Camaras",Camaras de Santa Teresita (Costa)
+https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
 
 
 ------------events-----------------------------------------------------------------------------------------------------------
