@@ -195,12 +195,16 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 A&E
-##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
 
 A&E
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://89.117.146.57/televall/YbVVqpeaWU/28.m3u8
 
