@@ -178,21 +178,27 @@ http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 24/7 Canal de Noticias
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 A24
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias" http-user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
+Canal 26
 #EXTVLCOPT:network-caching=3000
 #EXTVLCOPT--http-reconnect=true
-Canal 26
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal26_logo/canal26_logo.png" group-title="Noticias",Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 Cronica SD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica SD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
@@ -201,11 +207,15 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 Cronica HD
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica HD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 IP
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="Noticias",IP
 https://sae12.playlist.ttvnw.net/v1/playlist/CoEGRlRUUuGjVGEI5jI6cyWQZkGrKE8hdiW1NgwC_vSSOMCmJrUPzRe188H9ec2P87uilR2dbSgRKCUFR-7bx9xOq3WsBHvLrg_cSt6fnx_ge01aurtu4NB2WyAfc2-gMTKVEtcihi7nEytEbn9-Wuerg9Euhg4bbB75CJ-uZOieOk51Yc3HSBiQ_yDMGd3IOcdjV1HYqdG3h1_S7_2TTv9Iduuqb4ccsQXh_yNzTqC-bWUwJo1_Ll2dTKS4tAgyQabC6CbQ1mZPcCaLm7L5d8-c5Rl1PGaedfOas9xTpXEjNPG5wVJ5ojBMSlINID78UoyYgot4vYF1WYuPmY0Z4qvQZA4mrUWlg3j-PRjWU_N3qZilJeGwaxEP_2a50tmh_wPgh4f1wDyx05lpeEeICsDPS2b-1jgxTQifqkNtd3BPgh81VcHsKdln83o-hpqmdszUoqyul5CJtLGVkgFXss8fpdzdQWg0EgDAV-7kFwqJX-TMc16ujQLA-9j7-Gz0gNSYsolNsrx0y3zEYJJKJqUJW1n8Sqv5vlL6BIdI9NXtCVRmSf8X8XMuyTaQWNeLESABR-WZ3nqmYZXPERyLzhutSokDqyrRkXoEtMo-z1uRGswOGqZ94L5V3z2nZUTsCLrGp-h-sG5Pc50r8Nao2pmu_hjKIwYkG2-6wW0RKdL4teSWayRAqKKDchS39-RnFXwQQVyK7TI8V01lLeBQz45ENCzbOXx3XLvFYwdQua0qyRWwdbYkS6kpfJ6UA-q5qEu6HKganMyBTZ_G0Rx0ZYxaoTDwM2O_xDG6GGo52tpY4bAf3MZYLqtpb8VjtqZ4ImRnzQfoggBDKnYLNVMVpXMji6S6pMrdEkz9fQCaG7KCsBjyl9Lja0LFfb6GSvBPv5ySwx-vobFuXaYwWJ3Xo5P_-zXN7kbmD_hhWlm62U9Rug5GgJP8SuC7PpeKFixvl6k3Hb7oP5PF9YPjzB5p6LNTxxnoymFMZEuRx8kvuVE04CjKa3gPckyXNfWW_pqPKWU_7xoMlBT0GNbEWqWbMSAuIAEqCXVzLWVhc3QtMjDyCw.m3u8
 
@@ -235,12 +245,14 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 A&E
-##EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
 
 A&E
+#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://89.117.146.57/televall/YbVVqpeaWU/28.m3u8
 
