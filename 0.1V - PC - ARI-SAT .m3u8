@@ -8,7 +8,8 @@
                Buenos Aires
 --------------                  ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTVLCOPT:network-caching=3000
+intro
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:0 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png" group-title="Intro",Bienvenidos
 https://archive.org/download/output0_20250329/output.m3u8
@@ -16,7 +17,7 @@ https://archive.org/download/output0_20250329/output.m3u8
 
 America SD
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="Buenos Aires",America SD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
@@ -24,82 +25,82 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 America HD
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="Buenos Aires",America HD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 Argentinisima Satelital
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/argentinisima-satelital/Argentinisima%20Satelital.png" group-title="Buenos Aires",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 Bragado TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/bragado-tv/BragadoTV.png" group-title="Buenos Aires",Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 Canal 3 Pinamar HD (cierra trasmision 00:00)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-3-pinamar/Canal3Pinamar.png" group-title="Buenos Aires",Canal 3 Pinamar HD
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 Canal 4 La Matanza HD
-##EXTVLCOPT:network-caching=3000
+##EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-4-la-matanza/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 Canal 10 de Junín
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Buenos Aires",Canal 10 de Junín
 #EXTVLCOPT:http-user-agent=iPhone
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 Canal 10 (Mar del Plata)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-10-mar-del-plata/Canal10MarDelPlata.png" group-title="Buenos Aires",Canal 10 (Mar del Plata)
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 Canal 11 de la Costa
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Buenos Aires",Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 Canal 22 Web CABA
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-22-web-caba/Canal22WebCABA.png" group-title="Buenos Aires",Canal 22 Web CABA
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 Canal 79 (Mar del Plata)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-79-mardel-plata/Canal79MardelPlata.png" group-title="Buenos Aires",Canal 79 (Mar del Plata)
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 Canal de la Ciudad*****
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 EXTINF:-1 tvg-logo="https://archive.org/download/canal-de-la-ciudad/Canal%20de%20la%20Ciudad.png" group-title="Buenos Aires",Canal de la Ciudad
 https://g1.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 Canal Provincial San Miguel
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-provincial-san-miguel/CanalProvincialSanMiguel.png" group-title="Buenos Aires",Canal Provincial San Miguel
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 Ciudad Magazine
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/ciudad-magazine/Ciudad%20Magazine.png" group-title="Buenos Aires",Ciudad Magazine
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
@@ -108,54 +109,54 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://live-01-01-tn.vodgc.net/live-01-01-tn.vodgc.net/index.m3u8
 
 El Nueve
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-nueve/El%20Nueve.png" tvg-country="AR" group-title="Buenos Aires",El Nueve
 https://sae11.playlist.ttvnw.net/v1/playlist/Cv0Fy0IdD6sYacluT4VLgOHRm6o-vyjJZFQ9vDufymXj9NCupKYBobYzoFrv1k5HkvuyKGKkwc3iWBI-ldTCSAMmjM32hfD4bfZ2FympRskVczWsNEiiFl2qGe4dGryvndFA0Onxftl8k_Azs64q0Efn5fsun_UHvdu3dw-AiLUhMA-wMsr-CT5fEz0WOdp61EwsgiClmc7IORRqxlajFUGjsMspaKa2W7wH93RPUX2xb0wi_v7N0_5bybzDqf071D42nPWuDWSPe8xIbzXWQZDH9E4pshVvofu8jGFHpS_7AY7eqJaiBVT0Ewjo0s4u386m22VRgzg_ENsblhnXrsO0JPbKsJ19MrtxQbuiZqVFakP6k7BHn5IoDRH6kQfBWxbVGsbHt4JaJSp8WDtWasE7iIdoj3dMm1S-smejE2q7emMH5nzLIcu6VduMVIe0HDAr1qZvYKW7u443f8BwOZgxr9LvoY8i5UzyAbUDeViyt0iy0TeDee0La7sSI91aBM0J9kWYpd1aJZVHEL--oQj4ppLzN1eM4rwx1KggvhSmunYatwhqNZ4X8B6GOJnNKuP-dFRmNRNK5sTTT9tKhtWMmfZGAJMsQOUVuTpqZe_m7iGP8kkadKBzqU9bEHdCXvnHO8dUrpH36RxiSCIw6qQdCe6Laucl-QEy21H430mwOtolPTqiSvadbjwASs7HJZiWwRyS6coGLIkFzSIyU9ZrTzdmsqNd5oMDvbJQV0989e8g3oHSsQXFoS7WsJI4oi1yOsYUTK942i5SBiJPncXmhckZB1kAV3L21HFEU0VT1OgILRYCEpsQp93cSXv4tb3cD57sZwN2y7QK-Nq3wQneMweW1NyHzzGxFmsTZTl5s4hrVDn2gc70cxT-ol49gy3JN9gQeURZx66rpiXYz_nEeRg9Rr8A6lqdFg08y8iIenWEO2bmERUMtp90nRJ0xE9fOFHNUL9LJs1sUBGNzyUylVP4pDdBA8LB7zEXpEBAYV6_qBUZ45ip02EFJNXgGgyanMltf9sUR-jNLs8gASoJdXMtZWFzdC0yMPML.m3u8
 
 El Trece
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/el-trece/El%20Trece.png" group-title="Buenos Aires",El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 Sicardi TV La pLata
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2025-03-28+03%3A00%3A55.193454" group-title="Buenos Aires",Sicardi TV La pLata
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 TELEFE
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/telefe_202503/TELEFE.png" group-title="Buenos Aires",TELEFE
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
 
 Net TV
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/net-tv_202503/Net%20TV.png" tvg-country="AR" group-title="Buenos Aires",Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 TV Pública SD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/tv-publica_202503/TV%20P%C3%BAblica.png" group-title="Buenos Aires",TV Pública SD
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
 TV Pública HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Buenos Aires",Tv Publica HD
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 Telemax
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/telemax_202503/Telemax.png" tvg-country="AR" group-title="Buenos Aires",Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
@@ -172,26 +173,26 @@ http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 24/7 Canal de Noticias
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 A24
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias" http-user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 Canal 26
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal26_logo/canal26_logo.png" group-title="Noticias",Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 Cronica SD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica SD
@@ -201,14 +202,14 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 Cronica HD
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica HD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 IP
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="Noticias",IP
 https://sae12.playlist.ttvnw.net/v1/playlist/CoEGRlRUUuGjVGEI5jI6cyWQZkGrKE8hdiW1NgwC_vSSOMCmJrUPzRe188H9ec2P87uilR2dbSgRKCUFR-7bx9xOq3WsBHvLrg_cSt6fnx_ge01aurtu4NB2WyAfc2-gMTKVEtcihi7nEytEbn9-Wuerg9Euhg4bbB75CJ-uZOieOk51Yc3HSBiQ_yDMGd3IOcdjV1HYqdG3h1_S7_2TTv9Iduuqb4ccsQXh_yNzTqC-bWUwJo1_Ll2dTKS4tAgyQabC6CbQ1mZPcCaLm7L5d8-c5Rl1PGaedfOas9xTpXEjNPG5wVJ5ojBMSlINID78UoyYgot4vYF1WYuPmY0Z4qvQZA4mrUWlg3j-PRjWU_N3qZilJeGwaxEP_2a50tmh_wPgh4f1wDyx05lpeEeICsDPS2b-1jgxTQifqkNtd3BPgh81VcHsKdln83o-hpqmdszUoqyul5CJtLGVkgFXss8fpdzdQWg0EgDAV-7kFwqJX-TMc16ujQLA-9j7-Gz0gNSYsolNsrx0y3zEYJJKJqUJW1n8Sqv5vlL6BIdI9NXtCVRmSf8X8XMuyTaQWNeLESABR-WZ3nqmYZXPERyLzhutSokDqyrRkXoEtMo-z1uRGswOGqZ94L5V3z2nZUTsCLrGp-h-sG5Pc50r8Nao2pmu_hjKIwYkG2-6wW0RKdL4teSWayRAqKKDchS39-RnFXwQQVyK7TI8V01lLeBQz45ENCzbOXx3XLvFYwdQua0qyRWwdbYkS6kpfJ6UA-q5qEu6HKganMyBTZ_G0Rx0ZYxaoTDwM2O_xDG6GGo52tpY4bAf3MZYLqtpb8VjtqZ4ImRnzQfoggBDKnYLNVMVpXMji6S6pMrdEkz9fQCaG7KCsBjyl9Lja0LFfb6GSvBPv5ySwx-vobFuXaYwWJ3Xo5P_-zXN7kbmD_hhWlm62U9Rug5GgJP8SuC7PpeKFixvl6k3Hb7oP5PF9YPjzB5p6LNTxxnoymFMZEuRx8kvuVE04CjKa3gPckyXNfWW_pqPKWU_7xoMlBT0GNbEWqWbMSAuIAEqCXVzLWVhc3QtMjDyCw.m3u8
@@ -239,44 +240,59 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 A&E (solo PC)
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 10; Mobile)"
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
 
 A&E
-#EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
 http://89.117.146.57/televall/YbVVqpeaWU/28.m3u8
 
 AMC
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Cine",AMC
 http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
 
 AMC
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Cine",AMC
 http://89.117.146.57/televall/YbVVqpeaWU/68.m3u8
 
 AXN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Cine",AXN
 http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
 
 AXN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Cine",AXN
 http://89.117.146.57/televall/YbVVqpeaWU/27.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
 
 Cinecanal
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Cine",Cinecanal
 http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
 
 Cinecanal
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Cine",Cinecanal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
 
 Cinemax
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
 http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
@@ -284,271 +300,395 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
 
 
 Cinemax
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinemax/index.m3u8
 
 DHE
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
 http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
 
 DHE
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
 http://89.117.146.57/televall/YbVVqpeaWU/83.m3u8
 
 De Pelicula
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
 http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
 
 De Pelicula
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
 http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
 
 Euro Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="Cine",Euro Channel
 http://89.117.146.57/televall/YbVVqpeaWU/89.m3u8
 
 Europa Europa
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBauvZybnLKT2YylcWMk4EynXnxkAblXMCQ&s" group-title="Cine",Europa Europa
 http://89.117.146.57/televall/YbVVqpeaWU/87.m3u8
 
 Films&arts
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Cine",Films&arts
 http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 FX
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Cine",FX
 http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 
 FX
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Cine",FX
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
 
 Golden
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
 http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
 
 Golden
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
 http://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
 
 Golden Plus
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg" group-title="Cine",Golden Plus
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
 
 Golden Premier
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
 
 Golden Premier
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
 
 Golden Premier 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCDZINCUaOqw3Qh7NXkLovXjKikLFrSACoQ&s" group-title="Cine",Golden Premier 2
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
 
 HBO
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Cine",HBO
 http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo/index.m3u8
 
 HBO 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Cine",HBO 2
 http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
 
 HBO 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Cine",HBO 2
 http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
 
 HBO Family
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Cine",HBO Family
 http://89.117.146.57/televall/YbVVqpeaWU/3.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbofamily/index.m3u8
 
 HBO +
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Cine",HBO +
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hboplus/index.m3u8
 
 HBO Signature
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Cine",HBO Signature
 http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbosignature/index.m3u8
 
 Morbido TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png" group-title="Cine",Morbido TV
 http://89.117.146.57/televall/YbVVqpeaWU/84.m3u8
 
 Multipremier
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
 
 Multipremier
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
 http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 
 Paramount Network
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Cine",Paramount Network
 http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
 
 Sony Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Cine",Sony Channel
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
 
 Sony Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Cine",Sony Channel
 http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
 
 Sony Movies
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="Cine",Sony Movies
 http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
 
 Space
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Cine",Space
 http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
 
 Space
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Cine",Space 
 http://tv.teleclub.xyz/club/server_3/entretenimiento/space/index.m3u8
 
 Star Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/82.m3u8
 
 Star Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
 http://tv.teleclub.xyz/club/server_3/entretenimiento/starchannel/index.m3u8
 
 Studio Universal
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
 
-Studio Universal 
+Studio Universal
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
 TCM
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoNsuSZUZXHHnUR6zJPUBfNvP3hWg-OffsQ&s" group-title="Cine",TCM
 http://89.117.146.57/televall/YbVVqpeaWU/86.m3u8
 
 TNT
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
 http://89.117.146.57/televall/YbVVqpeaWU/77.m3u8
 
 TNT
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
 http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
 
 TNT Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Cine",TNT Series
 http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
 
 TNT Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Cine",TNT Series
 http://tv.teleclub.xyz/club/server_3/entretenimiento/tntseries/index.m3u8
 
 TNT Novelas
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnt-novelas_thumb_7z399xgo.png" group-title="Cine",TNT Novelas
 http://89.117.146.57/televall/YbVVqpeaWU/32.m3u8
 
 Universal Cinema
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/univer_cinem.png?raw=true" group-title="Cine",Universal Cinema
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
 
 Universal Premiere
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Cine",Universal Premiere
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
 
 Universal TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Cine",Universal TV
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
 
 Universal TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Cine",Universal TV
 http://tv.teleclub.xyz/club/server_3/entretenimiento/universaltv/index.m3u8
 
 Warner TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Cine",Warner TV
 http://89.117.146.57/televall/YbVVqpeaWU/23.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannel/index.m3u8
 
 Warner TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Cine",Warner TV
 http://89.117.146.57/televall/YbVVqpeaWU/24.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannelmexico/index.m3u8
 
 Pluto TV Cine Accion
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/thumbnail.jpg" group-title="Cine",Pluto TV Cine Accion
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=1d6040ab-0c40-11f0-8eef-368012a94a02&sid=1d6040ab-0c40-11f0-8eef-368012a94a02&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxZDYwNDBhYi0wYzQwLTExZjAtOGVlZi0zNjgwMTJhOTRhMDIiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NDhhNDplNzViOjcyMDpiOTUyIiwiY2l0eSI6IkJ1ZW5vcyBBaXJlcyIsInBvc3RhbENvZGUiOiJjMTIwNiBhYmUiLCJjb3VudHJ5IjoiQVIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0IjotMzQuNjEwMDAwNjEwMzUxNTYsImRldmljZUxvbiI6LTU4LjQxOTk5ODE2ODk0NTMxLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMzQuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI5LjEwLjAtNzY1Y2M2YTI0N2ZiYjExODM1NWI3MDFhOWY0YWMzODFiZDJiZDNmMiIsImNsaWVudElEIjoiOTFmODdiOTctYmFmMy00MDUxLThhZDItOTA0ZjExMjA2NzkxIiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQXJnZW50aW5hL0J1ZW5vc19BaXJlcyIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZ3VmNJRDJDb3BwYSI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiOTFmODdiOTctYmFmMy00MDUxLThhZDItOTA0ZjExMjA2NzkxIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwMywxMDAxMywxMDAyMSwxMDAwOSwxMDAxNCwxMDAxNSwxMDAxNiwxMDAyMCJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk9URm1PRGRpT1RjdFltRm1NeTAwTURVeExUaGhaREl0T1RBMFpqRXhNakEyTnpreCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NDMyOTkzOTUsImlhdCI6MTc0MzIxMjk5NSwianRpIjoiYmNiZTNjYzEtYzM3MC00MGMzLTliZjUtM2E3ZjgzMTJmYTlhIn0.W6r4-Slyr_KKRNwBl9zLuDLvSByj2CyooxilWBE1jz0&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEowowQJDvoMuQBb2Jf3580qHZxM2NYsqLdFUxSz9W_M7gp46DIVZslSysklP67fQ8BkirdiVEScFGcz-WI_sU8DNuxwkO8KG2rGgekBgUGJTWWWckA_mswAR7MmT0AstlISn3fwhNKFbq24p9lnReG_U_fHoFJXtMf7BU6-u9Wl3NwQLbGa8-gcfQ5sIurXJkjvRup55_uG7-bxW3C7ufOtVRUESLz0uPbn4Nid28VAY8qnDHehMidMMSlceb6_T6HrQ5Pt_02MMEFSL3vdJm5lxOOXFTAAd3K2rmcAPKo98PALigc3ZC5GUVMdrh5xDgOzWAfO0BP6lZDpJitCFL-hYA6UsG8xR_v_BXpKP9ObePC4pGWKlga7o3NTKOCVWjYeZy9TtG_Qkyi3x-PUX7QnV5M5LvBsUoT8zrTst7RoXsM5hR_a5ATjMmBy4hjuPKHYr6EK7IRN6WrMaEIWJuH11N_FzYmO_SqQ9CGiL8wo65RQ41NLxe0bbSnXY3A-3UEKEn4BipNq2uNCQ0v06NtsW6W8EyeM5wTiM7zLYdQi9tUV2_HgNX14xQJoD_QBFd205o_roShqX6AMr5F_XwYCPiayXve3BPllH0GtJ9snggt2r-3O9IQgQKqIibBM-RCAIggwV4Bi3MQFIfUHPQMXduWi-F2TUy9g21MaDtvVvEQJTuTg77QbH2GtI7dKJe7qjUNUeHOhcrsuuLf0MCsrmcsgmZJqRl2C-Fb50a0zu2qISW9p5KHhphUlIxN4PCDewhQNrmohAvTGbcxxDyEmDFk3lVKNo0itfmjVcxQjzn7RihgKxX0LjwyDQ7HTQbVSuSkzEwDjIFo0CAgK87xYb0rMIYBqWVPCnHs0Y-nOtjj1Nh93QFxaeTdhagGAT-1pKaA1kb0VzmeV6MdZfCwAzv731uDoGEEpSDS5qM295oKc1YTMZxysB_VufO0iBWGs4kzlyD6G0ryngr4hq06nOhspbboP-KTqLoTPMTHoLXrXhLuDZgmGYZ0LGlfks4wayG6C5clSIzZiqLdBw8aWgmu8AAJl5GVHu2HSDk-vS91biao46gEmqix39a9TL6Hr_IMipls85A0TyxJ8xSx-2vQLdFAGe6iOWL9QzYHGX5A4bChey1ZV9cVPr4R7n_OYAbpK0aMNbGdF2KHiqurqAX2dZ3p3icwb8ngrMGcVSXhC6Kf-wsnMgRhs6qHwyuWml_pmrqKxKj4KdO64RYAEgVqw..&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e1983cfc-fbd9-4d7e-be78-60c8cd1cb943%22%2Csu
 
 Free TV Accion
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine",Free Tv Accion
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d167d6c668784cd3778d2f04482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e85810d93aa6b6014892284dfa83439fd401b389815d83158471f614999bf483d311d08c8c599e06e627475c2b79ebc213d39d0fef89c33e68cd272c1e4f02b2a0c1a91c6bd3451405fbfcc8bc63a7169fd17ff50a5dae13a75f96399c6aa910d58724c4fc82f16c1b49cead5a6534eee6af9aeb3441de0c9af2b388190d98f2073646d97de7313f3782f8f40196cf67d6dc5d8da07d0d2b9ade0a8c8aa5cde9a2884f883384c4fb9572464b750d01834ef8eb07bd28d96be6c710533b272184bb7789d7831d5a0b4e829310d31615abdef9f5b57a14d8691c53e661d55e162cc8312c5af728fcae0a36c14c74d93d29ef486fcf0dfdbc3fbbb2c8f9073fa690d251a150ffa703c4f701b01f5a3366e2cb02711f0417beef621e7e78d355dbd1dfef7305059e81a78ac35c3549361b4b019bf7f4718fc0e63b1813f5657c0e1e77169217986dd1143b6344a84e89db631384023263f3b5332f3606fccea38482c2dc0ab670de958553433a5d70f332153651ddb7805c8f5021185c4f850a50758ff83b289efd227212e114acbd56e851430664c0fe03480753011b60f9a349a790660e7fc3f6f953d9fb8552648839b108139faaab045b4630a63d7fb6a6580b6299d02eca331bc605d127899006b053eeb77d4e216ab8e276ea5ab7d089870a933ea85c4918801ceac4bbeb84323e82e09cd72fb9861e5ef20fc6dc395320362ddba6c206eb58f4e256a80d75213842d096095087a75509993b71739a81c299a8d939ddab04fb58c67a0aaa5b0c61b48268aacb85faf48360431399989f0ceaf1c6d19796fd2f705d386bdbd909013e9807e09c0be49a187ec4809faa8f3dc03bb163fbcc9d06d0118c87fc02a79b98bedc721455551ebce2ffe81bd6b94514e82f951d6348d2daa4c764fddbae0e37bf0eb7cb5438dc4b1437fea2f500c73caba6687a95e0476d9525628fb0856576ae03a82f3571f4b7f14d33ddcc02960dd6d5c00642880709f7053945a96ff193b0796583e84118300d6ab175ea5aae47075e6ee0c38b7da4c6a756c25d8bf3/42/848x480_1686360/index.m3u8
 
 EPIX
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Epix.png" group-title="Cine",EPIX
 https://fl2.moveonjoy.com/EPIX/index.m3u8
 
 EPIX 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCb0q42v1TKGo6hlf4TioBHg_qcna9A40Icw&s" group-title="Cine",EPIX 2
 https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 
 Cine Dinamita
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="Cine",Cinema Dinamita
 http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
 
 Mega Ficcion
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKX7XCZ6rrIKyx_kk82zsFdpqFkiqYvjBppLu81XuCZifLDK3Yeawqe8q0xCfKJ2k7u0" group-title="Cine",Mega Ficcion
 http://89.117.146.57/televall/YbVVqpeaWU/105.m3u8
 
 Comedy Central
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cine",Comedy Central
 http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8
 
 Comedy Central
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cine",Comedy Central
 http://89.117.146.57/televall/YbVVqpeaWU/41.m3u8
 
-Distrito Comedia--
+Distrito Comedia
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cine",Distrito Comedia
 http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
 
 Distrito Comedia
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cine",Distrito Comedia
 http://89.117.146.57/televall/YbVVqpeaWU/12.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/distritocomedia/index.m3u8
 
 LifeTime
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/lifetime_thumb_09ul2szl.png" group-title="Cine",LifeTime
 http://89.117.146.57/televall/YbVVqpeaWU/40.m3u8
 
 Kanal D
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/kanal-de-drama_thumb_vnpm59by.png" group-title="Cine",Kanal D
 http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
 
-Antena 3 Series--
+Antena 3 Series
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="Cine",Antena 3 Series
 http://tv.teleclub.xyz/club/server_2/entretenimiento/antena3series/index.m3u8
 
 Tl Novelas
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tln.png?raw=true" group-title="Cine",Tl Novelas
 http://89.117.146.57/televall/YbVVqpeaWU/34.m3u8
 http://tv.teleclub.xyz/club/server_3/mundo/tlnovelas/index.m3u8
 
 Bayres TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/bayres-tv/Bayres%20TV.png" group-title="Cine",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
@@ -597,202 +737,282 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 
 
-
-
-
-
                CANAL DE DEPORTES
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 ESPN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",ESPN
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/114.m3u8
 
 ESPN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://espniptv.com/wp-content/uploads/2024/08/18-2.png.webp" group-title="Deportes",ESPN
 http://89.117.146.57/televall/YbVVqpeaWU/92.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/93.m3u8
 
 ESPN 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn2.webp" group-title="Deportes",ESPN 2
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/115.m3u8
 
 ESPN 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn2.webp" group-title="Deportes",ESPN 2
 http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/94.m3u8
 
 ESPN 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn3.webp" group-title="Deportes",ESPN 3
 http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/116.m3u8
 
 ESPN 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn3.webp" group-title="Deportes",ESPN 3
 http://89.117.146.57/televall/YbVVqpeaWU/95.m3u8
 
 ESPN 4
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/espn4.webp" group-title="Deportes",ESPN 4
 http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
 
 ESPN 5
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn5.webp" group-title="Deportes",ESPN 5
 http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
 
 ESPN Premium
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",ESPN Premium
 http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/101.m3u8
 
 ESPN Premium
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/espnpr.webp" group-title="Deportes",ESPN Premium
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
 
 TyC Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",TyC Sports
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
 TyC Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/tyc.webp" group-title="Deportes",TyC Sports
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
 TnT Sports
-##EXTVLCOPT:network-caching=3000
+#EXTVLCOPT:network-caching=5000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgccaOIjB-QFxDD3UmZdT5oaoMEPphL3XAR2OHR9St00ohZDREZcQXw5ScLqp0Obotmg" group-title="Deportes",TnT Sports
 http://89.117.146.57/televall/YbVVqpeaWU/102.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 TnT Sports Premium
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports Premium
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
 
 TnT Sports Premium
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wFc2VpHn/tntcl.png" group-title="Deportes",TnT Sports Premium
 http://89.117.146.57/televall/YbVVqpeaWU/103.m3u8
 
 Fox Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxsports.png" group-title="Deportes",Fox Sports
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
 
 Fox Sports 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",Fox Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/99.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/100.m3u8
 
 Fox Sports 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports2.png" group-title="Deportes",Fox Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
 http://tv.teleclub.xyz/club/server_3/deportes/foxsports2mx/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/97.m3u8
 
 Fox Sports 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports3.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
 
 Fox Sports 3
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv//img/foxsports3.png" group-title="Deportes",Fox Sports 3
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
 
 Fox Sports Premium
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxpr.png" group-title="Deportes",Fox Sports Premium
 http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
 
 Fox Sports Deportes
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/foxdep.png" group-title="Deportes",Fox Sports Deportes
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 
 L1Max
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 EXTINF:-1 tvg-logo="https://next-liga1.fanatiz.com/liga1/strapi/production/2024_logo_LIGA_1_P_dark_mode_fb69c5031a.webp" group-title="Deportes",L1Max
 http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
 
 WinSports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/winspots.png?raw=true" group-title="Deportes",Win Sports
 http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
 
 Win Sports+
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/winsports.webp" tvg-country="AR" group-title="Deportes",Win Sports+
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 
 Win Sports+
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://television-libre.tv/img/winsports.webp" tvg-country="AR" group-title="Deportes",Win Sports+
 http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
 
 TVC Deportes
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/TVC_Deportes_2015.png" group-title="Deportes",TVC Deportes
 http://89.117.146.57/televall/YbVVqpeaWU/117.m3u8
 
 Bein Sports Extra
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",Bein Sports Extra
 https://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
 
 Claro Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports
 http://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/107.m3u8
 
 Claro Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/clrospn.png?raw=true" group-title="Deportes",Claro Sports
 http://tv.teleclub.xyz/club/server_3/deportes/clarosports/index.m3u8
 
 DAZN F1
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/daznf1.jpg?raw=true" group-title="Deportes",DAZN F1
 http://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 
 Directv Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" group-title="Deportes",Directv Sports
 http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/109.m3u8
 
 Directv Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" group-title="Deportes",Directv Sports +
 http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
 
 Directv Sports 2
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" group-title="Deportes",Directv Sports 2
 http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
 
 TUDN
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",TUDN
 http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
 TUDN VIX +
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudnvix.jpg?raw=true" group-title="Deportes",TUDN VIX +
 http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
 
 InterneTV Deportes
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Internet_tv_deportes.jpg" group-title="Deportes",InterneTV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
 AYM SPORTS HD
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",AYM SPORTS HD
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 AYM SPORTS SD
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",AYM SPORTS SD
 http://89.117.146.57/televall/YbVVqpeaWU/118.m3u8
 
 ECDF
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="Deportes",ECDF
 http://89.117.146.57/televall/YbVVqpeaWU/112.m3u8
 
 Adrenalina Sports Network
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/adrenalina-sports-networks/AdrenalinaSportsNetworks.png" group-title="Deportes",Adrenalina Sports Network
 http://89.117.146.57/televall/YbVVqpeaWU/120.m3u8
 
 Latin American Sports
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdSy1M1l3GIn3FhToK0jNZpbGnoWn_nOSa1VZHbQx-c3nd9XDe" group-title="Deportes",Latin American Sports
 http://89.117.146.57/televall/YbVVqpeaWU/119.m3u8
 
 Garage TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
@@ -859,98 +1079,144 @@ https://am91cm5leq.fubohd.com/sky_bundesliga_mx/mono.m3u8?token=9c1b445a96caece6
 --------------                   ---------------------------------------------------------------------------------------------------------------------------
 
 Baby First
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/baby-first_thumb_2etkbzcf.png" group-title="Infantil",Baby First
 http://89.117.146.57/televall/YbVVqpeaWU/56.m3u8
 
 Pequeradio TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/peque-radio-tv/PequeRadioTV.png" group-title="Infantil",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 Baby TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/baby-tv_thumb_t5awsrbl.png" group-title="Infantil",Baby TV
 http://185.189.225.150:85/BabyTV/index.m3u8
 
 Cartoonito
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",Cartoonito
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
 
 Cartoonito
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",Cartoonito
 http://89.117.146.57/televall/YbVVqpeaWU/57.m3u8
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
 
 Cartoon Network
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
 
 Cartoon Network
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/150px-Cartoon_Network_2010_logo.svg.png" group-title="Infantil",Cartoon Network
 http://tv.teleclub.xyz/club/server_3/infantil/cartoonnetwork/index.m3u8
 
 Discovery Kids
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil",Discovery Kids
 http://89.117.146.57/televall/YbVVqpeaWU/59.m3u8
 http://tv.teleclub.xyz/club/server_2/infantil/discoverykids/index.m3u8
 
 Discovery Kids
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="Infantil",Discovery Kids
 http://tv.teleclub.xyz/club/server_3/infantil/discoverykids/index.m3u8
 
 Disney Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil",Disney Channel
 http://tv.teleclub.xyz/club/server_3/infantil/disneychannel/index.m3u8
 
 Disney Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="Infantil",Disney Channel
 http://89.117.146.57/televall/YbVVqpeaWU/60.m3u8
 http://tv.teleclub.xyz/club/server_2/infantil/disneychannel/index.m3u8
 
 Disney JR
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil",Disney JR
 http://tv.teleclub.xyz/club/server_2/infantil/disneyjr/index.m3u8
 
 Disney JR
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="Infantil",Disney JR
 http://89.117.146.57/televall/YbVVqpeaWU/61.m3u8
 
 Nick JR
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Infantil",Nick JR
 http://89.117.146.57/televall/YbVVqpeaWU/62.m3u8
 
 Nickelodeon
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Infantil",Nickelodeon
 http://tv.teleclub.xyz/club/server_2/infantil/nick/index.m3u8
 
 Nickelodeon
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png" group-title="Infantil",Nickelodeon
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 TeenNick
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TeenNick_2023_Alternative_Logo.png" group-title="Infantil",TeenNick
 http://89.117.146.57/televall/YbVVqpeaWU/66.m3u8
 
 Tooncast
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",Tooncast
 http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
 
 Tooncast
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="Infantil",Tooncast
 http://tv.teleclub.xyz/club/server_2/infantil/tooncast/index.m3u8
 
 Magic Kids
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Infantil",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 Bit ME
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bitme_thumb_pwtxjoi5.png" group-title="Infantil",Bit ME
 http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
 
 Fanpop TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Infantil",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
 EnerGeek Retro !Ex
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeek_Retro.png?raw=true" group-title="Infantil",EnerGeek Retro !Ex
 http://tv.teleclub.xyz/club/server_url/infantil/energeekretro/index.m3u8
 
@@ -967,107 +1233,155 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
 Animal Planet
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
 http://tv.teleclub.xyz/club/server_2/cultura/animalplanet/index.m3u8
 
 Animal Planet
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
 http://89.117.146.57/televall/YbVVqpeaWU/54.m3u8
 
 Disccovery ID
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
 http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
 
 Disccovery ID
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
 http://89.117.146.57/televall/YbVVqpeaWU/26.m3u8
 
 Disccovery Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
 http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
 
 Disccovery Channel
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
 http://89.117.146.57/televall/YbVVqpeaWU/45.m3u8
 
 H&H Discovery 
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura",H&H Discovery
 http://89.117.146.57/televall/YbVVqpeaWU/30.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
 
 Discovery Science
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura",Discovery Science
 http://89.117.146.57/televall/YbVVqpeaWU/47.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
 
 Theater Discovery id
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura",Theater Discovery id
 http://89.117.146.57/televall/YbVVqpeaWU/48.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
 
 Discovery Turbo
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
 
 Discovery Turbo
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
 http://89.117.146.57/televall/YbVVqpeaWU/49.m3u8
 
 World Discovery HD
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura",World Discovery HD
 http://89.117.146.57/televall/YbVVqpeaWU/50.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
 
 El Gourmet
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura",El Gourmet
 http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
 
 History
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
 http://89.117.146.57/televall/YbVVqpeaWU/43.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
 History
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
 http://tv.teleclub.xyz/club/server_3/cultura/history/index.m3u8
 
 H2 History
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura",H2 Hyistory
 http://89.117.146.57/televall/YbVVqpeaWU/52.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 
 National Geographic
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura",National Geographic
 http://89.117.146.57/televall/YbVVqpeaWU/44.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
 
 A Mas+
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/a_20250328/A%2B.png" group-title="Cultura",A Mas+
 http://89.117.146.57/televall/YbVVqpeaWU/91.m3u8
 
 E!
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="Cultura",E!
 http://89.117.146.57/televall/YbVVqpeaWU/29.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 TLC
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 TLC
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
 http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
 
 Turistik
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/turistik.png" group-title="Cultura",Turistik
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 Chacra TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/chacra-tv/ChacraTV.png" group-title="Cultura",Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 Unife TV
+#EXTVLCOPT:network-caching=5000
+#EXTVLCOPT:http-reconnect=true
 #EXTINF:-1 tvg-logo="https://archive.org/download/UNIFETV/UNIFETV.png" group-title="Cultura",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
