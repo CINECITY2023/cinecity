@@ -8,7 +8,7 @@ SIN SEÑAL http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index
                Buenos Aires
 --------------                  ---------------------------------------------------------------------------------------------------------------------------
 
-#EXTVLCOPT:network-caching=500
+#EXTVLCOPT:network-caching=3000
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:0 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png",Bienvenidos
 https://archive.org/download/output0_20250329/output.m3u8
