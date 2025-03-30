@@ -1793,8 +1793,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 --Pitufos-- (20:40 28/3/2025 plex)
 EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="VIDEOS 24/7",Pitufos
-https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3995-639ba57d3f4612cc150a5723/variant.m3u8?x-plex-token=JTD7gKQzxPC6dHWkxA4h&x-plex-advertising-identifier=&x-plex-client-identifier=06860b76-d7f4-43d0-89a3-708db6ceffc4&x-plex-playback-id=p_a8e010cf-cf8b-4db4-bd7d-e2ee23b893cf&x-plex-playback-session-id=&x-plex-session-id=&x-plex-device=Windows&x-plex-device-name=Plex+Mediaverse&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-model=&x-plex-platform=Chrome&x-plex-platform-version=134.0.0.0&x-plex-product=Plex+Mediaverse&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-provider-streaming-start=1743250764&url=c26895a49488e2236316ec0a51b6af2c-4c1866f51a5c741f589c41d5685b59909b072cc820eceb3e9cf3423e4b085d30cc037bebff278a037ca687ddb3d4ea47357e7ec13b9b040ac2b53a4e6e9cca366bd19f304a82ee5f5eb5fff7132c1641510ea35473b21876b54b10b445ac66fb
-http://tv.teleclub.xyz/club/server_2/24_7/pitufos/index.m3u8
+https://stream.ads.ottera.tv/cl/250330cvkqd0p3lm8i7pih1jpg/1280x720_3071200_0_f.m3u8?!=475_6611
 
 --Padrinos Mágicos--
 #EXTINF:-1 tvg-logo="https://archive.org/download/los-padrinos-magico/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos
