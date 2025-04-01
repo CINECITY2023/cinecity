@@ -1,143 +1,143 @@
 #EXTM3U
 
 
-                                             --MODO - TEST-- 
-
-
-
- BUENOS AIRES  
-           
------------------------------------------------------------------------------------------------------------------------------------------
-
+                                         
 intro
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png" group-title="Intro",Bienvenidos
 https://archive.org/download/output0_20250329/output.m3u8
 #EXTVLCOPT:loop
 
+
+   
+BUENOS AIRES        
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 America SD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="Buenos Aires",America SD 
+#EXTINF:-1 tvg-logo="https://ia600108.us.archive.org/29/items/UltraTV-Logos-BuenosAires/America.png" group-title="Buenos Aires",America SD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 America HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/america_202503/America.png" group-title="Buenos Aires",America HD 
+#EXTINF:-1 tvg-logo="https://ia600108.us.archive.org/29/items/UltraTV-Logos-BuenosAires/America.png" group-title="Buenos Aires",America HD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
+TV Pública SD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/TVPublica.png" group-title="Buenos Aires",TV Pública SD
+https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
+TV Pública HD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
+#EXTINF:1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/TVPublica.png" group-title="Buenos Aires",Tv Publica HD
+https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+
+El Nueve (link expire)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/ElNueve.png" tvg-country="AR" group-title="Buenos Aires",El Nueve
+https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYmZmYWI5NWMtMTE1Zi00MzI2LWFlOWUtYjM0NzA4NGNmYThjIn0%3D&allow_source=true&browser_family=chrome&browser_version=134.0&cdm=wv&enable_score=true&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=8126326&parent_domains=twitchplayer&platform=web&play_session_id=2fb381000fe4d624d531de9e4d63e55e&player_backend=mediaplayer&player_version=1.39.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=7f60920aeb00c47f56a872c2fc1a75da980ebb09&supported_codecs=av1,h264&token=%7B"adblock"%3Afalse%2C"authorization"%3A%7B"forbidden"%3Afalse%2C"reason"%3A""%7D%2C"blackout_enabled"%3Afalse%2C"channel"%3A"elnueveok"%2C"channel_id"%3A1225822858%2C"chansub"%3A%7B"restricted_bitrates"%3A%5B%5D%2C"view_until"%3A1924905600%7D%2C"ci_gb"%3Afalse%2C"geoblock_reason"%3A""%2C"device_id"%3A"2905514234cfcb03"%2C"expires"%3A1743384234%2C"extended_history_allowed"%3Afalse%2C"game"%3A""%2C"hide_ads"%3Afalse%2C"https_required"%3Atrue%2C"mature"%3Afalse%2C"partner"%3Afalse%2C"platform"%3A"web"%2C"player_type"%3A"embed"%2C"private"%3A%7B"allowed_to_view"%3Atrue%7D%2C"privileged"%3Afalse%2C"role"%3A""%2C"server_ads"%3Atrue%2C"show_ads"%3Atrue%2C"subscriber"%3Afalse%2C"turbo"%3Afalse%2C"user_id"%3Anull%2C"user_ip"%3A"186.39.78.214"%2C"version"%3A2%7D&transcode_mode=cbr_v1
+https://sae11.playlist.ttvnw.net/v1/playlist/CvsF8gkfP0As4mCCgbJGqCd8082zSHYVv0jEwxvzgi7Lr5yyAbSFMPQJlBp5w0ysEeeqiDln_Q0PK7u51AlmeFz4cuZSxAYurpAK1WCPyLLuT9Jsw-JeLGkwb33KVOLKkPrdZaoVvJhy8PZsxyPd7Qxbc6K4x1tAEsN14gYcgjgswv1EwY1-GzdUGiERPTV4F0e93pp2p5ES9K1nxl8qbhsOcEusj2zjTBv3EyhlpI1ywxEnaJ6xbAd-h34muO2ZjZLLK2RV9iIL8ePpN50jguAOoF8hHPGiks8eTtkEUT7zhsQaYkHZ2M6HpaMibvuM9bPPywRRCGcoyRk5kPqVsnKw1MNoI8GjWciM92Jg7iJ-y52bxXAUNL_XKXuV_uxCsiQrWHGBwdDXZ9bF5DLQJJJDm0HrohCqNUTW2DsMeq-yY8HOWPRINqaRv5gXZEKctFf7JoBIZrUSwu2V4HROxpCv-4yxGvRlahpwkjt2H5mzSRkQqXXX4bCSU2y0V5XTYLj90DL-SZQL7HfOIxK_luLdsOMYV3xla0eC9kFKlYoMPFkPNYfjplcPL6zD_HjOg0TABbrJwZd6q3kd6TdRPCRDWIPQ6aFgKyLR8k4H3d0hTiIkDSZWkF5n84zCACeD80JA-vgtOQwiRMXqfOtU8AQP9c5QzmUm1oCf_TRdq20IFLabutBGf6yuV31BgWUzgvy8ATD5sflVM4s0qoTUgUi_7pV85RVbBjSkNMG9ctNh6Czobcy5Q3mDMrOqC4sxvl7WW3aDMPB2hnwMtqcg_pkVw86i4zyJn_ARZ2fZavsmhxgEVOB01U_kCPl1_n4ojePMFx1RbDHSsE-HyknvApQZYj_H6ovHMEA_pJsYGUXJa6NxIratbucNIszlYZB-JQxEXzuWkZWptaTjus__MbsMD5pvMlIA-FesqpyZqtMmq1eqXDRdPHszEhJO5AAsjjHLpGVmuP1zCFYkCA57sv8Ju5jqRqcR-VNlKfkwIhQqVJ9ioejDciTA_PwvBBoM1klc794N0KhAY1KGIAEqCXVzLWVhc3QtMjD1Cw.m3u8
+
+TELEFE
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/TELEFE.png" group-title="Buenos Aires",TELEFE
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
+
+El Trece
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/ElTrece.png" group-title="Buenos Aires",El Trece
+https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
+
+Ciudad Magazine
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+https://live-01-01-tn.vodgc.net/live-01-01-tn.vodgc.net/index.m3u8
+
+Net TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/NetTV.png" tvg-country="AR" group-title="Buenos Aires",Net TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+
+Telemax
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Telemax.png" tvg-country="AR" group-title="Buenos Aires",Telemax
+http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+Canal de la Ciudad
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/CanalDeLaCiudad.png" group-title="Buenos Aires",Canal de la Ciudad
+https://g1.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 Argentinisima Satelital
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/argentinisima-satelital/Argentinisima%20Satelital.png" group-title="Buenos Aires",Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/ArgentinisimaSatelital.png" group-title="Buenos Aires",Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 Bragado TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/bragado-tv/BragadoTV.png" group-title="Buenos Aires",Bragado TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/BragadoTV.png" group-title="Buenos Aires",Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 Canal 3 Pinamar HD (cierra trasmision 00:00)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-3-pinamar/Canal3Pinamar.png" group-title="Buenos Aires",Canal 3 Pinamar HD
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal3Pinamar.png" group-title="Buenos Aires",Canal 3 Pinamar HD
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 Canal 4 La Matanza HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-4-la-matanza/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 Canal 10 de Junín
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://i.imgur.com/FdWrWgt.png" group-title="Buenos Aires",Canal 10 de Junín
+#EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",Canal 10 de Junín
 #EXTVLCOPT:http-user-agent=iPhone
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 Canal 10 (Mar del Plata)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-10-mar-del-plata/Canal10MarDelPlata.png" group-title="Buenos Aires",Canal 10 (Mar del Plata)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal10MarDelPlata.png" group-title="Buenos Aires",Canal 10 (Mar del Plata)
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 Canal 11 de la Costa
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="Buenos Aires",Canal 11 de la Costa
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal11delaCosta.png" group-title="Buenos Aires",Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 Canal 22 Web CABA
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-22-web-caba/Canal22WebCABA.png" group-title="Buenos Aires",Canal 22 Web CABA
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal22WebCABA.png" group-title="Buenos Aires",Canal 22 Web CABA
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 Canal 79 (Mar del Plata)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-79-mardel-plata/Canal79MardelPlata.png" group-title="Buenos Aires",Canal 79 (Mar del Plata)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/Canal79MardelPlata.png" group-title="Buenos Aires",Canal 79 (Mar del Plata)
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
-
-Canal de la Ciudad*****
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-de-la-ciudad/Canal%20de%20la%20Ciudad.png" group-title="Buenos Aires",Canal de la Ciudad
-https://g1.mc-hor.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 Canal Provincial San Miguel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-provincial-san-miguel/CanalProvincialSanMiguel.png" group-title="Buenos Aires",Canal Provincial San Miguel
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/CanalProvincialSanMiguel.png" group-title="Buenos Aires",Canal Provincial San Miguel
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
-
-Ciudad Magazine
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/ciudad-magazine/Ciudad%20Magazine.png" group-title="Buenos Aires",Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-https://live-01-01-tn.vodgc.net/live-01-01-tn.vodgc.net/index.m3u8
-
-El Nueve (link expire)
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-nueve/El%20Nueve.png" tvg-country="AR" group-title="Buenos Aires",El Nueve
-https://sae11.playlist.ttvnw.net/v1/playlist/CuwFtn2XVaRe3Vof89llqT5CmrwrNuXJcm03ZaWiuS2u3I3UuUb6iKunsRyggSRuXytXZeyCOhKt_SxkfLrwyvGo2Fub9yZZ31B6_NYawMNDx8DNZ0SbMI2Ow7xdUO_zCghlwrx3moIL6haMXmt_o29nn7gjc6gN_o1ZLQOtc13r8Gv-t2DPrEyhePr9Z1vWxkY9PTldaJCGzxPdxN48DrOz4urIh-04PAaCQ8VpZ3WE2XJEXG6uIpEnqytlRIlnrqu2XJ8YSF9EP9Fz4Wpm3VZEiVgvW_i1525bQUTKWve5KWX40v61hFCXHlJO-cXbONWF3NWHtRHYXYXAtMhZtJUcNavJgm9_NikB-2aJHSjTsg477D9qx5CMA77RStHozkti3XhZkE5FXyUftv_En99PxHiyYEqtNAl42rbR9tA_KOvsqOzGtIJyakn7l2XMfctXPrLt4E-iSsOwwj1cQJsZsa00RH8DZz6tpAPLwveFlTTznU3qqiXsajcb88upN85OFe2ZRMaQt-VkQ6VSiXz_BELloFjYVII2HldHkeM1_Q_2Dc0Rd6KfaRL-Pu8w2PP1XGymbQxeK3lQomCMJ1QKxJ7TTN1-Wr4b4lRii7r2YsshlR7-4-4rAdHboGXX_b0_f0FXz-dZHWHjfoSwh6U_gwerihgCJbbVw0Ay_6A95w5nfA7l-f2WrrZBRf4u-xc4L8zQTQiga307AyX9pXUWUo7G9_IGVyndyoRdLPAIq084CerV34tMfehDSkbZ_cSqjl2_um7t5PZzmII38wcjFsimxcSx8ZKZt3YEFrdCJfR3fsq5TcpHs93tEsm3JLMH3jFjSVwH01GDI4geJZkx8nqf2qHpreZaRCvqG3aSqFbrqSX4dGo3IBvzvei0tpUuN_6B_ROJLuvNie0NbB2lyXYY29beVtwYMMHZ4jEzCtREKY5HyTcjMYG1AfcvYzng9RF_W5O0B8hbU114a3j6Yb6T75cEsO0IiVVFvRoM5jviAhUsnVcoPXzCIAEqCXVzLWVhc3QtMjD0Cw.m3u8
-
-El Trece
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/el-trece/El%20Trece.png" group-title="Buenos Aires",El Trece
-https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
-http://tv.teleclub.xyz/club/server_2/mundo/eltrece/index.m3u8
 
 Sicardi TV La pLata
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://sicarditv.com.ar/static/custom/logo.png?t=2025-03-28+03%3A00%3A55.193454" group-title="Buenos Aires",Sicardi TV La pLata
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/SicardiTVLapLata.png" group-title="Buenos Aires",Sicardi TV La pLata
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-TELEFE
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/telefe_202503/TELEFE.png" group-title="Buenos Aires",TELEFE
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-http://tv.teleclub.xyz/club/server_2/mundo/telefe/index.m3u8
-
-Net TV
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/net-tv_202503/Net%20TV.png" tvg-country="AR" group-title="Buenos Aires",Net TV
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
-
-TV Pública SD
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/tv-publica_202503/TV%20P%C3%BAblica.png" group-title="Buenos Aires",TV Pública SD
-https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
-
-TV Pública HD
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvCMnWaBkcvulkc2mTJ4joGquqHghOTJHDsx1s_tc2rCjybU3piOvtC3xSpDGgFLjEJXRlm0-RkbjUHzRf2yoFyeXKpwqlz3OF3phx6fPUJ-33hSD46zG2ulN1U-zCF9P9DUfNHyLKwLw/s1920/tvp-2021.png" group-title="Buenos Aires",Tv Publica HD
-https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-
-Telemax
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/telemax_202503/Telemax.png" tvg-country="AR" group-title="Buenos Aires",Telemax
-http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 
 
@@ -145,31 +145,24 @@ http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
 
 
-
-
-               NOTICIAS ARGENTINA
---------------                   ---------------------------------------------------------------------------------------------------------------------------
-
-24/7 Canal de Noticias
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="Noticias",24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+NOTICIAS ARGENTINA
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 A24
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias" http-user-agent="iPhone",A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/a24.png" group-title="Noticias" http-user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 Canal 26
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal26_logo/canal26_logo.png" group-title="Noticias",Canal 26
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/canal26.png" group-title="Noticias",Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 Cronica SD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica SD
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/CronicaTV.png" group-title="Noticias",Cronica SD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p.m3u8
@@ -178,26 +171,31 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 Cronica HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/cronica-tv/CronicaTV.jpg" group-title="Noticias",Cronica HD
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/CronicaTV.png" group-title="Noticias",Cronica HD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+
+24/7 Canal de Noticias
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/24-7.png" group-title="Noticias",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 IP
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/IP_Noticias_%28Informaci%C3%B3n_Period%C3%ADstica%29_Logo.png" group-title="Noticias",IP
-https://sae12.playlist.ttvnw.net/v1/playlist/CoEGRlRUUuGjVGEI5jI6cyWQZkGrKE8hdiW1NgwC_vSSOMCmJrUPzRe188H9ec2P87uilR2dbSgRKCUFR-7bx9xOq3WsBHvLrg_cSt6fnx_ge01aurtu4NB2WyAfc2-gMTKVEtcihi7nEytEbn9-Wuerg9Euhg4bbB75CJ-uZOieOk51Yc3HSBiQ_yDMGd3IOcdjV1HYqdG3h1_S7_2TTv9Iduuqb4ccsQXh_yNzTqC-bWUwJo1_Ll2dTKS4tAgyQabC6CbQ1mZPcCaLm7L5d8-c5Rl1PGaedfOas9xTpXEjNPG5wVJ5ojBMSlINID78UoyYgot4vYF1WYuPmY0Z4qvQZA4mrUWlg3j-PRjWU_N3qZilJeGwaxEP_2a50tmh_wPgh4f1wDyx05lpeEeICsDPS2b-1jgxTQifqkNtd3BPgh81VcHsKdln83o-hpqmdszUoqyul5CJtLGVkgFXss8fpdzdQWg0EgDAV-7kFwqJX-TMc16ujQLA-9j7-Gz0gNSYsolNsrx0y3zEYJJKJqUJW1n8Sqv5vlL6BIdI9NXtCVRmSf8X8XMuyTaQWNeLESABR-WZ3nqmYZXPERyLzhutSokDqyrRkXoEtMo-z1uRGswOGqZ94L5V3z2nZUTsCLrGp-h-sG5Pc50r8Nao2pmu_hjKIwYkG2-6wW0RKdL4teSWayRAqKKDchS39-RnFXwQQVyK7TI8V01lLeBQz45ENCzbOXx3XLvFYwdQua0qyRWwdbYkS6kpfJ6UA-q5qEu6HKganMyBTZ_G0Rx0ZYxaoTDwM2O_xDG6GGo52tpY4bAf3MZYLqtpb8VjtqZ4ImRnzQfoggBDKnYLNVMVpXMji6S6pMrdEkz9fQCaG7KCsBjyl9Lja0LFfb6GSvBPv5ySwx-vobFuXaYwWJ3Xo5P_-zXN7kbmD_hhWlm62U9Rug5GgJP8SuC7PpeKFixvl6k3Hb7oP5PF9YPjzB5p6LNTxxnoymFMZEuRx8kvuVE04CjKa3gPckyXNfWW_pqPKWU_7xoMlBT0GNbEWqWbMSAuIAEqCXVzLWVhc3QtMjDyCw.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/canalip.png" group-title="Noticias",IP
+https://sae11.playlist.ttvnw.net/v1/playlist/CoEG8r3uQV-f2TgQGo4AomyIgk1rmonMAlm6Xkv0Qfb6-6lw5XwlY9CT3SEQ3HA8usYiA5tmF4VopJ46aGYH8tkruqZCbwuutV8hlW-HGQ75iWqRvSv7lXxaZvSSdw_m5pI-XvYOIK7CHm0JVmOO5ZTXATbJZjwltHU8XSnX7x5z20i5pwsjQjYo1gLeCF1MwLiCfUbo5bkuVzySSlyFq1ihxZH7DR1WrPt6MiHZ9xAw_82CIYRc-FNsL-Y74JHZM1avN1-yXXncSfeeOq_jzM0SUM1qqX2snwkXn2EXRQpE4krLtohUGLl55NR7VXF3TG3rqGj0i55o1KFDsgCeFcwrQHUI7jm31d5T22blK34s_9GHSNr_Yj0jEJfV-7-8A9VYwLQD_OrVsKB3CjEDuPlmlyWfMQZI25m2gbm3cKuRuIugbSEiO0cXPUqYWeVm-2asYhoJ-jYIw9vmTMAJtVfFaooxeDzFC8V-A3aTOUChoOJkYryXEaGU-dKB8fJXyzEPAFn7eOq3ijbEMqUyntH5tKSDfqjX_mCSvN4gDzHOmiSGhO2aG_q8Q3Qhkit2I5bRmYzocT57QBQVYVb6RuoUuNtVGctUxgVa0sKgpmkf8o0lyHLxjkgmt4ttlPcVfwl-xAzDzpoCmEWJTHeQ67wypWWacToo9fo8rroP2Yv3KN-DMRRCis16J4wryzyzMBzuOUSmVo8OhzZ4FwmAdXKQ52gp79YZLD445-lNawqC7KpYAMOEzYUSlhFoUqfoMMdHYjcA4yWNy2jbFkGnbdohRJ9fbq2NdUTScdnXKS0S60bQOK2k3bqAeJLWvtpftQCSwA7t3HGcJG_DLr7KL0Hp6HupWs4JbAFsvP9d66vYkhWlDV1IiLhDI86MsZ2qqX4x4tftamZAhyiAYWoClmeqKKZlFh9qP-Zi6CVbqbbrk2vdPwqewxZ1wJB-84ddvZNSPHja0KJezn40TJWDVGp6qQur5ET2mNkRRasuZvP6YTowvfNoYjIuwgw5sSVbO0B3zhoMa_VCqZKIGt2d8iQbIAEqCXVzLWVhc3QtMjD1Cw.m3u8
 
 LN+******
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Noticias",LN+
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/LN%2B.png" group-title="Noticias",LN+
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 TN******
-EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Noticias",TN
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/TN.png" group-title="Noticias",TN
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 C5N******
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/606px-C5N_(2017).png" group-title="Noticias",C5N
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/C5N.png.png" group-title="Noticias",C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743517952/ei/oKTrZ-HqLqS26dsPkOTfkQo/ip/92.205.151.109/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AccgBcPokNYDsl3bEjV8kdkt0NC2LG1DtBLDdpN-EGpQ7wnmXOUbJvu7040aAhiVDnOKnPAd3VpgwbOX/spc/_S3wKhnAYR5pwjB73FBN7a2i9-1EJ5YVnxdVJbQ55fqjAffbIYE94NijO7zZwEFME8Nr8Es/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKsnuDp7_5aVKwnA6k1AaCMvhTJ6lEJc1FqegBP57gvsAiBvy8taB985sOQibEdmiTFtXuhIlfKeDwn7YXtj1lwW2Q%3D%3D/file/index.m3u8
 
 
 
@@ -208,387 +206,385 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 
 
-               CANAL DE CINE
---------------                   ---------------------------------------------------------------------------------------------------------------------------
+CANAL DE CINE
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 A&E
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" tvg-language="Spanish" group-title="Cine",A&E
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/A%26E.png" tvg-language="Spanish" group-title="Cine",A&E
 http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
 
 A&E
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cine",A&E
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/A%26E.png" group-title="Cine",A&E
 http://89.117.146.57/televall/YbVVqpeaWU/28.m3u8
 
 AMC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Cine",AMC
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/AMC.png" group-title="Cine",AMC
 http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
 
 AMC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Cine",AMC
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/AMC.png" group-title="Cine",AMC
 http://89.117.146.57/televall/YbVVqpeaWU/68.m3u8
 
 AXN
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Cine",AXN
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/AXN.png" group-title="Cine",AXN
 http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
 
 AXN
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Cine",AXN
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/AXN.png" group-title="Cine",AXN
 http://89.117.146.57/televall/YbVVqpeaWU/27.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
 
 Cinecanal
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/CINECANAL.png" group-title="Cine",Cinecanal
 http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
-
 
 Cinecanal
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/CINECANAL.png" group-title="Cine",Cinecanal
 http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
 
 Cinemax
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/CINEMAX.png" group-title="Cine",Cinemax
 http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
 
 Cinemax
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/CINEMAX.png" group-title="Cine",Cinemax
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinemax/index.m3u8
 
 DHE
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/DHE.png" group-title="Cine",DHE
 http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
 
 DHE
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dhe_.png?raw=true" group-title="Cine",DHE
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/DHE.png" group-title="Cine",DHE
 http://89.117.146.57/televall/YbVVqpeaWU/83.m3u8
 
 De Pelicula
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/DEPELICULA.png" group-title="Cine",De Pelicula
 http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
 
 De Pelicula
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dpeli.png?raw=true" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/DEPELICULA.png" group-title="Cine",De Pelicula
 http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
 
 Euro Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/EURO_LOGO_FINALE.png" group-title="Cine",Euro Channel
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/EUROCHANNEL.png" group-title="Cine",Euro Channel
 http://89.117.146.57/televall/YbVVqpeaWU/89.m3u8
 
 Europa Europa
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaBauvZybnLKT2YylcWMk4EynXnxkAblXMCQ&s" group-title="Cine",Europa Europa
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/EUROPAEUROPA.png" group-title="Cine",Europa Europa
 http://89.117.146.57/televall/YbVVqpeaWU/87.m3u8
 
 Films&arts
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png" group-title="Cine",Films&arts
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/FILMANDARTS.png" group-title="Cine",Films&arts
 http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 FX
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Cine",FX
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/FX.png" group-title="Cine",FX
 http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 
 FX
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Cine",FX
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/FX.png" group-title="Cine",FX
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
 
 Golden
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GOLDEN.png" group-title="Cine",Golden
 http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
 
 Golden
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GOLDEN.png" group-title="Cine",Golden
 http://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
 
 Golden Plus
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/474x/f6/f7/61/f6f7615950039eda8970133770c716b6.jpg" group-title="Cine",Golden Plus
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GOLDENplus.png" group-title="Cine",Golden Plus
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
 
 Golden Premier
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GoldenPremier.png" group-title="Cine",Golden Premier
 http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
 
-
 Golden Premier
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjm1Hr7OabaULLiNgJzeyAb-VQ2cfBa9lMGkE1NSwqpN4PyFVVSOGhiCq8D7igLNPn3xL3y-cxYF8yKJBW8YsE3icHUBM0aUETPj3Bercfwu3LZIa4NPSBne4m2j5wMT9riADgymTFyZL67ZEafDGxNEYZAJBxsdh2lLkYY5j6WVr5-x2WoKtoNGB/s1000/Golden_Premier_logo_2020.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GoldenPremier.png" group-title="Cine",Golden Premier
 http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
 
 Golden Premier 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZCDZINCUaOqw3Qh7NXkLovXjKikLFrSACoQ&s" group-title="Cine",Golden Premier 2
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/GoldenPremier2.png" group-title="Cine",Golden Premier 2
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier2/index.m3u8
 
 HBO
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Cine",HBO
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hbo.png" group-title="Cine",HBO
 http://89.117.146.57/televall/YbVVqpeaWU/1.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo/index.m3u8
 
 HBO 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Cine",HBO 2
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hbo2.png" group-title="Cine",HBO 2
 http://89.117.146.57/televall/YbVVqpeaWU/2.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
 
 HBO 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Cine",HBO 2
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hbo2.png" group-title="Cine",HBO 2
 http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbo2/index.m3u8
 
 HBO Family
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Cine",HBO Family
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hbofamily.png" group-title="Cine",HBO Family
 http://89.117.146.57/televall/YbVVqpeaWU/3.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbofamily/index.m3u8
 
 HBO +
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Cine",HBO +
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hboplus.png" group-title="Cine",HBO +
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hboplus/index.m3u8
 
 HBO Signature
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Cine",HBO Signature
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/hbosignature.png" group-title="Cine",HBO Signature
 http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/hbosignature/index.m3u8
 
 Morbido TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://morbido.tv/wp-content/uploads/2024/02/MTV-Color-Favicon.png" group-title="Cine",Morbido TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/morbidotv.png" group-title="Cine",Morbido TV
 http://89.117.146.57/televall/YbVVqpeaWU/84.m3u8
 
 Multipremier
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/multipremier.png" group-title="Cine",Multipremier
 http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
 
 Multipremier
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/multiprmr.png?raw=true" group-title="Cine",Multipremier
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/multipremier.png" group-title="Cine",Multipremier
 http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 
-Paramount Network
+Paramount Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Cine",Paramount Network
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/paramountchannel.png" group-title="Cine",Paramount Channel
 http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
 
 Sony Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Cine",Sony Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/sonychannel.png" group-title="Cine",Sony Channel
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
 
 Sony Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Cine",Sony Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/sonychannel.png" group-title="Cine",Sony Channel
 http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
 
 Sony Movies
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="Cine",Sony Movies
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/sonymovies.png" group-title="Cine",Sony Movies
 http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sonycine/index.m3u8
 
 Space
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Cine",Space
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/space.png" group-title="Cine",Space
 http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
 
 Space
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Cine",Space 
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/space.png" group-title="Cine",Space 
 http://tv.teleclub.xyz/club/server_3/entretenimiento/space/index.m3u8
 
 Star Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/starchannel.png" group-title="Cine",Star Channel
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/82.m3u8
 
 Star Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Cine",Star Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/starchannel.png" group-title="Cine",Star Channel
 http://tv.teleclub.xyz/club/server_3/entretenimiento/starchannel/index.m3u8
 
 Studio Universal
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Cine",Studio Universal
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/studiouniversal.png" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
 
 Studio Universal
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Cine",Studio Universal
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/studiouniversal.png" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
 TCM
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGoNsuSZUZXHHnUR6zJPUBfNvP3hWg-OffsQ&s" group-title="Cine",TCM
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tcm.png" group-title="Cine",TCM
 http://89.117.146.57/televall/YbVVqpeaWU/86.m3u8
 
 TNT
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tnt.png" group-title="Cine",TNT
 http://89.117.146.57/televall/YbVVqpeaWU/77.m3u8
 
 TNT
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tnt.png" group-title="Cine",TNT
 http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
 
 TNT Series
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Cine",TNT Series
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tntseries.png" group-title="Cine",TNT Series
 http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
 
 TNT Series
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Cine",TNT Series
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tntseries.png" group-title="Cine",TNT Series
 http://tv.teleclub.xyz/club/server_3/entretenimiento/tntseries/index.m3u8
 
 TNT Novelas
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tnt-novelas_thumb_7z399xgo.png" group-title="Cine",TNT Novelas
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tntnovelas.png" group-title="Cine",TNT Novelas
 http://89.117.146.57/televall/YbVVqpeaWU/32.m3u8
 
 Universal Cinema
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/univer_cinem.png?raw=true" group-title="Cine",Universal Cinema
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/universalcinema.png" group-title="Cine",Universal Cinema
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
 
 Universal Premiere
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Cine",Universal Premiere
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/universalpremiere.png" group-title="Cine",Universal Premiere
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
 
 Universal TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Cine",Universal TV
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/universaltv.png" group-title="Cine",Universal TV
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universaltv/index.m3u8
 
 Universal TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Cine",Universal TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/universaltv.png" group-title="Cine",Universal TV
 http://tv.teleclub.xyz/club/server_3/entretenimiento/universaltv/index.m3u8
 
 Warner TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Cine",Warner TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/warnertv.png" group-title="Cine",Warner TV
 http://89.117.146.57/televall/YbVVqpeaWU/23.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannel/index.m3u8
 
 Warner TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Cine",Warner TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/warnertv.png" group-title="Cine",Warner TV
 http://89.117.146.57/televall/YbVVqpeaWU/24.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/warnerchannelmexico/index.m3u8
 
 Pluto TV Cine Accion******
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/thumbnail.jpg" group-title="Cine",Pluto TV Cine Accion
+EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/plutocineaccion.png" group-title="Cine",Pluto TV Cine Accion
 
 Free TV Accion
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/accion.jpg" group-title="Cine",Free Tv Accion
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/freetvaccion.png" group-title="Cine",Free Tv Accion
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d167d6c668784cd3778d2f04482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e85810d93aa6b6014892284dfa83439fd401b389815d83158471f614999bf483d311d08c8c599e06e627475c2b79ebc213d39d0fef89c33e68cd272c1e4f02b2a0c1a91c6bd3451405fbfcc8bc63a7169fd17ff50a5dae13a75f96399c6aa910d58724c4fc82f16c1b49cead5a6534eee6af9aeb3441de0c9af2b388190d98f2073646d97de7313f3782f8f40196cf67d6dc5d8da07d0d2b9ade0a8c8aa5cde9a2884f883384c4fb9572464b750d01834ef8eb07bd28d96be6c710533b272184bb7789d7831d5a0b4e829310d31615abdef9f5b57a14d8691c53e661d55e162cc8312c5af728fcae0a36c14c74d93d29ef486fcf0dfdbc3fbbb2c8f9073fa690d251a150ffa703c4f701b01f5a3366e2cb02711f0417beef621e7e78d355dbd1dfef7305059e81a78ac35c3549361b4b019bf7f4718fc0e63b1813f5657c0e1e77169217986dd1143b6344a84e89db631384023263f3b5332f3606fccea38482c2dc0ab670de958553433a5d70f332153651ddb7805c8f5021185c4f850a50758ff83b289efd227212e114acbd56e851430664c0fe03480753011b60f9a349a790660e7fc3f6f953d9fb8552648839b108139faaab045b4630a63d7fb6a6580b6299d02eca331bc605d127899006b053eeb77d4e216ab8e276ea5ab7d089870a933ea85c4918801ceac4bbeb84323e82e09cd72fb9861e5ef20fc6dc395320362ddba6c206eb58f4e256a80d75213842d096095087a75509993b71739a81c299a8d939ddab04fb58c67a0aaa5b0c61b48268aacb85faf48360431399989f0ceaf1c6d19796fd2f705d386bdbd909013e9807e09c0be49a187ec4809faa8f3dc03bb163fbcc9d06d0118c87fc02a79b98bedc721455551ebce2ffe81bd6b94514e82f951d6348d2daa4c764fddbae0e37bf0eb7cb5438dc4b1437fea2f500c73caba6687a95e0476d9525628fb0856576ae03a82f3571f4b7f14d33ddcc02960dd6d5c00642880709f7053945a96ff193b0796583e84118300d6ab175ea5aae47075e6ee0c38b7da4c6a756c25d8bf3/42/848x480_1686360/index.m3u8
 
 EPIX
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Epix.png" group-title="Cine",EPIX
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/Epix.png" group-title="Cine",EPIX
 https://fl2.moveonjoy.com/EPIX/index.m3u8
 
 EPIX 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCb0q42v1TKGo6hlf4TioBHg_qcna9A40Icw&s" group-title="Cine",EPIX 2
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/epix2.png" group-title="Cine",EPIX 2
 https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 
 Cine Dinamita
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_cinema-dinamita-llega-a-la-plataforma-xfinity-tv-de-comcast.jpg" group-title="Cine",Cinema Dinamita
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/cinemadinamita.png" group-title="Cine",Cinema Dinamita
 http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
 
 Mega Ficcion
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKX7XCZ6rrIKyx_kk82zsFdpqFkiqYvjBppLu81XuCZifLDK3Yeawqe8q0xCfKJ2k7u0" group-title="Cine",Mega Ficcion
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/megaficcion.png" group-title="Cine",Mega Ficcion
 http://89.117.146.57/televall/YbVVqpeaWU/105.m3u8
 
 Comedy Central
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cine",Comedy Central
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/comedycentral.png" group-title="Cine",Comedy Central
 http://tv.teleclub.xyz/club/server_2/entretenimiento/comedycentral/index.m3u8
 
 Comedy Central
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="Cine",Comedy Central
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/comedycentral.png" group-title="Cine",Comedy Central
 http://89.117.146.57/televall/YbVVqpeaWU/41.m3u8
 
 Distrito Comedia
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cine",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/distritocomedia.png" group-title="Cine",Distrito Comedia
 http://tv.teleclub.xyz/club/server_2/entretenimiento/distritocomedia/index.m3u8
 
 Distrito Comedia
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="Cine",Distrito Comedia
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/distritocomedia.png" group-title="Cine",Distrito Comedia
 http://89.117.146.57/televall/YbVVqpeaWU/12.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/distritocomedia/index.m3u8
 
 LifeTime
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/lifetime_thumb_09ul2szl.png" group-title="Cine",LifeTime
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/lifetime.png" group-title="Cine",LifeTime
 http://89.117.146.57/televall/YbVVqpeaWU/40.m3u8
 
 Kanal D
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/kanal-de-drama_thumb_vnpm59by.png" group-title="Cine",Kanal D
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/kanald.png" group-title="Cine",Kanal D
 http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
 
 Antena 3 Series
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://fotografias.atresseries.com/clipping/cmsimages02/2018/02/22/20C2BFA8-ACA3-47DA-AAFB-188D456AB2A9/58.jpg" group-title="Cine",Antena 3 Series
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/a3s.png" group-title="Cine",Antena 3 Series
 http://tv.teleclub.xyz/club/server_2/entretenimiento/antena3series/index.m3u8
 
 Tl Novelas
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tln.png?raw=true" group-title="Cine",Tl Novelas
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tlnovelas.png" group-title="Cine",Tl Novelas
 http://89.117.146.57/televall/YbVVqpeaWU/34.m3u8
 http://tv.teleclub.xyz/club/server_3/mundo/tlnovelas/index.m3u8
 
 Bayres TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/bayres-tv/Bayres%20TV.png" group-title="Cine",Bayres TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/BayresTV.png" group-title="Cine",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 (VIP) Cine Latino*****
@@ -841,6 +837,11 @@ InterneTV Deportes
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Internet_tv_deportes.jpg" group-title="Deportes",InterneTV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
+InterneTV Deportes
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Internet_tv_deportes.jpg" group-title="Deportes",InterneTV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7397
+
 AYM SPORTS HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/AYMSports21logo.png" group-title="Deportes",AYM SPORTS HD
@@ -865,6 +866,17 @@ Latin American Sports
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdSy1M1l3GIn3FhToK0jNZpbGnoWn_nOSa1VZHbQx-c3nd9XDe" group-title="Deportes",Latin American Sports
 http://89.117.146.57/televall/YbVVqpeaWU/119.m3u8
+
+Tigo Sports
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Deportes/Tigosports.png" group-title="Deportes",Tigo Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
+
+La Liga TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8,referer : https://cookiewebplay.xyz/
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png" group-title="Deportes",La Liga TV
+https://windnew.koskoros.ru/wind/premium84/mono.m3u8
 
 Garage TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -1070,6 +1082,10 @@ Animestation*****
 EXTINF:-1 tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg" group-title="Infantil",Animestation
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
+Cut the Rope - Om Nom Stories
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15i6aIh3HLOwYpNp8SMMc9C4V6YVWkg3jsQ&s" group-title="Infantil",Cut the Rope - Om Nom Stories
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 
 
 
@@ -1080,107 +1096,131 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
 Animal Planet
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
 http://tv.teleclub.xyz/club/server_2/cultura/animalplanet/index.m3u8
 
 Animal Planet
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
 http://89.117.146.57/televall/YbVVqpeaWU/54.m3u8
 
 Disccovery ID
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
 http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
 
 Disccovery ID
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
 http://89.117.146.57/televall/YbVVqpeaWU/26.m3u8
 
 Disccovery Channel
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
 http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
 
 Disccovery Channel
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
 http://89.117.146.57/televall/YbVVqpeaWU/45.m3u8
 
-H&H Discovery 
+H&H Discovery
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura",H&H Discovery
 http://89.117.146.57/televall/YbVVqpeaWU/30.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
 
 Discovery Science
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura",Discovery Science
 http://89.117.146.57/televall/YbVVqpeaWU/47.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
 
 Theater Discovery id
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura",Theater Discovery id
 http://89.117.146.57/televall/YbVVqpeaWU/48.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
 
 Discovery Turbo
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
 
 Discovery Turbo
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
 http://89.117.146.57/televall/YbVVqpeaWU/49.m3u8
 
 World Discovery HD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura",World Discovery HD
 http://89.117.146.57/televall/YbVVqpeaWU/50.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
 
 El Gourmet
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura",El Gourmet
 http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
 
 History
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
 http://89.117.146.57/televall/YbVVqpeaWU/43.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
 History
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
 http://tv.teleclub.xyz/club/server_3/cultura/history/index.m3u8
 
 H2 History
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura",H2 Hyistory
 http://89.117.146.57/televall/YbVVqpeaWU/52.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 
 National Geographic
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura",National Geographic
 http://89.117.146.57/televall/YbVVqpeaWU/44.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
 
 A Mas+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/a_20250328/A%2B.png" group-title="Cultura",A Mas+
 http://89.117.146.57/televall/YbVVqpeaWU/91.m3u8
 
 E!
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="Cultura",E!
 http://89.117.146.57/televall/YbVVqpeaWU/29.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 TLC
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 TLC
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
 http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
 
 Turistik
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/turistik.png" group-title="Cultura",Turistik
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 Chacra TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/chacra-tv/ChacraTV.png" group-title="Cultura",Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 Unife TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/UNIFETV/UNIFETV.png" group-title="Cultura",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
@@ -1208,43 +1248,62 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 --------------                         ---------------------------------------------------------------------------------------------------------------------------
 
 RT en Español (RUS)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/rt_20250328/RT.png" group-title="Noticias Internacional",RT en Español (RUS)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
 
 DW en Español (ALE)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/dw_20250328/DW.jpg" group-title="Noticias Internacional",DW en Español (ALE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/dwchannel/index.m3u8
 
 Canal 24 Horas (ESP)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-24-horas/Canal24Horas.png" group-title="Noticias Internacional",Canal 24 Horas (ESP)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 Telesur (VEN)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/tele-sur/TeleSUR.png" group-title="Noticias Internacional",Telesur (VEN)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 TeleFormula (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/teleformula.png" group-title="Noticias Internacional",TeleFormula (MEX)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 Milenio (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/250px-Milenio_Television.png" group-title="Noticias Internacional",Milenio (MEX)
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
+
+Milenio (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/250px-Milenio_Television.png" group-title="Noticias Internacional",Milenio (MEX)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7367
 
 N+ FORO (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/N%2BFORO.jpg" group-title="Noticias Internacional",N+ FORO (MEX)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8?hdnea=exp=1742704918~acl=/*~hmac=10179ac791dfaa59ea684eb00562fce2a9943c889fe5d772cc1d22bcc2bd7ec1
 
 N+ (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/N%2B_2022.png" group-title="Noticias Internacional",N+ (MEX)
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
+
+Multimedios TeleDiario Now (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqz7pVkQJ_YE2tXABFPEae0fznXMwawl4cQ&s" group-title="Canales Internacionales",Multimedios TeleDiario Now (MEX)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
 
 
 
@@ -1262,95 +1321,118 @@ http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 --------------                  ---------------------------------------------------------------------------------------------------------------------
 
 Canal 9 (Resistencia, Chaco)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://i.imgur.com/xqgRFpC.png" group-title="Provincia",Canal 9 (Resistencia, Chaco)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 Canal 12 Web (Puerto Madryn, Chubut)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-12-web-puerto-madryn-chubut/Canal12WebPuertoMadrynChubut.jpg" group-title="Provincia",Canal 12 Web (Puerto Madryn, Chubut)
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 Canal 2 AVCHD (Monte Casero, Corrientes) (cierra trasmision 00:00)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8CT4y1O.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",Canal 2 AVCHD (Monte Casero, Corrientes)
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 
 5TV (Corrientes)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="Provincia",5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
 13Max Televisión (Corrientes)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" group-title="Provincia",13Max Televisión (Corrientes)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 Canal 9 Litoral (Entre Rios)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Canal_9_Litoral_logo_2021.png" group-title="Provincia",Canal 9 Litoral (Entre Rios)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 Canal 3 (La Pampa)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Provincia",Canal 3 (La Pampa)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 CPE TV (La Pampa)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/cpetvla-pampa/CPETVLa%20Pampa.jpg" group-title="Provincia",CPE TV (La Pampa)
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 Canal 13 (La Rioja)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-13-la-rioja/Canal13La%20Rioja.jpg" group-title="Provincia",Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
 El Siete (Mendoza)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="ElSiete.ar" tvg-name="EL SIETE" tvg-logo="https://yt3.ggpht.com/rb2RIZEJgafAjjJgSgfz9xsi9SH311amSYRLysHW-qBTFLyaPrijcoDLdqQR609DY_G_g-Ia8LU=s48-c-k-c0x00ffffff-no-rj" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",El Siete (Mendoza)
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743163203/ei/4zrmZ62lCqry1sQP6orE6Qg/ip/191.82.238.121/id/Vh8xmLBJtR8.400/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ar/bui/AccgBcOPHZIIrKv3C2dyDVBR96fRMVgNN9OkVjT-tTEzvdUHadyIbC7nr2uyim9STcWbETff2Ip1Mrcl/spc/_S3wKtd_la6epKimkrq3Jv3etS8uWFr00aiLSr4lwhysZfhYQfDlzMUTperpPVtQJ8-xBZs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgXW11EtP15dQYF6eaBUorHQkghYD6J_z-yyMJFPTNrmMCIQD2g0yLCq90q5tLt5ytIMRbLiXjnkD5QPQnlpSHjtw18A%3D%3D/file/index.m3u8
 
 Canal 9 Televida (Mendoza)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-9-televida-mendoza/Canal9TelevidaMendoza.jpg" group-title="Provincia",Canal 9 Televida (Mendoza)
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 Canal 2 (Misiones)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-2-misiones/Canal2Misiones.jpg" group-title="Provincia",Canal 2 (Misiones)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 Canal 4 (Posadas, Misiones)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Provincia",Canal 4 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
 Canal 6 (Posadas, Misiones)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://i.imgur.com/OamBiS5.png" group-title="Provincia",Canal 6 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 Canal 21 TV (Posadas, Misiones)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Provincia",Canal 21 TV (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 Canal 7 (Neuquén)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Provincia",Canal 7 (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 Canal 7 (Salta)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://i.imgur.com/CudG6sl.png" group-title="Provincia",Canal 7 (Salta)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 Canal 3 (Las Heras; Santa Cruz)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://i.imgur.com/bd2afET.png" group-title="Provincia",Canal 3 (Las Heras; Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 Canal 5 (Pico Truncado, Santa Cruz)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://i.imgur.com/VwUiSVF.png" group-title="Provincia",Canal 5 (Pico Truncado, Santa Cruz)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 Aire de Santa Fe
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/60vSWW0.png" group-title="Provincia",Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
 Canal 5 (Santa Fe)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://i.imgur.com/WX0esjQ.png" group-title="Provincia",Canal 5 (Santa Fe)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 Cable Imagen Armstrong (Santa Fe)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U9NuJQC.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 Canal 7 (Santiago del Estero)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Provincia",Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
@@ -1372,6 +1454,7 @@ https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 --------------                         ---------------------------------------------------------------------------------------------------------------------------
 
 Azteca Internacional SD (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",Azteca Internacional SD (Mexico)
 https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -1379,48 +1462,57 @@ https://azt-mun.otteravision.com/azt/mun/mun_540p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
 
 Azteca Internacional HD (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",Azteca Internacional HD (Mexico)
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 Azteca Uno (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/aztecauno.png" group-title="Canales Internacionales",Azteca Uno (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8
 
 Azteca 7 (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Logo_de_Azteca_7_2025.png" group-title="Canales Internacionales",Azteca 7 (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/azteca7/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/125.m3u8
 
 Las Estrellas (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 Las Estrellas (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",Las Estrellas (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/lasestrellas/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
-
 Canal 5 (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-M%C3%A9xico.png" group-title="Canales Internacionales",Canal 5 (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/canal5/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/10.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
 Canal 10 (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/canal10.png" group-title="Canales Internacionales",Canal 10 (Mexico)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 
 Canal Once (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SXJX7JLW/canalonce.png" group-title="Canales Internacionales",Canal Once (Mexico)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/oncetv/index.m3u8
 
 Estrella TV (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZzQnR0qK/estrellatv.png" group-title="Canales Internacionales",Estrella TV (Mexico)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 Imagen TV SD (mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="Canales Internacionales",Imagen TV SD (mexico)
 https://igd-it-runtime.otteravision.com/igd/it/it_360.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
@@ -1429,34 +1521,43 @@ https://igd-it-runtime.otteravision.com/igd/it/it_480.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/imagenmx/index.m3u8
 
 Imagen TV HD (mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nqyBMggg/imagentv.png" group-title="Canales Internacionales",Imagen TV HD (mexico)
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7390
 
 Mexiquense (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/mexiquense.png" group-title="Canales Internacionales",Mexiquense (Mexico)
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 Nueve (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/nu9ve-gala-tv_thumb_wlk5cx59.png" group-title="Canales Internacionales",Nueve (Mexico)
 http://89.117.146.57/televall/YbVVqpeaWU/11.m3u8
 
 Nueve TV (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/nuevetv.png" group-title="Canales Internacionales",Nueve TV (Mexico)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 TV Mas (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cXT5dbzV/tvmas.png" group-title="Canales Internacionales",TV Mas (Mexico)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 
 TV Pacifico (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q3NZg8s7/tvpacifico.png" group-title="Canales Internacionales",TV Pacifico (Mexico)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
 Vibe TV (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/vibetv.png" group-title="Canales Internacionales",Vibe TV (Mexico)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 Canal 6 Multimedios MTY (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico)
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
@@ -1465,96 +1566,125 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 Canal 6 Multimedios CDMX (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/35TWcjJx/canal6.png" group-title="Canales Internacionales",Canal 6 Multimedios CDMX (Mexico)
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
 
 ADN40 (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/adn40.png" group-title="Canales Internacionales",ADN40 (Mexico)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 Galavision (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/galavson.png?raw=true" group-title="Canales Internacionales",Galavision (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/galavision/index.m3u8
 
 Unicable (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/uniclb.png?raw=true" group-title="Canales Internacionales",Unicable (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/unicable/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/13.m3u8
 
 Univisión (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unvisn.png?raw=true" group-title="Canales Internacionales",Univisión (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/univision/index.m3u8
 http://tv.teleclub.xyz/club/server_3/mundo/univision/index.m3u8
 
 TVC (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tvc_2003.png/200px-Tvc_2003.png" group-title="Canales Internacionales",TVC (Mexico)
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22306d19e5-c7af-41e3-9492-6bdc13aa2a40%22
 
 (VIP) Unimas (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",(VIP) Unimas (Mexico)
 https://dcs-vod.mp.lura.live/vod/p/544400/prog.m3u8?i=i176963794-nef6bb355-3b11-4638-814c-66e170fc7e7a&anvtrid=a20b00583e11b2cce247c256077ed711
 http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
 
+TVOAI Channel (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7oV4CIlUZ68/maxresdefault.jpg?v=6615783c" group-title="Canales Internacionales",TVOAI Channel (Mexico)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
+
 Canal 21 (El Salvador)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Canal-21.png" group-title="Canales Internacionales",Canal 21 (El Salvador)
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8
 
 Ecuador TV (Ecuador)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/581px-EcuadorTV_logo.png" group-title="Canales Internacionales",Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
 Ecuavisa (Ecuador)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/ecuavs.png?raw=true" group-title="Canales Internacionales",Ecuavisa (Ecuador)
 http://tv.teleclub.xyz/club/server_2/mundo/ecuavisa/index.m3u8
 
 BTV (Bolivia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/BoliviaTV2020short.png" group-title="Canales Internacionales",BTV (Bolivia)
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 
 BoliVision (Bolivia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Bolivisi%C3%B3n2025.png" group-title="Canales Internacionales",BoliVision (Bolivia)
 https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 
 VPI TV (Venezuela)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/VPI%20TV.jpg" group-title="Canales Internacionales",VPI TV (Venezuela)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 
 ATV (Peru)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/atvl.png?raw=true" group-title="Canales Internacionales",ATV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/atv/index.m3u8
 
 America Television (Peru)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/amrictv.png?raw=true" group-title="Canales Internacionales",America Television (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/americatv/index.m3u8
 https://live-evg4.tv360.bitel.com.pe/rM78UqzdCLdDKwJPgGa1bQ/1743009960/bitel/americatv/playlist.m3u8?uid=3871129
 
 Latina TV (Peru)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/latina.png?raw=true" group-title="Canales Internacionales",Latina TV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/latina/index.m3u8
 
 Willax TV (Peru)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/willaxtv.png?raw=true" group-title="Canales Internacionales",Willax TV (Peru)
 http://tv.teleclub.xyz/club/server_2/mundo/willaxtv/index.m3u8
 
 Caracol TV (Colombia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/crcol.png?raw=true" group-title="Canales Internacionales",Caracol TV (Colombia)
 http://tv.teleclub.xyz/club/server_2/mundo/caracol/index.m3u8
 
 RCN (Colombia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/rcntv.png?raw=true" group-title="Canales Internacionales",RCN (Colombia)
 http://tv.teleclub.xyz/club/server_2/mundo/rcn/index.m3u8
 
 ANC Televisión (Colombia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="ANCTelevision.co" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Canales Internacionales",ANC Televisión (Colombia)
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8
 
 Bum Televisión (Colombia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://i.imgur.com/TerY4iM.png" group-title="Canales Internacionales",Bum Televisión (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 Agenda Al Día TV (Colombia)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://i.imgur.com/JFEFVwV.jpg" group-title="Canales Internacionales",Agenda Al Día TV (Colombia)
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
@@ -1565,31 +1695,38 @@ https://tvlatina.live:1936/8012/8012/chunklist_w494668874.m3u8
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 
 Telemundo (Puerto Rico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tlmndo.png?raw=true" group-title="Canales Internacionales",Telemundo (Puerto Rico)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/telemundopuertorico/index.m3u8
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
 
+
 TVE (España)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tve_thumb_r95zsfz8.png" group-title="Canales Internacionales",TVE (España)
 http://89.117.146.57/televall/YbVVqpeaWU/42.m3u8
 
 Star TVE (España)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/tve_thumb_r95zsfz8.png" group-title="Canales Internacionales",Star TVE (España)
 http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
 
 La 2 TV (España)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="Canales Internacionales",La 2 TV (España)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 13 TV (España)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="Canales Internacionales",13 TV (España)
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
 El Toro TV (España)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="Canales Internacionales",El Toro TV (España)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
-
 
 Mexico Travel Channel (Mexico)*****
 EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/03/header-mtch-logo-copia-2.png" group-title="Canales Internacionales",Mexico Travel Channel (Mexico)
@@ -1610,28 +1747,34 @@ EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/0
 ----------------              -----------------------------------------------------------------------------------------------------------------------------
 
 Vorterix SD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix SD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 Vorterix HD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix HD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 AN24
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/an-24_202503/An24.png" group-title="Radio en Vivo",AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 RTN (Neuquen)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/RTNNeuquen/RTNNeuquen.jpg" group-title="Radio en Vivo",RTN (Neuquen)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 Azahares Radiovisual Multimedia
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Radio en Vivo",Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 RNE para todos
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio en Vivo",RNE para todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 
@@ -1647,32 +1790,39 @@ https://ztnr.rtve.es/ztnr/6688753.m3u8
 ----------------                  -----------------------------------------------------------------------------------------------------------------------------
 
 Retro TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/retro-logo-bile2.png" group-title="Musica", Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 MusicTop
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/music-top/MusicTop.jpg" group-title="Musica",MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
 
 MTV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/mtv_thumb_d55s0whf.png" group-title="Musica",MTV
 http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 MTV Hits
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV
 http://tv.teleclub.xyz/club/server_2/musica/mtv/index.m3u8
 
 MTV Hits
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits
 http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/mtvhits/index.m3u8
 
 MTV 00s
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-TMjj_r1-QPteKV1Ng-F4nzvWPXjw_Q&s.png" group-title="Musica",MTV 00s
 http://89.117.146.57/televall/YbVVqpeaWU/15.m3u8
 
 Telehit
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica",Telehit
 http://89.117.146.57/televall/YbVVqpeaWU/17.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/telehit/index.m3u8
@@ -1681,50 +1831,61 @@ The Retro Channel
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/theretrofb.jpg" group-title="Musica",The Retro Channel
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-BandaMax
+BandamaX
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bandamax_thumb_jt86gcah.png" group-title="Musica",BandaMAx
 http://89.117.146.57/televall/YbVVqpeaWU/14.m3u8
 
 CM SD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cm_20250328/CM.png" group-title="Musica",CM SD
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 CM HD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/cm_20250328/CM.png" group-title="Musica",CM HD
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 Beats Radio
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Musica",Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 Telpin TV Pinamar
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/telpin-tvpinamar/TelpinTVPinamar.png" group-title="Musica",Telpin TV Pinamar
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 Alterna TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/alterna-tv/Alterna%20TV.png" group-title="Musica",Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
 EnerGeek Radio
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeekRadio.png?raw=true" group-title="Musica",EnerGeek Radio !Ex
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/EnerGeekRadio.png?raw=true" group-title="Musica",EnerGeek Radio
 http://tv.teleclub.xyz/club/server_url/musica/energeekradio/index.m3u8
 
 Tierramia TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/tierramia-tv/TierramiaTV.jpg" group-title="Musica",Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 Chamame TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/chamame-tv/ChamameTV.png" group-title="Musica",Chamame TV
 https://srv2.zcast.com.br/chamame/chamame/chunklist_w1771895490.m3u8
 
 002 Radio
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/002-radio_202503/002Radio.png" group-title="Musica",002 Radio
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 GikTVMx
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Musica",GikTVMx
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 
@@ -1734,7 +1895,7 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/toplatino/index.m3u8
 
 HTV*****
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/htv.png?raw=true" group-title="Musica",HTV
+EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/htv.png?raw=true" group-title="Musica",HTV
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
 
@@ -1750,22 +1911,27 @@ http://tv.teleclub.xyz/club/server_2/musica/htv/index.m3u8
 -----------                   --------------------------------------------------------------------------------------------------------------------------
 
 María Visión
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Maria-vision.jpg" group-title="Religion",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
 EWTN
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/ewtn-logo.jpg" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 Avivamiento TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MsQLaQG.png" group-title="Religion",Avivamiento TV
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
 Canal 5 Santa Maria TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/canal-5-santa-maria-tv/Canal5SantaMariaTV.png" group-title="Religion",Canal 5 Santa Maria TV
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 Solidaria TV
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/solidariatv/solidariatv.png" group-title="Religion",Solidaria TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
@@ -1784,30 +1950,37 @@ https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 
 --Los Picapiedras--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/LOSPICAPIEDRAS.png?raw=true" group-title="VIDEOS 24/7",Los Picapiedras
 http://tv.teleclub.xyz/club/server_2/24_7/lospicapiedras/index.m3u8
 
 --Bob Esponja--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="VIDEOS 24/7",Bob Esponja
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=d0377fb8-0c97-11f0-8c2e-ae0cb4ff71cf&sid=d0377fb8-0c97-11f0-8c2e-ae0cb4ff71cf&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkMDM3N2ZiOC0wYzk3LTExZjAtOGMyZS1hZTBjYjRmZjcxY2YiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NzBhMzpjODFhOjEzZDY6YjBlMiIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTM0LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xMC4wLTc2NWNjNmEyNDdmYmIxMTgzNTViNzAxYTlmNGFjMzgxYmQyYmQzZjIiLCJjbGllbnRJRCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJmd1ZjSUQyQ29wcGEiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMDAsMTAwMDksMTAwMTUsMTAwMTYsMTAwMDMsMTAwMTMsMTAwMTQsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVEZtT0RkaU9UY3RZbUZtTXkwME1EVXhMVGhoWkRJdE9UQTBaakV4TWpBMk56a3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQzMzM3MDYyLCJpYXQiOjE3NDMyNTA2NjIsImp0aSI6IjllMjMyODgyLWYwMzQtNDRmZi05ZTA4LWEzN2YyY2MxOGE3OCJ9.E9YU7eRT7kP5rayW-vIhc5mbDVwlES7c-1PGghE31Ic&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEuWwsrgGL5-DsEsfer9TCRSy39_OuuuO--tEjjdm7EMO6PKXke294YyuM_MCN9aajCY2wkGztwWAUqlcxzy2yOkJg2gylyUzZjwMJZLPi_FK7WWDYfw1sDPj1zrURoY_v1H3swKThdWiCTPdl2jMDwGNRpChPas8nx69219jSgMbIzFuqDiDMdroBrgMnMskgdyATampufylVrPDxzHuZ1WmZZS7QWhpKPgTI_6AEU3kgP1HknPKV4cXjRG5ZtQ_b1FToV9jS2QMwUQj5ve-cULZRNfhknhiZ1H35xVpSr8tTzzV0fWD5yYJfuzx91CoWX4_qAtl8nAmgT6Mc8gelxo2OB1snq19Z6Y85kUJenBRVhClNthyeryV3T0-phjtoBKt2lQwOS2dBftJuqLt4MvTkgzpjewMh-l6OXRYjREyGvIZBJ2GyI5fF2srHVfr-MV2Sb2NYkbBL5uLL07fm0slDoKo7_5NKYPTAreXP5wEGZkxBrKYKJUDBF-KRX71BchWbEWb20g1_ZRLy89QYR50zDRf4QtRfDvNoQMwCqOFjZSy8rl84XbeBVffOIFwzr72u17XDltpdTtf-wq1o11zCZoQH4dSpV3D2kjCjOuC_AnbImEQ6h9wcDrPBGdSWLIrexvwyokxcT9QEqxU9K8I1SX35MnXm-xoFcX7oy8DkEVBeiv1tvceVj-AO-Avy0otzrzI6CdvMrMDNlcEbQwSCgl-wGT8EMlnRoGtOU49Al6QnpwQtttkIuOvFm_DvbpDVgdXu4Cql44OC3UP4Npl6boDoFT3gORr0kPx0FVe6ROYcyDiCa7KFvbUk2WJY5QP1TQC2B73nhJBTvhD8gov1T3RV_lZVhGLXsRr6QQ-TnpLPRv1Y34JCxRCYwUHLX8rDESbOE5VHvpg50UbgQmw5gDHacPhu1jIHPDNxFgfEKOO_ONx_QLd65zRxtuxhPfphcodNoimlF_N9Wp5uieH64DG6nOj3UkAYtwFmtsDGPqQbXpW8bcFa4Ybf5gfuKRnpXSPMvunZnxOvSmZV48sW7ZUiN3Qie5k2CDua9jwnLm2B3OTxu1JLyeb0Id1QfIZksYOzWqulbHaUYEWlCSHW4gbt-074WMctMYXPZFCAttcAhdjYUO7-npG80xsLq6KMhjh10DkscLJ-urFtczkOlS4YYrgGjHaluqrzbO1boriRYp7UnJ7qEGP3z9ImG0wPUwV418GPnML2aBBP1hOJzlTkPpGQNlR7lDR5r_PECr2ixJ4hKGLSqR2oIBEUbxHnsNS_6x-rxxQAv9vGkUDwTwrV54U6LjkHmlbdtUEWqPMtWHmjCffgMTrcT3STt1rnEm1NXG5lASeMga7lQBsoEZtiAUYA7AlM5PXSDFdGkRGeZHXwFfietr1YkrOK1_LeGqwlGoDZkaAo82xI-eARHx0fuFzL3vlelSgCVcSf3YTxnH_Av6ZSy96MJvjz_edAH7u93qeMZjW8Rox9sETHCTJlc1F7iAymNTLEP5atWvFceEMAkSqd1xZkximAcKqAEME1bXjKmGD7cU8Al3CT_SyJDjGTYx_6JqoCSpaeCxuEkvISJO25r70oj-0Ims3_Z1S0KkF2kGrmUa3RLOfWE66INIIGWwf0__Xlr37TRCPiEmFmD8i7GVuBQAGF_5-vo_swZTA-O6hBjUrXo3gwqftJtwUzYpvd3VLwQPLG1DEzNmLD-Pc0_3mqnzN1dOcmOu7OmVKYG2phaqko7Jvws_zx5IiIOSU3F-1kdqt9KSynVjTXu8o0VD-JiCuvfLpHsKLoWvtTWKPgDHtOqHxscj23LKZe4XpRUkVPdtKbLtt6ggZpd6noooc6jT1SBjRERTlMW3pMx_jt&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2270fdb10f-8469-4521-b638-6d76fcb85b23%22%2Csu
 
---Pitufos-- (20:40 28/3/2025 plex)
+--Pitufos--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="VIDEOS 24/7",Pitufos
-https://stream.ads.ottera.tv/cl/250330cvkqd0p3lm8i7pih1jpg/1280x720_3071200_0_f.m3u8?!=475_6611
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 
 --Padrinos Mágicos--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/los-padrinos-magico/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=80624b4e-0c97-11f0-850a-6ab4b3f50a20&sid=80624b4e-0c97-11f0-850a-6ab4b3f50a20&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4MDYyNGI0ZS0wYzk3LTExZjAtODUwYS02YWI0YjNmNTBhMjAiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NzBhMzpjODFhOjEzZDY6YjBlMiIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTM0LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xMC4wLTc2NWNjNmEyNDdmYmIxMTgzNTViNzAxYTlmNGFjMzgxYmQyYmQzZjIiLCJjbGllbnRJRCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJmd1ZjSUQyQ29wcGEiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMjAsMTAwMjEsMTAwMDMsMTAwMDksMTAwMTMsMTAwMTUsMTAwMTYsMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVEZtT0RkaU9UY3RZbUZtTXkwME1EVXhMVGhoWkRJdE9UQTBaakV4TWpBMk56a3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQzMzM2OTI4LCJpYXQiOjE3NDMyNTA1MjgsImp0aSI6IjQ1MzNjYzMyLTk5Y2QtNGI3OC04MzUyLTlmYjM0MTVmNDU1NyJ9.QoxYjSQQK0gnMEf9nelG3jNEDm1rsEOw9SLrYmuha8g&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEgSmzwlTcPMp8rcRvOIhhEnEBXLmm9cQogChP6GZl8oKxo9lg33SX6mtmbkzBinlmEvb5qRcjBIvBS3hqAyYjRsTK_qyFbMEpC-42zoRmhUA71YVRh29NfVK9qND1mOxp1lArHzVW5d-UWq0xShbvsX2QTRqR2NWvBtslHjDntMoRJeK04-uWbiYmUNeLfKN8Rh53jHM6aAHFHJrY8fsSmRu-upCNkwj-Y2xocExu4wZxS8gWc2WumtwqOBvd2HAQ1w7kYvuWicIEoU3ByDnHBQPQznodHqGSHy9kCxi3B0OWRwb1_Gr7IUoqA2CFtCgWw63mBUQewvwndKFOm9C4DzN9kzWMvWPQnqJla8x0eJPNcMrklWgf_IGCzkOYHI-B4kT0KIggagfiWtliMuCjeLCqTCkvCtoBFRDzt0UtAp38fI0LnwU5acAd6OeTlJDuQsSwpe3Cac-N1zi99NpEB8Jp0M6TZrSIFORo6WSUOG_mazaFMFItGTUo80N_NXKO7hJy2yi1tTWoWW0N6dJDEZVoR6I2qAX5Yi4G3GjTIDrSwRtp4BWHVJD5gYQmlxPqzzLuC1ncr703s7as2Iv7ZuOF28SVZF1DBRvCAe_8GSPT_UEkzcW-WghN6ZV7RRgFM2aiZCwjolczhMRcLuFAOZG5MmfJlIxLXEc4vlaml-W-vOEjiXSxZw_6QSU7JyAC-HzpwKDFPDdAopCrenl22zWCPN_3rB99b-tgMBiY9TZHpJ750ZeMOkwOnGxIK3o7do4lfkmaaI4rDfu_LRisGiQ-glaa8BxOX6SwYWcY4FxfklCWABDouxGv_-FOmn5bcuysYjLpfWrb2mgvOKmsJkvlwtcJ7KV5CayrYIdzDZ6NDxAEUgK-94dij4EaLjdr9NB8QN00gCkH5601Fq8OWE4AXmBQFx29MNoUPCZ4DyDs_ilKyflO3SGnHrQlA_z8iCwb8MB-0tIMCP2sz_7uqmwnYlrrpdSLYaKTyQHsbfbUd4WMwE7Q8aTUSHoEYBbUAsLVVwQ9KwoBArgFgmcuDbUV7qGSortLoZOBquqGJdivFlgNfRolOVepnCpz3lcAioGrf6qlPVndO2KuLtqViHH1PULZFRY0IVNudKNewPYawi30xRmiZQj-a6qKPnE0vG_DeN4fd6j8QSLn0eroZgz1FMfCSJmGwUUDk9bUX91HWG1TBN71r2qTffNSdsdNTSki5abdElXNBLhEng6Z6K0UePyxNZkg8RJKC_xtFhFjBzLIl4-_rS3TQp5UKfVrku8HjARFR1cbVHExt7y3FRsUxlMIPrvobYF6V4ouqQdxpu0LO71ABuithPRMm74ys34Jt4MAbZaIelaY2TX_-vkRzVBoCJZSA3sg-RO6jjhKBOhDWcXfRojtxgMMoCj7s0vFuvJsLewodNNZyf2jTiGPvNVkpCLRzaapswGWMPlIwdan_HY-lWJgP8xjYe_BxnPn45ZNUnX7Sumi8F8pKHH2quDb6j69oUBbJLALP9RHlOKCPc1MMxctrbemdW37DGRpFAH-2tfxSfQATNz-OniPcfD2VzXhjt5nf6nUPKJNzuqnFdlCKM2d5unv&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223cfae42a-227d-4ca8-ab71-3aedccaca4fe%22%2Csu
 
 --Chapulin Colorado--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/chapul-n-colorado-logo/Chapul_n_colorado_logo.png" group-title="VIDEOS 24/7",Chapulin Colorado
 http://tv.teleclub.xyz/club/server_2/24_7/chapulincolorado/index.m3u8
 
 --Chespirito--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/CHESPI.png?raw=true" group-title="VIDEOS 24/7",Chespirito
 http://tv.teleclub.xyz/club/server_2/24_7/chespirito/index.m3u8
 
 --Dinosaurios--
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/DINO.png?raw=true" group-title="VIDEOS 24/7",Dinosaurios
 http://tv.teleclub.xyz/club/server_2/24_7/dinosaurios/index.m3u8
 
@@ -1834,83 +2007,103 @@ EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SIMPSONS.p
 -----------                     --------------------------------------------------------------------------------------------------------------------------
 
 CBC News Toronto (Canada)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnoYiuknZvhhPBEjhhlZHcVwsT0sN_SfmMw&s" group-title="Otros Idiomas",CBC News Toronto (Canada)
 https://dgmkbg0c12wvc.cloudfront.net/CBC_News_Toronto.m3u8
 
 Global TV (Canada)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/global.png" group-title="Otros Idiomas",Global TV (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 ICI RDI (Canada)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/icirdi.png" group-title="Otros Idiomas",ICI RDI (Canada)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 ICI Television (Canada)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/ici.png" group-title="Otros Idiomas",ICI Television (Canada)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 ABC News Live (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="Otros Idiomas",ABC News Live (EEUU)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 ABC 7 (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/KABC-TV-Logo-2021.png" group-title="Otros Idiomas",ABC 7 (EEUU)
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
 CBS News (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://telegratuita.com/img/cbc.png" group-title="Otros Idiomas",CBS News (EEUU)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
 CBS News Boston (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/CBSNBoston/CBSNBoston.png" group-title="Otros Idiomas",CBS News Boston (EEUU)
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 
 CBS News Miami (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CBS_Miami_logo.svg/512px-CBS_Miami_logo.svg.png" group-title="Otros Idiomas",CBS News Bay Miami (EEUU)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
 
 CBS News New York (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtObbHKpE1a6ZnpTh7uXLZ70k_ZZoNYZ3JQ&s.png" group-title="Otros Idiomas",CBS News New York (EEUU)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
 
 CBS News Los Angeles (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CBS_Los_Angeles_logo.svg/800px-CBS_Los_Angeles_logo.svg.png" group-title="Otros Idiomas",CBS News Los Angeles (EEUU)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_2.m3u8
 
 CBS News Chicago (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAyFmGpBy3XwwBrlCN7QUxI3vIYkBinf_sYkz4mz7XN-KFFOzHwidnfo8h2nPc_TNjA&usqp=CAU.png" group-title="Otros Idiomas",CBS News Chicago (EEUU)
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master_8.m3u8
 
 Fox Weather SD (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/800px-Fox_Weather_logo.svg.png" group-title="Otros Idiomas",Fox Weather SD (EEUU)
 https://247wlive.foxweather.com/stream/index_640x360.m3u8
 
 Fox Weather HD (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/800px-Fox_Weather_logo.svg.png" group-title="Otros Idiomas",Fox Weather HD (EEUU)
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 Fox 4 (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/1a4cb5a/2147483647/strip/true/crop/358x133+0+0/resize/358x133!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8a%2Fd4%2F28316f43411aadcc4efbf48aee69%2Fwftx-main-logo.png" group-title="Otros Idiomas",Fox 4 (EEUU)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
 CNN (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4cCoXRcVVy0UJJgpf81y4aukfmpDK1up1A&s" group-title="Otros Idiomas",CNN (EEUU)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 United Nations TV (EEUU) FHD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_of_the_United_Nations_%28B%26W%29.svg/902px-Logo_of_the_United_Nations_%28B%26W%29.svg.png" group-title="Otros Idiomas",United Nations TV (EEUU) FHD
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/.m3u8
 
 1HD (RUS)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="Otros Idiomas",1 HD (RUS)
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 1-2-3 TV (ALE)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Otros Idiomas",1-2-3 TV (ALE)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 
 CNA (ALB) FHD
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3ukD5t.png"  group-title="Otros Idiomas",CNA (ALB) FHD
 https://live1.mediadesk.al/cnatvlive.m3u8
 
@@ -1918,6 +2111,22 @@ CBS News Bay Area (EEUU) *****
 EXTINF:-1 tvg-logo="https://www.cbsnews.com/assets/live_icons/flyout-live-sanfrancisco@1x.png" group-title="Otros Idiomas",CBS News Bay Area (EEUU)
 https://dai.google.com/linear/hls/pa/event/VE8b4n-YStusEGv5Z2NmsQ/stream/d629376a-3ddd-43f3-83f3-f45d15866cdf:SCL/variant/f05458977b7d62af9a331d9782237831/bandwidth/3073400.m3u8
 
+Very Local (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/1629826/TV_1.jpg?p=facebook" group-title="Otros Idiomas",Very Local (EEUU)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
+
+Wu Tang Collection (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTI6kesHrsmqTAyQrwPVbGedxw-Bkqg9RtkQ&s" group-title="Otros Idiomas",Wu Tang Collection (EEUU)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
+
+The Archive TV (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTV0w3hlSzgj3OOrbOFvEzZFgdyLlAgxqfFw&s" group-title="Otros Idiomas",The Archive TV (EEUU)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
 
              CAMARAS VIGILANCIA
 -----------                     --------------------------------------------------------------------------------------------------------------------------
