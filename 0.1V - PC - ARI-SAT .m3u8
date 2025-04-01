@@ -3,7 +3,7 @@
 
                                          
 intro
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png" group-title="Intro",Bienvenidos
 https://archive.org/download/output0_20250329/output.m3u8
 #EXTVLCOPT:loop
@@ -31,6 +31,7 @@ TV Pública SD
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/TVPublica.png" group-title="Buenos Aires",TV Pública SD
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
 
 TV Pública HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -42,8 +43,8 @@ El Nueve (link expire)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-BuenosAires/ElNueve.png" tvg-country="AR" group-title="Buenos Aires",El Nueve
-https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiYmZmYWI5NWMtMTE1Zi00MzI2LWFlOWUtYjM0NzA4NGNmYThjIn0%3D&allow_source=true&browser_family=chrome&browser_version=134.0&cdm=wv&enable_score=true&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=8126326&parent_domains=twitchplayer&platform=web&play_session_id=2fb381000fe4d624d531de9e4d63e55e&player_backend=mediaplayer&player_version=1.39.0-rc.3&playlist_include_framerate=true&reassignments_supported=true&sig=7f60920aeb00c47f56a872c2fc1a75da980ebb09&supported_codecs=av1,h264&token=%7B"adblock"%3Afalse%2C"authorization"%3A%7B"forbidden"%3Afalse%2C"reason"%3A""%7D%2C"blackout_enabled"%3Afalse%2C"channel"%3A"elnueveok"%2C"channel_id"%3A1225822858%2C"chansub"%3A%7B"restricted_bitrates"%3A%5B%5D%2C"view_until"%3A1924905600%7D%2C"ci_gb"%3Afalse%2C"geoblock_reason"%3A""%2C"device_id"%3A"2905514234cfcb03"%2C"expires"%3A1743384234%2C"extended_history_allowed"%3Afalse%2C"game"%3A""%2C"hide_ads"%3Afalse%2C"https_required"%3Atrue%2C"mature"%3Afalse%2C"partner"%3Afalse%2C"platform"%3A"web"%2C"player_type"%3A"embed"%2C"private"%3A%7B"allowed_to_view"%3Atrue%7D%2C"privileged"%3Afalse%2C"role"%3A""%2C"server_ads"%3Atrue%2C"show_ads"%3Atrue%2C"subscriber"%3Afalse%2C"turbo"%3Afalse%2C"user_id"%3Anull%2C"user_ip"%3A"186.39.78.214"%2C"version"%3A2%7D&transcode_mode=cbr_v1
-https://sae11.playlist.ttvnw.net/v1/playlist/CvsF8gkfP0As4mCCgbJGqCd8082zSHYVv0jEwxvzgi7Lr5yyAbSFMPQJlBp5w0ysEeeqiDln_Q0PK7u51AlmeFz4cuZSxAYurpAK1WCPyLLuT9Jsw-JeLGkwb33KVOLKkPrdZaoVvJhy8PZsxyPd7Qxbc6K4x1tAEsN14gYcgjgswv1EwY1-GzdUGiERPTV4F0e93pp2p5ES9K1nxl8qbhsOcEusj2zjTBv3EyhlpI1ywxEnaJ6xbAd-h34muO2ZjZLLK2RV9iIL8ePpN50jguAOoF8hHPGiks8eTtkEUT7zhsQaYkHZ2M6HpaMibvuM9bPPywRRCGcoyRk5kPqVsnKw1MNoI8GjWciM92Jg7iJ-y52bxXAUNL_XKXuV_uxCsiQrWHGBwdDXZ9bF5DLQJJJDm0HrohCqNUTW2DsMeq-yY8HOWPRINqaRv5gXZEKctFf7JoBIZrUSwu2V4HROxpCv-4yxGvRlahpwkjt2H5mzSRkQqXXX4bCSU2y0V5XTYLj90DL-SZQL7HfOIxK_luLdsOMYV3xla0eC9kFKlYoMPFkPNYfjplcPL6zD_HjOg0TABbrJwZd6q3kd6TdRPCRDWIPQ6aFgKyLR8k4H3d0hTiIkDSZWkF5n84zCACeD80JA-vgtOQwiRMXqfOtU8AQP9c5QzmUm1oCf_TRdq20IFLabutBGf6yuV31BgWUzgvy8ATD5sflVM4s0qoTUgUi_7pV85RVbBjSkNMG9ctNh6Czobcy5Q3mDMrOqC4sxvl7WW3aDMPB2hnwMtqcg_pkVw86i4zyJn_ARZ2fZavsmhxgEVOB01U_kCPl1_n4ojePMFx1RbDHSsE-HyknvApQZYj_H6ovHMEA_pJsYGUXJa6NxIratbucNIszlYZB-JQxEXzuWkZWptaTjus__MbsMD5pvMlIA-FesqpyZqtMmq1eqXDRdPHszEhJO5AAsjjHLpGVmuP1zCFYkCA57sv8Ju5jqRqcR-VNlKfkwIhQqVJ9ioejDciTA_PwvBBoM1klc794N0KhAY1KGIAEqCXVzLWVhc3QtMjD1Cw.m3u8
+https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
+https://sae11.playlist.ttvnw.net/v1/playlist/CoUG2K9Mnwggl17w4C_Y9OtrsPCsuYRZDLndPYPNbZheH-HZU3zq7wMOQ40DcX1f8_FKiX7l2fdpbruQGUfSb5aNxuSMkbLwgYkOspkzZv6y-xHCKy4V-IY1Zhu5fNwnizo2nXjqy8IZoLbrcML1ERN2VtZtHreILdqHF-MXNUIY4v27Hl-xd2TkIGu91XPB0Piancb-9j6oGb6smhZ2I-01ZuwYp4t41Y7edm5TikUDZsoSr1lkGDD4lcURnCCupWfT3spCHtiX3AIqVeGgfqlJZJUZ9xLVq-j9-5dhG2NkVZ2enLwSivPcOG3vuqQb_e1j-8eiEPRADK1_P4xvFhKq81cf_Bq3M3Zw4P8n13Pi1KkYJ_H4W-p_ZRwk2NbBPu-h5XfM8J1ihZFjtikwR_W0MX610z5lvHrDz1HftXZ9Ci8r8xa7kEDUOnxjbAW9eTpU3mtsWDCg2yhAjY_KHETdGGRxHF2GG_CiSBkPEYD2hoDDUWYO7TUC978Hz-zA95w1I0HPONDHcTtdRl1puNZhM9rKUNK4fP2JjJjoIdJWKF62kWt_shg_SBeTHDwfiW3vkqp1EpEnRPL2g6xyMbEHhINZbQ_sNSWiW2lgkYfmmTVx5KdosebT2R7IGcg-LnzMWDdXc4jHR9rwFrhb5aK23u6pu6T9R5_Xq1EApNKrEgA2BeowuH9teTqxzo1yr1u0vJKRiHnke4tkfbLhUcaVKQYn1JUnqBCqlsOo8I9U1GATKOdQkAOK6iNnlaZRRCSuJRsoUL0W5cdD7T0osGK4JkAje5uQ-TEd2uHLfQtUATYfe0SS6juj0rgjL-l8eD0pAqBGGpSIynFzJKL5Egi4Cim0ga7T2Mkddj1-BRayvLOruE2CFaRG2707WaVgoHKqT0MwTuAiFu98YCYyz59C8lIaqyzjYjd-QPEuJfiaPdiAXPfzmwbE0uF5yVqHqb_eX4nptiinW_ttdTtSwiCwz_yMOq8_LBx6LoAF4xeVfaDgwNHzLoGqGqPz-yxqe9UpgNeLmCkaDLPerUAcxJKUhVg0mCABKgl1cy1lYXN0LTIw9gs.m3u8
 
 TELEFE
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -179,23 +180,26 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/24-7.png" group-title="Noticias",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
-IP
+IP (expire)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36,referer : sae12.playlist.ttvnw.net
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/canalip.png" group-title="Noticias",IP
-https://sae11.playlist.ttvnw.net/v1/playlist/CoEG8r3uQV-f2TgQGo4AomyIgk1rmonMAlm6Xkv0Qfb6-6lw5XwlY9CT3SEQ3HA8usYiA5tmF4VopJ46aGYH8tkruqZCbwuutV8hlW-HGQ75iWqRvSv7lXxaZvSSdw_m5pI-XvYOIK7CHm0JVmOO5ZTXATbJZjwltHU8XSnX7x5z20i5pwsjQjYo1gLeCF1MwLiCfUbo5bkuVzySSlyFq1ihxZH7DR1WrPt6MiHZ9xAw_82CIYRc-FNsL-Y74JHZM1avN1-yXXncSfeeOq_jzM0SUM1qqX2snwkXn2EXRQpE4krLtohUGLl55NR7VXF3TG3rqGj0i55o1KFDsgCeFcwrQHUI7jm31d5T22blK34s_9GHSNr_Yj0jEJfV-7-8A9VYwLQD_OrVsKB3CjEDuPlmlyWfMQZI25m2gbm3cKuRuIugbSEiO0cXPUqYWeVm-2asYhoJ-jYIw9vmTMAJtVfFaooxeDzFC8V-A3aTOUChoOJkYryXEaGU-dKB8fJXyzEPAFn7eOq3ijbEMqUyntH5tKSDfqjX_mCSvN4gDzHOmiSGhO2aG_q8Q3Qhkit2I5bRmYzocT57QBQVYVb6RuoUuNtVGctUxgVa0sKgpmkf8o0lyHLxjkgmt4ttlPcVfwl-xAzDzpoCmEWJTHeQ67wypWWacToo9fo8rroP2Yv3KN-DMRRCis16J4wryzyzMBzuOUSmVo8OhzZ4FwmAdXKQ52gp79YZLD445-lNawqC7KpYAMOEzYUSlhFoUqfoMMdHYjcA4yWNy2jbFkGnbdohRJ9fbq2NdUTScdnXKS0S60bQOK2k3bqAeJLWvtpftQCSwA7t3HGcJG_DLr7KL0Hp6HupWs4JbAFsvP9d66vYkhWlDV1IiLhDI86MsZ2qqX4x4tftamZAhyiAYWoClmeqKKZlFh9qP-Zi6CVbqbbrk2vdPwqewxZ1wJB-84ddvZNSPHja0KJezn40TJWDVGp6qQur5ET2mNkRRasuZvP6YTowvfNoYjIuwgw5sSVbO0B3zhoMa_VCqZKIGt2d8iQbIAEqCXVzLWVhc3QtMjD1Cw.m3u8
+https://sae12.playlist.ttvnw.net/v1/playlist/CokGD-_2EnHxA-sp5eb28S96rpInKytTKxqD1jL4KyojXie0H22RO8KEhD_ypanK9xOXdw09HxxgEBIv6kEA4bLn7_Ehr_SoIAXqwr_5zgT5WNvg_KIBUyTj_ZmTo8Rc84MqSQWmNl-kdDmC9RiJ_qXwr1Ornmjqgh_hHrt-QAwwsVqfsLhpPiaIaOegbGoylDNcu4b2BIhY5NDUZZILbK_rrj9QGoVispu4gA2V-B5E89n_C-y_XDKI617vtWatmSiRapzq4f8u9zY1GKVol3qYtKNtHnZ9l8l1WOkMuBj10j_a9lKoMH6Qwj75I9mnOBlFAHPW1MUHcg6rgCJw1YLy1ILa4fpg4CXhRJpTOt1cmsrTHOUgGqpKN1v397T1U2vtWAYvzuNv2JGvTYdVKnvYl5D8MELvmRysJjeH4ebeSh3Mr6ZML8a45ibKN2RA9Gcm--kVjjwKLLrEblueb3MIft1Xa5dLf4vihIuPASQjtffh7r4vUH_dgxPxVMFVkxSZZnhdci8GUuDt5-DGkmvhtDk4ohfcYkNusvihMjinku0fRZfc2dSQDFHZm3nYC9mlIrjYKZJiJPru9NAM3AMIdDetZF0bpmPaNYWrIY1WL5KQqY9DM-8uawoPl6TE1RoD6iE2ru6_R1TgBXxdSd05kbNjs2pHTtEfU5NRgLcQbbajJ8Bo2CK0HCNUZI1iWSB6I-bgzZ1MOWNGvDzfstl8Cb0Q2GYqUMJqF3MvAovW8jWj3xk_a9eadzz7yO0WhPjgk8s7aAk_6TevY9tb1VrCnGRPjjKLmgFTrcCt30JvPoujLFHLN994YKBh5Zo-jgKBCjiQSDt6FQsntA7CGyZFNs7Ljd-JMRTjI1fXh2X2a5M9y2S2opu_saYRei5xtNreJ0OY4dNMut4QBXsnlNfWQ0FFGZKjMROW840KJVcZNGUe8MaoVniJfpmcfnW_2FEerDNlfuyELewhXkB8EHkkjgEWQtW0nO_eoSV8REiUKtm2gNNn4NBOP1HW56OsocuKw_MJ2z0V9I1NGgyrP63Hut-io2nLMCsgASoJdXMtZWFzdC0yMPYL.m3u8
 
-LN+******
-EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/LN%2B.png" group-title="Noticias",LN+
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+LN+ (expire)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/LN%2B.png" group-title="Noticias",LN+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743547252/ei/FBfsZ8T3NeCiobIPy6L88AQ/ip/2802%3A8010%3A21fc%3Af000%3A4c4%3Abd3e%3Ad445%3Aab42/id/m1cTHGQkUKg.1~45684603/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380152/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOlkDalOzg3WGyWAJr6U4rAt_BodXAxHZWJmVzqiLjX1pPXjfVD0hkyYR7gSOy5GrXDbS0PnYkq/spc/_S3wKmcI-3qT0gPxus_CiGFinNolyjWfPHf1rbFUN9VeT1XGuBf87vpbUac9j9XoSVkqS3A/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANB6M9DgpSmcxgeli4RXJ01XBLk2K_i_BXGX_bYQjUHPAiEA00E99pqH3v0Z2vm-pfHKkW55S0nHVjXW0-LHDpJU8g4%3D/file/index.m3u8
 
-TN******
-EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/TN.png" group-title="Noticias",TN
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+TN (expire)
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/TN.png" group-title="Noticias",TN
+https://dsr.ride.com.ar/tvmia/an07/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743547348/ei/dBfsZ8rXLsbW1sQP8r-J0Qc/ip/2802%3A8010%3A21fc%3Af000%3A4c4%3Abd3e%3Ad445%3Aab42/id/cb12KmMMDJA.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51380152/txs/51380152%2C51380153%2C51380154%2C51380155/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcOmnKCyCETfSNTePstLyIWPWijEJRnSjTYiB2J25iIfZt0q53sfFYPlYpg9TRfEWMntNGJbQE0Y/spc/_S3wKmQ-sTe2cEFOnsxrHW1PNRHoE9_Xv0OP1NiUH7afRwExroMxq-2ca_Hi4Rj0yYE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgY4rV4Pupd_yq01C6yNZMsZC9LoHFawgL6Oj8HVSGwSACIQDtTrgrJteQYGSVr-eVimicv3nhYxbqv7jsz-mdI6k1hQ%3D%3D/file/index.m3u8
 
-C5N******
+C5N (expira)
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Noticias/C5N.png.png" group-title="Noticias",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743517952/ei/oKTrZ-HqLqS26dsPkOTfkQo/ip/92.205.151.109/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/bui/AccgBcPokNYDsl3bEjV8kdkt0NC2LG1DtBLDdpN-EGpQ7wnmXOUbJvu7040aAhiVDnOKnPAd3VpgwbOX/spc/_S3wKhnAYR5pwjB73FBN7a2i9-1EJ5YVnxdVJbQ55fqjAffbIYE94NijO7zZwEFME8Nr8Es/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKsnuDp7_5aVKwnA6k1AaCMvhTJ6lEJc1FqegBP57gvsAiBvy8taB985sOQibEdmiTFtXuhIlfKeDwn7YXtj1lwW2Q%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="Noticias",C5N
+https://dsr.ride.com.ar/tvmia/an06/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743542016/ei/oALsZ_-tFOKi4dUPxOu22Qw/ip/2802%3A8010%3A21fc%3Af000%3A4c4%3Abd3e%3Ad445%3Aab42/id/jTDk5CswBVk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437495/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/maudio/1/bui/AccgBcM0iBTNUu_VfAv15qgzLNIr5h1D-ql52AiNNw7nwyhzHYXmHKGmEAtJgSzHsZHT18EKFlYBGWij/spc/_S3wKg0z-f2WVpx08WO7e2Csom0iyN-wlr0z1gHkSW_HhTM0KqGDEdkAUHifheSHezV1JMY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51435733/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALQqeFObPPfAPv-CSuizXmosnvt5rOByeMp8K7JxZtDjAiEAj_VLhYx89u_d_jiOMbml8Fttdj_kNyhBeWv5WS6iuic%3D/file/index.m3u8
 
 
 
@@ -540,6 +544,16 @@ Mega Ficcion
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/megaficcion.png" group-title="Cine",Mega Ficcion
 http://89.117.146.57/televall/YbVVqpeaWU/105.m3u8
 
+Todo Cine
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/sfbEpnwLN9LSi6mWM2BzYv0o_mqleBXJuqInnedZL_MpL9g3sRETgulMpaiD-IDt8tHRF_8kTA=s900-c-k-c0x00ffffff-no-rj" group-title="Cine",Todo Cine
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+
+Cine Romantico
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/linear-cine-romantico.png" group-title="Cine",Cine Romantico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
 Comedy Central
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/comedycentral.png" group-title="Cine",Comedy Central
@@ -561,31 +575,78 @@ Distrito Comedia
 http://89.117.146.57/televall/YbVVqpeaWU/12.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/distritocomedia/index.m3u8
 
-LifeTime
+Always Funny en Español
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/lifetime.png" group-title="Cine",LifeTime
-http://89.117.146.57/televall/YbVVqpeaWU/40.m3u8
-
-Kanal D
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/kanald.png" group-title="Cine",Kanal D
-http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/afe_canela_still_1920x1080_1.png" group-title="Cine",Always Funny en Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 
 Antena 3 Series
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/a3s.png" group-title="Cine",Antena 3 Series
 http://tv.teleclub.xyz/club/server_2/entretenimiento/antena3series/index.m3u8
 
-Tl Novelas
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tlnovelas.png" group-title="Cine",Tl Novelas
-http://89.117.146.57/televall/YbVVqpeaWU/34.m3u8
-http://tv.teleclub.xyz/club/server_3/mundo/tlnovelas/index.m3u8
-
 Bayres TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/BayresTV.png" group-title="Cine",Bayres TV
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+Canela TV Cinema
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_1.jpg" group-title="Cine",Canela TV Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
+
+Canela TV Clasicos
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-clasicos-16x9_8.jpg" group-title="Cine",Canela TV Clasicos
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
+
+
+
+NOVELAS Y DRAMAS
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Tl Novelas
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/tlnovelas.png" group-title="Novelas",Tl Novelas
+http://89.117.146.57/televall/YbVVqpeaWU/34.m3u8
+http://tv.teleclub.xyz/club/server_3/mundo/tlnovelas/index.m3u8
+
+LifeTime
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/lifetime.png" group-title="Novelas",LifeTime
+http://89.117.146.57/televall/YbVVqpeaWU/40.m3u8
+
+Kanal D
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://archive.org/download/UltraTV-Logos-Cine/kanald.png" group-title="Novelas",Kanal D
+http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
+
+Canela TV Narco-Drama
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-narcodrama-16x9.jpg" group-title="Cine",Canela TV Narco-Drama
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
+
+Canela TV Novelas Turcas
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-novelasturcas-16x9_1.jpg" group-title="Novelas",Canela TV Novelas Turcas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+
+Canela TV telenovelas
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-telenovelas-16x9_0.jpg" group-title="Novelas",Canela TV Telenovelas
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+Novelísima
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/w1snMhKwik97IWj_ZJLGraHMgzDwxGnkmiBkywhSCrI.jpg" group-title="Novelas",Novelísima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+Corazón
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/corazon_c_1920x1080.png" group-title="Novelas",Corazón
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
 (VIP) Cine Latino*****
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="Cine",(VIP) Cine Latino
@@ -632,8 +693,8 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 
 
-               CANAL DE DEPORTES
---------------                   ---------------------------------------------------------------------------------------------------------------------------
+CANAL DE DEPORTES
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ESPN
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -827,6 +888,11 @@ EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?r
 http://tv.teleclub.xyz/club/server_1/deportes/tudn/index.m3u8
 http://181.78.105.146:2000/play/a08j/index.m3u8
 
+TUDN
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudn.png?raw=true" group-title="Deportes",TUDN
+http://190.92.10.66:4000/play/a006/index.m3u8
+
 TUDN VIX +
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tudnvix.jpg?raw=true" group-title="Deportes",TUDN VIX +
@@ -836,6 +902,7 @@ InterneTV Deportes
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Internet_tv_deportes.jpg" group-title="Deportes",InterneTV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 InterneTV Deportes
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -859,7 +926,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/112.m3u8
 
 Adrenalina Sports Network
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/adrenalina-sports-networks/AdrenalinaSportsNetworks.png" group-title="Deportes",Adrenalina Sports Network
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_Adrenalina-%2820q6%29.png" group-title="Deportes",Adrenalina Sports Network
 http://89.117.146.57/televall/YbVVqpeaWU/120.m3u8
 
 Latin American Sports
@@ -874,14 +941,24 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 
 La Liga TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8,referer : https://cookiewebplay.xyz/
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png" group-title="Deportes",La Liga TV
 https://windnew.koskoros.ru/wind/premium84/mono.m3u8
+
+MotorVision
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Motorvision%2B_Logo_2023.svg/2560px-Motorvision%2B_Logo_2023.svg.png" group-title="Deportes",MotorVision
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 
 Garage TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FqFxog1.png" group-title="Deportes",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
+
+Canela Deportes
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/blanco_02_16x9.jpg" group-title="Deportes",Canela Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 (VIP) ESPN 6*****
 EXTINF:-1 tvg-logo="https://television-libre.tv//img/espn6.webp" group-title="Deportes",(VIP) ESPN 6
@@ -895,10 +972,9 @@ https://d2hpc3rszq.pelotahd.com/espn7/mono.m3u8?token=9c8ebb81bd837707d8e01236b4
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
 
-(VIP) ESPN Deportes*****
-EXTINF:-1 tvg-logo="https://television-libre.tv/img/espndep.png" group-title="Deportes",(VIP) ESPN Deportes
-https://coeld.pricesaskeloadsc.com/global/espndeportes/index.m3u8?token=3d06011d3c7fa7e472e1639df89f5404e670cff4-85-1743213314-1743180914
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
+(VIP) ESPN Deportes
+#EXTINF:-1 tvg-logo="https://television-libre.tv/img/espndep.png" group-title="Deportes",(VIP) ESPN Deportes
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 (VIP) Gol TV*****
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/GOL_TV_Stacked.png" group-title="Deportes",(VIP) Gol TV
@@ -925,9 +1001,9 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1owG
 https://b2zmawnpyww.fubohd.com/calientetv/mono.m3u8?token=d649bb11d18d4c88e8343ca1eb2d5ec0b0a5d79d-52-1743227026-1743191026
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
-(VIP) Sky Sports La Liga*****
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Deportes",(VIP) Sky Sports La Liga
-https://a2vlca.fubohd.com/sky_sports_laliga/mono.m3u8?token=09780473d84262812221a680d2a6593f56ae31e2-28-1743227234-1743191234
+(VIP) Sky Sports La Liga
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="Deportes",(VIP) Sky Sports La Liga
+http://190.92.10.66:4000/play/a001/index.m3u8
 
 (VIP) Sky Sports Bundesliga*****
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8Hi2oX75_S15PjV5JU3SPC7iUfow_t4Ubnw&s" group-title="Deportes",(VIP) Sky Sports Bundesliga
@@ -942,8 +1018,13 @@ https://am91cm5leq.fubohd.com/sky_bundesliga_mx/mono.m3u8?token=9c1b445a96caece6
 
 
 
-               CANALES INFANTIL
---------------                   ---------------------------------------------------------------------------------------------------------------------------
+CANALES INFANTIL
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+Paka Paka
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Pakapaka_logotipo_%282010-2016%29.png" group-title="Infantil",Paka Paka
+https://dsr.ride.com.ar/tvmia/an03/chunks.m3u8
 
 Baby First
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -952,7 +1033,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/56.m3u8
 
 Pequeradio TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/peque-radio-tv/PequeRadioTV.png" group-title="Infantil",Pequeradio TV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lWZeVWXXDW296CJEWg1PIPNAitYEL3TTK89CZe355O-A=s900-c-k-c0x00ffffff-no-rj" group-title="Infantil",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 Baby TV
@@ -962,12 +1043,12 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 
 Cartoonito
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonnetwork/index.m3u8
 
 Cartoonito
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/cartoonito_202503/Cartoonito.png" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png" group-title="Infantil",Cartoonito
 http://tv.teleclub.xyz/club/server_2/infantil/cartoonito/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/57.m3u8
 
@@ -1084,12 +1165,23 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 Cut the Rope - Om Nom Stories
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15i6aIh3HLOwYpNp8SMMc9C4V6YVWkg3jsQ&s" group-title="Infantil",Cut the Rope - Om Nom Stories
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ15i6aIh3HLOwYpNp8SMMc9C4V6YVWkg3jsQ&s" group-title="Infantil",Cut the Rope - Om Nom Stories
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 
+Toon Goggles En Español
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGFw0kLm3BjpgdRYfwRWzCxRYG8n3SvQQ1k-ETzZMZrLCrK1pC5Lkm3i-y9-XL2bc2_A&usqp=CAU" group-title="Infantil",Toon Goggles En Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 
+Toon Goggles
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLGFw0kLm3BjpgdRYfwRWzCxRYG8n3SvQQ1k-ETzZMZrLCrK1pC5Lkm3i-y9-XL2bc2_A&usqp=CAU" group-title="Infantil",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=125
 
-
+Canela Kids
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://mma.prnewswire.com/media/2093285/Canela_Kids_Loog_Logo.jpg?p=facebook" group-title="Infantil",Canela Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
                CANALES CULTURA
 --------------                  ---------------------------------------------------------------------------------------------------------------------
@@ -1189,23 +1281,23 @@ http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
 
 A Mas+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/a_20250328/A%2B.png" group-title="Cultura",A Mas+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3db572cf-3470-487c-951f-b856d1c38219/dfmc8kt-42c25e1b-3184-4a1c-9cb6-eee3230c3b4f.png/v1/fill/w_1200,h_630/a_mas_logo_by_gruydruamarillo_dfmc8kt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvM2RiNTcyY2YtMzQ3MC00ODdjLTk1MWYtYjg1NmQxYzM4MjE5XC9kZm1jOGt0LTQyYzI1ZTFiLTMxODQtNGExYy05Y2I2LWVlZTMyMzBjM2I0Zi5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-pQoV5vs9itAS6cPRfiaxMtYz5degh_51Hx46jQXZnc" group-title="Cultura",A Mas+
 http://89.117.146.57/televall/YbVVqpeaWU/91.m3u8
 
 E!
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://ia600708.us.archive.org/1/items/e_20250324/E%21.png" group-title="Cultura",E!
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="Cultura",E!
 http://89.117.146.57/televall/YbVVqpeaWU/29.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 TLC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Cultura",TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 TLC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/tlc_20250324/TLC.png" group-title="Cultura",TLC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Cultura",TLC
 http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
 
 Turistik
@@ -1216,12 +1308,12 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 Chacra TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/chacra-tv/ChacraTV.png" group-title="Cultura",Chacra TV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjH5NcZOQiwugHG4rSmmhjGtZfh5uxK06x4bZZwkesl60R1X-Sm7x2gnxlzcWnxSt1tD0L_rXLkVUvkUT_JjbTWc5izphx_e9ELEymuxoWB04TihyYkvMDH3ZA6TZhK6gSYFXOgZIqOZRZjAQ5yV-olnWHqbOX0VOkASmngZe1AR6_wWdRJDpPOKO85=w1200-h630-p-k-no-nu" group-title="Cultura",Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 Unife TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/UNIFETV/UNIFETV.png" group-title="Cultura",Unife TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Cultura",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
 (VIP) Discovery Familia*****
@@ -1249,25 +1341,25 @@ http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
 RT en Español (RUS)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/rt_20250328/RT.png" group-title="Noticias Internacional",RT en Español (RUS)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png" group-title="Noticias Internacional",RT en Español (RUS)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/rtenespanol/index.m3u8
 
 DW en Español (ALE)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/dw_20250328/DW.jpg" group-title="Noticias Internacional",DW en Español (ALE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="Noticias Internacional",DW en Español (ALE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/dwchannel/index.m3u8
 
 Canal 24 Horas (ESP)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-24-horas/Canal24Horas.png" group-title="Noticias Internacional",Canal 24 Horas (ESP)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2399px-Logo_TVE-24h.svg.png" group-title="Noticias Internacional",Canal 24 Horas (ESP)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 Telesur (VEN)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/tele-sur/TeleSUR.png" group-title="Noticias Internacional",Telesur (VEN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="Noticias Internacional",Telesur (VEN)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -1302,15 +1394,23 @@ http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
 Multimedios TeleDiario Now (MEX)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqz7pVkQJ_YE2tXABFPEae0fznXMwawl4cQ&s" group-title="Canales Internacionales",Multimedios TeleDiario Now (MEX)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1ynn&did=3dafe10496907bcf3d5a3415a3135845&ifa_type=sessionid&app_bundle=com.canela.ott&app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&app_domain=canela.tv&app_name=canelatv&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=canelatv&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=en&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=en&custom_17=es&country=mx&country_region=mexico%20city&postal_code=07890&site_page=https%253a%252f%252fwww.canela.tv%252fes%252flinear%252ftelediario-now&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&timestamp=1726015280&id=69276&ip=2806%3A2f0%3Aa2a0%3Afb1d%3A7121%3A79d4%3Ac454%3A16ac&override_expiration=1500&deliveryProfileId=23762&sign=1MztDmTEi0FHwHXT9qSFpZNa08kwr6CgtXl8ZbK0rIs%3D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAqz7pVkQJ_YE2tXABFPEae0fznXMwawl4cQ&s" group-title="Noticias Internacional",Multimedios TeleDiario Now (MEX)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
+C4 en Alerta (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/c4_en_alerta_1920x1080_1.jpg" group-title="Noticias Internacional",C4 en Alerta (MEX)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
+Telemundo Noticias (MEX)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Noticias Internacional",Telemundo Noticias (MEX)
+http://190.92.10.66:4000/play/a004/index.m3u8
 
-
-
-
-
+RPP TV (PER)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Radio_Programas_del_Per%C3%BA_logo.svg/1200px-Radio_Programas_del_Per%C3%BA_logo.svg.png" group-title="Noticias Internacional",RPP (PER)
+https://dsr.ride.com.ar/tvmia/an08/chunks.m3u8
 
 
 
@@ -1327,7 +1427,7 @@ http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
 Canal 12 Web (Puerto Madryn, Chubut)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-12-web-puerto-madryn-chubut/Canal12WebPuertoMadrynChubut.jpg" group-title="Provincia",Canal 12 Web (Puerto Madryn, Chubut)
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Madryn-TV-Canal-12-en-vivo-Online.png" group-title="Provincia",Canal 12 Web (Puerto Madryn, Chubut)
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 Canal 2 AVCHD (Monte Casero, Corrientes) (cierra trasmision 00:00)
@@ -1357,12 +1457,12 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 CPE TV (La Pampa)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/cpetvla-pampa/CPETVLa%20Pampa.jpg" group-title="Provincia",CPE TV (La Pampa)
+#EXTINF:-1 tvg-logo="https://revistafibra.info/wp-content/uploads/2014/10/cpe.png" group-title="Provincia",CPE TV (La Pampa)
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 
 Canal 13 (La Rioja)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-13-la-rioja/Canal13La%20Rioja.jpg" group-title="Provincia",Canal 13 (La Rioja)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/C13_logo_2020.png/revision/latest?cb=20210526010959&path-prefix=es" group-title="Provincia",Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
 El Siete (Mendoza)
@@ -1372,13 +1472,13 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1743163203/ei/4
 
 Canal 9 Televida (Mendoza)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-9-televida-mendoza/Canal9TelevidaMendoza.jpg" group-title="Provincia",Canal 9 Televida (Mendoza)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Canal_9_Televida_%28Logo_2015%29.webp" group-title="Provincia",Canal 9 Televida (Mendoza)
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://unlimited1-us.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 Canal 2 (Misiones)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-2-misiones/Canal2Misiones.jpg" group-title="Provincia",Canal 2 (Misiones)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/C2_Posadas_%282022%29.png/revision/latest?cb=20230110141654&path-prefix=es" group-title="Provincia",Canal 2 (Misiones)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 Canal 4 (Posadas, Misiones)
@@ -1464,12 +1564,18 @@ https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
 Azteca Internacional HD (Mexico)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Azteca_Internacional_2008.png" group-title="Canales Internacionales",Azteca Internacional HD (Mexico)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
 Azteca Uno (Mexico)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/aztecauno.png" group-title="Canales Internacionales",Azteca Uno (Mexico)
 http://tv.teleclub.xyz/club/server_2/mundo/aztecauno/index.m3u8
+
+Azteca Uno (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/aztecauno.png" group-title="Canales Internacionales",Azteca Uno (Mexico)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
 Azteca 7 (Mexico)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -1599,9 +1705,9 @@ TVC (Mexico)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tvc_2003.png/200px-Tvc_2003.png" group-title="Canales Internacionales",TVC (Mexico)
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22306d19e5-c7af-41e3-9492-6bdc13aa2a40%22
 
-(VIP) Unimas (Mexico)
+Unimas (Mexico) (expire)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",(VIP) Unimas (Mexico)
+EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/unims.png?raw=true" group-title="Canales Internacionales",Unimas (Mexico)
 https://dcs-vod.mp.lura.live/vod/p/544400/prog.m3u8?i=i176963794-nef6bb355-3b11-4638-814c-66e170fc7e7a&anvtrid=a20b00583e11b2cce247c256077ed711
 http://tv.teleclub.xyz/club/server_2/mundo/unimas/index.m3u8
 
@@ -1609,6 +1715,17 @@ TVOAI Channel (Mexico)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/7oV4CIlUZ68/maxresdefault.jpg?v=6615783c" group-title="Canales Internacionales",TVOAI Channel (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
+
+Canela TV (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs" group-title="Canales Internacionales",Canela TV (Mexico)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=155
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
+Clic (Mexico)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24IwGdSiaUs8n0n-DqqfrJ-bxGnemSpEGYw&s" group-title="Canales Internacionales",Clic (Mexico)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 
 Canal 21 (El Salvador)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -1699,7 +1816,12 @@ Telemundo (Puerto Rico)
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tlmndo.png?raw=true" group-title="Canales Internacionales",Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/telemundopuertorico/index.m3u8
+
+Telemundo (Puerto Rico)
+#EXT-X-STREAM-INF:BANDWIDTH=30,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/tlmndo.png?raw=true" group-title="Canales Internacionales",Telemundo (Puerto Rico)
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_profile1.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 
 TVE (España)
@@ -1749,23 +1871,23 @@ EXTINF:-1 tvg-logo="https://mexicotravelchannel.com.mx/wp-content/uploads/2025/0
 Vorterix SD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="Radio en Vivo",Vorterix SD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 Vorterix HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://archive.org/download/vorterix_202503/Vorterix.jpg" group-title="Radio en Vivo",Vorterix HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="Radio en Vivo",Vorterix HD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 AN24
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/an-24_202503/An24.png" group-title="Radio en Vivo",AN24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="Radio en Vivo",AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 RTN (Neuquen)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/RTNNeuquen/RTNNeuquen.jpg" group-title="Radio en Vivo",RTN (Neuquen)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1829646108852686848/5glyfgw8_400x400.jpg" group-title="Radio en Vivo",RTN (Neuquen)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 Azahares Radiovisual Multimedia
@@ -1796,9 +1918,14 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 MusicTop
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/music-top/MusicTop.jpg" group-title="Musica",MusicTop
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Musica",MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 http://tv.teleclub.xyz/club/server_2/musica/musictop/index.m3u8
+
+MusicTop
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Musica",MusicTop
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 MTV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -1839,14 +1966,14 @@ http://89.117.146.57/televall/YbVVqpeaWU/14.m3u8
 CM SD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/cm_20250328/CM.png" group-title="Musica",CM SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica",CM SD
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 CM HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://archive.org/download/cm_20250328/CM.png" group-title="Musica",CM HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica",CM HD
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 Beats Radio
@@ -1856,12 +1983,12 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 Telpin TV Pinamar
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/telpin-tvpinamar/TelpinTVPinamar.png" group-title="Musica",Telpin TV Pinamar
+#EXTINF:-1 tvg-logo="https://telpintv.com.ar/assets/logo.c9bbab47.png" group-title="Musica",Telpin TV Pinamar
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 Alterna TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/alterna-tv/Alterna%20TV.png" group-title="Musica",Alterna TV
+#EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="Musica",Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
 EnerGeek Radio
@@ -1871,23 +1998,28 @@ http://tv.teleclub.xyz/club/server_url/musica/energeekradio/index.m3u8
 
 Tierramia TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/tierramia-tv/TierramiaTV.jpg" group-title="Musica",Tierramia TV
+#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" group-title="Musica",Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 Chamame TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/chamame-tv/ChamameTV.png" group-title="Musica",Chamame TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGiHCXRWEAu8TQhuxobmeeEQCbu7rW22sxg&s" group-title="Musica",Chamame TV
 https://srv2.zcast.com.br/chamame/chamame/chunklist_w1771895490.m3u8
 
 002 Radio
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/002-radio_202503/002Radio.png" group-title="Musica",002 Radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqSquMSAy4bV-koxMn6AwvRtPFdjd2J-OvA&s" group-title="Musica",002 Radio
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 GikTVMx
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Musica",GikTVMx
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
+
+CANELA MUSIC
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjXO71xmLm0x_pa9PsRFKT1YJ_gKfOv46ESYrT9gY2yjhsvl1d_jtAi6soDTupdp9e_V1ffL_w=s900-c-k-c0x00ffffff-no-rj" group-title="Musica",CANELA MUSIC
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 Top Latino*****
 EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="Musica",Top Latino
@@ -1927,15 +2059,18 @@ https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/p
 
 Canal 5 Santa Maria TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/canal-5-santa-maria-tv/Canal5SantaMariaTV.png" group-title="Religion",Canal 5 Santa Maria TV
+#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/09/santa-maria-tv.png" group-title="Religion",Canal 5 Santa Maria TV
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 Solidaria TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/solidariatv/solidariatv.png" group-title="Religion",Solidaria TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1174459317153607682/2DgBv48G_400x400.jpg" group-title="Religion",Solidaria TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-
+Inspiración y Fe
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg" group-title="Cine",Inspiración y Fe
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 
 
@@ -1956,7 +2091,7 @@ http://tv.teleclub.xyz/club/server_2/24_7/lospicapiedras/index.m3u8
 
 --Bob Esponja--
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="VIDEOS 24/7",Bob Esponja
+EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="VIDEOS 24/7",Bob Esponja
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=d0377fb8-0c97-11f0-8c2e-ae0cb4ff71cf&sid=d0377fb8-0c97-11f0-8c2e-ae0cb4ff71cf&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJkMDM3N2ZiOC0wYzk3LTExZjAtOGMyZS1hZTBjYjRmZjcxY2YiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NzBhMzpjODFhOjEzZDY6YjBlMiIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTM0LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xMC4wLTc2NWNjNmEyNDdmYmIxMTgzNTViNzAxYTlmNGFjMzgxYmQyYmQzZjIiLCJjbGllbnRJRCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJmd1ZjSUQyQ29wcGEiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMjAsMTAwMDAsMTAwMDksMTAwMTUsMTAwMTYsMTAwMDMsMTAwMTMsMTAwMTQsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVEZtT0RkaU9UY3RZbUZtTXkwME1EVXhMVGhoWkRJdE9UQTBaakV4TWpBMk56a3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQzMzM3MDYyLCJpYXQiOjE3NDMyNTA2NjIsImp0aSI6IjllMjMyODgyLWYwMzQtNDRmZi05ZTA4LWEzN2YyY2MxOGE3OCJ9.E9YU7eRT7kP5rayW-vIhc5mbDVwlES7c-1PGghE31Ic&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEuWwsrgGL5-DsEsfer9TCRSy39_OuuuO--tEjjdm7EMO6PKXke294YyuM_MCN9aajCY2wkGztwWAUqlcxzy2yOkJg2gylyUzZjwMJZLPi_FK7WWDYfw1sDPj1zrURoY_v1H3swKThdWiCTPdl2jMDwGNRpChPas8nx69219jSgMbIzFuqDiDMdroBrgMnMskgdyATampufylVrPDxzHuZ1WmZZS7QWhpKPgTI_6AEU3kgP1HknPKV4cXjRG5ZtQ_b1FToV9jS2QMwUQj5ve-cULZRNfhknhiZ1H35xVpSr8tTzzV0fWD5yYJfuzx91CoWX4_qAtl8nAmgT6Mc8gelxo2OB1snq19Z6Y85kUJenBRVhClNthyeryV3T0-phjtoBKt2lQwOS2dBftJuqLt4MvTkgzpjewMh-l6OXRYjREyGvIZBJ2GyI5fF2srHVfr-MV2Sb2NYkbBL5uLL07fm0slDoKo7_5NKYPTAreXP5wEGZkxBrKYKJUDBF-KRX71BchWbEWb20g1_ZRLy89QYR50zDRf4QtRfDvNoQMwCqOFjZSy8rl84XbeBVffOIFwzr72u17XDltpdTtf-wq1o11zCZoQH4dSpV3D2kjCjOuC_AnbImEQ6h9wcDrPBGdSWLIrexvwyokxcT9QEqxU9K8I1SX35MnXm-xoFcX7oy8DkEVBeiv1tvceVj-AO-Avy0otzrzI6CdvMrMDNlcEbQwSCgl-wGT8EMlnRoGtOU49Al6QnpwQtttkIuOvFm_DvbpDVgdXu4Cql44OC3UP4Npl6boDoFT3gORr0kPx0FVe6ROYcyDiCa7KFvbUk2WJY5QP1TQC2B73nhJBTvhD8gov1T3RV_lZVhGLXsRr6QQ-TnpLPRv1Y34JCxRCYwUHLX8rDESbOE5VHvpg50UbgQmw5gDHacPhu1jIHPDNxFgfEKOO_ONx_QLd65zRxtuxhPfphcodNoimlF_N9Wp5uieH64DG6nOj3UkAYtwFmtsDGPqQbXpW8bcFa4Ybf5gfuKRnpXSPMvunZnxOvSmZV48sW7ZUiN3Qie5k2CDua9jwnLm2B3OTxu1JLyeb0Id1QfIZksYOzWqulbHaUYEWlCSHW4gbt-074WMctMYXPZFCAttcAhdjYUO7-npG80xsLq6KMhjh10DkscLJ-urFtczkOlS4YYrgGjHaluqrzbO1boriRYp7UnJ7qEGP3z9ImG0wPUwV418GPnML2aBBP1hOJzlTkPpGQNlR7lDR5r_PECr2ixJ4hKGLSqR2oIBEUbxHnsNS_6x-rxxQAv9vGkUDwTwrV54U6LjkHmlbdtUEWqPMtWHmjCffgMTrcT3STt1rnEm1NXG5lASeMga7lQBsoEZtiAUYA7AlM5PXSDFdGkRGeZHXwFfietr1YkrOK1_LeGqwlGoDZkaAo82xI-eARHx0fuFzL3vlelSgCVcSf3YTxnH_Av6ZSy96MJvjz_edAH7u93qeMZjW8Rox9sETHCTJlc1F7iAymNTLEP5atWvFceEMAkSqd1xZkximAcKqAEME1bXjKmGD7cU8Al3CT_SyJDjGTYx_6JqoCSpaeCxuEkvISJO25r70oj-0Ims3_Z1S0KkF2kGrmUa3RLOfWE66INIIGWwf0__Xlr37TRCPiEmFmD8i7GVuBQAGF_5-vo_swZTA-O6hBjUrXo3gwqftJtwUzYpvd3VLwQPLG1DEzNmLD-Pc0_3mqnzN1dOcmOu7OmVKYG2phaqko7Jvws_zx5IiIOSU3F-1kdqt9KSynVjTXu8o0VD-JiCuvfLpHsKLoWvtTWKPgDHtOqHxscj23LKZe4XpRUkVPdtKbLtt6ggZpd6noooc6jT1SBjRERTlMW3pMx_jt&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2270fdb10f-8469-4521-b638-6d76fcb85b23%22%2Csu
 
 --Pitufos--
@@ -1966,12 +2101,12 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname
 
 --Padrinos Mágicos--
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/los-padrinos-magico/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos
+EXTINF:-1 tvg-logo="https://archive.org/download/los-padrinos-magico/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=&appName=web&appVersion=9.10.0-765cc6a247fbb118355b701a9f4ac381bd2bd3f2&app_name=web&clientDeviceType=0&clientID=91f87b97-baf3-4051-8ad2-904f11206791&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=91f87b97-baf3-4051-8ad2-904f11206791&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=134.0.0&marketingRegion=VE&serverSideAds=false&sessionID=80624b4e-0c97-11f0-850a-6ab4b3f50a20&sid=80624b4e-0c97-11f0-850a-6ab4b3f50a20&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImY4ZmYyNjY5LTA1NzQtNDJhMC04ZGIyLWQ3MGJkMjczYjgxMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI4MDYyNGI0ZS0wYzk3LTExZjAtODUwYS02YWI0YjNmNTBhMjAiLCJjbGllbnRJUCI6IjI4MDI6ODAxMDoyMTkxOmNlMDE6NzBhMzpjODFhOjEzZDY6YjBlMiIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlcyIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTM0LjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOS4xMC4wLTc2NWNjNmEyNDdmYmIxMTgzNTViNzAxYTlmNGFjMzgxYmQyYmQzZjIiLCJjbGllbnRJRCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJmd1ZjSUQyQ29wcGEiOiI5MWY4N2I5Ny1iYWYzLTQwNTEtOGFkMi05MDRmMTEyMDY3OTEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjkxZjg3Yjk3LWJhZjMtNDA1MS04YWQyLTkwNGYxMTIwNjc5MSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMjAsMTAwMjEsMTAwMDMsMTAwMDksMTAwMTMsMTAwMTUsMTAwMTYsMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpPVEZtT0RkaU9UY3RZbUZtTXkwME1EVXhMVGhoWkRJdE9UQTBaakV4TWpBMk56a3giLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzQzMzM2OTI4LCJpYXQiOjE3NDMyNTA1MjgsImp0aSI6IjQ1MzNjYzMyLTk5Y2QtNGI3OC04MzUyLTlmYjM0MTVmNDU1NyJ9.QoxYjSQQK0gnMEf9nelG3jNEDm1rsEOw9SLrYmuha8g&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEgSmzwlTcPMp8rcRvOIhhEnEBXLmm9cQogChP6GZl8oKxo9lg33SX6mtmbkzBinlmEvb5qRcjBIvBS3hqAyYjRsTK_qyFbMEpC-42zoRmhUA71YVRh29NfVK9qND1mOxp1lArHzVW5d-UWq0xShbvsX2QTRqR2NWvBtslHjDntMoRJeK04-uWbiYmUNeLfKN8Rh53jHM6aAHFHJrY8fsSmRu-upCNkwj-Y2xocExu4wZxS8gWc2WumtwqOBvd2HAQ1w7kYvuWicIEoU3ByDnHBQPQznodHqGSHy9kCxi3B0OWRwb1_Gr7IUoqA2CFtCgWw63mBUQewvwndKFOm9C4DzN9kzWMvWPQnqJla8x0eJPNcMrklWgf_IGCzkOYHI-B4kT0KIggagfiWtliMuCjeLCqTCkvCtoBFRDzt0UtAp38fI0LnwU5acAd6OeTlJDuQsSwpe3Cac-N1zi99NpEB8Jp0M6TZrSIFORo6WSUOG_mazaFMFItGTUo80N_NXKO7hJy2yi1tTWoWW0N6dJDEZVoR6I2qAX5Yi4G3GjTIDrSwRtp4BWHVJD5gYQmlxPqzzLuC1ncr703s7as2Iv7ZuOF28SVZF1DBRvCAe_8GSPT_UEkzcW-WghN6ZV7RRgFM2aiZCwjolczhMRcLuFAOZG5MmfJlIxLXEc4vlaml-W-vOEjiXSxZw_6QSU7JyAC-HzpwKDFPDdAopCrenl22zWCPN_3rB99b-tgMBiY9TZHpJ750ZeMOkwOnGxIK3o7do4lfkmaaI4rDfu_LRisGiQ-glaa8BxOX6SwYWcY4FxfklCWABDouxGv_-FOmn5bcuysYjLpfWrb2mgvOKmsJkvlwtcJ7KV5CayrYIdzDZ6NDxAEUgK-94dij4EaLjdr9NB8QN00gCkH5601Fq8OWE4AXmBQFx29MNoUPCZ4DyDs_ilKyflO3SGnHrQlA_z8iCwb8MB-0tIMCP2sz_7uqmwnYlrrpdSLYaKTyQHsbfbUd4WMwE7Q8aTUSHoEYBbUAsLVVwQ9KwoBArgFgmcuDbUV7qGSortLoZOBquqGJdivFlgNfRolOVepnCpz3lcAioGrf6qlPVndO2KuLtqViHH1PULZFRY0IVNudKNewPYawi30xRmiZQj-a6qKPnE0vG_DeN4fd6j8QSLn0eroZgz1FMfCSJmGwUUDk9bUX91HWG1TBN71r2qTffNSdsdNTSki5abdElXNBLhEng6Z6K0UePyxNZkg8RJKC_xtFhFjBzLIl4-_rS3TQp5UKfVrku8HjARFR1cbVHExt7y3FRsUxlMIPrvobYF6V4ouqQdxpu0LO71ABuithPRMm74ys34Jt4MAbZaIelaY2TX_-vkRzVBoCJZSA3sg-RO6jjhKBOhDWcXfRojtxgMMoCj7s0vFuvJsLewodNNZyf2jTiGPvNVkpCLRzaapswGWMPlIwdan_HY-lWJgP8xjYe_BxnPn45ZNUnX7Sumi8F8pKHH2quDb6j69oUBbJLALP9RHlOKCPc1MMxctrbemdW37DGRpFAH-2tfxSfQATNz-OniPcfD2VzXhjt5nf6nUPKJNzuqnFdlCKM2d5unv&eventVOD=false&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%223cfae42a-227d-4ca8-ab71-3aedccaca4fe%22%2Csu
 
 --Chapulin Colorado--
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/chapul-n-colorado-logo/Chapul_n_colorado_logo.png" group-title="VIDEOS 24/7",Chapulin Colorado
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/800px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="VIDEOS 24/7",Chapulin Colorado
 http://tv.teleclub.xyz/club/server_2/24_7/chapulincolorado/index.m3u8
 
 --Chespirito--
@@ -1995,9 +2130,9 @@ http://tv.teleclub.xyz/club/server_2/24_7/elprincipedelrap/index.m3u8
 --Los Simpsons--*****
 EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/SIMPSONS.png?raw=true" group-title="VIDEOS 24/7",Los Simpsons
 
-
-
-
+--Conflicto TV--
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1cbdf5a8-7c49-4a70-9c60-e89414ff3409/ElConflicto_artwork_vertical.jpg" group-title="VIDEOS 24/7",Conflicto TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 
 
 
@@ -2043,7 +2178,7 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 
 CBS News Boston (EEUU)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/CBSNBoston/CBSNBoston.png" group-title="Otros Idiomas",CBS News Boston (EEUU)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lcPZlEx8tnvWeYcTEvxy2mjt-x5Gt1hCDdWTcKT78194SUBFKaZ1rAROyoz4kbrYuUds5p8ioQ=s900-c-k-c0x00ffffff-no-rj" group-title="Otros Idiomas",CBS News Boston (EEUU)
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 
 CBS News Miami (EEUU)
@@ -2128,20 +2263,50 @@ The Archive TV (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=45
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=74
 
+Galxy TV (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa1B00SHIpoCondeW8svbvJ3KIOKXcRNoXew&s" group-title="Otros Idiomas",Galxy TV (EEUU)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=85
+
+Cheddar TV (EEUU)
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTE4NzI2NjItMTUzNC00YWQwLTk0NTUtNjgxNWY4NWNjYjNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Otros Idiomas",Cheddar TV (EEUU)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
+
+
              CAMARAS VIGILANCIA
 -----------                     --------------------------------------------------------------------------------------------------------------------------
 
 --Camaras de Villa Gesell (Av. 3 y 104) FHD--
-#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (Av. 3 y 104) FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/46/62/1d/46621deda7a758201e02a4327bc40557.jpg" group-title="Camaras",Camaras de Villa Gesell (Av. 3 y 104) FHD
 http://cam104y3.gesell.com.ar/playlist.m3u8
 
 --Camaras de Villa Gesell (La Pinocha) FHD --
-#EXTINF:-1 tvg-logo="https://archive.org/download/villa-gesell/VillaGesell.jpg" group-title="Camaras",Camaras de Villa Gesell (La Pinocha) FHD
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/46/62/1d/46621deda7a758201e02a4327bc40557.jpg" group-title="Camaras",Camaras de Villa Gesell (La Pinocha) FHD
 http://camlapinocha.gesell.com.ar/playlist.m3u8
 
 --Camaras de Santa Teresita (Costa)--
 #EXTINF:-1 tvg-logo="https://www.santateresita.com.ar/images/logo.png" group-title="Camaras",Camaras de Santa Teresita (Costa)
 https://video.estadodelmar.com.ar/mobile/santateresita/index.m3u8
 
+--La Perla - (Mar Del Plata)--
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq2dPcqVsOXQBeq5ie1TByHqN3Zad-5mb3qg&s" group-title="Camaras",La Perla - (Mar Del Plata)
+https://video2.estadodelmar.com.ar/mobile/laperla/index.m3u8
 
-------------events-----------------------------------------------------------------------------------------------------------
+--Tierra del fuego- (Ushuaia)--
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT4Ioet7Ln8T12p0PSJrVMIdvl5oxy41VWA&s" group-title="Camaras",tierra del fuego - (Ushuaia)
+https://hd-auth.skylinewebcams.com/live.m3u8?a=msaf5bc1qf83crk6caqves7l10
+
+ASMR
+-----------------------------------------------------------------------------------------------------------------------
+
+--Chimenea--
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-premium/diseno-logotipo-chimenea_751847-45.jpg" group-title="ASMR",Chimenea 24hs
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+
+
+
+
+
