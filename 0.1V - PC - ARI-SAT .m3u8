@@ -120,7 +120,7 @@ Canal 10 de Junín
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-id="Canal10deJunin.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",Canal 10 de Junín
 #EXTVLCOPT:http-user-agent=iPhone
-#https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
+https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 Canal 10 (Mar del Plata)
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -695,7 +695,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
 
 Canela TV Narco-Drama
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/CanelaTVNarco-Drama.png" group-title="Cine",Canela TV Narco-Drama
+#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/CanelaTVNarco-Drama.png" group-title="Novelas",Canela TV Narco-Drama
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
 
 Canela TV Novelas Turcas
@@ -746,8 +746,9 @@ http://89.117.146.57/televall/YbVVqpeaWU/93.m3u8
 ESPN 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",ESPN 2
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/115.m3u8
+https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
+
 
 ESPN 2
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
@@ -980,7 +981,7 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 AYM SPORTS SD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/aymsports.png" group-title="Deportes",AYM SPORTS SD
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/aymsports.png" group-title="Deportes",AYM SPORTS SD
 http://89.117.146.57/televall/YbVVqpeaWU/118.m3u8
 
 ECDF
@@ -1186,7 +1187,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
 
 Fanpop TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-id="https://archive.org/download/Infantil-Logo-120x120/fanpoptv.png" group-title="Infantil",Fanpop TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/fanpoptv.png" group-title="Infantil",Fanpop TV
 https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8
 
 EnerGeek Retro
@@ -1201,7 +1202,7 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 
 Locomotion TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-id="https://archive.org/download/Infantil-Logo-120x120/locomotion.png" group-title="Infantil",Locomotion TV 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/locomotion.png" group-title="Infantil",Locomotion TV 
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 Pluto TV Anime Accion******
@@ -1243,151 +1244,150 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 
 
-               CANALES CULTURA
---------------                  ---------------------------------------------------------------------------------------------------------------------
-
+CANALES DE CULTURA
+-----------------------------------------------------------------------------------------------------------------------------------
 
 Animal Planet
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",Animal Planet
 http://tv.teleclub.xyz/club/server_2/cultura/animalplanet/index.m3u8
 
 Animal Planet
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="Cultura",Animal Planet
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",Animal Planet
 http://89.117.146.57/televall/YbVVqpeaWU/54.m3u8
 
 Disccovery ID
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryid.png" group-title="Cultura",Disccovery ID
 http://tv.teleclub.xyz/club/server_2/cultura/disccoveryid/index.m3u8
 
 Disccovery ID
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/did.png?raw=true" group-title="Cultura",Disccovery ID
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryid.png" group-title="Cultura",Disccovery ID
 http://89.117.146.57/televall/YbVVqpeaWU/26.m3u8
 
 Disccovery Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discovery-channel.png" group-title="Cultura",Disccovery Channel
 http://tv.teleclub.xyz/club/server_2/cultura/discoverychannel/index.m3u8
 
 Disccovery Channel
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="Cultura",Disccovery Channel
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discovery-channel.png" group-title="Cultura",Disccovery Channel
 http://89.117.146.57/televall/YbVVqpeaWU/45.m3u8
 
 H&H Discovery
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="Cultura",H&H Discovery
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Home_%26_Health.png" group-title="Cultura",H&H Discovery
 http://89.117.146.57/televall/YbVVqpeaWU/30.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryh_h/index.m3u8
 
 Discovery Science
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="Cultura",Discovery Science
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryscience.png" group-title="Cultura",Discovery Science
 http://89.117.146.57/televall/YbVVqpeaWU/47.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryscience/index.m3u8
 
-Theater Discovery id
+Theater Discovery HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="Cultura",Theater Discovery id
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_theater_HD.png" group-title="Cultura",Theater Discovery HD
 http://89.117.146.57/televall/YbVVqpeaWU/48.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoverytheater/index.m3u8
 
 Discovery Turbo
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",Discovery Turbo
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryturbo/index.m3u8
 
 Discovery Turbo
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="Cultura",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",Discovery Turbo
 http://89.117.146.57/televall/YbVVqpeaWU/49.m3u8
 
 World Discovery HD
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="Cultura",World Discovery HD
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/World_Discovery_HD.png" group-title="Cultura",World Discovery HD
 http://89.117.146.57/televall/YbVVqpeaWU/50.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryworld/index.m3u8
 
 Encuentro
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/613px-Logo_del_canal_Encuentro.svg.png" group-title="Cultura",Encuentro
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/encuentro.png" group-title="Cultura",Encuentro
 https://dsr.ride.com.ar/tvmia/an13/chunks.m3u8
 
 El Gourmet
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="Cultura",El Gourmet
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Elgourmet_23.png" group-title="Cultura",El Gourmet
 http://tv.teleclub.xyz/club/server_2/cultura/elgourmet/index.m3u8
 
 History
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",History
 http://89.117.146.57/televall/YbVVqpeaWU/43.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history/index.m3u8
 
 History
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="Cultura",History
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",History
 http://tv.teleclub.xyz/club/server_3/cultura/history/index.m3u8
 
 H2 History
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="Cultura",H2 Hyistory
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="Cultura",H2 History
 http://89.117.146.57/televall/YbVVqpeaWU/52.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/history2/index.m3u8
 
 National Geographic
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="Cultura",National Geographic
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/National-Geographic.png" group-title="Cultura",National Geographic
 http://89.117.146.57/televall/YbVVqpeaWU/44.m3u8
 http://tv.teleclub.xyz/club/server_2/cultura/nationalgeographic/index.m3u8
 
 A Mas+
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3db572cf-3470-487c-951f-b856d1c38219/dfmc8kt-42c25e1b-3184-4a1c-9cb6-eee3230c3b4f.png/v1/fill/w_1200,h_630/a_mas_logo_by_gruydruamarillo_dfmc8kt-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjMwIiwicGF0aCI6IlwvZlwvM2RiNTcyY2YtMzQ3MC00ODdjLTk1MWYtYjg1NmQxYzM4MjE5XC9kZm1jOGt0LTQyYzI1ZTFiLTMxODQtNGExYy05Y2I2LWVlZTMyMzBjM2I0Zi5wbmciLCJ3aWR0aCI6Ijw9MTIwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-pQoV5vs9itAS6cPRfiaxMtYz5degh_51Hx46jQXZnc" group-title="Cultura",A Mas+
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="Cultura",A Mas+
 http://89.117.146.57/televall/YbVVqpeaWU/91.m3u8
 
 E!
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" group-title="Cultura",E!
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",E!
 http://89.117.146.57/televall/YbVVqpeaWU/29.m3u8
 http://tv.teleclub.xyz/club/server_2/mundo/canal_e/index.m3u8
 
 TLC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Cultura",TLC
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC
 http://tv.teleclub.xyz/club/server_2/mundo/tlc/index.m3u8
 
 TLC
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Cultura",TLC
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC
 http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
 
 Turistik
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/turistik.png" group-title="Cultura",Turistik
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/turistik.png" group-title="Cultura",Turistik
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 Chacra TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjH5NcZOQiwugHG4rSmmhjGtZfh5uxK06x4bZZwkesl60R1X-Sm7x2gnxlzcWnxSt1tD0L_rXLkVUvkUT_JjbTWc5izphx_e9ELEymuxoWB04TihyYkvMDH3ZA6TZhK6gSYFXOgZIqOZRZjAQ5yV-olnWHqbOX0VOkASmngZe1AR6_wWdRJDpPOKO85=w1200-h630-p-k-no-nu" group-title="Cultura",Chacra TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/ChacraTV.png" group-title="Cultura",Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 Unife TV
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/UNIFE.jpg" group-title="Cultura",Unife TV
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/UNIFETV.png" group-title="Cultura",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-(VIP) Discovery Familia*****
-EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dfamilia.png?raw=true" group-title="Cultura",(VIP) Discovery Familia
+Discovery Familia*****
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Family.png" group-title="Cultura",Discovery Familiy
 http://tv.teleclub.xyz/club/server_2/cultura/discoveryfamilia/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
-(VIP) NatGeo Mundo*****
-EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/natge0mund.png?raw=true" group-title="Cultura",(VIP) NatGeo Mundo
+NatGeo Mundo*****
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Nat_Geo_Mundo.png" group-title="Cultura",NatGeo Mundo
 http://tv.teleclub.xyz/club/server_2/cultura/natgeomundo/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenedge/index.m3u8
 
@@ -2410,6 +2410,10 @@ https://video2.estadodelmar.com.ar/mobile/laperla/index.m3u8
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPT4Ioet7Ln8T12p0PSJrVMIdvl5oxy41VWA&s" group-title="Camaras",tierra del fuego - (Ushuaia)
 https://hd-auth.skylinewebcams.com/live.m3u8?a=msaf5bc1qf83crk6caqves7l10
+
+
+
+
 
 ASMR
 -----------------------------------------------------------------------------------------------------------------------
