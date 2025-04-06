@@ -236,7 +236,7 @@ CANAL DE CINE
 
 
 AXN - Tevall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AXN.png" group-title="Cine",AXN sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AXN.png" group-title="Cine",AXN sv1
 http://89.117.146.57/televall/YbVVqpeaWU/27.m3u8
 
 Cinecanal - Televall server ▶
@@ -264,15 +264,15 @@ Films&arts - Telvall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 FX - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX sv1
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 
 Golden - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden sv1
 http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
 
 Golden Premier - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GoldenPremier.png" group-title="Cine",Golden Premier sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GoldenPremier.png" group-title="Cine",Golden Premier sv1
 http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
 
 HBO 2 - Televall server ▶
@@ -300,12 +300,12 @@ Sony Movies - Televall server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies sv1
 http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
 
-Space Televall server ▶
+Space - Televall server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space sv1
 http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 
 Star Channel - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/starchannel.png" group-title="Cine",Star Channel sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/starchannel.png" group-title="Cine",Star Channel sv1
 http://89.117.146.57/televall/YbVVqpeaWU/82.m3u8
 
 Studio Universal - Televall server ▶
@@ -326,7 +326,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/24.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/23.m3u8
 
 Pluto TV Cine Accion ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/plutocineaccion.png" group-title="Cine",Pluto TV Cine Accion
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/plutocineaccion.png" group-title="Cine",Pluto TV Cine Accion sv1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 Free TV Accion - Olympusat server ▶
@@ -355,7 +355,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 Comedy Central - Televall server ▶
 #EXT-X-STREAM-INF:BANDWIDTH=3000,RESOLUTION=640x480
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/comedycentral.png" group-title="Cine",Comedy Central sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/comedycentral.png" group-title="Cine",Comedy Central sv1
 http://89.117.146.57/televall/YbVVqpeaWU/41.m3u8
 
 Always Funny en Español - Ottera server ▶
@@ -478,7 +478,7 @@ ESPN 3 - DSR Ride server ▶
 https://dsr.ride.com.ar/tvmia/an26/chunks.m3u8
 
 ESPN 3 - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv2
 http://89.117.146.57/televall/YbVVqpeaWU/95.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/116.m3u8
 
@@ -491,7 +491,7 @@ ESPN Premium - Televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/101.m3u8
 
 ESPN Premium - Tamal server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espnpremium.png" group-title="Deportes",ESPN Premium sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espnpremium.png" group-title="Deportes",ESPN Premium sv2
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
 
 TyC Sports - DSR Ride server ▶
@@ -499,7 +499,7 @@ TyC Sports - DSR Ride server ▶
 https://dsr.ride.com.ar/tvmia/an60/chunks.m3u8
 
 TyC Sports - Tamal server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports sv2
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
 
 TnT Sports - Televall server ▶
@@ -527,7 +527,7 @@ Fox Sports 2 - DSR Ride server ▶
 https://dsr.ride.com.ar/tvmia/an24/chunks.m3u8
 
 Fox Sports 2 - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 2 sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 2 sv2
 http://89.117.146.57/televall/YbVVqpeaWU/99.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/100.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/97.m3u8
@@ -576,7 +576,7 @@ ECDF - DSR Ride server ▶
 https://dsr.ride.com.ar/tvmia/an53/chunks.m3u8
 
 ECDF - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF sv2
 http://89.117.146.57/televall/YbVVqpeaWU/112.m3u8
 
 Adrenalina Sports Network - Televall server ▶
@@ -663,7 +663,7 @@ Cartoon Network - Televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
 
 Nickelodeon - 185.189 server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon sv1
 http://185.189.225.150:85/nickelodeon/index.m3u8
 
 Magic Kids - Magicstream server ▶
@@ -714,15 +714,15 @@ CANALES DE CULTURA
 -----------------------------------------------------------------------------------------------------------------------------------
 
 Animal Planet - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",Animal Planet sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",Animal Planet sv1
 http://89.117.146.57/televall/YbVVqpeaWU/54.m3u8
 
 Disccovery ID - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryid.png" group-title="Cultura",Disccovery ID sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryid.png" group-title="Cultura",Disccovery ID sv1
 http://89.117.146.57/televall/YbVVqpeaWU/26.m3u8
 
 Disccovery Channel - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discovery-channel.png" group-title="Cultura",Disccovery Channel sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discovery-channel.png" group-title="Cultura",Disccovery Channel sv1
 http://89.117.146.57/televall/YbVVqpeaWU/45.m3u8
 
 H&H Discovery - Televall server ▶
@@ -738,7 +738,7 @@ Theater Discovery HD - Televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/48.m3u8
 
 Discovery Turbo - Televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",Discovery Turbo sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",Discovery Turbo sv1
 http://89.117.146.57/televall/YbVVqpeaWU/49.m3u8
 
 World Discovery HD - Televall server ▶
@@ -766,7 +766,7 @@ E! - Televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/29.m3u8
 
 TLC - Televall ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC sv1
 http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
 
 Turistik - cef technology server ▶
@@ -807,7 +807,7 @@ DW en Español (ALE) - Akamaized server ▶
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 DW en Español (ALE) - DSR Ride server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/dw.png" group-title="Noticias Internacional",DW en Español (ALE) sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/dw.png" group-title="Noticias Internacional",DW en Español (ALE) sv2
 https://dsr.ride.com.ar/tvmia/an52/chunks.m3u8
 
 Canal 24 Horas (ESP) - Ztnr server ▶
@@ -1006,11 +1006,11 @@ Azteca Internacional HD (Mexico) - ottera server ▶
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
 Azteca Uno (Mexico) - ottera server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca_Uno.png" group-title="Canales Internacionales",Azteca Uno (Mexico) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca_Uno.png" group-title="Canales Internacionales",Azteca Uno (Mexico) sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 
 Azteca 7 (Mexico) - televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca7-2025.png" group-title="Canales Internacionales",Azteca 7 (Mexico) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca7-2025.png" group-title="Canales Internacionales",Azteca 7 (Mexico) sv1
 http://89.117.146.57/televall/YbVVqpeaWU/125.m3u8
 
 Las Estrellas (Mexico) - onlymex server ▶
@@ -1018,11 +1018,11 @@ Las Estrellas (Mexico) - onlymex server ▶
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 Las Estrellas (Mexico) - televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",Las Estrellas (Mexico) sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",Las Estrellas (Mexico) sv2
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
 Canal 5 (Mexico) - televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal5Mexico.png" group-title="Canales Internacionales",Canal 5 (Mexico) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal5Mexico.png" group-title="Canales Internacionales",Canal 5 (Mexico) sv1
 http://89.117.146.57/televall/YbVVqpeaWU/10.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/9.m3u8
 
@@ -1047,7 +1047,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_480.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
 Imagen TV HD (mexico) - ottera server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/ImagenTVmexico.png" group-title="Canales Internacionales",Imagen TV HD (mexico) sv3
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/ImagenTVmexico.png" group-title="Canales Internacionales",Imagen TV HD (mexico) sv2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7390
 
 Mexiquense (Mexico) - streamlock server ▶
@@ -1071,23 +1071,23 @@ Vibe TV (Mexico) - streamlock server ▶
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 Canal 6 Multimedios Laguna (Mexico) - mdstrm server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico)
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv1
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-Canal 6 Multimedios Laguna (Mexico) - ottera sever ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv2
+Canal 6 Multimedios Laguna (Mexico) - ottera sever ▶ 📌
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
 
 Canal 6 Multimedios Monterrey (Mexico) mdstrm server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios Monterrey (Mexico) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios Monterrey (Mexico) sv3
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
 Canal 6 Multimedios Saltillo (Mexico) - mdsrtm server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios Saltillo (Mexico) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios Saltillo (Mexico) sv4
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
 ADN40 (Mexico) - mdstrm server ▶
@@ -1095,7 +1095,7 @@ ADN40 (Mexico) - mdstrm server ▶
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 Unicable (Mexico) - televall server ▶
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico) sv1
 http://89.117.146.57/televall/YbVVqpeaWU/13.m3u8
 
 TVC (Mexico) - cloudfront server ▶
@@ -1292,7 +1292,7 @@ MTV - televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 MTV Hits - televall server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits sv2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits sv1
 http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
 
 MTV 00s - televall server ▶
