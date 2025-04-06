@@ -2,7 +2,7 @@
 
 
                                          
-intro
+intro Android
 #EXTINF:-1 tvg-logo="https://archive.org/download/ultra-tvlogo/UltraTVlogo.png" group-title="Intro",Bienvenidos
 https://archive.org/download/output0_20250329/output.m3u8
 #EXTVLCOPT:loop
@@ -241,13 +241,6 @@ https://dsr.ride.com.ar/tvmia/an06/chunks.m3u8
 CANAL DE CINE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-A&E - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/A%26E.png" tvg-language="Spanish" group-title="Cine",A&E sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/a_e/index.m3u8
-
-AMC - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AMC.png" group-title="Cine",AMC sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/amc/index.m3u8
 
 AXN - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AXN.png" group-title="Cine",AXN sv1
@@ -257,30 +250,13 @@ AXN - Tevall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AXN.png" group-title="Cine",AXN sv2
 http://89.117.146.57/televall/YbVVqpeaWU/27.m3u8
 
-AXN - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/AXN.png" group-title="Cine",AXN sv3
-http://tv.teleclub.xyz/club/server_3/entretenimiento/axn/index.m3u8
-
-Cinecanal - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",Cinecanal sv1
-http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
-
 Cinecanal - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",Cinecanal sv2
-http://tv.teleclub.xyz/club/server_2/entretenimiento/cinecanal/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/cinecanal/index.m3u8
 
 Cinemax - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax sv1
 http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
-
-Cinemax - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax sv2
-http://tv.teleclub.xyz/club/server_2/entretenimiento/cinemax/index.m3u8
-
-Cinemax - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax sv3
-http://tv.teleclub.xyz/club/server_3/entretenimiento/cinemax/index.m3u8
 
 CineAR - DSR Ride server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEAR.png" group-title="Cine",CineAR sv1
@@ -289,14 +265,6 @@ https://dsr.ride.com.ar/tvmia/an16/chunks.m3u8
 Volver - DSR Ride server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/volver.png" group-title="Cine",Volver sv1
 https://dsr.ride.com.ar/tvmia/an18/chunks.m3u8
-
-DHE - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DHE.png" group-title="Cine",DHE sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/dhe/index.m3u8
-
-De Pelicula - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DEPELICULA.png" group-title="Cine",De Pelicula sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/depelicula/index.m3u8
 
 Europa Europa - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/EUROPAEUROPA.png" group-title="Cine",Europa Europa sv1
@@ -308,29 +276,15 @@ http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 FX - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/fx/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/fx/index.m3u8
-
-FX - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX sv2
-http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
-
-Golden - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/golden/index.m3u8
 
 Golden - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden sv2
 http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
 ttp://tv.teleclub.xyz/club/server_3/entretenimiento/golden/index.m3u8
 
-Golden Plus - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDENplus.png" group-title="Cine",Golden Plus sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenplus/index.m3u8
-
 Golden Premier - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GoldenPremier.png" group-title="Cine",Golden Premier sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/goldenpremier/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/goldenpremier/index.m3u8
 
 Golden Premier - Televall server
@@ -346,22 +300,6 @@ HBO + - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hboplus.png" group-title="Cine",HBO + sv1
 http://89.117.146.57/televall/YbVVqpeaWU/4.m3u8
 
-HBO Signature - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbosignature.png" group-title="Cine",HBO Signature sv1
-http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
-
-Morbido TV - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/morbidotv.png" group-title="Cine",Morbido TV sv1
-http://89.117.146.57/televall/YbVVqpeaWU/84.m3u8
-
-Multipremier - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/multipremier.png" group-title="Cine",Multipremier sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/multipremier/index.m3u8
-
-Paramount Network Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/paramountchannel.png" group-title="Cine",Paramount Network sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/paramountnetwork/index.m3u8
-
 Sony Channel - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",Sony Channel sv1
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
@@ -371,17 +309,8 @@ Sony Channel - Teleclub server
 http://tv.teleclub.xyz/club/server_3/entretenimiento/sony/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/sony/index.m3u8
 
-Sony Movies - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies sv1
-http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
-
-Space Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space sv1
-http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
-
 Space Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space sv2
-http://tv.teleclub.xyz/club/server_2/entretenimiento/space/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/space/index.m3u8
 
 Star Channel - Teleclub server
@@ -389,22 +318,13 @@ Star Channel - Teleclub server
 http://tv.teleclub.xyz/club/server_2/entretenimiento/starchannel/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/starchannel/index.m3u8
 
-Star Channel - Televall server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/starchannel.png" group-title="Cine",Star Channel sv2
-http://89.117.146.57/televall/YbVVqpeaWU/82.m3u8
-
 Studio Universal - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal sv1
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
 Studio Universal - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal sv2
-http://tv.teleclub.xyz/club/server_3/entretenimiento/studiouniversal/index.m3u8
 http://tv.teleclub.xyz/club/server_2/entretenimiento/studiouniversal/index.m3u8
-
-TNT - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tnt.png" group-title="Cine",TNT sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/tnt/index.m3u8
 
 TNT Series - Televall server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series sv1
@@ -412,7 +332,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 
 TNT Series - Teleclub server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series sv2
-http://tv.teleclub.xyz/club/server_2/entretenimiento/tntseries/index.m3u8
 http://tv.teleclub.xyz/club/server_3/entretenimiento/tntseries/index.m3u8
 
 TNT Novelas - Televall server
@@ -422,10 +341,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/32.m3u8
 Universal Cinema - Teleclub server
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/universalcinema.png" group-title="Cine",Universal Cinema sv1
 http://tv.teleclub.xyz/club/server_2/entretenimiento/universalcinema/index.m3u8
-
-Universal Premiere - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/universalpremiere.png" group-title="Cine",Universal Premiere sv1
-http://tv.teleclub.xyz/club/server_2/entretenimiento/universalpremiere/index.m3u8
 
 Universal TV - teleclub server
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/universaltv.png" group-title="Cine",Universal TV sv1
@@ -446,6 +361,7 @@ Free TV Accion - Olympusat server
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d167d6c668784cd3778d2f04482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e85810d93aa6b6014892284dfa83439fd401b389815d83158471f614999bf483d311d08c8c599e06e627475c2b79ebc213d39d0fef89c33e68cd272c1e4f02b2a0c1a91c6bd3451405fbfcc8bc63a7169fd17ff50a5dae13a75f96399c6aa910d58724c4fc82f16c1b49cead5a6534eee6af9aeb3441de0c9af2b388190d98f2073646d97de7313f3782f8f40196cf67d6dc5d8da07d0d2b9ade0a8c8aa5cde9a2884f883384c4fb9572464b750d01834ef8eb07bd28d96be6c710533b272184bb7789d7831d5a0b4e829310d31615abdef9f5b57a14d8691c53e661d55e162cc8312c5af728fcae0a36c14c74d93d29ef486fcf0dfdbc3fbbb2c8f9073fa690d251a150ffa703c4f701b01f5a3366e2cb02711f0417beef621e7e78d355dbd1dfef7305059e81a78ac35c3549361b4b019bf7f4718fc0e63b1813f5657c0e1e77169217986dd1143b6344a84e89db631384023263f3b5332f3606fccea38482c2dc0ab670de958553433a5d70f332153651ddb7805c8f5021185c4f850a50758ff83b289efd227212e114acbd56e851430664c0fe03480753011b60f9a349a790660e7fc3f6f953d9fb8552648839b108139faaab045b4630a63d7fb6a6580b6299d02eca331bc605d127899006b053eeb77d4e216ab8e276ea5ab7d089870a933ea85c4918801ceac4bbeb84323e82e09cd72fb9861e5ef20fc6dc395320362ddba6c206eb58f4e256a80d75213842d096095087a75509993b71739a81c299a8d939ddab04fb58c67a0aaa5b0c61b48268aacb85faf48360431399989f0ceaf1c6d19796fd2f705d386bdbd909013e9807e09c0be49a187ec4809faa8f3dc03bb163fbcc9d06d0118c87fc02a79b98bedc721455551ebce2ffe81bd6b94514e82f951d6348d2daa4c764fddbae0e37bf0eb7cb5438dc4b1437fea2f500c73caba6687a95e0476d9525628fb0856576ae03a82f3571f4b7f14d33ddcc02960dd6d5c00642880709f7053945a96ff193b0796583e84118300d6ab175ea5aae47075e6ee0c38b7da4c6a756c25d8bf3/42/848x480_1686360/index.m3u8
 
 EPIX - Moveonjoy server
+#EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/Epix.png" group-title="Cine",EPIX sv1
 https://fl2.moveonjoy.com/EPIX/index.m3u8
 
