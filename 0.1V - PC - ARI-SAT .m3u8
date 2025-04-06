@@ -622,7 +622,7 @@ Golf Channel - DSR Ride server
 https://dsr.ride.com.ar/tvmia/an45/chunks.m3u8
 
 Xtrema TV cnarDeportes 2 - Voxtv server
-#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/5-1.jpg" group-title="Deportes",Xtrema TV cnaDeportes 2 sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/xtremacnadeportes.png" group-title="Deportes",Xtrema TV cnaDeportes 2 sv1
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
 
