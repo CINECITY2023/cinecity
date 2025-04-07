@@ -14,7 +14,7 @@ BUENOS AIRES
 
 America - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" group-title="Buenos Aires",America sv1
-https://dsr.ride.com.ar/tvmia/an25/chunks.m3u8
+https://edge.streann.com/an25/an25/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 America - Qaotic server 📌
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -48,6 +48,10 @@ https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
 TELEFE - Telefe Server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",TELEFE sv1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+TELEFE - Telefe Server ▶
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",TELEFE sv2
+https://edge.streann.com/an03/an03/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 El Trece - Vodge Net server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElTrece.png" group-title="Buenos Aires",El Trece sv1
@@ -695,7 +699,7 @@ Canela Kids - Ottera server ▶
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 Xtrema Cartoons - Voxtv server ▶
-#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://i.imgur.com/X2d8y4e.png" group-title="Infantil" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons sv1
+#EXTINF:-1 tvg-id="XtremaCartoons.ar" tvg-logo="https://archive.org/download/Infantil-Logo-120x120/xtremacartoons.png" group-title="Infantil" http-referrer="https://xtrematv.com/?p=1390",Xtrema Cartoons sv1
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1390
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
@@ -1014,7 +1018,7 @@ Azteca 7 (Mexico) - televall server ▶
 http://89.117.146.57/televall/YbVVqpeaWU/125.m3u8
 
 Las Estrellas (Mexico) - onlymex server ▶
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Las_Estrellas_logo_(2016).png" group-title="Canales Internacionales",Las Estrellas (Mexico) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",Las Estrellas (Mexico) sv1
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 Las Estrellas (Mexico) - televall server ▶
@@ -1243,28 +1247,28 @@ RADIOS EN VIVO
 
 Vorterix SD - qaotic server ▶
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="Radio en Vivo",Vorterix SD sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/Vorterix.png" group-title="Radio en Vivo",Vorterix SD sv1
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
 Vorterix HD - qaotic server ▶
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Vorterix.jpg" group-title="Radio en Vivo",Vorterix HD sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/Vorterix.png" group-title="Radio en Vivo",Vorterix HD sv2
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 AN24 - streamlock server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_Radio_AN24.png" group-title="Radio en Vivo",AN24 sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/An24.png" group-title="Radio en Vivo",AN24 sv1
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
 RTN (Neuquen) - media neuquen server ▶
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1829646108852686848/5glyfgw8_400x400.jpg" group-title="Radio en Vivo",RTN (Neuquen) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/RTNNeuquen.png" group-title="Radio en Vivo",RTN (Neuquen) sv1
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
 Azahares Radiovisual Multimedia - alsolnet server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g1BFoSs.png" group-title="Radio en Vivo",Azahares Radiovisual Multimedia sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/AzaharesRadiovisualMultimedia.png" group-title="Radio en Vivo",Azahares Radiovisual Multimedia sv1
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
 RNE para todos - rtve server ▶
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="Radio en Vivo",RNE para todos sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/RNEparatodos.png" group-title="Radio en Vivo",RNE para todos sv1
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 
 
@@ -1279,84 +1283,84 @@ CANALES DE MUSICA
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Retro TV - mediawork server ▶
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/retro-logo-bile2.png" group-title="Musica", Retro TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/RetroTV.png" group-title="Musica", Retro TV sv1
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 MusicTop - telecentro server ▶
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/musictop_logo.png" group-title="Musica",MusicTop sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MusicTop.png" group-title="Musica",MusicTop sv1
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
 MTV - televall server ▶
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/mtv_thumb_d55s0whf.png" group-title="Musica",MTV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTV.png" group-title="Musica",MTV sv1
 http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 MTV Hits - televall server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="Musica",MTV Hits sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
 http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
 
-MTV 00s - televall server ▶
+MTV 00s - televall server 📌
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-TMjj_r1-QPteKV1Ng-F4nzvWPXjw_Q&s.png" group-title="Musica",MTV 00s sv1
 http://89.117.146.57/televall/YbVVqpeaWU/15.m3u8
 
 Telehit - televall server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="Musica",Telehit sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",Telehit sv1
 http://89.117.146.57/televall/YbVVqpeaWU/17.m3u8
 
 Teleritmo - mdstrm server ▶
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Teleritmo_2023.png/revision/latest/scale-to-width-down/241?cb=20250324000228" group-title="Musica",Teleritmo sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Teleritmo.png" group-title="Musica",Teleritmo sv1
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 The Retro Channel - streamlock server ▶
-#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logos/imagens/theretrofb.jpg" group-title="Musica",The Retro Channel sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/TheRetroChannel.png" group-title="Musica",The Retro Channel sv1
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 BandamaX - televall server ▶
-#EXTINF:-1 tvg-logo="https://www.televall.online/gallery/bandamax_thumb_jt86gcah.png" group-title="Musica",BandaMAx sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Bandamax.png" group-title="Musica",BandaMAx sv1
 http://89.117.146.57/televall/YbVVqpeaWU/14.m3u8
 
 CM SD - edge access server ▶
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica",CM SD sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/CM.png" group-title="Musica",CM SD sv1
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 CM HD - edge access server ▶
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logocmtvargentina.png" group-title="Musica",CM HD sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/CM.png" group-title="Musica",CM HD sv2
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 Beats Radio - shockmedia server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Musica",Beats Radio sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/BeatsRadio.png" group-title="Musica",Beats Radio sv1
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 Telpin TV Pinamar - telpin server ▶
-#EXTINF:-1 tvg-logo="https://telpintv.com.ar/assets/logo.c9bbab47.png" group-title="Musica",Telpin TV Pinamar sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/TelpinTVPinamar.png" group-title="Musica",Telpin TV Pinamar sv1
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 Alterna TV - alterna server ▶
-#EXTINF:-1 tvg-logo="https://alternatv.ar/alternatv.png" group-title="Musica",Alterna TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/AlternaTV.png" group-title="Musica",Alterna TV sv1
 https://alternatv.ar/stream/hls/live.m3u8
 
 Tierramia TV - telecentro server ▶
-#EXTINF:-1 tvg-logo="https://www.canal26.com/images/open-graph/tierramia_logo.png" group-title="Musica",Tierramia TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/TierramiaTV.png" group-title="Musica",Tierramia TV sv1
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 Chamame TV - zcast server ▶
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEGiHCXRWEAu8TQhuxobmeeEQCbu7rW22sxg&s" group-title="Musica",Chamame TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/ChamameTV.png" group-title="Musica",Chamame TV sv1
 https://srv2.zcast.com.br/chamame/chamame/chunklist_w1771895490.m3u8
 
 002 Radio - 002radio server ▶
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUqSquMSAy4bV-koxMn6AwvRtPFdjd2J-OvA&s" group-title="Musica",002 Radio sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",002 Radio sv1
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 GikTVMx - pistream server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Musica",GikTVMx sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/giktv.png" group-title="Musica",GikTVMx sv1
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
 
 CANELA MUSIC - ottera server ▶
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/tjXO71xmLm0x_pa9PsRFKT1YJ_gKfOv46ESYrT9gY2yjhsvl1d_jtAi6soDTupdp9e_V1ffL_w=s900-c-k-c0x00ffffff-no-rj" group-title="Musica",CANELA MUSIC sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/canelamusic.png" group-title="Musica",CANELA MUSIC sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 
@@ -1375,7 +1379,7 @@ CANAL DE RELIGION
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 María Visión - rsc server ▶
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Maria-vision.jpg" group-title="Religion",María Visión sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/MariaVision.png" group-title="Religion",María Visión sv1
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
 EWTN - wowza server ▶
@@ -1383,19 +1387,19 @@ EWTN - wowza server ▶
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
 Avivamiento TV - abntelevision server ▶
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MsQLaQG.png" group-title="Religion",Avivamiento TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/ABN.png" group-title="Religion",Avivamiento TV sv1
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 
 Canal 5 Santa Maria TV - trimi server ▶
-#EXTINF:-1 tvg-logo="https://www.tvenvivo.com.ar/wp-content/uploads/2023/09/santa-maria-tv.png" group-title="Religion",Canal 5 Santa Maria TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/Canal5SantaMariaTV.png" group-title="Religion",Canal 5 Santa Maria TV sv1
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
 Solidaria TV - canadaremar server ▶
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1174459317153607682/2DgBv48G_400x400.jpg" group-title="Religion",Solidaria TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/solidariatv.png" group-title="Religion",Solidaria TV sv1
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
 Inspiración y Fe - ottera server ▶
-#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-iyf2023-16x9.jpg" group-title="Religion",Inspiración y Fe sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/inspiracionyfe.png" group-title="Religion",Inspiración y Fe sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 
@@ -1417,19 +1421,19 @@ VIDEOS 24/7
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Bob Esponja - stitcher cluster server ▶
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/BOBSPONJA.png?raw=true" group-title="VIDEOS 24/7",Bob Esponja sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/BOBSPONJA.png" group-title="VIDEOS 24/7",Bob Esponja sv1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 Pitufos - ottera server ▶
-#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/PITUFOS.png?raw=true" group-title="VIDEOS 24/7",Pitufos sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/PITUFOS.png" group-title="VIDEOS 24/7",Pitufos sv1
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 
 Padrinos Mágicos- stitcher cluster server ▶
-EXTINF:-1 tvg-logo="https://archive.org/download/los-padrinos-magico/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/LosPadrinosMagico.png" group-title="VIDEOS 24/7",Padrinos Mágicos sv1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 Conflicto TV - ottera server ▶
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1cbdf5a8-7c49-4a70-9c60-e89414ff3409/ElConflicto_artwork_vertical.jpg" group-title="VIDEOS 24/7",Conflicto TV sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/conflictotv.png" group-title="VIDEOS 24/7",Conflicto TV sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 
 
@@ -1450,64 +1454,64 @@ OTROS IDIOMAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CBC News Toronto (Canada) - cloudfront server ▶
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSnoYiuknZvhhPBEjhhlZHcVwsT0sN_SfmMw&s" group-title="Otros Idiomas",CBC News Toronto (Canada) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/cbcnewstoronto.png" group-title="Otros Idiomas",CBC News Toronto (Canada) sv1
 https://dgmkbg0c12wvc.cloudfront.net/CBC_News_Toronto.m3u8
 
 Global TV (Canada) - corusdigitaldev server ▶
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/global.png" group-title="Otros Idiomas",Global TV (Canada) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/GlobalTV.png" group-title="Otros Idiomas",Global TV (Canada) sv1
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
 ICI RDI (Canada) - akamaized server ▶
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/icirdi.png" group-title="Otros Idiomas",ICI RDI (Canada) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/IciRDI.png" group-title="Otros Idiomas",ICI RDI (Canada) sv1
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 ICI Television (Canada) - akamaized server ▶
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/ici.png" group-title="Otros Idiomas",ICI Television (Canada) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/IciRDI.png" group-title="Otros Idiomas",ICI Television (Canada) sv1
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 ABC News Live (EEUU) - uplynk server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1200px-ABC-2021-LOGO.svg.png" group-title="Otros Idiomas",ABC News Live (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/ABCNewsLive.png" group-title="Otros Idiomas",ABC News Live (EEUU) sv1
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 ABC 7 (EEUU) - uplynk server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/KABC-TV-Logo-2021.png" group-title="Otros Idiomas",ABC 7 (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/Abc7.png" group-title="Otros Idiomas",ABC 7 (EEUU) sv1
 https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
 
 CBS News (EEUU) - cbstream server ▶
-#EXTINF:-1 tvg-logo="https://telegratuita.com/img/cbc.png" group-title="Otros Idiomas",CBS News (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSNews.png" group-title="Otros Idiomas",CBS News (EEUU) sv1
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
 CBS News Boston (EEUU) - google server ▶
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/lcPZlEx8tnvWeYcTEvxy2mjt-x5Gt1hCDdWTcKT78194SUBFKaZ1rAROyoz4kbrYuUds5p8ioQ=s900-c-k-c0x00ffffff-no-rj" group-title="Otros Idiomas",CBS News Boston (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSNBoston.png" group-title="Otros Idiomas",CBS News Boston (EEUU) sv1
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 
 CBS News Miami (EEUU) - cbstream server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/CBS_Miami_logo.svg/512px-CBS_Miami_logo.svg.png" group-title="Otros Idiomas",CBS News Bay Miami (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSMiami.png" group-title="Otros Idiomas",CBS News Bay Miami (EEUU) sv1
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
 
 CBS News New York (EEUU) - cbstream server ▶
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAtObbHKpE1a6ZnpTh7uXLZ70k_ZZoNYZ3JQ&s.png" group-title="Otros Idiomas",CBS News New York (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSNewsNewYork.png" group-title="Otros Idiomas",CBS News New York (EEUU) sv1
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
 
 CBS News Los Angeles (EEUU) - cbstream server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/CBS_Los_Angeles_logo.svg/800px-CBS_Los_Angeles_logo.svg.png" group-title="Otros Idiomas",CBS News Los Angeles (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSLosAngeles.png" group-title="Otros Idiomas",CBS News Los Angeles (EEUU) sv1
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_2.m3u8
 
 CBS News Chicago (EEUU) - cbstream server ▶
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiAyFmGpBy3XwwBrlCN7QUxI3vIYkBinf_sYkz4mz7XN-KFFOzHwidnfo8h2nPc_TNjA&usqp=CAU.png" group-title="Otros Idiomas",CBS News Chicago (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/CBSNewsChicago.png" group-title="Otros Idiomas",CBS News Chicago (EEUU) sv1
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master_8.m3u8
 
 Fox Weather SD (EEUU) - foxweather server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/800px-Fox_Weather_logo.svg.png" group-title="Otros Idiomas",Fox Weather SD (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/FoxWeather.png" group-title="Otros Idiomas",Fox Weather SD (EEUU) sv1
 https://247wlive.foxweather.com/stream/index_640x360.m3u8
 
 Fox Weather HD (EEUU) - foxweather server ▶
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/800px-Fox_Weather_logo.svg.png" group-title="Otros Idiomas",Fox Weather HD (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/FoxWeather.png" group-title="Otros Idiomas",Fox Weather HD (EEUU) sv1
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
 Fox 4 (EEUU) - uplynk server ▶
 EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/1a4cb5a/2147483647/strip/true/crop/358x133+0+0/resize/358x133!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F8a%2Fd4%2F28316f43411aadcc4efbf48aee69%2Fwftx-main-logo.png" group-title="Otros Idiomas",Fox 4 (EEUU) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/Fox4.png" group-title="Otros Idiomas",Fox 4 (EEUU) sv1
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
 CNN (EEUU) - turnerlive server ▶
