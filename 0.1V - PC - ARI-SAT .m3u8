@@ -479,7 +479,7 @@ https://dsr.ride.com.ar/tvmia/bn06/chunks.m3u8
 
 ESPN 3 - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv1
-https://dsr.ride.com.ar/tvmia/an26/chunks.m3u8
+https://edge.streann.com/an26/an26/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 ESPN 3 - Televall server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv2
@@ -524,7 +524,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/103.m3u8
 
 Fox Sports - DSR Ride derver ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="Deportes",Fox Sports sv2
-https://dsr.ride.com.ar/tvmia/an23/chunks.m3u8
+https://edge.streann.com/an23/an23/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Fox Sports 2 - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 2 sv1
@@ -1166,11 +1166,11 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 ATV (Peru) - dsr ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/ATVPeru.png" group-title="Canales Internacionales",ATV (Peru) sv1
-https://dsr.ride.com.ar/tvmia/an30/chunks.m3u8
+https://edge.streann.com/an30/an30/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 America Television (Peru) - dsr ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/AmericaTelevisionPeru.png" group-title="Canales Internacionales",America Television (Peru) sv1
-https://dsr.ride.com.ar/tvmia/an29/chunks.m3u8
+https://edge.streann.com/an29/an29/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 TVPE (Peru) - dsr ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TVPEPeru.png" group-title="Canales Internacionales",TVPE (Peru) sv1
