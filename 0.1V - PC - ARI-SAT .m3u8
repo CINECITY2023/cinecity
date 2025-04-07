@@ -63,7 +63,7 @@ https://dsr.ride.com.ar/tvmia/bn02/chunks.m3u8
 
 Ciudad Magazine - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine sv1
-https://dsr.ride.com.ar/tvmia/an12/chunks.m3u8
+https://edge.streann.com/an12/an12/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Ciudad Magazine - Vodgc Net server 📌
 EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine sv2
@@ -174,7 +174,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 
 Canal 26 - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canal26.png" group-title="Noticias",Canal 26 sv1
-https://dsr.ride.com.ar/tvmia/an15/chunks.m3u8
+https://edge.streann.com/an15/an15/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Canal 26 - Telecentro server 📌
 EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canal26.png" group-title="Noticias",Canal 26 sv2
@@ -182,7 +182,7 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 Cronica SD - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/CronicaTV.png" group-title="Noticias",Cronica SD sv1
-https://dsr.ride.com.ar/tvmia/an10/chunks.m3u8
+https://edge.streann.com/an10/an10/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Cronica SD - Edge Access server 📌
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -211,11 +211,11 @@ https://dsr.ride.com.ar/tvmia/an14/chunks.m3u8
 
 TN - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/TN.png" group-title="Noticias",TN sv1
-https://dsr.ride.com.ar/tvmia/an07/chunks.m3u8
+https://edge.streann.com/an07/an07/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 C5N - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/C5N.png" group-title="Noticias",C5N sv1
-https://dsr.ride.com.ar/tvmia/an06/chunks.m3u8
+https://edge.streann.com/an06/an06/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 
 
@@ -622,7 +622,7 @@ https://dsr.ride.com.ar/tvmia/an40/chunks.m3u8
 
 Golf Channel - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/Golfchannel.png" group-title="Deportes",Golf Channel sv1
-https://dsr.ride.com.ar/tvmia/an45/chunks.m3u8
+https://edge.streann.com/an11/an11/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Xtrema TV cnarDeportes 2 - Voxtv server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/xtremacnadeportes.png" group-title="Deportes",Xtrema TV cnaDeportes 2 sv1
@@ -751,7 +751,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/50.m3u8
 
 Encuentro - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/encuentro.png" group-title="Cultura",Encuentro sv1
-https://dsr.ride.com.ar/tvmia/an13/chunks.m3u8
+https://edge.streann.com/an13/an13/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 History - Televall server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",History sv1
