@@ -57,23 +57,23 @@ El Trece - Vodge Net server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElTrece.png" group-title="Buenos Aires",El Trece sv1
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
-El Trece - DSR Ride server 📌
-EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElTrece.png" group-title="Buenos Aires",El Trece sv3
-https://dsr.ride.com.ar/tvmia/bn02/chunks.m3u8
+El Trece - DSR Ride server ▶
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElTrece.png" group-title="Buenos Aires",El Trece sv3
+https://edge.streann.com/an18/an18/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Ciudad Magazine - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine sv1
 https://edge.streann.com/an12/an12/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
-Ciudad Magazine - Vodgc Net server 📌
-EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine sv2
+Ciudad Magazine - Vodgc Net server ▶
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",Ciudad Magazine sv2
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://live-01-01-tn.vodgc.net/live-01-01-tn.vodgc.net/index.m3u8
 
-Net TV - Us DPS server 📌
-EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/NetTV.png" group-title="Buenos Aires",Net TV sv1
+Net TV - Us DPS server ▶
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/NetTV.png" group-title="Buenos Aires",Net TV sv1
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 Net TV - DSR Ride server ▶
@@ -207,7 +207,7 @@ https://dsr.ride.com.ar/tvmia/an54/chunks.m3u8
 
 LN+ - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/LN%2B.png" group-title="Noticias",LN+ sv1
-https://dsr.ride.com.ar/tvmia/an14/chunks.m3u8
+https://edge.streann.com/an17/an17/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 TN - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/TN.png" group-title="Noticias",TN sv1
@@ -253,7 +253,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
 
 CineAR - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEAR.png" group-title="Cine",CineAR sv1
-https://dsr.ride.com.ar/tvmia/an16/chunks.m3u8
+https://edge.streann.com/an16/an16/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 Volver - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/volver.png" group-title="Cine",Volver sv1
@@ -500,7 +500,7 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 
 TyC Sports - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports sv1
-https://dsr.ride.com.ar/tvmia/an60/chunks.m3u8
+https://edge.streann.com/an21/an21/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 TyC Sports - Tamal server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports sv2
