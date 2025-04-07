@@ -43,7 +43,7 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 El Nueve - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElNueve.png" group-title="Buenos Aires",El Nueve sv1
-https://dsr.ride.com.ar/tvmia/an05/chunks.m3u8
+https://edge.streann.com/an05/an05/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 TELEFE - Telefe Server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",TELEFE sv1
