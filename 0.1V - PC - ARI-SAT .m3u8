@@ -29,7 +29,7 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 TV Pública - DSR Ride server ▶
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TVPublica.png" group-title="Buenos Aires",TV Pública SD sv1
-https://dsr.ride.com.ar/tvmia/an04/chunks.m3u8
+https://edge.streann.com/an04/an04/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3NDQwMDMyMDEsInJpZCI6IjVmMTg2OTI0MmNkY2E3ZTVmZGU1MjU5ZiIsImtleSI6ImtleTEiLCJjaWQiOiI2MmU5ZDdiMWU0YjA1NTU4NDVmYjBjMzAifQ.gpAF4vteTRRIrCdhQBlYteYb5vT8P7E_66iclg54meU
 
 TV Pública - Edge Access server 📌
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
