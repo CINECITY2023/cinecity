@@ -4,6 +4,7 @@
                                          
 *Preview 📌
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",Preview
+https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
 #EXTVLCOPT:loop
 
@@ -1066,11 +1067,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 *MiamiTv-Music - getpublica server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/miamimusic.png" group-title="Musica",Miami Tv Music sv1
-https://stream-us-east-1.getpublica.com/cl/250408cvqd3g15a0ql2i67hmo0/1280x720_1896000_0_f.m3u8?i=1187_12997
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12997&live=1&avod=1&hls_marker=1&pod_duration=120&position=preroll&app_bundle=VIVALIVE&app_name=VIVALIVE&min_ad_duration=6&max_ad_duration=0
 
-
-
-
+*RockolaTV - Distro server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/rockolatv.png" group-title="Musica",RockolaTV sv1
+https://dr2t9f8nivbc6.cloudfront.net/hls/666NPBA/6BF095EB3851/m.m3u8https://dr2t9f8nivbc6.cloudfront.net/hls/666NPBA/6BF095EB3851/m.m3u8
+https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pobo&ads.env_i=94ce2abc-ea92-4522-a7b4-fb5017bb0ee1&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.47.94&ads.geo=AR&ads.lat=-34.75740&ads.long=-58.40270&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250408
 CANAL DE RELIGION
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
