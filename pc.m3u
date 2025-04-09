@@ -37,6 +37,11 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TVPublica.png" group-title="Buenos Aires",TV Publica HD - sv2
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
+*Canal 9 - Usher ttvnw server 
+#EXTVLCOPT:http-user-agent=(Android 8.0.0)
+EXTINF:1 tvg-logo="https://ia800709.us.archive.org/19/items/BSAS-Logo-120x120/ElNueve.png" group-title="Buenos Aires",El Nueve - sv1
+https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?
+
 *TELEFE-HD - Telefe Server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",Telefe HD - sv1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -109,7 +114,9 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",Telecreativa Lanus - sv1
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-
+*Urbana Teve - iblups server 
+#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=184,fit=crop,q=95/YrDl0RVPWQc5PZGq/2....urbana-tv-trasparente-no-usar-sobre-blanco-AVLb4BKGkWHZGzzz.png" group-title="Buenos Aires",Urbana Teve - sv1
+https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
 
 NOTICIAS ARGENTINA
@@ -148,8 +155,8 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 *IP-informacion-periodistica
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.png" group-title="Noticias",IP Informacion Periodistica - sv1
-https://sae12.playlist.ttvnw.net/v1/playlist/CpUGit5RNq21JrBjxq-HRIWKe3m3WlLs3i43POkO4rMgSZ-TBPcReCde5TpsoK-23s0Owsw6RL9-lyXguTxtW359ie_lYQNfKS4vaRN_xT-ongWpeZuXjEV21UaPdkCa5H-0ofXnUTO8nrbpujmsY9aQdT8StzuOU9_NKsaAzSG2p3SiEwsgS4BHWG3Ij16_qBoNfSZlUu6IgYS29XoSmkfwhYo5xiX7mO87GrQ0JR_Hh2xcNXwEYEBeYM_vi3QRblgYgZo4uwtDnftGgGcpS-fXWZPeACrrQu9NkB4vwostLW60Rb6D4QjWhjbfOhEueFxBEqccm-5YRmQxJLDDI5TMPEAUhtxjRK6u8WrPKQ0vRnJW8zinSdCIgYhbAPoV5yGqn1FDyi6KT7rwumVMTqxz5XrZ0lbVDNVIqQ2gb-7mubVNX3b6Evtx1FxhsLuCL9OGym5o63fca20hcm5TKTU79XuJmGs9FfGdjXSpH6vkmhHBBKphqVTkKFEo9mfCbXBg5y1vBF6JwbX_WcczeSYMgN6ku_YJcxvPyC13GFKQjqpasssk1ECH_oU1ua0I6P3KtIFpJGKreNhSNysv93qaUzo96HXBBVdtfHGVFcuUTP1G9yzyDPL12lU3qbKklFscN_1PqyBxQR6buJZlf_J2HAPjixHcR1_oAOyB4G1POset-Y72vPrupdcVCUy8AKZRyu1rdp0qdBkqGwKc7o7IejEg6HzHPPf6o00UkPLYys8ttUaNOymUJmR2120OB1D4wpeXISDFJ6R1owAfbIByw8YkMiUja8LZK1zHtJZR4VTZ41DLjS1MM1yUzmUoheiZ0BXXcqwz1Hyksxlp0K7nIXkoN0nwRtRm2pqRyqeJnWY32JfVuPdpcxIyVWYcTRLw8cnwuKFWGDfybhTkcG6kz8Y07LdPkHt4mpsYz_-wQrEhd1K2PnCJd6XPSU2t4MxDSJnQzknjPeZyzQsuNw8QFnC7GH4AF0sxzZ7jlAtYeW5t00veq-va4_D-DWgrE0-vESbbqCJEOIVwIMZCkTyzIuu2x-vBGgysuA3NRnPRSFt5nUQgASoJdXMtZWFzdC0yMPwL.m3u8
+EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.png" group-title="Noticias",IP Informacion Periodistica - sv1
+
 
 
 
@@ -180,20 +187,23 @@ http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
 http://190.60.38.114:1010/play/a08f/index.m3u8
 
 *Films&arts - Telvall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FILMANDARTS.png" group-title="Cine",Films&arts - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FILMANDARTS.png" group-title="Cine",Films&arts - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 *FX - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 
-*Golden - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/79.m3u8
+Golden - Televall server 
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden - sv1
 
-*HBO-2 - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbo2.png" group-title="Cine",HBO 2 - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/8.m3u8
+*HBO - Teleclub server 
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbo.png" group-title="Cine",HBO - sv1
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo/master.m3u8
+
+*HBO-2 - Teleclub server 
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbo2.png" group-title="Cine",HBO 2 - sv1
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo2/master.m3u8
 
 *HBO-Signature - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbosignature.png" group-title="Cine",HBO Signature - sv1
@@ -215,12 +225,16 @@ http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
+*TNT - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tnt.png" group-title="Cine",TNT - sv1
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
+
 *TNT-Series - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 
 *TNT-Novelas - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.png" group-title="Cine",TNT Novelas - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.png" group-title="Cine",TNT Novelas - sv1
 
 *PlutoTV-Cine-Accion - plutotv server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/plutocineaccion.png" group-title="Cine",PlutoTV Cine Accion - sv1
@@ -298,9 +312,9 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 NOVELAS Y DRAMAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Kanal-D - Televall server 
+*Kanal-D - PlutoTV server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/kanald.png" group-title="Novelas",Kanal D - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/31.m3u8
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Canela-TV-Narco-Drama - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/CanelaTVNarco-Drama.png" group-title="Novelas",Canela TV Narco-Drama HD - sv1
@@ -334,6 +348,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7f
 CANAL DE DEPORTES
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+EVENTOS FUTBOL
+
+*TyC-Sports - Tamal server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="EVENTO FUTBOL",Copa Argentina: central vs los andes
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+
+*TyC-Sports - Tamal server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="EVENTO FUTBOL",Copa Argentina: central vs los andes
+https://dglvz29s.fubohd.com/tycsports/mono.m3u8?token=5515e1c9517db5672ed1d07df83909be65fb0bb4-27-1744265326-1744229326
+
+*ESPN - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="EVENTO FUTBOL",Champions: barcelona vs borrussia
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+
+*ESPN - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="EVENTO FUTBOL",Champions: barcelona vs borrussia
+https://rm8zcvk3.fubohd.com/espn/mono.m3u8?token=02630e510f21200ff08ce3220fdce4e1b759f86c-8-1744265357-1744229357
+
+*Fox-Sports - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="EVENTO FUTBOL",Champions: psg vs aston villa
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+
+*Fox-Sports - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="EVENTO FUTBOL",Champions: psg vs aston villa
+https://rm8zcvk3.fubohd.com/foxsports/mono.m3u8?token=3d5fb4573fb8991e123296430f1f03ab9b5369e1-fb-1744265379-1744229379
+
+
+
+
 *ESPN - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",ESPN - sv1
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
@@ -363,12 +406,10 @@ http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
 *TNT-Sports-Premium - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv1
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv1
 
 *TNT-Sports-Premium - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv2
-http://89.117.146.57/televall/YbVVqpeaWU/103.m3u8
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv2
 
 *Fox-Sports - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="Deportes",TnT Sports Premium sv2
@@ -1109,6 +1150,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 *RockolaTV - Distro server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/rockolatv.png" group-title="Musica",RockolaTV sv1
 
+*Quantica TV - shockmedia server 
+EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="Musica",Quantica TV sv1
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 
 
@@ -1331,5 +1375,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 
 
 
+Peliculas DVD
+---------------------------------------------------------------------------------------------------------------------------
 
+*El Angel y el Malvado (Jhon Wayne) - https://serenotv.com/ server 
+#EXTINF:-1 tvg-logo="https://serenotv.com/contenido/webp-express/webp-images/uploads/2024/08/angel.jpg.webp" group-title="Western DVD",El Angel y el Malvado (Jhon Wayne)
+https://wayyrm3efe.guardstorage.net/hls_3/mUS4FTN3XCyzCOzSQ9qQBEgthIp-8R4Gc0Wb6FvSs7P4UXmY7whe5g8bTLcQmSn4AcgFER1-SpRFTJ2s9O6iMw/index-v1-a1.m3u8?sig=iJV0wC1ZOjjC7VqZX10_1A&expires=1744227798
 
+*Blanca Nieves - https://serenotv.com/ server 
+#EXTINF:-1 tvg-logo="https://serenotv.com/contenido/webp-express/webp-images/uploads/2024/08/3UOWNJPf4MWHALHaEAi79ZfkgKu-scaled.jpg.webp" group-title="Animacion DVD",Blanca Nieves (1937)
+https://wayyrm3efe.guardstorage.net/hls_3/v2qEmdSGZ7OUWg5kOSqgnAV9bXufOzBua9N3MgNUlm-GsrmOZy-pCMHGb1tpsVobvpsXdm3WWKoJmbudUj0sWA/index-v1-a1.m3u8?sig=6qvBGLUACiEtdtDVUvG90w&expires=1744229853
