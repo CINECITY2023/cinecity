@@ -2,7 +2,7 @@
 
 
                                          
-*Preview 📌
+*Preview 馃搶
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",Preview
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
@@ -27,12 +27,12 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" group-title="Buenos Aires",America HD - sv2
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-*TV-Pública - Edge Access server 
+*TV-P煤blica - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TVPublica.png" group-title="Buenos Aires",TV Pública - sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TVPublica.png" group-title="Buenos Aires",TV P煤blica - sv1
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
-*TV-Pública-HD - Edge Access server 
+*TV-P煤blica-HD - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TVPublica.png" group-title="Buenos Aires",TV Publica HD - sv2
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
@@ -75,9 +75,9 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD - sv1
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
-*Canal-10-de-Junín - Edge Access server 
+*Canal-10-de-Jun铆n - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",Canal 10 de Junín - sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",Canal 10 de Jun铆n - sv1
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 *Canal-10-(Mar-del-Plata) - Edge Access server 
@@ -118,7 +118,13 @@ NOTICIAS ARGENTINA
 *A24 - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://archive.org/download/Noticias-Logo-120x120/a24.png" group-title="Noticias",A24 - sv1
-https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
+
+*A24 HD - Edge Acces server 
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://archive.org/download/Noticias-Logo-120x120/a24.png" group-title="Noticias",A24 HD - sv2
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 *Canal-26 - Telecentro server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canal26.png" group-title="Noticias",Canal 26 - sv1
@@ -308,12 +314,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/CanelaTVtelenovelas.png" group-title="Novelas",Canela TV Telenovelas HD - sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-*Novelísima - Ottera server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/Novel%C3%ADsima.png" group-title="Novelas",Novelísima HD - sv1
+*Novel铆sima - Ottera server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/Novel%C3%ADsima.png" group-title="Novelas",Novel铆sima HD - sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-*Corazón - Ottera server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/Coraz%C3%B3n.png" group-title="Novelas",Corazón HD - sv1
+*Coraz贸n - Ottera server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/Coraz%C3%B3n.png" group-title="Novelas",Coraz贸n HD - sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
 *PlutoTV-Novelas - plutotv server 
@@ -479,8 +485,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5
 #EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/PITUFOS.png" group-title="Infantil",Pitufos sv1
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 
-*Padrinos-Mágicos- stitcher cluster server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/LosPadrinosMagico.png" group-title="Infantil",Padrinos Mágicos sv1
+*Padrinos-M谩gicos- stitcher cluster server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/LosPadrinosMagico.png" group-title="Infantil",Padrinos M谩gicos sv1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 *Locomotion - 51.222 server 
@@ -496,7 +502,7 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 *Pluto-Anime-Accion - PlutoTV server 
-#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Plutoanimeaccion.png" group-title="Infantil",PlutoTV Animé Acción - sv1
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Plutoanimeaccion.png" group-title="Infantil",PlutoTV Anim茅 Acci贸n - sv1
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 *PlutoTV-Anime - PlutoTV server 
@@ -601,8 +607,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd24
 NOTICIAS INTERNACIONALES
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*RT-en-Español (RUS) - Rttv server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/RT.png" group-title="Noticias Internacional",RT en Español FHD (RUS) - sv1
+*RT-en-Espa帽ol (RUS) - Rttv server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/RT.png" group-title="Noticias Internacional",RT en Espa帽ol FHD (RUS) - sv1
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 *Canal-24-Horas (ESP) - Ztnr server 
@@ -679,8 +685,8 @@ https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Locales-Logo-120x120/5TVCorrientes.png" group-title="Provincia",5TV (Corrientes) sv1
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-*13Max-Televisión (Corrientes) - coninfo server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Locales-Logo-120x120/13MaxTelevisi%C3%B3nCorrientes.png" group-title="Provincia",13Max Televisión (Corrientes) sv1
+*13Max-Televisi贸n (Corrientes) - coninfo server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Locales-Logo-120x120/13MaxTelevisi%C3%B3nCorrientes.png" group-title="Provincia",13Max Televisi贸n (Corrientes) sv1
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
 *Canal-9-Litoral (Entre Rios) arcast server 
@@ -724,8 +730,8 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Locales-Logo-120x120/Canal21TVPosadasMisiones.png" group-title="Provincia",Canal 21 TV (Posadas, Misiones) sv1
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-*Canal-7 (Neuquén) - arcast server 
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://archive.org/download/Locales-Logo-120x120/Canal7Neuqu%C3%A9n.png" group-title="Provincia",Canal 7 (Neuquén) sv1
+*Canal-7 (Neuqu茅n) - arcast server 
+#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://archive.org/download/Locales-Logo-120x120/Canal7Neuqu%C3%A9n.png" group-title="Provincia",Canal 7 (Neuqu茅n) sv1
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 *Canal-7 (Salta) - solumedia server 
@@ -854,7 +860,7 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-*Canal-6-Multimedios-Laguna (Mexico) - ottera sever  📌
+*Canal-6-Multimedios-Laguna (Mexico) - ottera sever  馃搶
 EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
 
@@ -915,12 +921,12 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/PanamericanaPeru.png" group-title="Canales Internacionales",Panamericana TV (Peru) sv2
 https://sae12.playlist.live-video.net/v1/playlist/CtEFpmF7CdJ_IxMpSQiz4wKSDNKHW880ZGiaJNfdUfyqTffF_tDMSIJ_yeYXE5oRPEErMPhh-8bgtSVi5RnY4hWXwNUz8FBXeAsAE8FvqAeC2r9OgY-zLL37e5abBUT2oh-d5Kp0K3b8XyRjPtKuo-YNiLRLyAhR34faaTN27nUOheFRTkLBgHLm1RppIxiidblr5n7G9ObzYXM7rGtI0kwXE5orH9C2ro0fANlLw7UGHkTQq5vIvPiSIrFBV91LXLAdgGDyFezHfv_DOycQez4hlRYNQ6uTSSYdR8M8etINrxXxxcqI7rrpaimpXZj-m0KZKQSDHKDpZoSW4brKC8GSHABgpoTktRhyzqH6NgNc87MGvbiRwS0Pvdd0kEXBc7z2uJeou30dbA_VanbukySErGrNnslKed2_BAQdyWJZE4ecWu19n-yx7uiyGgJaKFgkDesfmRg_sXuIGFGSv5MbmcHV1B48w1jmNbZEQPa2pEVgL89URUFsYVUMbl0wYZqfgjn4E9rIILPQqNwfuVLZNiobXtLVFnNfrqOJ1_PeFTjtpMqauVs8S1gHACaa7EsX4f8V5yPPDRWPjYfde-D2vehRr0xx7FTtYqnQbPTR_JKheLNhvLk14Do2SYqcvskeYFQKVpYj5iGoC5ynl9JZby4Jc19YMgUv7jCKB_9j0_iodEmTFnnWwwXGJ1HIDkNQ-wl5yFQjfwcHMnVC3Fyj_aFbksBUD6D2jTJhno9lzAX47fSxRhtySW_v4f5gOI-abnJe598qLRZQeL_4ATVZMSsMn5ybfFeNQXdWq6ZpncgL9gJd0FbeayJ0IssOD_vmwrcdu6CEKpMagUiFSdFBQbDI-xrXvImhyg1ha5wuc9-EsYQ6zjgBdEtTMy4CxPI7cZlQDRXYcY6geUw_YUIWHAD3v6tJ0pLcbhPyUjIitAhaf_ejL_N0t68LA-aGGZ7QxBoMSU7Y4sCx6wGsuZ2KIAEqCXVzLWVhc3QtMjD8Cw.m3u8
 
-*Bum-Televisión (Colombia) - ejeserver server 
-#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/BumTelevisi%C3%B3nColombia.png" group-title="Canales Internacionales",Bum Televisión (Colombia) sv1
+*Bum-Televisi贸n (Colombia) - ejeserver server 
+#EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/BumTelevisi%C3%B3nColombia.png" group-title="Canales Internacionales",Bum Televisi贸n (Colombia) sv1
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-*Agenda-Al-Día-TV (Colombia) - panelchs server 
-#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/AgendaAlD%C3%ADaTVColombia.png" group-title="Canales Internacionales",Agenda Al Día TV (Colombia) sv1
+*Agenda-Al-D铆a-TV (Colombia) - panelchs server 
+#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/AgendaAlD%C3%ADaTVColombia.png" group-title="Canales Internacionales",Agenda Al D铆a TV (Colombia) sv1
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 *Cable-Sur-TV (Colombia) - tvlatina server 
@@ -932,8 +938,8 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/RCNColombia.png" group-title="Canales Internacionales",RCN (Colombia) sv1
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-*Señal-Colombia (Colombia) - rtvc server 
-#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Señal Colombia (Colombia) sv2
+*Se帽al-Colombia (Colombia) - rtvc server 
+#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Se帽al Colombia (Colombia) sv2
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 *Telepacifico (colombia) - enetres server 
@@ -948,24 +954,24 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/telemundopunto2.png" group-title="Canales Internacionales",Telemundo Punto 2 (Puerto Rico) sv2
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
-*Star-TVE (España) - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (España) sv1
+*Star-TVE (Espa帽a) - televall server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (Espa帽a) sv1
 http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
 
-*La-2-TV (España) - rtve server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv1
+*La-2-TV (Espa帽a) - rtve server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (Espa帽a) sv1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-*La-2-TV (España) - akamaized server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv2
+*La-2-TV (Espa帽a) - akamaized server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (Espa帽a) sv2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-*13-TV (España) - live edge server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/13TVEspa%C3%B1a.png" group-title="Canales Internacionales",13 TV (España) sv1
+*13-TV (Espa帽a) - live edge server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/13TVEspa%C3%B1a.png" group-title="Canales Internacionales",13 TV (Espa帽a) sv1
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
 
-*El-Toro-TV (España) - eltoro server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/ElToroTVEspa%C3%B1a.png" group-title="Canales Internacionales",El Toro TV (España) sv1
+*El-Toro-TV (Espa帽a) - eltoro server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/ElToroTVEspa%C3%B1a.png" group-title="Canales Internacionales",El Toro TV (Espa帽a) sv1
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
@@ -1032,7 +1038,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
 http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
 
-*MTV-00s - televall server 📌
+*MTV-00s - televall server 馃搶
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-TMjj_r1-QPteKV1Ng-F4nzvWPXjw_Q&s.png" group-title="Musica",MTV 00s sv1
 http://89.117.146.57/televall/YbVVqpeaWU/15.m3u8
 
@@ -1113,8 +1119,8 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 CANAL DE RELIGION
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*María-Visión - rsc server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/MariaVision.png" group-title="Religion",María Visión sv1
+*Mar铆a-Visi贸n - rsc server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/MariaVision.png" group-title="Religion",Mar铆a Visi贸n sv1
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
 *EWTN - wowza server 
@@ -1133,8 +1139,8 @@ https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/solidariatv.png" group-title="Religion",Solidaria TV sv1
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 
-*Inspiración-y-Fe - ottera server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/inspiracionyfe.png" group-title="Religion",Inspiración y Fe sv1
+*Inspiraci贸n-y-Fe - ottera server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Religion-Logo-120x120/inspiracionyfe.png" group-title="Religion",Inspiraci贸n y Fe sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 
@@ -1159,8 +1165,8 @@ VIDEOS 24/7
 #EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/conflictotv.png" group-title="Videos 24/7",Conflicto TV sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 
-*Always-Funny-en-Español - Ottera server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/alwaysfunny.png" group-title="Videos 24/7",Always Funny en Español HD - sv1
+*Always-Funny-en-Espa帽ol - Ottera server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/alwaysfunny.png" group-title="Videos 24/7",Always Funny en Espa帽ol HD - sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 https://d15gk5a13gdlfb.cloudfront.net/v1/manifest/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_AlwaysFunnyEspanol/f99e7ef9-3623-499d-a6ff-136e5ec06433/3.m3u8
 
@@ -1248,8 +1254,8 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 tvg-rec="7" tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/1hd.png" group-title="Otros Idiomas",1 HD (RUS) sv2
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
-*Россия-1-HD - reg cdnvideo server
-#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",Россия-1-HD sv1
+*袪芯褋褋懈褟-1-HD - reg cdnvideo server
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",袪芯褋褋懈褟-1-HD sv1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 
 *1-2-3 TV (ALE) - flex server 
