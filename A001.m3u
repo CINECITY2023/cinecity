@@ -1217,7 +1217,7 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
 *Россия-1-HD - reg cdnvideo server
-#EXTINF:-1 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png" group-title="Otros Idiomas",Россия-1-HD sv1
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",Россия-1-HD sv1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 
 *1-2-3 TV (ALE) - flex server 
@@ -1290,6 +1290,7 @@ ASMR
 *Chimenea - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Asmr-Logo-120x120/chimenea.png" group-title="ASMR",Chimenea 24hs sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
+
 
 
 
