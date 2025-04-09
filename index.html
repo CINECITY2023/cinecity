@@ -21,18 +21,14 @@
       overflow: hidden;
       white-space: nowrap;
     }
-    #auth {
-      margin-top: 20px;
-    }
     #auth input {
-      margin: 5px;
+      margin: 10px;
       padding: 10px;
-      width: 200px;
+      width: 250px;
     }
     #auth button {
       padding: 10px 20px;
-      margin-top: 10px;
-      cursor: pointer;
+      margin: 10px;
     }
     #logout {
       display: none;
@@ -50,7 +46,7 @@
       max-width: 400px;
       margin: 20px auto;
       font-size: 16px;
-      display: block;
+      display: none;
     }
     .group {
       margin: 30px 0 10px;
@@ -78,7 +74,6 @@
       padding: 5px;
       width: 90px;
       cursor: pointer;
-      transition: 0.3s;
     }
     .channel:hover {
       background: #333;
@@ -97,65 +92,17 @@
     }
   </style>
 
-  <!-- Firebase -->
+  <!-- Firebase SDKs -->
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  
   <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
-<script>
-  const db = firebase.firestore();
-
-  async function getUserIP() {
-    try {
-      const res = await fetch('https://api.ipify.org?format=json');
-      const data = await res.json();
-      return data.ip;
-    } catch (e) {
-      console.error("Error obteniendo la IP:", e);
-      return null;
-    }
-  }
-
-  auth.onAuthStateChanged(async user => {
-    if (user) {
-      const uid = user.uid;
-      const email = user.email;
-      const ipActual = await getUserIP();
-
-      const ref = db.collection("usuarios").doc(uid);
-      const doc = await ref.get();
-
-      if (!doc.exists) {
-        // Primera vez: guardar IP
-        await ref.set({ email: email, ip: ipActual });
-        mostrarIPTV();
-      } else {
-        const ipRegistrada = doc.data().ip;
-        if (ipRegistrada === ipActual) {
-          mostrarIPTV();
-        } else {
-          alert("❌ Este usuario ya fue usado desde otra IP.");
-          auth.signOut();
-        }
-      }
-    }
-  });
-
-  function mostrarIPTV() {
-    document.getElementById("auth").style.display = "none";
-    document.getElementById("logout").style.display = "inline-block";
-    document.getElementById("player").style.display = "block";
-    document.getElementById("search").style.display = "block";
-    fetchM3U();
-  }
-</script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
 
 <div id="marquee">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    🎬 Bienvenido a CineCity IPTV — Disfruta lo mejor del cine en vivo | 📺 Canales actualizados 24/7 — Películas, deportes, noticias y más | 🚀 Calidad HD — Sin interrupciones, sin límites
+    🎬 CineCity IPTV — Películas, deportes y más en vivo | Sólo acceso autorizado 📺
   </marquee>
 </div>
 
@@ -169,10 +116,9 @@
 
 <button id="logout" onclick="logout()">Cerrar sesión</button>
 <video id="player" controls autoplay muted style="display:none;"></video>
-<input type="text" id="search" placeholder="Buscar canal..." style="display:none;" />
+<input type="text" id="search" placeholder="Buscar canal..." />
 <div id="channels"></div>
 <script>
-  // Tu configuración real de Firebase
   const firebaseConfig = {
     apiKey: "AIzaSyD-fzfLNG1ZbK1bMWeKRki_eAyagpnw7cg",
     authDomain: "iptv-tokens.firebaseapp.com",
@@ -185,19 +131,40 @@
 
   firebase.initializeApp(firebaseConfig);
   const auth = firebase.auth();
+  const db = firebase.firestore();
 
-  auth.onAuthStateChanged(user => {
+  async function getUserIP() {
+    const res = await fetch('https://api.ipify.org?format=json');
+    const data = await res.json();
+    return data.ip;
+  }
+
+  auth.onAuthStateChanged(async user => {
     if (user) {
-      document.getElementById("auth").style.display = "none";
-      document.getElementById("logout").style.display = "inline-block";
-      document.getElementById("player").style.display = "block";
-      document.getElementById("search").style.display = "block";
-      fetchM3U();
-    } else {
-      document.getElementById("auth").style.display = "block";
-      document.getElementById("logout").style.display = "none";
+      const uid = user.uid;
+      const ref = db.collection("usuarios").doc(uid);
+      const ipActual = await getUserIP();
+      const doc = await ref.get();
+
+      if (!doc.exists) {
+        await ref.set({ email: user.email, ip: ipActual });
+        mostrarContenido();
+      } else if (doc.data().ip === ipActual) {
+        mostrarContenido();
+      } else {
+        alert("❌ Este usuario ya fue usado desde otra IP.");
+        auth.signOut();
+      }
     }
   });
+
+  function mostrarContenido() {
+    document.getElementById("auth").style.display = "none";
+    document.getElementById("logout").style.display = "inline-block";
+    document.getElementById("player").style.display = "block";
+    document.getElementById("search").style.display = "block";
+    fetchM3U();
+  }
 
   function login() {
     const email = document.getElementById("email").value;
@@ -206,17 +173,16 @@
       .catch(error => alert("Error: " + error.message));
   }
 
-function register() {
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-  auth.createUserWithEmailAndPassword(email, password)
-    .catch(error => alert("Error: " + error.message));
-}
+  function register() {
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+    auth.createUserWithEmailAndPassword(email, password)
+      .catch(error => alert("Error: " + error.message));
+  }
 
-function logout() {
-  auth.signOut().then(() => location.reload());
-}
-</script>
+  function logout() {
+    auth.signOut().then(() => location.reload());
+  }
 
   const m3uUrl = "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/A001.m3u";
   let allChannels = [];
@@ -231,7 +197,7 @@ function logout() {
         allChannels = parseM3U(data);
         renderFiltered();
       })
-      .catch(err => alert("Error al cargar la lista M3U: " + err));
+      .catch(err => alert("Error al cargar M3U: " + err));
   }
 
   function parseM3U(text) {
@@ -242,12 +208,9 @@ function logout() {
     for (let i = 0; i < lines.length; i++) {
       const line = lines[i].trim();
       if (line.startsWith("#EXTINF:")) {
-        const nameMatch = line.match(/,(.*)/);
-        const logoMatch = line.match(/tvg-logo="(.*?)"/);
-        const groupMatch = line.match(/group-title="(.*?)"/);
-        const name = nameMatch ? nameMatch[1].trim() : "Canal sin nombre";
-        const logo = logoMatch ? logoMatch[1].trim() : "";
-        const group = groupMatch ? groupMatch[1].trim() : "Sin grupo";
+        const name = line.split(",").pop().trim();
+        const logo = line.match(/tvg-logo="(.*?)"/)?.[1] || "";
+        const group = line.match(/group-title="(.*?)"/)?.[1] || "Sin grupo";
         const url = lines[i + 1]?.trim();
         if (url && url.startsWith("http")) {
           if (!seenGroups.has(group)) {
@@ -270,16 +233,12 @@ function logout() {
   function renderGrouped(channels) {
     const container = document.getElementById("channels");
     container.innerHTML = "";
-
     const grouped = {};
     groupOrder.forEach(g => grouped[g] = []);
-    channels.forEach(ch => {
-      if (!grouped[ch.group]) grouped[ch.group] = [];
-      grouped[ch.group].push(ch);
-    });
+    channels.forEach(ch => grouped[ch.group]?.push(ch));
 
     groupOrder.forEach(group => {
-      if (grouped[group].length === 0) return;
+      if (!grouped[group]?.length) return;
 
       const title = document.createElement("div");
       title.className = "group";
@@ -288,14 +247,14 @@ function logout() {
       const groupGrid = document.createElement("div");
       groupGrid.className = "group-channels";
 
-      grouped[group].forEach(ch => {
+      grouped[group].forEach(canal => {
         const div = document.createElement("div");
         div.className = "channel";
         div.innerHTML = \`
-          <img src="\${ch.logo}" onerror="this.style.display='none'">
-          <div class="channel-name">\${ch.name}</div>
+          <img src="\${canal.logo}" onerror="this.style.display='none'">
+          <div class="channel-name">\${canal.name}</div>
         \`;
-        div.onclick = () => play(ch.url);
+        div.onclick = () => play(canal.url);
         groupGrid.appendChild(div);
       });
 
@@ -319,6 +278,5 @@ function logout() {
     }
   }
 </script>
-
 </body>
 </html>
