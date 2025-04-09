@@ -158,7 +158,7 @@ CANAL DE CINE
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 *AMC - 185.189 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",AMC - sv1
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",AMC - sv1
 http://185.189.225.150:85/AMC/index.m3u8
 
 *Cinecanal - televall server 
@@ -328,23 +328,35 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7f
 CANAL DE DEPORTES
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*ESPN - Tamal server 
+*ESPN - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",ESPN - sv1
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SYyETZmZGZ2QjY0YTL2MDM50SZhBDNtcjZkNTLhZjNjZGNyIzL.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
-*ESPN 2 - Tamal server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",ESPN 2 sv2
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09SZlhDZkdTYmJTN4MWLmZDO40SZxUDNtMjYyUWLiFWZwgDOyYzL.m3u8
+*ESPN 2 - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",ESPN 2 sv1
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8*ESPN 2 - Tamal server
 
-*ESPN-Premium - Tamal server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espnpremium.png" group-title="Deportes",ESPN Premium sv2
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yYkVjN4EmZyQWZzMWLihDMh1SZ0UDNtMzM1kTLlRWZyMmMmJzL.m3u8
+*Espn-3 - telelcub
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv1
+http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+
+*Espn-4 - teleclub
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn4.png" group-title="Deportes",ESPN 4 sv1
+http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+
+*Espn-5 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn5.png" group-title="Deportes",ESPN 5 sv1
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+
+*ESPN-Premium - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espnpremium.png" group-title="Deportes",ESPN Premium sv1
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 
 *TyC-Sports - Tamal server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports - sv1
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzUjY2UWY0QGO0MWLihTMh1iNlRGNtgzYjVWLyIWNkFTY5kzL.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
-*TNT-Sports-Premium - Tamal server 
+*TNT-Sports-Premium - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv1
 https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09yNzkTOxQDOxITY3kTL4MGM40COyYGNtYGO0QWLzIWZxUjNzczL.m3u8
 
@@ -352,29 +364,37 @@ https://39osta28l0q8tvo4.tamalpsdrtd.lat/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv2
 http://89.117.146.57/televall/YbVVqpeaWU/103.m3u8
 
+*Fox-Sports - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="Deportes",TnT Sports Premium sv2
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+
 *Fox-Sports-2 - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 2 sv1
-http://89.117.146.57/televall/YbVVqpeaWU/99.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
 
 *Fox-Sports-3 - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 3 - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/100.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
 
 *Fox-Sports-premium - Tamal server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportspremium.png" group-title="Deportes",Fox Sports premium - sv1
-https://39osta28l0q8tvo4.tamalpsdrtd.lat/v3/director/VE1NzlhMDE1ZTYwMzc2LWVlNTktZDcxNC0yZGQ4LTA5NDUyNTM5/master.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
 
 *Fox-Sports-Deportes - Tubi server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportsdeportes.png" group-title="Deportes",Fox Sports Deportes - sv1
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
+http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
 
 *Fox-Deportes-Tubi
 #EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportstubi.png" group-title="Deportes", Fox Deportes Tubi - sv1
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
-*Win-Sports+ - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports%2B.png" tvg-country="AR" group-title="Deportes",Win Sports+ - sv2
+*Win-Sports - Televall server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports%2B.png" tvg-country="AR" group-title="Deportes",Win Sports - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
+
+*Win-Sports+ - Televall server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports+.png" tvg-country="AR" group-title="Deportes",Win Sports+ - sv1
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 
 *TUDN - 190.92 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",TUDN sv1
@@ -383,6 +403,18 @@ http://190.92.10.66:4000/play/a006/index.m3u8
 *TUDN - 190.92 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",TUDN sv2
 http://190.92.10.66:4000/play/a002/index.m3u8
+
+*Gol-Peru - teleclub serever
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/golperu.png" group-title="Deportes",Gol Peru sv1
+http://tv.teleclub.xyz/club/server_1/deportes/golperu/index.m3u8
+
+*Gol-TV - Teleclub server
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/goltv.png" group-title="Deportes",Gol TV sv1
+http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
+
+*L1Max - Teleclub server
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/l1max.png" group-title="Deportes",L1Max sv1
+http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
 
 *InterneTV-Deportes - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/itvdeportes.png" group-title="Deportes",InterneTV Deportes HD - sv1
@@ -1217,7 +1249,7 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
 *Россия-1-HD - reg cdnvideo server
-#EXTINF:-1 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png" group-title="Otros Idiomas",Россия-1-HD sv1
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",Россия-1-HD sv1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 
 *1-2-3 TV (ALE) - flex server 
