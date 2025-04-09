@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>CineCity IPTV</title>
+  <style>
+    body {
+      background: #111;
+      color: #fff;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    #marquee {
+      background: #000;
+      color: red;
+      font-size: 16px;
+      font-weight: bold;
+      padding: 10px 0;
+      overflow: hidden;
+      white-space: nowrap;
+    }
+
+    video {
+      width: 100%;
+      max-height: 480px;
+      background: #000;
+    }
+
+    #search {
+      padding: 10px;
+      width: 80%;
+      max-width: 400px;
+      margin: 20px auto;
+      font-size: 16px;
+      display: block;
+    }
+
+    .group {
+      margin: 30px 0 10px;
+      font-size: 18px;
+      font-weight: bold;
+      border-bottom: 1px solid #555;
+      padding-bottom: 5px;
+      width: 90%;
+      margin-left: auto;
+      margin-right: auto;
+      text-align: left;
+    }
+
+    .group-channels {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-start;
+      gap: 10px;
+      padding: 10px;
+      width: 90%;
+      margin: auto;
+    }
+
+    .channel {
+      background: #222;
+      border-radius: 6px;
+      padding: 5px;
+      width: 90px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+
+    .channel:hover {
+      background: #333;
+    }
+
+    .channel img {
+      width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
+
+    .channel-name {
+      margin-top: 5px;
+      font-size: 12px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+</head>
+<body>
+
+<div id="marquee">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
+    🎬 Bienvenido a CineCity IPTV — Disfruta lo mejor del cine en vivo | 📺 24/7 canales actualizados — Películas, deportes, noticias y más | 🍿 Agrega a favoritos y comparte con tus amigos | 🚀 Calidad HD — Sin interrupciones, sin límites
+  </marquee>
+</div>
+
+<video id="player" controls autoplay muted></video>
+<input type="text" id="search" placeholder="Buscar canal..." />
+<div id="channels"></div>
+
+<script>
+  const m3uUrl = "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/A001.m3u";
+  let allChannels = [];
+  let groupOrder = [];
+
+  document.getElementById("search").addEventListener("input", renderFiltered);
+
+  function fetchM3U(url) {
+    fetch(url)
+      .then(res => res.text())
+      .then(data => {
+        allChannels = parseM3U(data);
+        renderFiltered();
+      })
+      .catch(err => alert("Error al cargar la lista M3U: " + err));
+  }
+
+  function parseM3U(text) {
+    const lines = text.split("\n");
+    const channels = [];
+    const seenGroups = new Set();
+
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (line.startsWith("#EXTINF:")) {
+        const nameMatch = line.match(/,(.*)/);
+        const logoMatch = line.match(/tvg-logo="(.*?)"/);
+        const groupMatch = line.match(/group-title="(.*?)"/);
+        const name = nameMatch ? nameMatch[1].trim() : "Canal sin nombre";
+        const logo = logoMatch ? logoMatch[1].trim() : "";
+        const group = groupMatch ? groupMatch[1].trim() : "Sin grupo";
+        const url = lines[i + 1]?.trim();
+        if (url && url.startsWith("http")) {
+          if (!seenGroups.has(group)) {
+            groupOrder.push(group);
+            seenGroups.add(group);
+          }
+          channels.push({ name, logo, group, url });
+        }
+      }
+    }
+    return channels;
+  }
+
+  function renderFiltered() {
+    const query = document.getElementById("search").value.toLowerCase();
+    const filtered = allChannels.filter(c => c.name.toLowerCase().includes(query));
+    renderGrouped(filtered);
+  }
+
+  function renderGrouped(channels) {
+    const container = document.getElementById("channels");
+    container.innerHTML = "";
+
+    const grouped = {};
+    groupOrder.forEach(g => grouped[g] = []);
+    channels.forEach(ch => {
+      if (!grouped[ch.group]) grouped[ch.group] = [];
+      grouped[ch.group].push(ch);
+    });
+
+    groupOrder.forEach(group => {
+      if (grouped[group].length === 0) return;
+
+      const title = document.createElement("div");
+      title.className = "group";
+      title.textContent = group;
+
+      const groupGrid = document.createElement("div");
+      groupGrid.className = "group-channels";
+
+      grouped[group].forEach(ch => {
+        const div = document.createElement("div");
+        div.className = "channel";
+        div.innerHTML = `
+          <img src="${ch.logo}" onerror="this.style.display='none'">
+          <div class="channel-name">${ch.name}</div>
+        `;
+        div.onclick = () => play(ch.url);
+        groupGrid.appendChild(div);
+      });
+
+      container.appendChild(title);
+      container.appendChild(groupGrid);
+    });
+  }
+
+  function play(url) {
+    const video = document.getElementById("player");
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(url);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => video.play());
+    } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
+      video.src = url;
+      video.addEventListener("loadedmetadata", () => video.play());
+    } else {
+      alert("Tu navegador no soporta HLS");
+    }
+  }
+
+  fetchM3U(m3uUrl);
+</script>
+
+</body>
+</html>
