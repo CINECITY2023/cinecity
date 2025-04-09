@@ -118,7 +118,7 @@
 <video id="player" controls autoplay muted style="display:none;"></video>
 <input type="text" id="search" placeholder="Buscar canal..." />
 <div id="channels"></div>
-<script>
+<<script>
   const firebaseConfig = {
     apiKey: "AIzaSyD-fzfLNG1ZbK1bMWeKRki_eAyagpnw7cg",
     authDomain: "iptv-tokens.firebaseapp.com",
@@ -166,27 +166,25 @@
     fetchM3U();
   }
 
+  // ✅ FUNCIONES QUE DEBEN ESTAR EN EL GLOBAL
   window.login = function() {
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-  auth.signInWithEmailAndPassword(email, password)
-    .catch(error => alert("Error: " + error.message));
-}
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+    auth.signInWithEmailAndPassword(email, password)
+      .catch(error => alert("Error: " + error.message));
+  }
 
-window.register = function() {
-  const email = document.getElementById("email").value;
-  const password = document.getElementById("password").value;
-  auth.createUserWithEmailAndPassword(email, password)
-    .catch(error => alert("Error: " + error.message));
-}
+  window.register = function() {
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+    auth.createUserWithEmailAndPassword(email, password)
+      .catch(error => alert("Error: " + error.message));
+  }
 
-window.logout = function() {
-  auth.signOut().then(() => location.reload());
-}
-
-  function logout() {
+  window.logout = function() {
     auth.signOut().then(() => location.reload());
   }
+</script>
 
   const m3uUrl = "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/A001.m3u";
   let allChannels = [];
