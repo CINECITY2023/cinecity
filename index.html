@@ -166,19 +166,23 @@
     fetchM3U();
   }
 
-  function login() {
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
-    auth.signInWithEmailAndPassword(email, password)
-      .catch(error => alert("Error: " + error.message));
-  }
+  window.login = function() {
+  const email = document.getElementById("email").value;
+  const password = document.getElementById("password").value;
+  auth.signInWithEmailAndPassword(email, password)
+    .catch(error => alert("Error: " + error.message));
+}
 
-  function register() {
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
-    auth.createUserWithEmailAndPassword(email, password)
-      .catch(error => alert("Error: " + error.message));
-  }
+window.register = function() {
+  const email = document.getElementById("email").value;
+  const password = document.getElementById("password").value;
+  auth.createUserWithEmailAndPassword(email, password)
+    .catch(error => alert("Error: " + error.message));
+}
+
+window.logout = function() {
+  auth.signOut().then(() => location.reload());
+}
 
   function logout() {
     auth.signOut().then(() => location.reload());
