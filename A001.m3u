@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
+
 #EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" ,America - sv1
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 #EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" ,America HD - sv2
