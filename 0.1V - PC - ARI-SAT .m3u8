@@ -72,7 +72,7 @@ https://inliveserver.com:1936/12000/12000/playlist.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 *Canal-4-La-Matanza-HD - Livecast server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD - sv1
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 *Canal-10-de-Junín - Edge Access server 
