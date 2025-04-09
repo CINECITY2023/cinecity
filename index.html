@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" />
   <title>CineCity IPTV</title>
   <style>
     body {
@@ -12,7 +12,6 @@
       padding: 0;
       text-align: center;
     }
-
     #marquee {
       background: #000;
       color: red;
@@ -22,13 +21,29 @@
       overflow: hidden;
       white-space: nowrap;
     }
-
+    #auth {
+      margin-top: 20px;
+    }
+    #auth input {
+      margin: 5px;
+      padding: 10px;
+      width: 200px;
+    }
+    #auth button {
+      padding: 10px 20px;
+      margin-top: 10px;
+      cursor: pointer;
+    }
+    #logout {
+      display: none;
+      margin: 20px auto;
+      padding: 10px 20px;
+    }
     video {
       width: 100%;
       max-height: 480px;
       background: #000;
     }
-
     #search {
       padding: 10px;
       width: 80%;
@@ -37,7 +52,6 @@
       font-size: 16px;
       display: block;
     }
-
     .group {
       margin: 30px 0 10px;
       font-size: 18px;
@@ -49,7 +63,6 @@
       margin-right: auto;
       text-align: left;
     }
-
     .group-channels {
       display: flex;
       flex-wrap: wrap;
@@ -59,7 +72,6 @@
       width: 90%;
       margin: auto;
     }
-
     .channel {
       background: #222;
       border-radius: 6px;
@@ -68,17 +80,14 @@
       cursor: pointer;
       transition: 0.3s;
     }
-
     .channel:hover {
       background: #333;
     }
-
     .channel img {
       width: 100%;
       height: auto;
       border-radius: 4px;
     }
-
     .channel-name {
       margin-top: 5px;
       font-size: 12px;
@@ -87,29 +96,136 @@
       white-space: nowrap;
     }
   </style>
+
+  <!-- Firebase -->
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
+<script>
+  const db = firebase.firestore();
+
+  async function getUserIP() {
+    try {
+      const res = await fetch('https://api.ipify.org?format=json');
+      const data = await res.json();
+      return data.ip;
+    } catch (e) {
+      console.error("Error obteniendo la IP:", e);
+      return null;
+    }
+  }
+
+  auth.onAuthStateChanged(async user => {
+    if (user) {
+      const uid = user.uid;
+      const email = user.email;
+      const ipActual = await getUserIP();
+
+      const ref = db.collection("usuarios").doc(uid);
+      const doc = await ref.get();
+
+      if (!doc.exists) {
+        // Primera vez: guardar IP
+        await ref.set({ email: email, ip: ipActual });
+        mostrarIPTV();
+      } else {
+        const ipRegistrada = doc.data().ip;
+        if (ipRegistrada === ipActual) {
+          mostrarIPTV();
+        } else {
+          alert("❌ Este usuario ya fue usado desde otra IP.");
+          auth.signOut();
+        }
+      }
+    }
+  });
+
+  function mostrarIPTV() {
+    document.getElementById("auth").style.display = "none";
+    document.getElementById("logout").style.display = "inline-block";
+    document.getElementById("player").style.display = "block";
+    document.getElementById("search").style.display = "block";
+    fetchM3U();
+  }
+</script>
 </head>
 <body>
 
 <div id="marquee">
   <marquee behavior="scroll" direction="left" scrollamount="5">
-    🎬 Bienvenido a CineCity IPTV — Disfruta lo mejor del cine en vivo | 📺 24/7 canales actualizados — Películas, deportes, noticias y más | 🍿 Agrega a favoritos y comparte con tus amigos | 🚀 Calidad HD — Sin interrupciones, sin límites
+    🎬 Bienvenido a CineCity IPTV — Disfruta lo mejor del cine en vivo | 📺 Canales actualizados 24/7 — Películas, deportes, noticias y más | 🚀 Calidad HD — Sin interrupciones, sin límites
   </marquee>
 </div>
 
-<video id="player" controls autoplay muted></video>
-<input type="text" id="search" placeholder="Buscar canal..." />
-<div id="channels"></div>
+<div id="auth">
+  <input type="email" id="email" placeholder="Correo electrónico" />
+  <input type="password" id="password" placeholder="Contraseña" />
+  <br>
+  <button onclick="login()">Iniciar sesión</button>
+  <button onclick="register()">Registrarse</button>
+</div>
 
+<button id="logout" onclick="logout()">Cerrar sesión</button>
+<video id="player" controls autoplay muted style="display:none;"></video>
+<input type="text" id="search" placeholder="Buscar canal..." style="display:none;" />
+<div id="channels"></div>
 <script>
+  // Tu configuración real de Firebase
+  const firebaseConfig = {
+    apiKey: "AIzaSyD-fzfLNG1ZbK1bMWeKRki_eAyagpnw7cg",
+    authDomain: "iptv-tokens.firebaseapp.com",
+    projectId: "iptv-tokens",
+    storageBucket: "iptv-tokens.firebasestorage.app",
+    messagingSenderId: "728401298",
+    appId: "1:728401298:web:9760cf82d8b00b5679ad4b",
+    measurementId: "G-9VG6B4T29F"
+  };
+
+  firebase.initializeApp(firebaseConfig);
+  const auth = firebase.auth();
+
+  auth.onAuthStateChanged(user => {
+    if (user) {
+      document.getElementById("auth").style.display = "none";
+      document.getElementById("logout").style.display = "inline-block";
+      document.getElementById("player").style.display = "block";
+      document.getElementById("search").style.display = "block";
+      fetchM3U();
+    } else {
+      document.getElementById("auth").style.display = "block";
+      document.getElementById("logout").style.display = "none";
+    }
+  });
+
+  function login() {
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+    auth.signInWithEmailAndPassword(email, password)
+      .catch(error => alert("Error: " + error.message));
+  }
+
+  function register() {
+    const email = document.getElementById("email").value;
+    const password = document.getElementById("password").value;
+    auth.createUserWithEmailAndPassword(email, password)
+      .catch(error => alert("Error: " + error.message));
+  }
+
+  function logout() {
+    auth.signOut();
+    location.reload();
+  }
+
   const m3uUrl = "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/A001.m3u";
   let allChannels = [];
   let groupOrder = [];
 
   document.getElementById("search").addEventListener("input", renderFiltered);
 
-  function fetchM3U(url) {
-    fetch(url)
+  function fetchM3U() {
+    fetch(m3uUrl)
       .then(res => res.text())
       .then(data => {
         allChannels = parseM3U(data);
@@ -119,7 +235,7 @@
   }
 
   function parseM3U(text) {
-    const lines = text.split("\n");
+    const lines = text.split("\\n");
     const channels = [];
     const seenGroups = new Set();
 
@@ -175,10 +291,10 @@
       grouped[group].forEach(ch => {
         const div = document.createElement("div");
         div.className = "channel";
-        div.innerHTML = `
-          <img src="${ch.logo}" onerror="this.style.display='none'">
-          <div class="channel-name">${ch.name}</div>
-        `;
+        div.innerHTML = \`
+          <img src="\${ch.logo}" onerror="this.style.display='none'">
+          <div class="channel-name">\${ch.name}</div>
+        \`;
         div.onclick = () => play(ch.url);
         groupGrid.appendChild(div);
       });
@@ -202,8 +318,6 @@
       alert("Tu navegador no soporta HLS");
     }
   }
-
-  fetchM3U(m3uUrl);
 </script>
 
 </body>
