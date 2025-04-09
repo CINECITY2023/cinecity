@@ -373,7 +373,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
 
 *Fox-Sports-3 - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 3 - sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports3.png" group-title="Deportes",Fox Sports 3 - sv1
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
 
 *Fox-Sports-premium - Tamal server 
@@ -389,7 +389,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
 *Win-Sports - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports%2B.png" tvg-country="AR" group-title="Deportes",Win Sports - sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports.png" tvg-country="AR" group-title="Deportes",Win Sports - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
 
 *Win-Sports+ - Televall server 
