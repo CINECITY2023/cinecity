@@ -115,8 +115,8 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 *Urbana Teve - iblups server 
-#EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=184,fit=crop,q=95/YrDl0RVPWQc5PZGq/2....urbana-tv-trasparente-no-usar-sobre-blanco-AVLb4BKGkWHZGzzz.png" group-title="Buenos Aires",Urbana Teve - sv1
-https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
+EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=184,fit=crop,q=95/YrDl0RVPWQc5PZGq/2....urbana-tv-trasparente-no-usar-sobre-blanco-AVLb4BKGkWHZGzzz.png" group-title="Buenos Aires",Urbana Teve - sv1
+
 
 
 NOTICIAS ARGENTINA
@@ -350,15 +350,16 @@ CANAL DE DEPORTES
 
 EVENTOS FUTBOL
 
-*Fox Sports Tubi 
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportstubi.png" group-title="EVENTO FUTBOL",ConcaChampions: Miami vs LAFC
+*Canal Evento 1
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="EVENTO FUTBOL",ConcaChampions: Miami vs LAFC
 https://miami.pricesaskeloadsc.com/tubitv1/tracks-v1a1/mono.m3u8?ip=186.18.44.74&token=90cdb326f99981677ddd4c1f3830558daf4fd096-5c-1744271416-1744239016
 
-*Fox-Deportes tubi
+*Canal Evento 2
 EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportstubi.png" group-title="EVENTO FUTBOL",ConcaChampions: Miami vs LAFC
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
----------------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *ESPN - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",ESPN - sv1
@@ -677,7 +678,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",Telemundo Noticias (MEX) - sv1
 http://190.92.10.66:4000/play/a004/index.m3u8
 
-
+*Abc TV (PAR) - Abc server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="Noticias Internacional",Abc TV (PAR) - sv1
+https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 
 
@@ -936,6 +939,10 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 
 *Panamericana-TV (Peru)
 EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/PanamericanaPeru.png" group-title="Canales Internacionales",Panamericana TV (Peru) sv2
+
+*America-TV (Peru)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AmericaTelevisionPeru.png" group-title="Canales Internacionales",America TV (Peru) sv1
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/25d52e98-dfda-4037-b659-a888481dc7f7/2.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=FaZBBbkPyJKc9Z2sHMS8grvMjRPc3Vuc&sid=9bxT9SoTqJGaGw3lmUsiwlP86KOxmRmH&pid=lZoIsPH2lQOF5HoKXDCXhau87RVhR9IX&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=HXFW7ZITeLYNFwrMGmNf8CaahJ4ZodoqtD6hu4RPgIgF7CgqBhib6bHHl5Y0yk55mZ5viXqfs6J&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1744396567253&ot=RBvbzdsmkgRVNYv3rMBy3Q&proto=https&pz=us
 
 *Bum-Televisión (Colombia) - ejeserver server 
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/BumTelevisi%C3%B3nColombia.png" group-title="Canales Internacionales",Bum Televisión (Colombia) sv1
@@ -1349,14 +1356,3 @@ ASMR
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 
 
-
-Peliculas DVD
----------------------------------------------------------------------------------------------------------------------------
-
-*El Angel y el Malvado (Jhon Wayne) - https://serenotv.com/ server 
-#EXTINF:-1 tvg-logo="https://serenotv.com/contenido/webp-express/webp-images/uploads/2024/08/angel.jpg.webp" group-title="Western DVD",El Angel y el Malvado (Jhon Wayne)
-https://wayyrm3efe.guardstorage.net/hls_3/mUS4FTN3XCyzCOzSQ9qQBEgthIp-8R4Gc0Wb6FvSs7P4UXmY7whe5g8bTLcQmSn4AcgFER1-SpRFTJ2s9O6iMw/index-v1-a1.m3u8?sig=iJV0wC1ZOjjC7VqZX10_1A&expires=1744227798
-
-*Blanca Nieves - https://serenotv.com/ server 
-#EXTINF:-1 tvg-logo="https://serenotv.com/contenido/webp-express/webp-images/uploads/2024/08/3UOWNJPf4MWHALHaEAi79ZfkgKu-scaled.jpg.webp" group-title="Animacion DVD",Blanca Nieves (1937)
-https://wayyrm3efe.guardstorage.net/hls_3/v2qEmdSGZ7OUWg5kOSqgnAV9bXufOzBua9N3MgNUlm-GsrmOZy-pCMHGb1tpsVobvpsXdm3WWKoJmbudUj0sWA/index-v1-a1.m3u8?sig=6qvBGLUACiEtdtDVUvG90w&expires=1744229853
