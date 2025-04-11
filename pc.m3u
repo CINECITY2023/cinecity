@@ -288,8 +288,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/mascineclassic.png" group-title="Cine",+Cine Classic - sv1
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?PlaylistM3UCL
 
-*ZoyTV - akamaissh server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/zoytv.png" group-title="Cine",ZoytV - sv1
+*ZoyPlus - akamaissh server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/zoytv.png" group-title="Cine",ZoyPlus - sv1
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 
 *RetroPlus - akamaissh server
