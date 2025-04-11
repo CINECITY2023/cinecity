@@ -40,7 +40,7 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 *Canal 9 - Usher ttvnw server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 EXTINF:1 tvg-logo="https://ia800709.us.archive.org/19/items/BSAS-Logo-120x120/ElNueve.png" group-title="Buenos Aires",El Nueve - sv1
-https://usher.ttvnw.net/api/channel/hls/elnueveok.m3u8?
+
 
 *TELEFE-HD - Telefe Server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",Telefe HD - sv1
@@ -176,11 +176,11 @@ http://185.189.225.150:85/AMC/index.m3u8
 
 *Cinecanal - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",Cinecanal - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
+
 
 *Cinemax - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
+
 
 *De-Pelicula - 190.60 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DEPELICULA.png" group-title="Cine",De Pelicula - sv1
@@ -188,11 +188,11 @@ http://190.60.38.114:1010/play/a08f/index.m3u8
 
 *Films&arts - Telvall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FILMANDARTS.png" group-title="Cine",Films&arts - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
+
 
 *FX - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
+
 
 Golden - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden - sv1
@@ -207,23 +207,23 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo2/master.m3u8
 
 *HBO-Signature - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbosignature.png" group-title="Cine",HBO Signature - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
+
 
 *Sony-Channel - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",Sony Channel - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
+
 
 *Sony-Movies - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
+
 
 *Space - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
+
 
 *Studio-Universal - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
+
 
 *TNT - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tnt.png" group-title="Cine",TNT - sv1
@@ -231,10 +231,11 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
 
 *TNT-Series - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
+
 
 *TNT-Novelas - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.png" group-title="Cine",TNT Novelas - sv1
+
 
 *PlutoTV-Cine-Accion - plutotv server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/plutocineaccion.png" group-title="Cine",PlutoTV Cine Accion - sv1
@@ -293,7 +294,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?P
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 
 *RetroPlus - akamaissh server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/retroplus.png" group-title="Cine",RetroPlus - sv1
+#EXTVLCOPT:http-user-agent=(Android 8.0.0)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/retroplus.png" group-title="Cine",RetroPlus - sv1
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8?PlaylistM3UCL
 
 *MyTime-Movie-Network - amagitv server
@@ -389,39 +391,73 @@ http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports - sv1
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
-*TNT-Sports-Premium - Teleclub server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv1
-
-*TNT-Sports-Premium - Televall server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TnT Sports Premium sv2
+*TyC-Sports - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tycsports.png" group-title="Deportes",TyC Sports - sv2
+http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
 
 *Fox-Sports - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports.png" group-title="Deportes",Fox Sports sv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportsar.png" group-title="Deportes",Fox Sports sv1
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+
+*Fox-Sports-MX - Teleclub server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_Sports_M%C3%A9xico.png" group-title="Deportes", Fox Sports 1 MX sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports1mx/master.m3u8
 
 *Fox-Sports-2 - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports2.png" group-title="Deportes",Fox Sports 2 sv1
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
 
+*Fox-Sports-2-MX - Televall server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/FoxSports2mx.png" group-title="Deportes", Fox Sports 2 MX sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
+
 *Fox-Sports-3 - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsports3.png" group-title="Deportes",Fox Sports 3 - sv1
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
 
+*Fox-Sports-3-MX - Televall server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="Deportes", Fox Sports 3 MX sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
+
 *Fox-Sports-premium - Tamal server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportspremium.png" group-title="Deportes",Fox Sports premium - sv1
-http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+
+
+*Fox-Sports-Premium-MX - Televall server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportspremiummx.png" group-title="Deportes", Fox Sports Premium MX
+http://tv.teleclub.xyz/stream/server_2/deportes/foxsportspremiummx/master.m3u8
 
 *Fox-Sports-Deportes - Tubi server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportsdeportes.png" group-title="Deportes",Fox Sports Deportes - sv1
 http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
 
-*Fox-Deportes-Tubi
-#EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportstubi.png" group-title="Deportes", Fox Deportes Tubi - sv1
+*Fox-Deportes-Tubi - Tubi server
+#EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportstubi.png" group-title="Deportes",Fox Deportes Tubi - sv1
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
+
+*TNT-Sports-premium - Teleclub server
+#EXTINF:-1 tvg-id="tntsports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="Deportes",TNT Sports Premium sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8
+
+*TNT-Sports-Premium - Teleclub server
+#EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",TNT Sports Premium - sv2
+http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
+
+*DSports - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" group-title="Deportes", DSports sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
+
+*DSports-2 - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports2.png" group-title="Deportes", Directv Sports 2 sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
+
+*DSports-+ - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports+.png" group-title="Deportes", Directv Sports + sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
 
 *Win-Sports - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports.png" tvg-country="AR" group-title="Deportes",Win Sports - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/113.m3u8
+
 
 *Win-Sports+ - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports+.png" tvg-country="AR" group-title="Deportes",Win Sports+ - sv1
@@ -430,6 +466,10 @@ http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 *TUDN - 190.92 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",TUDN sv1
 http://190.92.10.66:4000/play/a002/index.m3u8
+
+*TUDN - Teleclub server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",TUDN sv2
+http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
 
 *Gol-Peru - teleclub serever
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/golperu.png" group-title="Deportes",Gol Peru sv1
@@ -455,7 +495,7 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 *ECDF - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/112.m3u8
+
 
 *Tigo-Sports - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tigosports.png" group-title="Deportes",Tigo Sports HD - sv1
@@ -489,13 +529,54 @@ https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/powernation.png" group-title="Deportes",Power Nation HD - sv2
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af7f9e65811896cf7ac1d4c967b58e68314c9c94deed5d646cc458f23f5419dc7a28cd61488a3ab5ef817f20b1a4c2d6f9cbf6c81c52fd2b0f84718c63c42251a5ce2d1d5940a69d1151b5fa8f99cf260fa4a99c47183346ff658ca17827d8b69fd0ff1b019a3a9ec8c1a1b18cea74e732bd2bfcad2f32127ad75a1eda6de72729cfa153653df22c82e2a2195ef84178cc21b98b32fcaa4660a3dd2dc4b9a89bb8ce1fd8844d120d9d7f596324e14086e618a50b6e809b14bf359f2b1794b495e7bbd885cd287da47421325e98e4bd81f24acc8b493cd072dcb630200860abb52061ea45e0a55c40fa8d76b36f94c628c333cc44c2c90478edc469789fabf6a51d0ddc852ef6e9dd660b3a658c3075f5d0ca7804f35241c27a9840c0c2069fc47f1ddceed727b6b869eceffce56340677034456fc8888749e98c92a1829cd5228676111109376b203bd055a32eea874a7c4e2e30e675b4fc7957d347b7e91cdbf958ed8cb36cd15b1fcdc49e1bfc401c75e36297bc7becd78f03d5977795cfa7c0ca506b63b3086b7dce0978f7d8ebd6db83d715618ad73bcf06820124070eab27dd250ed805d9892d859dfafab5c61cb76c56b74cf888b3daab9e9b33e342376d46d4ab6735e55b48bec40850628980ef9bd5014153f4107e39c53fa51add694c664b839a8410c6dd559b28ee6a0ecab378d9e673c2900591b7e1d23625cf892e26d0e7fe3ab34a673d2ab04f90c04687f70d78c560adda86f4ac87c3e41b5b0c78e9acf013bc37abb209a374df5014d66cae40cc7affeb3f68e645140feb3a847b4e8c8a2c4c4c52b7b443d63ce8f0f1b279676b0bf06e7ac0f75a0dcd8b2943dc107975fd1b3bf20e033b7d8fc5ffee2fad0cf37460e140786829d9c33d4b30d49be01ab6e250a9387e1b428bbedb5097ce54af3c7604aab2d7549c6bbf166917fa087d94b6c14db86b38b773cd6586f8a3279b84cd1c7a25447/40/1280x720_3329040/index.m3u8
 
-*Adrenalina-Sports-Network
+*Adrenalina-Sports-Network - 190.92 server
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/adrenalinasportsnetwork.png" group-title="Deportes",Adrenalina Sports Network sv1
 http://190.92.10.66:4000/play/a006/index.m3u8
+
+*Bein-Sports-Extra-Ñ - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/beinsportsextra%C3%B1.png" group-title="Deportes", Bein Sports Extra Ñ
+http://tv.teleclub.xyz/stream/server_2/deportes/beinsportsextran/master.m3u8
+
+*NBA-TV - Teleclub server
+#EXTINF:-1 tvg-id="nbatv" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nba.png" group-title="Deportes",NBA TV sv1
+http://tv.teleclub.xyz/stream/server_2/deportes/nbatv/master.m3u8
+
+
 
 
 CANALES INFANTIL
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Cartoon-Network - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",Cartoon Network sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
+
+*Cartoonito - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",Cartoonito sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
+
+*Discovery-Kids - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="Infantil",Discovery Kids sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
+
+*Disney-channel - Teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="Infantil",Disney Channel sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
+
+*Disney-Jr - telelcub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",Disney Jr sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
+
+*Nickelodeon - Teleclub server
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="Infantil",Nickelodeon sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
+
+*Nickelodeon - 185.189 server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon - sv2
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+*Tooncast - Teleclub server
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="Infantil",Tooncast sv1
+http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
 
 *Bob-Esponja - stitcher cluster server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/BOBSPONJA.png" group-title="Infantil",Bob Esponja sv1
@@ -512,10 +593,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c8
 *Locomotion - 51.222 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/locomotion.png" group-title="Infantil",Locomotion - sv1
 http://51.222.85.85:81/hls/loco/index.m3u8
-
-*Nickelodeon - 185.189 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon - sv1
-http://185.189.225.150:85/nickelodeon/index.m3u8
 
 *Magic-Kids - Magicstream server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/magickids.png" group-title="Infantil",Magic Kids - sv1
@@ -550,12 +627,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 *Talking-Tom-and-Friends-Minis - Ottera server 
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/infantil/talkintomaandfriends.png" group-title="Infantil",Talking-Tom-and-Friends Minis - sv1
 
+
 *Pequeradio-TV - Canadaremar server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/pequeradio.png" group-title="Infantil",Pequeradio TV - sv1
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 *Baby-First - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/babyfirst.png" group-title="Infantil",Baby First - sv1
+
 
 *Baby-TV - 185.189 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/babytv.png" group-title="Infantil",Baby TV FHD - sv1
@@ -575,7 +654,7 @@ https://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 
 *Discovery-Science - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryscience.png" group-title="Cultura",Discovery Science - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/47.m3u8
+
 
 *Discovery-Turbo - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",Discovery Turbo - sv1
@@ -587,7 +666,7 @@ http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
 
 *A-Mas+ - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="Cultura",A Mas+ - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/91.m3u8
+
 
 *E! - Televall server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",E! - sv1
@@ -595,7 +674,7 @@ http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8
 
 *TLC - Televall server
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC - sv1
-http://89.117.146.57/televall/YbVVqpeaWU/53.m3u8
+
 
 *Turistik - cef technology server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/turistik.png" group-title="Cultura",Turistik FHD - sv1
@@ -876,7 +955,7 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
 *Canal-6-Multimedios-Laguna (Mexico) - ottera sever  📌
-EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal%206%20Multimedios.png" group-title="Canales Internacionales",Canal 6 Multimedios MTY (Mexico) sv2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
 
 *Canal-6-Multimedios-Monterrey (Mexico) mdstrm server 
@@ -893,7 +972,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 *Unicable (Mexico) - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico) sv1
-http://89.117.146.57/televall/YbVVqpeaWU/13.m3u8
+
 
 *TVC (Mexico) - cloudfront server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Tvc_2003.png" group-title="Canales Internacionales",TVC (Mexico) sv1
@@ -939,9 +1018,10 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 *Panamericana-TV (Peru)
 EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/PanamericanaPeru.png" group-title="Canales Internacionales",Panamericana TV (Peru) sv2
 
+
 *America-TV (Peru)
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AmericaTelevisionPeru.png" group-title="Canales Internacionales",America TV (Peru) sv1
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dai/1a44c6e4a0384af5b8285d9daf6e51c2/manifest/f624fec49dadc88894ebeff1d974eab019af7757/657fbe15e3ba9363bb07c6b4/25d52e98-dfda-4037-b659-a888481dc7f7/2.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=FaZBBbkPyJKc9Z2sHMS8grvMjRPc3Vuc&sid=9bxT9SoTqJGaGw3lmUsiwlP86KOxmRmH&pid=lZoIsPH2lQOF5HoKXDCXhau87RVhR9IX&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&listenerid=&dnt=true&access_token=HXFW7ZITeLYNFwrMGmNf8CaahJ4ZodoqtD6hu4RPgIgF7CgqBhib6bHHl5Y0yk55mZ5viXqfs6J&es=us-b4-p-e-qg12.cdn.mdstrm.com&ote=1744396567253&ot=RBvbzdsmkgRVNYv3rMBy3Q&proto=https&pz=us
+
 
 *Bum-Televisión (Colombia) - ejeserver server 
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/BumTelevisi%C3%B3nColombia.png" group-title="Canales Internacionales",Bum Televisión (Colombia) sv1
@@ -962,7 +1042,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 *Señal-Colombia (Colombia) - rtvc server 
 EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Señal Colombia (Colombia) sv2
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
+
 
 *Telepacifico (colombia) - enetres server 
 #EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/telepacificocolombia.png" group-title="Canales Internacionales",Telepacifico (Colombia) sv2
@@ -978,7 +1058,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 
 *Star-TVE (España) - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (España) sv1
-http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
+
 
 *La-2-TV (España) - rtve server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -1059,15 +1139,15 @@ http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 *MTV Hits - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
-http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
+
 
 *MTV-00s - televall server 📌
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-TMjj_r1-QPteKV1Ng-F4nzvWPXjw_Q&s.png" group-title="Musica",MTV 00s sv1
-http://89.117.146.57/televall/YbVVqpeaWU/15.m3u8
+
 
 *Telehit - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",Telehit sv1
-http://89.117.146.57/televall/YbVVqpeaWU/17.m3u8
+
 
 *Teleritmo - mdstrm server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Teleritmo.png" group-title="Musica",Teleritmo sv1
@@ -1079,7 +1159,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 *BandamaX - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Bandamax.png" group-title="Musica",BandaMAx sv1
-http://89.117.146.57/televall/YbVVqpeaWU/14.m3u8
+
 
 *CM - edge access server 
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
@@ -1132,8 +1212,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 *RockolaTV - Distro server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/rockolatv.png" group-title="Musica",RockolaTV sv1
 
+
 *Quantica TV - shockmedia server 
 EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="Musica",Quantica TV sv1
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 
