@@ -175,11 +175,11 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 http://185.189.225.150:85/AMC/index.m3u8
 
 *Cinecanal - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",Cinecanal - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",Cinecanal - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
 
 *Cinemax - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",Cinemax - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
 
 *De-Pelicula - 190.60 server 
@@ -191,7 +191,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FILMANDARTS.p
 http://89.117.146.57/televall/YbVVqpeaWU/90.m3u8
 
 *FX - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 
 Golden - Televall server 
@@ -206,23 +206,23 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbo2.png" gro
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo2/master.m3u8
 
 *HBO-Signature - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbosignature.png" group-title="Cine",HBO Signature - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbosignature.png" group-title="Cine",HBO Signature - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/5.m3u8
 
 *Sony-Channel - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",Sony Channel - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",Sony Channel - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
 
 *Sony-Movies - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/76.m3u8
 
 *Space - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",Space - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/78.m3u8
 
 *Studio-Universal - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",Studio Universal - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 
 *TNT - Teleclub server 
@@ -230,7 +230,7 @@ http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
 
 *TNT-Series - Televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series - sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntseries.png" group-title="Cine",TNT Series - sv1
 http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 
 *TNT-Novelas - Televall server 
@@ -367,7 +367,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
 *ESPN 2 - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",ESPN 2 sv1
-http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8*ESPN 2 - Tamal server
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 
 *Espn-3 - telelcub
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",ESPN 3 sv1
