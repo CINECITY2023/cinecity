@@ -1309,6 +1309,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 📼VIDEOS-24/7📼
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+*PlutoTV-Archivoa-Forenses - PLutoTV server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/plutotvarchivosforenses.png" group-title="Videos 24/7",PlutoTV Archivos Forenses sv1
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 *Conflicto-TV - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Videos24-7-Logo-120x120/conflictotv.png" group-title="Videos 24/7",Conflicto TV sv1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
