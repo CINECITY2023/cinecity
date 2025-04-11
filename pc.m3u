@@ -961,7 +961,7 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 *Señal-Colombia (Colombia) - rtvc server 
-#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Señal Colombia (Colombia) sv2
+EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Señal Colombia (Colombia) sv2
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 
 *Telepacifico (colombia) - enetres server 
@@ -977,10 +977,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 *Star-TVE (España) - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (España) sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (España) sv1
 http://89.117.146.57/televall/YbVVqpeaWU/51.m3u8
 
 *La-2-TV (España) - rtve server 
+#EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
@@ -1057,7 +1058,7 @@ http://185.189.225.150:85/MTV/index.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 *MTV Hits - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
 http://89.117.146.57/televall/YbVVqpeaWU/19.m3u8
 
 *MTV-00s - televall server 📌
@@ -1065,7 +1066,7 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-
 http://89.117.146.57/televall/YbVVqpeaWU/15.m3u8
 
 *Telehit - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",Telehit sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",Telehit sv1
 http://89.117.146.57/televall/YbVVqpeaWU/17.m3u8
 
 *Teleritmo - mdstrm server 
@@ -1077,7 +1078,7 @@ https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 *BandamaX - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Bandamax.png" group-title="Musica",BandaMAx sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Bandamax.png" group-title="Musica",BandaMAx sv1
 http://89.117.146.57/televall/YbVVqpeaWU/14.m3u8
 
 *CM - edge access server 
@@ -1092,7 +1093,7 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
 *Beats-Radio - shockmedia server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/BeatsRadio.png" group-title="Musica",Beats Radio sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/BeatsRadio.png" group-title="Musica",Beats Radio sv1
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 *Telpin-TV-Pinamar - telpin server 
@@ -1112,7 +1113,7 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 https://srv2.zcast.com.br/chamame/chamame/chunklist_w1771895490.m3u8
 
 *002-Radio - 002radio server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",002 Radio sv1
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",002 Radio sv1
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 *GikTVMx - pistream server 
@@ -1215,7 +1216,7 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
 *ICI-Television (Canada) - akamaized server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/OtrosIdiomas-Logo-120x120/IciRDI.png" group-title="Otros Idiomas",ICI Television (Canada) sv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/ICITelevision.png" group-title="Otros Idiomas",ICI Television (Canada) sv1
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
 *ABC-News-Live (EEUU) - uplynk server 
