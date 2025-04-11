@@ -12,8 +12,8 @@ http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
  
 
 
- 
-BUENOS AIRES        
+
+🏙️BUENOS-AIRES        
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *America - Qaotic server 
@@ -119,7 +119,7 @@ EXTINF:-1 tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=184,
 
 
 
-NOTICIAS ARGENTINA
+🎙️NOTICIAS-ARGENTINA
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *A24 - Edge Acces server 
@@ -163,7 +163,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.p
 
 
 
-CANAL DE CINE
+🎬CANAL-DE-CINE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *MegaCineTV - hostlagarto server 
@@ -171,7 +171,7 @@ CANAL DE CINE
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 *AMC - 185.189 server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",AMC - sv1
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",AMC (ESP) sv1
 http://185.189.225.150:85/AMC/index.m3u8
 
 *Cinecanal - televall server 
@@ -194,8 +194,9 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FILMANDARTS.p
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",FX - sv1
 
 
-Golden - Televall server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden - sv1
+*Golden - astra colombia server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",Golden - sv1
+http://190.217.23.56:1010/play/a0e9/index.m3u8
 
 *HBO - Teleclub server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/hbo.png" group-title="Cine",HBO - sv1
@@ -294,8 +295,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?P
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 
 *RetroPlus - akamaissh server
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/retroplus.png" group-title="Cine",RetroPlus - sv1
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/retroplus.png" group-title="Cine",RetroPlus - sv1
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8?PlaylistM3UCL
 
 *MyTime-Movie-Network - amagitv server
@@ -306,12 +306,21 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="Cine",Oromar TV sv1
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
+*Hollywood-HD - 185.189 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hollywoodhd.png" group-title="Cine",Hollywood HD (ESP) sv1
+http://185.189.225.150:85/Hollywood/index.m3u8
+
+*Azteca-Cinema - astra colombia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png" group-title="Cine",Azteca Cinema sv1
+http://190.217.23.56:1010/play/a0br/index.m3u8
+
+*Distrito-Comedia - astra colombia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",Distrito Comedia sv1
+http://190.217.23.56:1010/play/a0er/index.m3u8
 
 
 
-
-
-NOVELAS Y DRAMAS
+❤️​NOVELAS-Y-DRAMAS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Kanal-D - PlutoTV server 
@@ -339,15 +348,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
 *PlutoTV-Novelas - plutotv server 
-#EXTINF:-1 channel-id="pluto-5dcde0cc2efd2700090b7ff4" tvg-id="5dcde0cc2efd2700090b7ff4" tvg-chno="124" tvg-logo="https://archive.org/download/Novelas-Logo-120x120/plutonevelas.png"  group-title="Novelas", PlutoTV Novelas
+#EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/plutonevelas.png"  group-title="Novelas", PlutoTV Novelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+*Azteca-Corazon - Astra Colombia Server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png"  group-title="Novelas",AZTECA CORAZON
+http://190.217.23.56:1010/play/a0bs/index.m3u8
 
 
 
 
-
-CANAL DE DEPORTES
+⚽CANAL-DE-DEPORTES
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 EVENTOS FUTBOL
@@ -544,7 +555,7 @@ http://tv.teleclub.xyz/stream/server_2/deportes/nbatv/master.m3u8
 
 
 
-CANALES INFANTIL
+🧸CANALES-INFANTIL🎈
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Cartoon-Network - Teleclub server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",Cartoon Network sv1
@@ -571,8 +582,12 @@ http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
 
 *Nickelodeon - 185.189 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon - sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/nickelodeon.png" group-title="Infantil",Nickelodeon (ESP) sv2
 http://185.189.225.150:85/nickelodeon/index.m3u8
+
+*Nicke-Jr - astra colombia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="Infantil",Nick Jr sv1
+http://190.217.23.56:1010/play/a0af/index.m3u8
 
 *Tooncast - Teleclub server
 #EXTINF:-1 tvg-id="tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="Infantil",Tooncast sv1
@@ -637,7 +652,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/babyfirst
 
 
 *Baby-TV - 185.189 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/babytv.png" group-title="Infantil",Baby TV FHD - sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/babytv.png" group-title="Infantil",Baby TV FHD (ESP) sv1
 http://185.189.225.150:85/BabyTV/index.m3u8
 
 
@@ -645,7 +660,7 @@ http://185.189.225.150:85/BabyTV/index.m3u8
 
 
 
-CANALES DE CULTURA
+🚜CANALES-DE-CULTURA🌾
 -----------------------------------------------------------------------------------------------------------------------------------
 
 *Animal-Planet - Teleclub server 
@@ -668,9 +683,13 @@ http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="Cultura",A Mas+ - sv1
 
 
-*E! - Televall server 
+*E! - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",E! - sv1
 http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8
+
+*E! - astra colombia server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",E! - sv2
+http://190.217.23.56:1010/play/a0ej/index.m3u8
 
 *TLC - Televall server
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",TLC - sv1
@@ -697,12 +716,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 #EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococina.png"   group-title="Cultura", PlutoTV Cocina - sv1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+*El-Mundo-Del-Campo - astra colombia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="Cultura",El Mundo Del Campo - sv1
+http://190.217.23.56:1010/play/a0be/index.m3u8
 
 
 
 
 
-NOTICIAS INTERNACIONALES
+
+
+
+
+
+
+
+
+🎙️NOTICIAS-INTERNACIONALES🌍
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *RT-en-Español (RUS) - Rttv server 
@@ -766,7 +796,7 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 
 
 
-CANALES PROVINCIALES
+🏡CANALES-PROVINCIALES🏡
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Canal-9 (Resistencia, Chaco) - coninfo server 
@@ -867,7 +897,7 @@ https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 
 
-CANALES INTERNACIONALES
+🌍CANALES-INTERNACIONALES🌍
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Azteca-Internacional (Mexico) - otteravision server 
@@ -1082,7 +1112,7 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
-RADIOS EN VIVO
+📻RADIOS-EN-VIVO📻
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Vorterix - qaotic server 
@@ -1115,12 +1145,23 @@ https://ztnr.rtve.es/ztnr/6688753.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/latina.png" group-title="Radio en Vivo",Latina
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
+*La-Kalle - astra colombia server 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="Radio en Vivo",La Kalle
+http://190.217.23.56:1010/play/a0a6/index.m3u8
+
+*Mi-Gente - Astra colombia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="Radio en Vivo",Mi Gente TV
+http://190.217.23.56:1010/play/a0a8/index.m3u8
 
 
 
 
 
-CANALES DE MUSICA
+
+
+
+
+🎹CANALES-DE-MUSICA🎹
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Retro-TV - mediawork server 
@@ -1132,10 +1173,9 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-*MTV - televall server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTV.png" group-title="Musica",MTV sv1
+*MTV - 185.189 server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTV.png" group-title="Musica",MTV (ESP) sv1
 http://185.189.225.150:85/MTV/index.m3u8
-http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 
 *MTV Hits - televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",MTV Hits sv1
@@ -1224,7 +1264,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 
 
-CANAL DE RELIGION
+✝️CANAL-DE-RELIGION✝️
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *María-Visión - rsc server 
@@ -1266,7 +1306,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4847
 
 
 
-VIDEOS 24/7
+📼VIDEOS-24/7📼
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Conflicto-TV - ottera server 
@@ -1282,7 +1322,7 @@ https://d15gk5a13gdlfb.cloudfront.net/v1/manifest/36da43ef19a73084c6c27662c7531f
 
 
 
-OTROS IDIOMAS
+🌐OTROS-IDIOMAS🌐
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *CBC-News-Toronto (Canada) - cloudfront server 
@@ -1401,7 +1441,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
 
 
 
-CAMARAS DE VIGILANCIA
+📹CAMARAS-DE-VIGILANCIA📹
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Camaras-de-Villa-Gesell (Av. 3 y 104) FHD - gesell server 
@@ -1430,7 +1470,7 @@ https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/KTRKLive
 
 
 
-ASMR
+🥱ASMR🥱
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Chimenea - ottera server 
