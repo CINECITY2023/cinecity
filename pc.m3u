@@ -1,4 +1,4 @@
-#EXTM3U
+www.facebook.com#EXTM3U
 
 
                                          
@@ -783,7 +783,7 @@ http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
 *DW-En-Español (ale) - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="",🔑 DW En Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",🔑 DW En Español
 http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8
 
 *Canal-24-Horas (ESP) - Ztnr server 
