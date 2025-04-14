@@ -290,7 +290,7 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8
 
 *Golden-Premier-2 - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenPremier2.png.png" group-title="Cine",🔑 Golden Premier 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenPremier2.png" group-title="Cine",🔑 Golden Premier 2
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8
 
 *HBO - Teleclub server 
