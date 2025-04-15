@@ -44,7 +44,7 @@
       border: 1px solid #ccc;
       font-size: 1rem;
     }
-	
+
     #canales {
       display: flex;
       flex-wrap: wrap;
@@ -72,7 +72,7 @@
     }
 
     .canal.selected img {
-      /* Se eliminó el borde azul para el canal seleccionado */
+      /* Eliminar el borde azul para el canal seleccionado */
     }
 
     .canal span {
@@ -104,31 +104,354 @@
   </div>
 
   <div id="canales">
-    <div class="canal" onclick="cambiarCanal(0)" data-url="https://television-libre.tv/html/fl/?get=QW1lcmljYVRW">
+    <div class="canal" tabindex="0" onclick="cambiarCanal(0)" data-url="https://television-libre.tv/html/fl/?get=QW1lcmljYVRW">
         <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ultratv-america.png" alt="Canal 2">
         <span>América TV</span>
         <span class="grupo">Buenos Aires</span>
       </div>
-      <div class="canal" onclick="cambiarCanal(1)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw3">
+      <div class="canal" tabindex="0" onclick="cambiarCanal(1)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw3">
         <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" alt="Canal 7">
         <span>TV Publica</span>
         <span class="grupo">Buenos Aires</span>
       </div>
-      <div class="canal" onclick="cambiarCanal(2)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw5&lang=1">
+      <div class="canal" tabindex="0" onclick="cambiarCanal(2)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw5&lang=1">
         <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" alt="Canal 9">
         <span>El Nueve</span>
         <span class="grupo">Buenos Aires</span>
       </div>
-      <div class="canal" onclick="cambiarCanal(3)" data-url="https://television-libre.tv/html/fl/?get=VGVsZWZlSEQ=">
+      <div class="canal" tabindex="0" onclick="cambiarCanal(3)" data-url="https://television-libre.tv/html/fl/?get=VGVsZWZlSEQ=">
         <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" alt="Canal 11">
         <span>Telefe</span>
         <span class="grupo">Buenos Aires</span>
       </div>
-      <div class="canal" onclick="cambiarCanal(4)" data-url="https://television-libre.tv/html/fl/?get=QXJ0ZWFySEQ">
+      <div class="canal" tabindex="0" onclick="cambiarCanal(4)" data-url="https://television-libre.tv/html/fl/?get=QXJ0ZWFySEQ">
         <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" alt="Canal 13">
         <span>El Trece</span>
         <span class="grupo">Buenos Aires</span>
       </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(5)" data-url="https://television-libre.tv/html/fl/?get=TWFnYXppbmU=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" alt="Ciudad Magazine">
+        <span>Ciudad Magazine</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(6)" data-url="https://television-libre.tv/html/fl/?get=QnJhdm9UVg==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" alt="Bravo">
+        <span>Bravo TV</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(7)" data-url="https://television-libre.tv/html/fl/?get=TmV0X1RW">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" alt="Net">
+        <span>Net TV</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(8)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalDeLaCiudad.png" alt="Canal de La Ciudad">
+        <span>Canal Ciudad</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(9)" data-url="https://television-libre.tv/html/fl/?get=TWV0cm8">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" alt="Metro">
+        <span>Metro</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(10)" data-url="https://television-libre.tv/html/fl/?get=QXJnZW50aW5pc2ltYQ">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital.png" alt="Argentenisma satelital">
+        <span>Argentinisima</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+	  
+	 
+	  
+	  <!-- NOTICIAS -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(11)" data-url="https://television-libre.tv/html/fl/?get=Q3JvbmljYVRW">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" alt="Cronica">
+        <span>Cronica TV</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(12)" data-url="https://television-libre.tv/html/fl/?get=QzVO">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" alt="C5N">
+        <span>C5N</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(13)" data-url="https://television-libre.tv/html/fl/?get=VG9kb05vdGljaWFz">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" alt="TN">
+        <span>TN</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(14)" data-url="https://television-libre.tv/html/fl/?get=QW1lcmljYTI0">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" alt="America 24">
+        <span>A24</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(15)" data-url="https://television-libre.tv/html/fl/?get=MjZfVFZfSEQ">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" alt="Canal 26">
+        <span>Canal 26</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(16)" data-url="https://television-libre.tv/html/fl/?get=TGFfTmFjaW9u">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" alt="La nacion Mas">
+        <span>LN+</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(17)" data-url="https://television-libre.tv/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canalip.png" alt="Informacion Periodistica">
+        <span>IP</span>
+        <span class="grupo">Noticias</span>
+      </div>
+	  
+	  
+	  
+	  <!-- PARLAMENTARIO -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(18)" data-url="https://television-libre.tv/html/fl/?get=RGlwdXRhZG9zX1RW">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/diputadostv.png" alt="DTV">
+        <span>Diputados TV</span>
+        <span class="grupo">Parlamentario</span>
+      </div>
+	  
+	  
+	  <!-- CANALES DE CINE -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(19)" data-url="https://television-libre.tv/html/fl/?get=Vm9sdmVy">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" alt="Volver">
+        <span>Volver</span>
+        <span class="grupo">Cine</span>
+      </div>
+	  
+	  <!-- CANALES DE DEPORTES -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(20)" data-url="https://television-libre.tv/html/fl/?get=VHlDU3BvcnQ">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" alt="TyC Sports">
+        <span>TyC Sports</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(21)" data-url="https://television-libre.tv/html/fl/?get=VE5UX1Nwb3J0c19IRA">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" alt="TNT Sports premium">
+        <span>TNT Sports premium</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(22)" data-url="https://television-libre.tv/html/fl/?get=RVNQTjJIRA">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" alt="Espn">
+        <span>Espn</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(23)" data-url="https://television-libre.tv/html/fl/?get=RVNQTjJfQXJn">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" alt="Espn 2">
+        <span>Espn 2</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(24)" data-url="https://television-libre.tv/html/fl/?get=RVNQTjM">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" alt="Espn 3">
+        <span>Espn 3</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(25)" data-url="https://television-libre.tv/html/fl/?get=RVNQTkhE">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn4.png" alt="Espn 4">
+        <span>Espn 4</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(26)" data-url="https://television-libre.tv/html/fl/?get=RVNQTjQ=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn5.png" alt="Espn 5">
+        <span>Espn 5</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(27)" data-url="https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzM19VWQ==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" alt="Espn 6">
+        <span>Espn 6</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(28)" data-url="https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzMl9VWQ==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" alt="Espn 7">
+        <span>Espn 7</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(29)" data-url="https://television-libre.tv/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" alt="ESPN premium">
+        <span>ESPN premium</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(30)" data-url="https://tucanaldeportivo.org/directvsports.php">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" alt="DirectTV sports">
+        <span>DSports</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(31)" data-url="https://embed.sdfgnksbounce.com/embed2/directvsports2.html">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/disports2.png" alt="Dsports 2">
+        <span>Dsports 2</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(32)" data-url="https://embed.sdfgnksbounce.com/embed2/directvsportsplus.html">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports%2B.png" alt="DirectTV sports Plus">
+        <span>DSports+</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(33)" data-url="https://television-libre.tv/html/fl/?get=Rm94U3BvcnRz">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports.png" alt="Fox Sports">
+        <span>Fox Sports</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(34)" data-url="https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzMkhE">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports2.png" alt="Fox Sports 2">
+        <span>Fox Sports 2</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(35)" data-url="https://television-libre.tv/html/fl/?get=Rm94U3BvcnRzM0hE">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports3.png" alt="Fox Sports 3">
+        <span>Fox Sports 3</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(36)" data-url="https://nebunexa.co/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vYm94ZTUzd3lvL291dC92MS9mNzg5MmE5ZDcwNmQ0MTlhODQ2ZDczOGZhMjJlYTMzZS9jZW5jLm1wZA&key=MmZiZGFhM2JlYTBkMDMyM2FlMDExYjMxOGQxZGI3MTY&key2=ODcyNmVmN2VhZjViOWRjZTE1ZmI2YWE5ZjgwYmQ1M2Y">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_Sports_M%C3%A9xico.png" alt="Fox Sports MX">
+        <span>Fox Sports MX</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(37)" data-url="https://nebunexa.co/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy90ZXBqcWVqMXlzL291dC92MS9jOWM5MTU5YmFlZTc0OWExOTYxMmIxNTk4NDk1ODU5YS9jZW5jLm1wZA&key=ODgzNmZiMDRkNjJkYzY0YzlmOGEzOWVmODY0MGQ1ZWI&key2=ZDRmMDVjZTU2YzUyMzFiN2NkZjUzNDU1YmVhNTg2MjE">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/FoxSports2mx.png" alt="Fox Sports 2 MX">
+        <span>Fox Sports 2 MX</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(38)" data-url="https://nebunexa.co/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy93eWJnejBvcnI4L291dC92MS8yZjZkMTYxMmFiZDQ0ZjU4ODM5MTdmOGE1ODViOTU1Zi9jZW5jLm1wZA&key=MTFjOGMxYzJlZjAzODVjZjFlNjRkNDRiYjljM2EzOTU&key2=NTc2OTczMGZmYmRjNGIyZmQ4OTQ1OTI5ZDlhY2UwNjM">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" alt="Fox Sports 3 MX">
+        <span>Fox Sports 3 MX</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(39)" data-url="https://nebunexa.co/mpdk/?get=aHR0cHM6Ly9vdHRiLmxpdmUuY2Yud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9mZHg3NHpxemh1L291dC92MS83ZDdhOGM2OTgxYTg0MmI5OGE2ODNlOWZiZmU1MWQxNy9jZW5jLm1wZA==&key=OWYzMjdkMjRjNjZmYmQ4NGUxNWFiNWM5ZWFkN2M3YTQ=&key2=ODM4MzcxODU1MjljMGM0MDQ4ZjgxMzg2YzJkMzY0MjY=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportspremiummx.png" alt="Fox Sports Premium MX">
+        <span>Fox Sports Premium MX</span>
+        <span class="grupo">Deportes</span>
+      </div>
+	  
+	  
+	  
+	  
+	  <!-- CULTURA -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(36)" data-url="https://television-libre.tv/html/fl/?get=RW5jdWVudHJv">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/encuentro.png" alt="Encuentro">
+        <span>Encuentro</span>
+        <span class="grupo">Cultura</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(37)" data-url="https://www.youtube.com/embed/e9wf2kjt34g?si=FX2mwCMxuG2EVeOe">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/canalrural.png" alt="canal Rural">
+        <span>Canal Rural</span>
+        <span class="grupo">Cultura</span>
+      </div>
+	  
+	  
+	  <!-- PROVINCIA -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(38)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWxfMTJfQ0JB">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba.png" alt="Canal 12 cordoba">
+        <span>El Doce</span>
+        <span class="grupo">Cordoba</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(39)" data-url="https://nuskt.directory/canal/?id=TELEVIDAHLS">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9TelevidaMendoza.png" alt="Televida">
+        <span>Canal 9 Televida</span>
+        <span class="grupo">Mendoza</span>
+      </div>
+	  
+	  
+	  <!-- NOTICIAS INTERNACIONAL -->
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(40)" data-url="https://television-libre.tv/html/fl/?get=Tk9USUNJQVNfUFlfQzQ=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/npyparaguay.png" alt="NPY">
+        <span>NPY</span>
+        <span class="grupo">Noticias Internacional</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(41)" data-url="https://television-libre.tv/html/hls.html?get=aHR0cHM6Ly9hYmMtY29sb3IuY2RuLnZ1c3RyZWFtcy5jb20vbGl2ZS9kODdjMmI3Yi05ZWNmLTRlNmUtYjYzYi1iMzI3NzJiZDc4NTEvbGl2ZS5pc21sL2Q4N2MyYjdiLTllY2YtNGU2ZS1iNjNiLWIzMjc3MmJkNzg1MS5tM3U4">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" alt="Abc TV">
+        <span>Abc TV</span>
+        <span class="grupo">Noticias Internacional</span>
+      </div>
+	  
+	  
+	  
+	  
+	  <!-- INTERNACIONAL --> 
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(42)" data-url="https://television-libre.tv/html/fl/?get=VHZfQ2hpbGU=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvnchile.png" alt="TVN">
+        <span>TVN</span>
+        <span class="grupo">Chile</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(43)" data-url="https://streamtp3.com/global1.php?stream=canal5mx">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal5Mexico.png" alt="Canal 5">
+        <span>Canal 5</span>
+        <span class="grupo">Mexico</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(44)" data-url="https://streamtp3.com/global1.php?stream=caracoltv">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" alt="Caracol TV">
+        <span>Caracol TV</span>
+        <span class="grupo">Colombia</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(45)" data-url="https://television-libre.tv/html/fl/?get=QzlOX0M0">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/c9nparaguay1.png" alt="C9N">
+        <span>C9N</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(46)" data-url="https://television-libre.tv/html/fl/?get=R0VOX1RW">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/genparaguay.png" alt="Gen">
+        <span>Gen</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(47)" data-url="https://television-libre.tv/html/fl/?get=TEFfVEVMRV9DNA==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/lateleparaguay.png" alt="La Tele">
+        <span>La Tele</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(48)" data-url="https://television-libre.tv/html/fl/?get=UGFyYWd1YXlfVFY=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/paraguaytv.png" alt="Paraguay TV">
+        <span>Paraguay TV</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(49)" data-url="https://television-libre.tv/html/fl/?get=UEFSQVZJU0lPTl9DNA==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/paravisionparaguay.png" alt="Paravision">
+        <span>Paravision</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(50)" data-url="https://television-libre.tv/html/fl/?get=U05UX0M0">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/sntparaguay.png" alt="SNT">
+        <span>SNT</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(51)" data-url="https://television-libre.tv/html/fl/?get=VEVMRUZVVFVST19DNA==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telefuturoparaguay.png" alt="Telefuturo">
+        <span>Telefuturo</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(52)" data-url="https://television-libre.tv/html/fl/?get=UlBDX0M0">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/treceparaguay.png" alt="Trece">
+        <span>Trece</span>
+        <span class="grupo">Paraguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(53)" data-url="https://mdstrm.com/live-stream/657fbe15e3ba9363bb07c6b4?jsapi=true&show_controls_on_ad=true&autoplay=true&player=6108283f025f990821c029e6&starttime=&show_title=false&access_token=HXFW7ZITeLYNFwrMGmNf8CaahJ4ZodoqtD6hu4RPgIgF7CgqBhib6bHHl5Y0yk55mZ5viXqfs6J&c=&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fiu%3D%2F84748259%2FFC_AFHS_Player_Preroll%26description_url%3D%5Bplaceholder%5D%26tfcd%3D0%26npa%3D0%26sz%3D640x480%257C960x540%26gdfp_req%3D1%26unviewed_position_start%3D1%26output%3Dvast%26env%3Dvp%26impl%3Ds%26correlator%3D%26ad_rule%3D4&youbora[extra][0]=NoRegNoSusc&youbora[extra][1]=TVGO%20Web&youbora[extra][2]=tvgo-fast-channel-web">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AmericaTelevisionPeru.png" alt="America TV">
+        <span>America TV</span>
+        <span class="grupo">Peru</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(54)" data-url="https://television-libre.net/html/hls.html?get=aHR0cHM6Ly9saXZlLWV2ZzI1LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9hdHYvcGxheWxpc3QubTN1OA==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ATVPeru.png" alt="ATV">
+        <span>ATV</span>
+        <span class="grupo">Peru</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(55)" data-url="https://television-libre.tv/html/hls.html?get=aHR0cHM6Ly9saXZlLWV2ZzI1LnR2MzYwLmJpdGVsLmNvbS5wZS9iaXRlbC9sYXRpbmEvcGxheWxpc3QubTN1OA==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" alt="Latina">
+        <span>Latina</span>
+        <span class="grupo">Peru</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(56)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw0X1VSVQ==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal4uruguay.png" alt="Canal 4">
+        <span>Canal 4</span>
+        <span class="grupo">Uruguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(57)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWwxMF9VUlU=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal10uruguay.png" alt="Canal 10">
+        <span>Canal 10</span>
+        <span class="grupo">Uruguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(58)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWwxMlVSVQ==">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teledoceuruguay.png" alt="Canal 12">
+        <span>Teledoce</span>
+        <span class="grupo">Uruguay</span>
+      </div>
+	  <div class="canal" tabindex="0" onclick="cambiarCanal(59)" data-url="https://television-libre.tv/html/fl/?get=VGV2ZV9DaXVkYWQ=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvciudaduruguay.png" alt="TV Ciudad">
+        <span>TV Ciudad</span>
+        <span class="grupo">Uruguay</span>
       <!-- Agrega más canales aquí -->
   </div>
 
@@ -157,9 +480,10 @@
         canales[canalActual].classList.remove('highlight');
         canalActual = (canalActual - 1 + canales.length) % canales.length; // Retroceder al canal anterior
         canales[canalActual].classList.add('highlight'); // Resaltar el nuevo canal
+      } else if (event.key === 'Enter') {
+        // Cambiar canal al presionar Enter
+        cambiarCanal(canalActual);
       }
-      // Actualizar el reproductor con la URL del canal actual
-      player.src = canales[canalActual].getAttribute('data-url');
     });
 
     const buscador = document.getElementById('buscador');
@@ -172,8 +496,8 @@
         canal.style.display = (nombre.includes(filtro) || grupo.includes(filtro)) ? 'block' : 'none';
       });
     });
-	
-	// Cambiar color de fondo
+
+    // Cambiar color de fondo
     const fondoSelector = document.getElementById('fondoSelector');
     fondoSelector.addEventListener('change', () => {
       document.body.style.background = fondoSelector.value;
