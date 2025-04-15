@@ -62,7 +62,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 *Net-TV-FHD - Us DPS server 
-EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/NetTV.png" group-title="Buenos Aires",✔️ Net TV FHD
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/NetTV.png" group-title="Buenos Aires",✔️ Net TV FHD
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 *Telemax - Telecentro server 
@@ -116,7 +116,7 @@ https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 *Telecreativa-Lanus - Panel Host server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 *Urbana Teve - iblups server 
@@ -165,6 +165,7 @@ https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 *IP-informacion-periodistica
 EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.png" group-title="Noticias",IP Informacion Periodistica
+
 
 *LN+ - google server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="Noticias",✔️ LN +
@@ -940,6 +941,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
 *Telesur (VEN) - Telesur server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/TeleSUR.png" group-title="Noticias Internacional",✔️ Telesur (VEN)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
@@ -1130,6 +1132,7 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 *Señal-Colombia (Colombia) - rtvc server 
 EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Se%C3%B1alColombiaColombia.png" group-title="Canales Internacionales",Señal Colombia (Colombia)
 
+
 *Telepacifico (colombia) - enetres server 
 #EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/telepacificocolombia.png" group-title="Canales Internacionales",⚠️ Telepacifico (Colombia)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
@@ -1275,7 +1278,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
 *Unicable (Mexico) - teleclub server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico)
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
 
 *Univision (Mexico) - 190.92 server 
@@ -1331,11 +1334,11 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 *La-2-TV (España) - rtve server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 *La-2-TV (España) - akamaized server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 *Star-TVE (España) - televall server 
