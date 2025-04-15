@@ -2,6 +2,12 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:3
+#EXTINF:3.833333,
+segment_000.ts
+#EXTINF:3.266667,
+segment_001.ts
+#EXTINF:0.933333,
+segment_002.ts
 #EXTINF:7.033333,
 segment_003.ts
 #EXTINF:8.333333,
@@ -10,6 +16,6 @@ segment_004.ts
 segment_005.ts
 #EXTINF:8.333333,
 segment_006.ts
-#EXTINF:0.666667,
+#EXTINF:0.600000,
 segment_007.ts
 #EXT-X-ENDLIST
