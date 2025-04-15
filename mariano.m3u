@@ -4,13 +4,13 @@
                                          
 *Preview 📌
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
-https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
+https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/intros2/UpscaleVideo_1_20250415.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
-
+https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 EXTVLCOPT:loop
 
-
- 
+ sin señal
+ https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
 
 
@@ -20,14 +20,11 @@ EXTVLCOPT:loop
 *America - Qaotic server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" group-title="Buenos Aires",✔️ America
 #EXTVLCOPT:http-user-agent=iPhone
+https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
-
-*America-HD - Qaotic server 
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
-EXTINF:-1 tvg-id="America TV.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" group-title="Buenos Aires",✔️ America HD
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
 *TV-Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -55,6 +52,11 @@ http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
 *El-Trece - Vodge Net server 
 #EXTINF:-1 tvg-id="Canal 13.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ElTrece.png" group-title="Buenos Aires",✔️ El Trece
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
+
+*Canal-de-la-Ciudad -  edge-access serever
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalDeLaCiudad.png" group-title="General",✔️ Canal de la Ciudad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
+https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 *Ciudad-Magazine - Vodgc Net server 
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/CiudadMagazine.png" group-title="Buenos Aires",✔️ Ciudad Magazine
@@ -120,11 +122,11 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
-*Urbana Teve - iblups server 
+*Urbana-Teve - iblups server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/urbana.png" group-title="Buenos Aires",✔️ Urbana Teve
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
-Neo TV Florencio Varela
+*Neo-TV Florencio Varela
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="Buenos Aires",✔️ Neo TV Florencio Varela
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
@@ -159,6 +161,7 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/CronicaTV.png" group-title="Noticias",✔️ Cronica HD
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
+https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 *24/7-Canal-de-Noticias - Panel Host server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/24-7.png" group-title="Noticias",✔️ 24/7 Canal de Noticias
@@ -167,14 +170,20 @@ https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 *IP-informacion-periodistica
 EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.png" group-title="Noticias",IP Informacion Periodistica
 
-
 *LN+ - google server
+#EXTVLCOPT:http-user-agent=iPhone
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="Noticias",✔️ LN +
 
 
-
 *TN+ - google server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="Noticias",✔️ TN +
+#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="Noticias",✔️ TN +
+https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
+
+
+
+
+
 
 
 
@@ -452,6 +461,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 *Azteca-Corazon - Astra Colombia Server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png"  group-title="Novelas",⚠️ Azteca Corazon
 http://190.217.23.56:1010/play/a0bs/index.m3u8
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 
 *Canela-TV-Narco-Drama - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/CanelaTVNarco-Drama.png" group-title="Novelas",✔️ Canela TV Narco Drama HD
@@ -472,6 +482,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 *Kanal-D - PlutoTV server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/kanald.png" group-title="Novelas",✔️ Kanal D
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb573d167a6c618884cb3f61cef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b05946d06ea1e00149c42e13fa83439fd401b3d3d55383128425f242c891f8dad618d4e4015293738adf9ed34307fba14bd1a07ca4dd9f672d957f2934663f8490b28e80b81b253931cbf0deab6dbf32c38c37886336c173f0a93f81eb19c62bb2e440afbefbfe4b533cb7862009a40b54c1f89a1649cc44eea7e7d2603cb8ff067d54894b96066572f697af45dc9444c4e24bf1c552aee443e568ba3dcb132816a61dcd086a8d8ab930475c6a0703c97cb09d68d53dd476a981313459434bbea574cd94dc4d0aaf2eec8f73db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385853b9b99db0901d68470a16540d99eba825c8d98e7a4b64b4394c577d1e139913c5298e503b6700fd5e82fc4724ff454b4bc1a8305a5669ecb8928995d9c741f53293f8f4372b344e70ff5421237dd8a28249f75b1a262b45e1ef05b26d9d8524e9f20bb3e1b0f1e8b8e52fcf096c7cf3/181/1280x720_3329040/index.m3u8
 
 *Novelísima - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Novelas-Logo-120x120/Novel%C3%ADsima.png" group-title="Novelas",✔️ Novelísima HD
@@ -1168,13 +1179,18 @@ https://azt-mun.otteravision.com/azt/mun/mun_540p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-*AztecaInternacional-HD (Mexico) - ottera server 
+*Azteca-Internacional-HD (Mexico) - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/AztecaInternacional.png" group-title="Canales Internacionales",✔️ Azteca Internacional HD (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 *Azteca-Uno (Mexico) - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca_Uno.png" group-title="Canales Internacionales",✔️ Azteca Uno (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
+
+*Azteca-Uno (Mexico) - ottera server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca_Uno.png" group-title="Canales Internacionales",✔️ Azteca Uno (Mexico)
+https://stream.ads.ottera.tv/cl/250415cvv75eme6tod4v4ahhb0/960x540_1790415_1_f.m3u8?i=728_4833
 
 *Azteca-7 (Mexico) - teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca7-2025.png" group-title="Canales Internacionales",🔑 Azteca 7 (Mexico)
@@ -1207,6 +1223,10 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 *Canal-10 (Mexico) - mediaflix server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal10Mexico.png" group-title="Canales Internacionales",✔️ Canal 10 (Mexico)
 https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
+
+*Canal-14 (Mexico) - mexside server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14mexico.png" group-title="Canales Internacionales",✔️ Canal 14 (Mexico)
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 *CanelaTV (Mexico) - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/CanelaTVMexico.png" group-title="Canales Internacionales",✔️ Canela TV (Mexico)
@@ -1264,13 +1284,18 @@ https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wm
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/NueveTVMexico.png" group-title="Canales Internacionales",✔️ Nueve TV (Mexico)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
-*TV-Mas (Mexico) - streamlock server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TVMasMexico.png" group-title="Canales Internacionales",✔️ TV Mas (Mexico)
-https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+*TV-Cuatro (Mexico) - streamlock server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcuatromexico.png" group-title="Canales Internacionales",✔️ TV Cuatro (Mexico)
+https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 *TVC (Mexico) - cloudfront server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Tvc_2003.png" group-title="Canales Internacionales",✔️ TVC (Mexico)
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22306d19e5-c7af-41e3-9492-6bdc13aa2a40%22
+
+*TV-Mas (Mexico) - streamlock server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TVMasMexico.png" group-title="Canales Internacionales",✔️ TV Mas (Mexico)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
+https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1203070051.m3u8
 
 *TVOAI-Channel (Mexico) - ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TVOAIChannelMexico.png" group-title="Canales Internacionales",✔️ TVOAI Channel (Mexico)
@@ -1281,7 +1306,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
 *Unicable (Mexico) - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico)
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",🔑 Unicable (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
 
 *Univision (Mexico) - 190.92 server 
@@ -1323,6 +1348,7 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 *Telemundo (Puerto Rico) - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TelemundoPuerto%20Rico.png" group-title="Canales Internacionales",✔️ Telemundo (Puerto Rico)
 http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
 *Telemundo-Punto-2 (Puerto Rico) - akamaized server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/telemundopunto2.png" group-title="Canales Internacionales",✔️ Telemundo Punto 2 (Puerto Rico)
@@ -1353,8 +1379,8 @@ https://ztnr.rtve.es/ztnr/1688885.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 *Star-TVE (España) - televall server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",Star TVE (España) sv1
-
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ Star TVE (España) sv1
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 
 
 
@@ -1417,6 +1443,7 @@ http://190.217.23.56:1010/play/a0a8/index.m3u8
 
 *002-Radio - 002radio server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",✔️ 002 Radio 🌛
+https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 *Alterna-TV - alterna server 
