@@ -252,11 +252,11 @@ http://190.60.38.114:1010/play/a08f/index.m3u8
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8
 
 *Distrito-Comedia - astra colombia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",⚠️ Distrito Comedia
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",⚠️ Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
 *Distrito-Comedia - telelclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",🔑 Distrito Comedia
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",🔑 Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
 *EPIX 2 - Moveonjoy server 
@@ -411,11 +411,11 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.pn
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 *Universal-Cinema - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/todocine.png" group-title="Cine",🔑 Universal Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",🔑 Universal Cinema
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8
 
 *Universal-TV - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/todocine.png" group-title="Cine",🔑 Universal TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="Cine",🔑 Universal TV
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
 
 *Usa-TV - teleclub server 
@@ -587,7 +587,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
 
 *DSports-2 - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports2.png" group-title="Deportes",🔑 Dsports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/disports2.png" group-title="Deportes",🔑 Dsports 2
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
 
 *DSports-+ - Teleclub server
@@ -987,8 +987,9 @@ https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/li
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Bloomberg.png" group-title="Noticias Internacional",✔️ Bloomberg
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/216bba5fb0699b4dbd6d25606d580c43.m3u8
 
-
-
+*Latina-Noticias (PER) - jireh server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/latinanoticias.png" group-title="Noticias Internacional",✔️ Latina Noticias (PER)
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8
 
 
 🏡CANALES-PROVINCIALES🏡
@@ -1084,7 +1085,7 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 *RTS (Santa Fe) - arcast server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ RTS (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ RTS 🌛(Santa Fe)
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MGRhY2I5NmMxZTFiMmM2Y2Y2YzEzMTMzN2QyMjg5MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ0NjQxOTI1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.V_doCnKonj4VJIgP6rHB1wycSItVfy0A_L9XMOHlm2LJs_lA89mydpq_Zu5vYduMcGgf5Cn1aRzBKCuOlNPBTnO7Gg_4omj0gwmy3NrPsNrVFT07cgiJW6oN4MOlPcmzUVi727KTcA3b0E-VgOod7ojMYmarJ6cCr327_PxAIvTBfvb4bSUX66E79EvL5aYE4d-4OQFkDwSbZfNIyceD1PZRy-EVrm6zliU5dIN_uFC1D_-0myhx1p8O5-_usZFf4QUgL7o7-ojANiMBULFTkbPiJmapNPRWuhZFkk_ebNqJeTiBeaqdFni2iVltU4FXTPAWz7bToZqKuu9XB6Enzw/manifest/video.m3u8?CMCD=cid%3D%221744598727038%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22500dde74-54a6-42e3-9afc-5c2ff5cd8dd6%22%2Csu
 
 *Canal-7 (Santiago del Estero) - arcast server 
@@ -1297,6 +1298,14 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",🔑 Latina (peru)
 http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8
 
+*Latina (peru) - teleclub server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",✔️ Latina (peru)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+*Latina-Calsicos (peru) - Jireh server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/latinaclasicosperu.png" group-title="Canales Internacionales",✔️ Latina Clasicos (peru)
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8
+
 *Panamericana-TV (Peru)
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/PanamericanaPeru.png" group-title="Canales Internacionales",✔️ Panamericana TV (Peru)
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
@@ -1334,11 +1343,11 @@ https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 *La-2-TV (España) - rtve server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (España) sv1
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 *La-2-TV (España) - akamaized server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",La 2 TV (España) sv2
+#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (España) sv2
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
 *Star-TVE (España) - televall server 
@@ -1405,7 +1414,7 @@ http://190.217.23.56:1010/play/a0a8/index.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *002-Radio - 002radio server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",✔️ 002 Radio
+#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/002Radio.png" group-title="Musica",✔️ 002 Radio 🌛
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 *Alterna-TV - alterna server 
@@ -1727,6 +1736,6 @@ https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/KTRKLive
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Chimenea - ottera server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Asmr-Logo-120x120/chimenea.png" group-title="ASMR",✔️ Chimenea 24hs sv1
+#EXTINF:-1 tvg-logo="https://archive.org/download/Asmr-Logo-120x120/chimenea.png" group-title="ASMR",✔️ Chimenea 24hs 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=83
 
