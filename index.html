@@ -1,283 +1,188 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
-  <title>CineCity IPTV</title>
+  <meta charset="UTF-8">
+  <title>Reproductor IPTV</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
-      background: #111;
-      color: #fff;
       font-family: sans-serif;
+      background: #f5f5f5;
       margin: 0;
-      padding: 0;
+      padding: 20px;
       text-align: center;
     }
-    #marquee {
-      background: #000;
-      color: red;
-      font-size: 16px;
-      font-weight: bold;
-      padding: 10px 0;
-      overflow: hidden;
-      white-space: nowrap;
+
+    h1 {
+      margin-bottom: 20px;
     }
-    #auth input {
-      margin: 10px;
-      padding: 10px;
-      width: 250px;
-    }
-    #auth button {
-      padding: 10px 20px;
-      margin: 10px;
-    }
-    #logout {
-      display: none;
-      margin: 20px auto;
-      padding: 10px 20px;
-    }
-    video {
+
+    #player {
       width: 100%;
-      max-height: 480px;
+      max-width: 900px;
+      aspect-ratio: 16 / 9;
+      border: none;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+      margin-bottom: 20px;
       background: #000;
     }
-    #search {
+
+    input[type="text"] {
       padding: 10px;
-      width: 80%;
-      max-width: 400px;
-      margin: 20px auto;
-      font-size: 16px;
-      display: none;
-    }
-    .group {
-      margin: 30px 0 10px;
-      font-size: 18px;
-      font-weight: bold;
-      border-bottom: 1px solid #555;
-      padding-bottom: 5px;
       width: 90%;
-      margin-left: auto;
-      margin-right: auto;
-      text-align: left;
+      max-width: 500px;
+      margin-bottom: 30px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
     }
-    .group-channels {
+     
+    select#fondoSelector {
+      padding: 10px;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      font-size: 1rem;
+    }
+	
+    #canales {
       display: flex;
       flex-wrap: wrap;
-      justify-content: flex-start;
-      gap: 10px;
-      padding: 10px;
-      width: 90%;
-      margin: auto;
+      justify-content: center;
+      gap: 15px;
     }
-    .channel {
-      background: #222;
-      border-radius: 6px;
-      padding: 5px;
-      width: 90px;
+
+    .canal {
+      text-align: center;
       cursor: pointer;
+      width: 100px;
+      transition: transform 0.2s;
     }
-    .channel:hover {
-      background: #333;
+
+    .canal img {
+      width: 80px;
+      height: 80px;
+      object-fit: contain;
+      border-radius: 8px;
+      transition: transform 0.2s;
     }
-    .channel img {
-      width: 100%;
-      height: auto;
-      border-radius: 4px;
+
+    .canal.highlight img {
+      transform: scale(1.1); /* Aumentar el tamaño del logo del canal destacado */
     }
-    .channel-name {
+
+    .canal.selected img {
+      /* Se eliminó el borde azul para el canal seleccionado */
+    }
+
+    .canal span {
+      display: block;
       margin-top: 5px;
-      font-size: 12px;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
+      font-size: 0.9rem;
+    }
+
+    .grupo {
+      font-size: 0.8rem;
+      color: #777;
     }
   </style>
-
-  <!-- Firebase SDKs -->
-  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore-compat.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
 
-<div id="marquee">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    🎬 CineCity IPTV — Acceso exclusivo para usuarios registrados | Canales en vivo 24/7
-  </marquee>
-</div>
+  <h1>Reproductor IPTV</h1>
 
-<div id="auth">
-  <input type="email" id="email" placeholder="Correo electrónico" /><br>
-  <input type="password" id="password" placeholder="Contraseña" /><br>
-  <button onclick="login()">Iniciar sesión</button>
-  <button onclick="register()">Registrarse</button>
-</div>
+  <iframe id="player" src="https://television-libre.tv/html/fl/?get=QW1lcmljYTI0" title="Reproductor" allowfullscreen allow="autoplay; encrypted-media"></iframe>
 
-<button id="logout" onclick="logout()">Cerrar sesión</button>
-<video id="player" controls autoplay muted style="display:none;"></video>
-<input type="text" id="search" placeholder="Buscar canal..." />
-<div id="channels"></div>
-<script>
-  const firebaseConfig = {
-    apiKey: "AIzaSyD-fzfLNG1ZbK1bMWeKRki_eAyagpnw7cg",
-    authDomain: "iptv-tokens.firebaseapp.com",
-    projectId: "iptv-tokens",
-    storageBucket: "iptv-tokens.firebasestorage.app",
-    messagingSenderId: "728401298",
-    appId: "1:728401298:web:9760cf82d8b00b5679ad4b",
-    measurementId: "G-9VG6B4T29F"
-  };
+  <div class="top-bar">
+    <input type="text" id="buscador" placeholder="Buscar canal o grupo...">
+    <select id="fondoSelector">
+      <option value="#f5f5f5">Fondo Claro</option>
+      <option value="#1e1e1e">Fondo Oscuro</option>
+      <option value="#003366">Azul Marino</option>
+      <option value="#faf0e6">Beige</option>
+    </select>
+  </div>
 
-  firebase.initializeApp(firebaseConfig);
-  const auth = firebase.auth();
-  const db = firebase.firestore();
+  <div id="canales">
+    <div class="canal" onclick="cambiarCanal(0)" data-url="https://television-libre.tv/html/fl/?get=QW1lcmljYVRW">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ultratv-america.png" alt="Canal 2">
+        <span>América TV</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+      <div class="canal" onclick="cambiarCanal(1)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw3">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" alt="Canal 7">
+        <span>TV Publica</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+      <div class="canal" onclick="cambiarCanal(2)" data-url="https://television-libre.tv/html/fl/?get=Q2FuYWw5&lang=1">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" alt="Canal 9">
+        <span>El Nueve</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+      <div class="canal" onclick="cambiarCanal(3)" data-url="https://television-libre.tv/html/fl/?get=VGVsZWZlSEQ=">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" alt="Canal 11">
+        <span>Telefe</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+      <div class="canal" onclick="cambiarCanal(4)" data-url="https://television-libre.tv/html/fl/?get=QXJ0ZWFySEQ">
+        <img src="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" alt="Canal 13">
+        <span>El Trece</span>
+        <span class="grupo">Buenos Aires</span>
+      </div>
+      <!-- Agrega más canales aquí -->
+  </div>
 
-  async function getUserIP() {
-    const res = await fetch('https://api.ipify.org?format=json');
-    const data = await res.json();
-    return data.ip;
-  }
+  <script>
+    const player = document.getElementById('player');
+    const canales = document.querySelectorAll('.canal');
+    let canalActual = 0;
 
-  auth.onAuthStateChanged(async function(user) {
-    if (user) {
-      const uid = user.uid;
-      const ref = db.collection("usuarios").doc(uid);
-      const ipActual = await getUserIP();
-      const doc = await ref.get();
-
-      if (!doc.exists) {
-        await ref.set({ email: user.email, ip: ipActual });
-        mostrarContenido();
-      } else if (doc.data().ip === ipActual) {
-        mostrarContenido();
-      } else {
-        alert("❌ Este usuario ya fue usado desde otra IP.");
-        auth.signOut();
-      }
+    function cambiarCanal(index) {
+      // Remover la selección del canal actual
+      canales[canalActual].classList.remove('selected');
+      canalActual = index; // Actualizar el índice del canal actual
+      player.src = canales[canalActual].getAttribute('data-url'); // Cambiar la URL del reproductor
+      canales[canalActual].classList.add('selected'); // Resaltar el nuevo canal seleccionado
     }
-  });
 
-  function mostrarContenido() {
-    document.getElementById("auth").style.display = "none";
-    document.getElementById("logout").style.display = "inline-block";
-    document.getElementById("player").style.display = "block";
-    document.getElementById("search").style.display = "block";
-    fetchM3U();
-  }
-
-  window.login = function() {
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
-    auth.signInWithEmailAndPassword(email, password)
-      .catch(error => alert("Error: " + error.message));
-  }
-
-  window.register = function() {
-    const email = document.getElementById("email").value;
-    const password = document.getElementById("password").value;
-    auth.createUserWithEmailAndPassword(email, password)
-      .catch(error => alert("Error: " + error.message));
-  }
-
-  window.logout = function() {
-    auth.signOut().then(() => location.reload());
-  }
-  const m3uUrl = "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/A001.m3u";
-  let allChannels = [];
-  let groupOrder = [];
-
-  document.getElementById("search").addEventListener("input", renderFiltered);
-
-  function fetchM3U() {
-    fetch(m3uUrl)
-      .then(res => res.text())
-      .then(data => {
-        allChannels = parseM3U(data);
-        renderFiltered();
-      })
-      .catch(err => alert("Error al cargar M3U: " + err));
-  }
-
-  function parseM3U(text) {
-    const lines = text.split("\n");
-    const channels = [];
-    const seenGroups = new Set();
-
-    for (let i = 0; i < lines.length; i++) {
-      const line = lines[i].trim();
-      if (line.startsWith("#EXTINF:")) {
-        const name = line.split(",").pop().trim();
-        const logo = (line.match(/tvg-logo="(.*?)"/) || [])[1] || "";
-        const group = (line.match(/group-title="(.*?)"/) || [])[1] || "Sin grupo";
-        const url = lines[i + 1]?.trim();
-        if (url && url.startsWith("http")) {
-          if (!seenGroups.has(group)) {
-            groupOrder.push(group);
-            seenGroups.add(group);
-          }
-          channels.push({ name: name, logo: logo, group: group, url: url });
-        }
+    // Manejar teclas de dirección
+    document.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowRight') {
+        // Remover el resaltado del canal actual antes de avanzar
+        canales[canalActual].classList.remove('highlight');
+        canalActual = (canalActual + 1) % canales.length; // Avanzar al siguiente canal
+        canales[canalActual].classList.add('highlight'); // Resaltar el nuevo canal
+      } else if (event.key === 'ArrowLeft') {
+        // Remover el resaltado del canal actual antes de retroceder
+        canales[canalActual].classList.remove('highlight');
+        canalActual = (canalActual - 1 + canales.length) % canales.length; // Retroceder al canal anterior
+        canales[canalActual].classList.add('highlight'); // Resaltar el nuevo canal
       }
-    }
-    return channels;
-  }
-
-  function renderFiltered() {
-    const query = document.getElementById("search").value.toLowerCase();
-    const filtered = allChannels.filter(c => c.name.toLowerCase().includes(query));
-    renderGrouped(filtered);
-  }
-
-  function renderGrouped(channels) {
-    const container = document.getElementById("channels");
-    container.innerHTML = "";
-    const grouped = {};
-    groupOrder.forEach(g => grouped[g] = []);
-    channels.forEach(ch => grouped[ch.group]?.push(ch));
-
-    groupOrder.forEach(group => {
-      if (!grouped[group]?.length) return;
-
-      const title = document.createElement("div");
-      title.className = "group";
-      title.textContent = group;
-
-      const groupGrid = document.createElement("div");
-      groupGrid.className = "group-channels";
-
-      grouped[group].forEach(canal => {
-        const div = document.createElement("div");
-        div.className = "channel";
-        div.innerHTML =
-          '<img src="' + canal.logo + '" onerror="this.style.display=\'none\'">' +
-          '<div class="channel-name">' + canal.name + '</div>';
-        div.onclick = function() { play(canal.url); };
-        groupGrid.appendChild(div);
-      });
-
-      container.appendChild(title);
-      container.appendChild(groupGrid);
+      // Actualizar el reproductor con la URL del canal actual
+      player.src = canales[canalActual].getAttribute('data-url');
     });
-  }
 
-  function play(url) {
-    const video = document.getElementById("player");
-    if (Hls.isSupported()) {
-      const hls = new Hls();
-      hls.loadSource(url);
-      hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, function() {
-        video.play();
+    const buscador = document.getElementById('buscador');
+
+    buscador.addEventListener('input', () => {
+      const filtro = buscador.value.toLowerCase();
+      canales.forEach(canal => {
+        const nombre = canal.querySelector('span').innerText.toLowerCase();
+        const grupo = canal.querySelector('.grupo')?.innerText.toLowerCase() || '';
+        canal.style.display = (nombre.includes(filtro) || grupo.includes(filtro)) ? 'block' : 'none';
       });
-    } else if (video.canPlayType("application/vnd.apple.mpegurl")) {
-      video.src = url;
-      video.addEventListener("loadedmetadata", function() {
-        video.play();
-      });
-    } else {
-      alert("Tu navegador no soporta HLS");
-    }
-  }
-</script>
+    });
+	
+	// Cambiar color de fondo
+    const fondoSelector = document.getElementById('fondoSelector');
+    fondoSelector.addEventListener('change', () => {
+      document.body.style.background = fondoSelector.value;
+    });
+
+    // Inicializar el primer canal como seleccionado
+    cambiarCanal(canalActual);
+    canales[canalActual].classList.add('highlight'); // Resaltar el canal inicial
+  </script>
+
 </body>
 </html>
