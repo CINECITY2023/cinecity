@@ -4,7 +4,7 @@
                                          
 *Preview 📌
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
-https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/Logos3/Ultra-TV-tv-x-internet-de-350-canales-Riana.m3u8
+https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/intros/output.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 EXTVLCOPT:loop
@@ -54,7 +54,7 @@ http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
 *Canal-de-la-Ciudad -  edge-access serever
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalDeLaCiudad.png" group-title="General",✔️ Canal de la Ciudad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalDeLaCiudad.png" group-title="Buenos Aires",✔️ Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
@@ -390,11 +390,11 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/space/master.m3u8
 
 *Star-Channel - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="Cine",🔑 Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="Cine",🔑 Star Channel
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8
 
 *Star-Channel - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="Cine",🔑 Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="Cine",🔑 Star Channel
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/starchannel/master.m3u8
 
 *Studio-Universal - Teleclub server 
@@ -1721,10 +1721,19 @@ http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge3.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 
 *Россия-1-HD (RUS) - reg cdnvideo server
-#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",✔️ Россия-1-HD (RUS)
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="Otros Idiomas",✔️ Россия-1 HD (RUS)
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 
+*Россия-Культура HD  (RUS) - reg cdnvideo server
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="Otros Idiomas",✔️ Россия Культура HD  (RUS)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8 
 
+*НТВ HD (RUS) - ntv server
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
+#EXTINF:-1 tvg-rec="7" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%9D%D0%A2%D0%92.png" group-title="Otros Idiomas",✔️ НТВ HD (RUS)
+http://cdn2.ntv.ru/ntv0_hd/index.m3u8
+ 
 
 
 
