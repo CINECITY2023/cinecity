@@ -237,7 +237,7 @@ http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8
 http://185.189.225.150:85/AXN/index.m3u8
 
 *AXN - clubtv server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",✔️ AXN
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",✔️ AXN
 https://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
 https://clubtv.link/120425ab/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 
