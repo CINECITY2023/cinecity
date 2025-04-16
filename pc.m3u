@@ -262,7 +262,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/mascineclassi
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?PlaylistM3UCL
 
 *Cinecanal - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8
 
 *Cinecanal - teleclub server
