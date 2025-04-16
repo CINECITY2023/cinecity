@@ -201,11 +201,11 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *A3S - teleclub Server
-EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="Cine",🔑 A3s
+#EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="Cine",🔑 A3s
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/antena3series/master.m3u8
 
 *A&E - Teleclub server
-EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="Cine",🔑 A&E (SOLO PC)
+#EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="Cine",🔑 A&E (SOLO PC)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
 
 *AMC - 185.189 server 
@@ -213,23 +213,23 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
 http://185.189.225.150:85/AMC/index.m3u8
 
 *AMC - teleclub server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8
 
 *AMC - plex server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 
 *AMC - clubtv server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC (solo pc)
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC (solo pc)
 https://clubtv.link/120425ab/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
 
 *AXN - teleclub server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",🔑 AXN
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",🔑 AXN
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8
 
 *AXN - teleclub server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",🔑 AXN
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",🔑 AXN
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8
 
 *AXN - 185.189 server 
@@ -237,12 +237,12 @@ http://tv.teleclub.xyz/stream/server_3/entretenimiento/axn/master.m3u8
 http://185.189.225.150:85/AXN/index.m3u8
 
 *AXN - clubtv server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",✔️ AXN (solo pc)
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",✔️ AXN (solo pc)
 https://clubtv.link/120425ab/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8
 https://clubtv.link/120425ab/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 
 *Azteca-Cinema - astra colombia server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png" group-title="Cine",⚠️ Azteca Cinemas (solo pc)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png" group-title="Cine",⚠️ Azteca Cinemas (solo pc)
 http://190.217.23.56:1010/play/a0br/index.m3u8
 
 *Bayres-TV - GBAsat server 
@@ -262,15 +262,15 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/mascineclassi
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?PlaylistM3UCL
 
 *Cinecanal - teleclub server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8
 
 *Cinecanal - teleclub server
-EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal (solo pc)
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal (solo pc)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8
 
 *Cinecanal - clubtv server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",✔️ Cinecanal
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",✔️ Cinecanal
 https://clubtv.link/120425ab/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
 
 *Cinema-Azteca - clubtv server 
