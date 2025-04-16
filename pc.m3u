@@ -48,7 +48,7 @@ https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 *TELEFE-HD - Teleclub Server 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",🔑 Telefe HD 🌛
+EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://archive.org/download/BSAS-Logo-120x120/TELEFE.png" group-title="Buenos Aires",🔑 Telefe HD 🌛
 http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
 
 *El-Trece - Vodge Net server 
