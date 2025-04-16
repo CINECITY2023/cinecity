@@ -270,7 +270,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8
 
 *Cinecanal - clubtv server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",✔️ Cinecanal
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",✔️ Cinecanal
 https://clubtv.link/120425ab/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
 
 *Cinema-Azteca - clubtv server 
