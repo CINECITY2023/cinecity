@@ -39,7 +39,6 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 *Canal 9 - Usher ttvnw server 
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:1 tvg-logo="https://ia800709.us.archive.org/19/items/BSAS-Logo-120x120/ElNueve.png" group-title="Buenos Aires",✔️ El Nueve
 http://zorrohunter.com:8080/haw5UJfF68/1729172230/46708
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
