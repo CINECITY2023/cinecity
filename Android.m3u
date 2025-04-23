@@ -1139,23 +1139,23 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 *Naruto - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ,Naruto
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ,Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Yu-Gi-Oh - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" ,✔️ Yu-Gi-Oh
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png" ,✔️ Yu-Gi-Oh
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *One-Piece - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" ,✔️ One Piece
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG.png" ,✔️ One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Tokusato - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ,✔️ Tokusato
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png" ,✔️ Tokusato
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *PlutoTV-E-Sports - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" ,✔️ Pluto TV E-Sports
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png" ,✔️ Pluto TV E-Sports
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
@@ -1180,15 +1180,15 @@ http://tv.teleclub.xyz/stream/server_1/24x7/chapulincolorado/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8
 
 *Distrito-Comedia - astra colombia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",⚠️ Distrito Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Comedia",⚠️ Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
 *Distrito-Comedia - 190.216 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",✔️ Distrito Comedia (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Comedia",✔️ Distrito Comedia (2)
 http://190.216.158.199:8000/play/a02q/index.m3u8
 
 *Distrito-Comedia - 190.217 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Cine",✔️ Distrito Comedia (3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/distritocomedia.png" group-title="Comedia",✔️ Distrito Comedia (3)
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
 *Pluto-TV-Humor - plutotv server
@@ -1212,31 +1212,31 @@ reality
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=80
 
 *MTV-Reality - Plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" ,✔️ MTV Reality
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png" ,✔️ MTV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *PlutoTV-Reality - plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" ,✔️ Pluto TV Reality
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png" ,✔️ Pluto TV Reality
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *PlutoTV-Boom - plutitv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" ,✔️ Boom
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/6099600015e88c0007ecda25/colorLogoPNG.png" ,✔️ Boom
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6099600015e88c0007ecda25/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Plutotv-Iron-Chef - plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" ,✔️ Iron Chef
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png" ,✔️ Iron Chef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/615b9855c6b58b000724477f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *PlutoTV-MasterChef - plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" ,✔️ MasterChef
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png" ,✔️ MasterChef
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Plutotv-Hells-Kitchen - plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" ,✔️ Hells Kitchen
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png" ,✔️ Hells Kitchen
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Plutotv-Minuto-Para-Ganar - plutotv server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" ,✔️ Minuto Para Ganar
+#EXTINF:-1 group-title="Reality" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png" ,✔️ Minuto Para Ganar
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 Series
@@ -2082,39 +2082,39 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 *Vevo-70s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo 70s
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 70s
 https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
 
 *Vevo-80s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo 80s
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 80s
 https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
 
 *Vevo-90s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo 90s
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 90s
 https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 
 *Vevo-Country - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo Country
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Country
 https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
 
 *Vevo-Hip-Hop - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo Hip Hop
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Hip Hop
 https://d3mzlmrngyf08j.cloudfront.net/playlist.m3u8
 
 *Vevo-Latino - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo Latino
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica",✔️ Vevo Latino
 https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8
 
 *Vevo-Pop - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo Pop
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Pop
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 
 *Vevo-Rock - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo Rock
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Rock
 https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
 
 *Vevo-R&B - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" ,✔️ Vevo R&B
+#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo R&B
 https://d188921up0bidw.cloudfront.net/playlist.m3u8
 
 
