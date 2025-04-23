@@ -43,10 +43,6 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 http://zorrohunter.com:8080/haw5UJfF68/1729172230/46708
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
-*CarasTV - unlimited1 server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" ,✔️ Caras TV
-https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
-
 *TELEFE-HD - Telefe Server 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/TELEFE.png" group-title="Buenos Aires",✔️ Telefe HD 🌛
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
@@ -109,6 +105,10 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 *Canal-Provincial-San-Miguel - Trimi server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/CanalProvincialSanMiguel.png" group-title="Buenos Aires",✔️ Canal Provincial San Miguel
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
+
+*CarasTV - unlimited1 server
+#EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://fotos.perfil.com/2024/03/01/trim/1280/720/caras-tv-1763217.jpg" ,✔️ Caras TV
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 *Ciudad-Magazine - Vodgc Net server 
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/CiudadMagazine.png" group-title="Buenos Aires",✔️ Ciudad Magazine
@@ -332,7 +332,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/p
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
  
 *FreeTv-Familia - amagi server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" ,✔️ FreeTV Familia
+#EXTINF:-1 group-title="Cine" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_familia_1080x1080_02092024.jpg" ,✔️ FreeTV Familia
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8 
  
 *FreeTV-Live - Olympusat server
@@ -340,11 +340,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
 
 *FreeTV-Sureño - Olympusat server
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" ,✔️ FreeTV Sureño
+#EXTINF:-1 group-title="Cine" tvg-logo="https://img3.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_sureno_1080x1080_02092024.jpg" ,✔️ FreeTV Sureño
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8
 
 *FreeTV-Terror - Olympusat server
-#EXTINF:-1 group-title="Cine y Series" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" ,✔️ FreeTV Terror
+#EXTINF:-1 group-title="Cine" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" ,✔️ FreeTV Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 *FX - Teleclub server 
@@ -974,7 +974,7 @@ https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Baby-Shark - Plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" ,✔️ Baby Shark TV
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" ,✔️ Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Baby-TV - 185.189 server 
@@ -982,7 +982,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c00074892
 http://185.189.225.150:85/BabyTV/index.m3u8
 
 *Barney - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" ,✔️ Barney
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png" ,✔️ Barney
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Bob-Esponja - stitcher cluster server 
@@ -1074,11 +1074,11 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 
 *PlutoTV-Retro-Cartoons - plutotv server
-#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" ,✔️ Pluto TV Retro Cartoons
+#EXTINF:-1  tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title="Infantil" ,✔️ Pluto TV Retro Cartoons
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Rugrats - plutotv server
-#EXTINF:-1 group-title="Kids & Geek" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" ,✔️ Rugrats
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png" ,✔️ Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Talking-Tom-and-Friends-Minis - Ottera server 
@@ -1139,7 +1139,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 *Naruto - plutotv server
-#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ,Naruto
+#EXTINF:-1 group-title="Animacion" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png" ,✔️ Naruto
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Yu-Gi-Oh - plutotv server
@@ -1610,7 +1610,7 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 *Alpavision-Neiva (Colombia) - voxtvhd server
-#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="Canales Internacionalesl",✔️ Alpavisión Neiva (Colombia)
+#EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="Canales Internacionales",✔️ Alpavisión Neiva (Colombia)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
 *Bum-Televisión (Colombia) - ejeserver server 
@@ -1635,7 +1635,7 @@ http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 *RCN-Mas (Colombia) - plex server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png" ,✔️ RCN Mas (Colombia)
+#EXTINF:-1 group-title="Canales Internacionales" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png" ,✔️ RCN Mas (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 *Señal-Colombia (Colombia) - rtvc server 
@@ -1746,7 +1746,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
 *Estrella-Games (mexico) - amagi server
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/estrellagamesmexico.png" ,✔️ Estrella Games (mexico)
+#EXTINF:-1 group-title="Canales Internacionales" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/estrellagamesmexico.png" ,✔️ Estrella Games (mexico)
 https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 
 *Galavision (Mexico) - Teleclub server
@@ -1872,7 +1872,7 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 *10-Microvision (Rep. Dominicana) - telecablecentral server
-#EXTINF:-1 tvg-id="Microvision10.do" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="",✔️ 10 Microvision (Rep. dominicana)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="Canales Internacionales",✔️ 10 Microvision (Rep. dominicana)
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 *Canal-4-RTVD (Rep. Dominicana) - prostudionetwork server
@@ -1880,7 +1880,7 @@ https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 *Canal-Catorce (Rep. Dominicana) - livestreaminggroup server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="",✔️ Canal Catorce (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="Canales Internacionales",✔️ Canal Catorce (Rep. Dominicana)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 *ReadyHD (Rep. Dominicana) - telecablecentral server
