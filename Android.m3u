@@ -20,7 +20,7 @@ EXTVLCOPT:loop
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *America - Qaotic server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/BSAS-Logo-120x120/ultratv-america.png" group-title="Buenos Aires",✔️ America
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/ultratv-america.png" group-title="Buenos Aires",✔️ America
 #EXTVLCOPT:http-user-agent=iPhone
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
@@ -144,28 +144,28 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *24/7-Canal-de-Noticias - Panel Host server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/24-7.png" group-title="Noticias",✔️ 24/7 Canal de Noticias
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="Noticias",✔️ 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 
 *A24 - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://archive.org/download/Noticias-Logo-120x120/a24.png" group-title="Noticias",✔️ A24
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
 
 *A24 HD - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://archive.org/download/Noticias-Logo-120x120/a24.png" group-title="Noticias",✔️ A24 HD (2)
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 HD (2)
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 
 *Canal-26 - Telecentro server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canal26.png" group-title="Noticias",✔️ Canal 26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="Noticias",✔️ Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
 *Cronica-tv - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/CronicaTV.png" group-title="Noticias",✔️ Cronica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="Noticias",✔️ Cronica
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p.m3u8
@@ -173,7 +173,7 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 
 *Cronica-tv-HD - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/CronicaTV.png" group-title="Noticias",✔️ Cronica HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="Noticias",✔️ Cronica HD (2)
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
