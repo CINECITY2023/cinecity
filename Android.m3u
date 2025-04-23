@@ -56,11 +56,11 @@ http://tv.teleclub.xyz/stream/server_1/mundo/telefe/master.m3u8
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
 *Argentinisima-Satelital - Sersat server 
-#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/ArgentinisimaSatelital.png" group-title="Buenos Aires",✔️ Argentinisima Satelital
+#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/ArgentinisimaSatelital1.png" group-title="Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 *Bragado-TV - Inlive server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/BragadoTV.png" group-title="Buenos Aires",✔️ Bragado TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/BragadoTV1.png" group-title="Buenos Aires",✔️ Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 *Canal-3-Pinamar-HD - Telpin server 
@@ -82,7 +82,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 *Canal-11-de-la-Costa - Solumedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/Canal11delaCosta.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa 🌛
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/Canal11delaCosta1.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa 🌛
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 *Canal-22-Web-CABA - Streamlock server 
