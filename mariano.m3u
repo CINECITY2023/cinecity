@@ -40,8 +40,8 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:1 tvg-id="TV Pública.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/TVPublica.png" group-title="Buenos Aires",✔️ TV Publica (2)
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
-*Canal 9 - Usher ttvnw server 
-#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/ElNueve.png" group-title="Buenos Aires",✔️ El Nueve
+*Canal 9 - Usher ttvnw server (	SOLO ANDROID )
+#EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/ElNueve.png" group-title="Buenos Aires",⚠️ El Nueve
 http://zorrohunter.com:8080/haw5UJfF68/1729172230/46708
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
@@ -171,10 +171,6 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 
 
-*A24 - 181.13 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 (3)
-http://181.13.173.86:8000/play/a01o/index.m3u8
-
 *Canal-26 - Telecentro server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="Noticias",✔️ Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
@@ -216,9 +212,8 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 🎬CANAL-DE-CINE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*A3S - teleclub Server
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="Cine",🔑 A3s
+*A3S - teleclub Server ( SOLO PC )
+EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="Cine",🔑 A3s
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/antena3series/master.m3u8
 
 *A&E - Teleclub server
@@ -229,8 +224,8 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC 🔊(ESP)
 http://185.189.225.150:85/AMC/index.m3u8
 
-*AMC - teleclub server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC (2)
+*AMC - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC (2)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8
 
 *AMC - plex server 
@@ -241,8 +236,8 @@ https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC (4)
 http://clubtv.link/abr22/phpcode/lista0.php?c=57&token=Tecnoplus11&f=.m3u8
 
-*AXN - teleclub server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",🔑 AXN 
+*AXN - teleclub server  ( SOLO PC )
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="Cine",🔑 AXN 
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8
 
 *AXN - teleclub server 
@@ -273,12 +268,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/mascineclassic.png" group-title="Cine",+Cine Classic
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?PlaylistM3UCL
 
-*Cinecanal - teleclub server 
+*Cinecanal - teleclub server ( SOLO ANDROID)
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/cinecanal/master.m3u8
 
-*Cinecanal - teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal (2)
+*Cinecanal - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINECANAL.png" group-title="Cine",🔑 Cinecanal (2)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8
 
 *Cinecanal - clubtv server 
@@ -289,7 +284,7 @@ http://clubtv.link/abr22/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/cinemaazteca.png" group-title="Cine",✔️ Cinema Azteca
 http://clubtv.link/abr22/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
 
-*Cinemax - clubtv server 
+*Cinemax - clubtv server ( SOLO ANDROID )
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/CINEMAX.png" group-title="Cine",✔️ Cinemax
 http://clubtv.link/abr22/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
 
@@ -297,16 +292,16 @@ http://clubtv.link/abr22/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/cineromantico.png" group-title="Cine",✔️ Cine Romantico HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-*Comedy-Central - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/comedycentral.png" group-title="Cine",🔑 Comedy Central
+*Comedy-Central - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/comedycentral.png" group-title="Cine",🔑 Comedy Central
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8
 
 *De-Pelicula - 190.60 server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DEPELICULA.png" group-title="Cine",⚠️ De Pelicula 
 http://190.60.38.114:1010/play/a08f/index.m3u8
 
-*De-Pelicula - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DEPELICULA.png" group-title="Cine",🔑 De Pelicula (2)
+*De-Pelicula - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/DEPELICULA.png" group-title="Cine",🔑 De Pelicula (2)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8
 
 *De-Pelicula - clubtv server 
@@ -352,15 +347,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 #EXTINF:-1 group-title="Cine" tvg-logo="https://img2.static-ottera.com/prod/oly/linear_channel/thumbnails/square/213x213/freetv_terror_1080x1080_02092024.jpg" ,✔️ FreeTV Terror
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
-*FX - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",🔑 FX
+*FX - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/FX.png" group-title="Cine",🔑 FX
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8
 
 *Golden - astra colombia server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",⚠️ Golden
 http://190.217.23.56:1010/play/a0e9/index.m3u8
 
-*Golden - teleclub server 
+*Golden - teleclub server ( SOLO ANDROID )
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/GOLDEN.png" group-title="Cine",🔑 Golden (2)
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/golden/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8
@@ -369,16 +364,16 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDEN.png" group-title="Cine",✔️ Golden (3)
 http://clubtv.link/abr22/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
 
-*Golden-Edge - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",🔑 Golden Edge
+*Golden-Edge - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",🔑 Golden Edge
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
 
-*Golden-Plus - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDENplus.png" group-title="Cine",🔑 Golden Plus
+*Golden-Plus - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDENplus.png" group-title="Cine",🔑 Golden Plus
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8
 
 *Golden-Premier-2 - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenPremier2.png" group-title="Cine",🔑 Golden Premier 2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenPremier2.png" group-title="Cine",🔑 Golden Premier 2
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8
 
 *GRJNGO - amogonetworx server
@@ -441,7 +436,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="Cine",✔️ Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-*Paramount-Network - teleclub server 
+*Paramount-Network - teleclub server ( SOLO PC )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/paramountnetwork.png" group-title="Cine",🔑 Paramount Network
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8
 
@@ -477,8 +472,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/retroplus.png" group-title="Cine",RetroPlus
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/chunks.m3u8?PlaylistM3UCL
 
-*Sony-Channel - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",🔑 Sony Channel 
+*Sony-Channel - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonychannel.png" group-title="Cine",🔑 Sony Channel 
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8
 
 *Sony-Channel - Teleclub server 
@@ -492,8 +487,8 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8
 *Sony-Movies - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="Cine",Sony Movies
 
-*Space - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",🔑 Space
+*Space - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",🔑 Space
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/space/master.m3u8
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/space/master.m3u8
 
@@ -505,8 +500,8 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/space.png" group-title="Cine",✔️ Space (3)
 http://190.216.158.199:8000/play/a01r/index.m3u8
 
-*Star-Channel - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="Cine",🔑 Star Channel
+*Star-Channel - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="Cine",🔑 Star Channel
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/starchannel/master.m3u8
 
 *Star-Channel - Teleclub server 
@@ -521,8 +516,8 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",🔑 Studio Universal
 http://tv.teleclub.xyz/stream/server_3/entretenimiento/studiouniversal/master.m3u8
 
-*Studio-Universal - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",🔑 Studio Universal (2)
+*Studio-Universal - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/studiouniversal.png" group-title="Cine",🔑 Studio Universal (2)
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8
 
 *Studio-Universal - clubtv server 
@@ -541,7 +536,7 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" ,✔️ Tiguerito TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
-*TNT - Teleclub server 
+*TNT - Teleclub server ( SOLO PC )
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tnt.png" group-title="Cine",🔑 TNT
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
 
@@ -569,12 +564,12 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.pn
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/todocine.png" group-title="Cine",✔️ Todo Cine FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
-*Universal-Cinema - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",🔑 Universal Cinema
+*Universal-Cinema - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",🔑 Universal Cinema
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8
 
-*Universal-Cinema - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",✔️ Universal Cinema (2)
+*Universal-Cinema - clubtv server  ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",✔️ Universal Cinema (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 
 *Universal-Comedy - clubtv server 
@@ -589,16 +584,16 @@ http://clubtv.link/abr22/phpcode/lista0.php?c=32&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="Cine",✔️ Universal Premier
 https://clubtv.link/abr22/phpcode/lista0.php?c=31&token=Tecnoplus11&f=.m3u8
 
-*Universal-TV - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="Cine",🔑 Universal TV
+*Universal-TV - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="Cine",🔑 Universal TV
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/universaltv/master.m3u8
 
 *Universal-TV - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="Cine",✔️ Universal TV (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="Cine",✔️ Universal TV (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=38&token=Tecnoplus11&f=.m3u8
 
-*Usa-TV - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="Cine",🔑 Usa TV
+*Usa-TV - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="Cine",🔑 Usa TV
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/usatv/master.m3u8
 
 *Usa-TV - 190.216 server 
@@ -609,8 +604,8 @@ http://190.216.158.199:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQrOSrDdvUZeIFwNhfsuqx4sZMCZLQ3N9lwwqOIab88cRg_fWJw" group-title="Cine" ,✔️ Video Club
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-*Warner-TV - teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="Cine",🔑 Warner TV
+*Warner-TV - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="Cine",🔑 Warner TV
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/warnerchannel/master.m3u8
 
 *Warner-TV - 190.216 server 
@@ -642,7 +637,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
-*Azteca-Corazon - Astra Colombia Server
+*Azteca-Corazon - Astra Colombia Server ( SOLO PC )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png"  group-title="Novelas",⚠️ Azteca Corazon (2)
 http://190.217.23.56:1010/play/a0bs/index.m3u8
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
@@ -704,8 +699,8 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Adrenalina-Sports-Network - 190.92 server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/adrenalinasportsnetwork.png" group-title="Deportes",⚠️ Adrenalina Sports Network
-http://190.92.10.66:4000/play/a006/index.m3u8
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/adrenalinasportsnetwork.png" group-title="Deportes",⚠️ Adrenalina Sports Network
+
 
 *AYM-SPORTS-HD - Otteravision server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/aymsports.png" group-title="Deportes",✔️ AYM SPORTS HD
@@ -739,7 +734,7 @@ http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF
 
 *ESPN  - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",🔑 ESPN 
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",🔑 ESPN 
 http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
 
 *ESPN  - 190.216 server 
@@ -759,7 +754,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 https://clubtv.link/abr22/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
 
 *ESPN-2-MX - clubtv server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",✔️ ESPN 2 MX
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",✔️ ESPN 2 MX
 https://clubtv.link/abr22/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 
 *ESPN-2 - moveonjoy server
@@ -770,7 +765,7 @@ http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",🔑 ESPN 3
 http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
 
-*ESPN-3 - clubtv server
+*ESPN-3 - clubtv server ( SOLO ANDROID )
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn3.png" group-title="Deportes",✔️ ESPN 3 (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8
 https://clubtv.link/abr22/phpcode/lista0.php?c=60&token=Tecnoplus11&f=.m3u8
@@ -780,7 +775,7 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=60&token=Tecnoplus11&f=.m3u8
 http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
 
 *ESPN-5  - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn5.png" group-title="Deportes",🔑 ESPN 5
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn5.png" group-title="Deportes",🔑 ESPN 5
 http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
 
 *ESPN-Premium - Teleclub server 
@@ -833,7 +828,7 @@ http://tv.teleclub.xyz/stream/server_2/deportes/foxsports2mx/master.m3u8
 http://tv.teleclub.xyz/stream/server_2/deportes/foxsports3mx/master.m3u8
 
 *Fox-Sports-3-MX - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="Deportes",✔️ Fox Sports 3 MX (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="Deportes",✔️ Fox Sports 3 MX (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=28&token=Tecnoplus11&f=.m3u8
 
 *Fox-Sports-premium - Tamal server 
@@ -893,8 +888,8 @@ https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png" group-title="Deportes",✔️ Red Bull TV 🔊(ING)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-*Sky-Sports-La-Liga - 190.92 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/Sky_Sports_LaLiga.png" group-title="Deportes",⚠️ Sky Sports La Liga
+*Sky-Sports-La-Liga - 190.92 server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/Sky_Sports_LaLiga.png" group-title="Deportes",⚠️ Sky Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
 
 *TNT-Sports-premium - Teleclub server
@@ -902,7 +897,7 @@ http://190.92.10.66:4000/play/a001/index.m3u8
 http://tv.teleclub.xyz/stream/server_2/deportes/tntsports/master.m3u8
 
 *TNT-Sports-Premium - Teleclub server
-#EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",🔑 TNT Sports Premium (2)
+EXTINF:-1  tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tntsportspremium.png" group-title="Deportes",🔑 TNT Sports Premium (2)
 http://tv.teleclub.xyz/club/server_1/deportes/tntsports/index.m3u8
 
 *TUDN - 190.92 server 
@@ -912,6 +907,10 @@ http://190.92.10.66:4000/play/a002/index.m3u8
 *TUDN - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",🔑 TUDN (2)
 http://tv.teleclub.xyz/stream/server_2/deportes/tudn/master.m3u8
+
+*TUDN - 190.92 server 
+#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tudn.png" group-title="Deportes",✔ TUDN (3)
+http://190.92.10.66:4000/play/a006/index.m3u8
 
 *Tigo-Sports - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/tigosports.png" group-title="Deportes",✔️ Tigo Sports HD
@@ -942,7 +941,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
 http://190.216.158.199:8000/play/a04n/index.m3u8
 
 *WW-Network - clubtv server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/winsports+.png" tvg-country="AR" group-title="Deportes",✔️ WW Network 🔊(ING)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/wwnetwork.png" tvg-country="AR" group-title="Deportes",✔️ WW Network 🔊(ING)
 https://clubtv.link/abr22/phpcode/lista0.php?c=65&token=Tecnoplus11&f=.m3u8
 
 *XtremaTV-cnarDeportes-2 - Voxtv server 
@@ -1002,24 +1001,24 @@ http://185.189.225.150:85/boing/index.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/canelakids.png" group-title="Infantil",✔️ Canela Kids HD
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af6abe55914d06da5ac1d4cc72758e68314c9c914bc80d6469f128f27f5129a9ba582871088bdab50f50af6466d324053b8da00f9a35ca6caa56b2c927524436c3e8cca90ff40398a460d48eea5a1d506fb1ddafb46eb0167e14df22c80398e19ec63e3b419f2f5b88f441674a1c102366af4e7f4d2b66d61e560b6a3eb8a752ac8a1177c109a358252415099fbca2b90da0593c447efd6473c62b7fb2a9f98a48aecb5b2469d2bcdd2f59f38302a0966079507ccf00fd22aaf10c2a83a007e1c09fac020aeebd84e205d5c928f4cd12c0eabd7f9e7b56c15eb3a4e308b75cb577722a6786468f13deac073238a270480393cb54c23cf52f0b935f0b594e60e3abbd0c24eb06ceebb0fdef74fa264384a58cc98464a56736dc2e7700c3360b1348ebcc4f47b053ff9e4f2eed25a2e063a0e0860e187e47f8b9ec15b7e7ca00314a0157a63feef41e2be7a2b211c8b77f2be0e718b122823e7d54737385fb7b87f051ab4b0298670c6dbf5790e365c71b430045c1dbb5036e89c4a275c6f588e0077039c0e4847f9d7b28d1a2bdfafee058942133676c0fe185249737a710f88d04e997aacd97bd3ff9b049bbedf462df14d98b2cc1da4f14d58941100e924c7fb7ab92de9f22ac06124c4169b0a9ad575d6a45c081d73625dc7805bec6098d688c238a0e1cc250c53e562b290efb2993318b7d102043a0751186841360238f88b852a5020ac8b2ee80bb2b015b114007a7f66ce920c5bb1ed753795213135f6f785d8fb8a4b3be25ad95985200faf5c086ec6c93be18cfbb3d98f7d5b0ddcf9fa1feeefd8cf9c989a664d0a6a3189c81000248f68a3da7594c7774be6878feacd7dd724b247dcaa826eb56cee9bc64dc4f6baf1f4701b5b2027dfc9e5f519defc47058c72d549220f8fc883d060e8d1a80868e03fb9d41f0f4e5ff3ad7f749d8646bac2b646c5fbd1e6df7575bc9774/91/640x360_1333540/index.m3u8
 
-*Cartoonito - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",🔑 Cartoonito
+*Cartoonito - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",🔑 Cartoonito
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
 
-*Cartoonito - clubtv server
+*Cartoonito - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",✔️ Cartoonito
 https://clubtv.link/abr22/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
 
-*Cartoon-Network - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",🔑 Cartoon Network
+*Cartoon-Network - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",🔑 Cartoon Network
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
 
 *Cut-the-Rope - Ottera server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/CuttheRopeOmNomStories.png" group-title="Infantil",✔️ Cut the Rope - Om Nom Stories HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 
-*Discovery-Kids - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="Infantil",🔑 Discovery Kids
+*Discovery-Kids - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="Infantil",🔑 Discovery Kids
 http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
 
 *Discovery-Kids - clubtv server
@@ -1027,31 +1026,31 @@ http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
 https://clubtv.link/abr22/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 
 *Disney-channel - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="Infantil",🔑 Disney Channel
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="Infantil",🔑 Disney Channel
 http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
 
-*Disney-Jr - telelcub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",🔑 Disney Jr
+*Disney-Jr - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",🔑 Disney Jr
 http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
 
 *Disney-Jr - clubtv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",✔️ Disney Jr
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",✔️ Disney Jr (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 
-*Los-Picapiedras - Teleclub Server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/lospicaoiedras.png" group-title="Infantil",🔑 Los Picapiedras
+*Los-Picapiedras - Teleclub Server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/lospicaoiedras.png" group-title="Infantil",🔑 Los Picapiedras
 http://tv.teleclub.xyz/stream/server_1/24x7/lospicapiedras/master.m3u8
 
 *Magic-Kids - Magicstream server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Infantil-Logo-120x120/magickids.png" group-title="Infantil",✔️ Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-*Nickelodeon - Teleclub server
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="Infantil",🔑 Nickelodeon
+*Nickelodeon - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="Infantil",🔑 Nickelodeon
 http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
 
 *Nickelodeon - clubtv server
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="Infantil",✔️ Nickelodeon
+EXTINF:-1 tvg-id="nick" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="Infantil",✔️ Nickelodeon (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
 
 *Nick-Jr - astra colombia server 
@@ -1059,7 +1058,7 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=92&token=Tecnoplus11&f=.m3u8
 http://190.217.23.56:1010/play/a0af/index.m3u8
 
 *Nick-Jr - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="Infantil",✔️ Nick Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="Infantil",✔️ Nick Jr (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8
 
 *Nickelodeon - 185.189 server 
@@ -1089,8 +1088,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e812
 *Talking-Tom-and-Friends-Minis - Ottera server 
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/infantil/talkintomaandfriends.png" group-title="Infantil",Talking-Tom-and-Friends Minis
 
-*Tooncast - Teleclub server
-#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="Infantil",🔑 Tooncast
+*Tooncast - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-id="tooncast" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="Infantil",🔑 Tooncast
 http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
 
 *Xtrema-Cartoons - Voxtv server 
@@ -1176,12 +1175,12 @@ Comedia
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 https://d15gk5a13gdlfb.cloudfront.net/v1/manifest/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_AlwaysFunnyEspanol/f99e7ef9-3623-499d-a6ff-136e5ec06433/3.m3u8
 
-*Chapulin-Colorado - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/ChapululinnColorado.png" group-title="Comedia",🔑 Chapulin Colorado
+*Chapulin-Colorado - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/ChapululinnColorado.png" group-title="Comedia",🔑 Chapulin Colorado
 http://tv.teleclub.xyz/stream/server_1/24x7/chapulincolorado/master.m3u8
 
-*Chespirito - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/Chespirito.png" group-title="Comedia",🔑 Chespirito
+*Chespirito - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/Chespirito.png" group-title="Comedia",🔑 Chespirito
 http://tv.teleclub.xyz/stream/server_1/24x7/chespirito/master.m3u8
 
 *Distrito-Comedia - astra colombia server
@@ -1261,8 +1260,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d
 *A-Mas+ - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="Cultura",A Mas+
 
-*Animal-Planet - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",🔑 Animal Planet
+*Animal-Planet - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",🔑 Animal Planet
 https://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 
 *Chacra-TV - Edge Access server 
@@ -1270,67 +1269,67 @@ https://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/ChacraTV.png" group-title="Cultura",✔️ Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
-*Discovery-Channel - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="Cultura",🔑 Discovery Channel
+*Discovery-Channel - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="Cultura",🔑 Discovery Channel
 http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8
 
 *Discovery-Channel - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="Cultura",✔️ Discovery Channel (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
 
-*Discovery-Science - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryscience.png" group-title="Cultura",🔑 Discovery Science
+*Discovery-Science - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryscience.png" group-title="Cultura",🔑 Discovery Science
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8
 
-*Discovery-Turbo - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",🔑 Discovery Turbo
+*Discovery-Turbo - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",🔑 Discovery Turbo
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8
 
 *Discovery-Turbo - clubtv server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/Discovery_Turbo.png" group-title="Cultura",✔️ Discovery Turbo (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=80&token=Tecnoplus11&f=.m3u8
 
-*E! - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",🔑 E!
+*E! - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",🔑 E!
 http://tv.teleclub.xyz/stream/server_1/mundo/canal_e/master.m3u8
 
 *E! - astra colombia server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/e%21.png" group-title="Cultura",⚠️ E! (2)
 http://190.217.23.56:1010/play/a0ej/index.m3u8
 
-*El-Gourmet - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="Cultura",🔑 El Gourmet
+*El-Gourmet - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="Cultura",🔑 El Gourmet
 http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
 
 *El-Mundo-Del-Campo - astra colombia server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="Cultura",✔️ El Mundo Del Campo
 http://190.217.23.56:1010/play/a0be/index.m3u8
 
-*H2-History - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="Cultura",🔑 H2 History
+*H2-History - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="Cultura",🔑 H2 History
 http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
 
 *History - Teleclub server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",🔑 History
 http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8
 
-*History - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",🔑 History (2)
+*History - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",🔑 History (2)
 http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8
 
 *History - clubtv server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History.png" group-title="Cultura",✔️ History (3)
 https://clubtv.link/abr22/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
 
-*H&H-Discovery - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="Cultura",🔑 H&H Discovery
+*H&H-Discovery - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="Cultura",🔑 H&H Discovery
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8
 
 *H&H-Discovery - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="Cultura",✔️ H&H Discovery (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8
 
-*ID - Teleclub server 
+*ID - Teleclub server ( SOLO PC )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="Cultura",🔑 ID
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
 
@@ -1338,8 +1337,8 @@ http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="Cultura",✔️ ID (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
 
-*NatGeo - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="Cultura",🔑 NatGeo
+*NatGeo - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="Cultura",🔑 NatGeo
 http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8
 
 *PlutoTV-Viajes - plutotv server 
@@ -1353,8 +1352,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd24
 *Theater-Discovery - teleclub server
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococina.png"   group-title="Cultura",Theater Discovery
 
-*TLC - Teleclub server
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",🔑 TLC
+*TLC - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",🔑 TLC
 http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8
 
 *Turistik - cef technology server 
@@ -1365,8 +1364,8 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/UNIFETV.png" group-title="Cultura",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-*World-Discovery - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="Cultura",🔑 World Discovery
+*World-Discovery - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="Cultura",🔑 World Discovery
 http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8
 
 
@@ -1413,8 +1412,8 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas HD (2) (ESP)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-*DW-En-Español (ale) - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",🔑 DW En Español
+*DW-En-Español (ale) - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",🔑 DW En Español
 http://tv.teleclub.xyz/stream/server_1/mundo/dwchannel/master.m3u8
 
 *Latina-Noticias (PER) - jireh server 
@@ -1454,8 +1453,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/teleformula.png" group-title="Noticias Internacional",✔️ TeleFormula HD (MEX)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-*Telemundo-Noticias (MEX) - 190.92 server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (MEX)
+*Telemundo-Noticias (MEX) - 190.92 server  ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (MEX)
 http://190.92.10.66:4000/play/a004/index.m3u8
 
 *Telesur (VEN) - Telesur server 
@@ -1631,8 +1630,8 @@ https://tvlatina.live:1936/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliTV.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/calitvcolombia.png" group-title="Canales Internacionales",✔️ Cali TV (Colombia)
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-*Caracol TV (colombia) - telelcub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="Canales Internacionales",🔑 Caracol TV (colombia)
+*Caracol TV (colombia) - telelcub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="Canales Internacionales",🔑 Caracol TV (colombia)
 http://tv.teleclub.xyz/stream/server_1/mundo/caracol/master.m3u8
 
 *RCN (Colombia) - rcntv server 
@@ -1654,8 +1653,8 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/EcuadorTVEcuador.png" group-title="Canales Internacionales",✔️ Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-*Ecuavisa (Ecuador) - teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="Canales Internacionales",🔑 Ecuavisa (Ecuador)
+*Ecuavisa (Ecuador) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="Canales Internacionales",🔑 Ecuavisa (Ecuador)
 http://tv.teleclub.xyz/stream/server_1/mundo/ecuavisa/master.m3u8
 
 *Canal-21 (El Salvador) - akamaized server 
@@ -1697,12 +1696,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca_Uno.png" group-title="Canales Internacionales",✔️ Azteca Uno (2) (Mexico)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-*Azteca-7 (Mexico) - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca7-2025.png" group-title="Canales Internacionales",🔑 Azteca 7 (Mexico)
+*Azteca-7 (Mexico) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Azteca7-2025.png" group-title="Canales Internacionales",🔑 Azteca 7 (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8
 
-*Canal-5 (Mexico) - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal5Mexico.png" group-title="Canales Internacionales",🔑 Canal 5 (Mexico)
+*Canal-5 (Mexico) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/Canal5Mexico.png" group-title="Canales Internacionales",🔑 Canal 5 (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/canal5/master.m3u8
 
 *Canal-6-Multimedios-Laguna (Mexico) - mdstrm server 
@@ -1754,8 +1753,8 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="Canales Internacionales" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/estrellagamesmexico.png" ,✔️ Estrella Games (mexico)
 https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 
-*Galavision (Mexico) - Teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="Canales Internacionales",🔑 Galavision
+*Galavision (Mexico) - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="Canales Internacionales",🔑 Galavision
 http://tv.teleclub.xyz/stream/server_1/mundo/galavision/master.m3u8
 
 *Imagen-TV (mexico) - otteravision server 
@@ -1778,8 +1777,8 @@ http://tv.teleclub.xyz/stream/server_1/mundo/imagenmx/master.m3u8
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",✔️ Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-*Las-Estrellas (Mexico) - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",✔️ Las Estrellas (2) (Mexico)
+*Las-Estrellas (Mexico) - Teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/LasEstrellas.png" group-title="Canales Internacionales",🔑 Las Estrellas (2) (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/lasestrellas/master.m3u8
 
 *Mexiquense (Mexico) - streamlock server 
@@ -1811,8 +1810,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TVPacificoMexico.png" group-title="Canales Internacionales",✔️ TV Pacifico (Mexico)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
-*Unicable (Mexico) - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",🔑 Unicable (Mexico)
+*Unicable (Mexico) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/uniclb.png" group-title="Canales Internacionales",🔑 Unicable (Mexico)
 http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
 
 *Univision (Mexico) - 190.92 server 
@@ -1820,7 +1819,7 @@ http://tv.teleclub.xyz/stream/server_1/mundo/unicable/master.m3u8
 http://190.92.10.66:4000/play/a005/index.m3u8
 
 *Univision (Mexico) - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="Canales Internacionales",⚠️ Univision (2) (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="Canales Internacionales",⚠️ Univision (2) (Mexico)
 https://clubtv.link/abr22/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8
 
 *Vibe-TV (Mexico) - streamlock server 
@@ -1831,8 +1830,8 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSig
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AmericaTelevisionPeru.png" group-title="Canales Internacionales",America TV (Peru)
 
 
-*Latina (peru) - teleclub server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",🔑 Latina (Peru)
+*Latina (peru) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",🔑 Latina (Peru)
 http://tv.teleclub.xyz/stream/server_1/mundo/latina/master.m3u8
 
 *Latina (peru) - teleclub server
@@ -1851,8 +1850,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 #EXTINF:0,TV tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png" group-title="Canales Internacionales",✔️ TV Cosmos (Peru)
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1336493216.m3u8 
 
-*Willax (Peru)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/WillaxTVPeru.png" group-title="Canales Internacionales",🔑 Willax (Peru)
+*Willax (Peru) - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/WillaxTVPeru.png" group-title="Canales Internacionales",🔑 Willax (Peru)
 http://tv.teleclub.xyz/stream/server_1/mundo/willaxtv/master.m3u8
 
 *Telemundo (Puerto Rico) - cloudfront server 
@@ -1863,8 +1862,8 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TelemundoPuerto%20Rico.png" group-title="Canales Internacionales",✔️ Telemundo (2) (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-*Telemundo (Puerto Rico) - Teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TelemundoPuerto%20Rico.png" group-title="Canales Internacionales",✔️ Telemundo (3) (Puerto Rico)
+*Telemundo (Puerto Rico) - Teleclub server ( SOLO PC ) 
+EXTINF:-1 tvg-logo="https://archive.org/download/Canales-Internacionales-Logo-120x120/TelemundoPuerto%20Rico.png" group-title="Canales Internacionales",✔️ Telemundo (3) (Puerto Rico)
 http://tv.teleclub.xyz/stream/server_1/mundo/telemundopuertorico/master.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
 
@@ -1964,16 +1963,16 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 #EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/Vorterix.png" group-title="Radio en Vivo",✔️ Vorterix HD
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
-*La-Kalle - astra colombia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="Radio en Vivo",✔️ La Kalle
+*La-Kalle - astra colombia server  ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="Radio en Vivo",✔️ La Kalle
 http://190.217.23.56:1010/play/a0a6/index.m3u8
 
 *Latina - telecentro server 
 #EXTINF:-1 tvg-logo="https://archive.org/download/Radios-Logo-120x120/latina.png" group-title="Radio en Vivo",✔️ Latina
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-*Mi-Gente - Astra colombia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="Radio en Vivo",✔️ Mi Gente TV
+*Mi-Gente - Astra colombia server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="Radio en Vivo",✔️ Mi Gente TV
 http://190.217.23.56:1010/play/a0a8/index.m3u8
 
 *Antena 91 - tuvideoonline server
@@ -2043,7 +2042,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 http://185.189.225.150:85/MTV/index.m3u8
 
 *MTV-Hits - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",🔑 MTV Hits
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/MTVHits.png" group-title="Musica",🔑 MTV Hits
 http://tv.teleclub.xyz/stream/server_1/musica/htv/master.m3u8
 
 *MTV-00s - televall server 📌
@@ -2066,8 +2065,8 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 *RockolaTV - Distro server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/rockolatv.png" group-title="Musica",RockolaTV
 
-*Telehit - teleclub server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",🔑 Telehit
+*Telehit - teleclub server ( SOLO PC )
+EXTINF:-1 tvg-logo="https://archive.org/download/Musica-logo-120x120/Telehit.png" group-title="Musica",🔑 Telehit
 http://tv.teleclub.xyz/stream/server_1/musica/telehit/master.m3u8
 
 *Teleritmo - mdstrm server 
@@ -2087,19 +2086,19 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 *Vevo-70s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 70s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 70s
 https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
 
 *Vevo-80s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 80s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 80s
 https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
 
 *Vevo-90s - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 90s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 90s
 https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 
 *Vevo-Country - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Country
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Country
 https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
 
 *Vevo-Hip-Hop - cloudfront server
@@ -2115,7 +2114,7 @@ https://d3k7iagvenqkpa.cloudfront.net/playlist.m3u8
 https://d3t95pdz2h4c90.cloudfront.net/playlist.m3u8
 
 *Vevo-Rock - cloudfront server
-#EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Rock
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Rock
 https://d1uttzwuh34h7x.cloudfront.net/playlist.m3u8
 
 *Vevo-R&B - cloudfront server
