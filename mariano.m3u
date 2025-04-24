@@ -28,6 +28,8 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
+
+
 *TV-Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires2/TVPublica.png" group-title="Buenos Aires",✔️ TV Pública
@@ -158,14 +160,16 @@ https://panel.host-live.com:19360/cn247tv/passthru.m3u8
 *A24 - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24
+https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
 
 *A24 HD - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 HD (2)
-https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+
 
 *A24 - 181.13 server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 (3)
