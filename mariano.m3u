@@ -1048,11 +1048,6 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="Infantil",✔️ La Abeja Maya
 https://jmp2.uk/sam-ESBD3200002V5.m3u8
 
-*Pocoyo - jmp2 server
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10) 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="Infantil",✔️ Pocoyo
-https://jmp2.uk/sam-ESBC3900004ED.m3u8
-
 *Los-Picapiedras - Teleclub Server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/lospicaoiedras.png" group-title="Infantil",🔑 Los Picapiedras
 http://tv.teleclub.xyz/stream/server_1/24x7/lospicapiedras/master.m3u8
@@ -1288,7 +1283,7 @@ https://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 http://190.216.158.199:8000/play/a00h/index.m3u8
 
 *PlutoTV-Archivoa-Forenses - PLutoTV server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/series/plutotvarchivosforenses.png" group-title="Cultura",✔️ Archivos Forenses
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutotvarchivosforenses.png" group-title="Cultura",✔️ Archivos Forenses
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 *Chacra-TV - Edge Access server 
