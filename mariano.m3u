@@ -1049,6 +1049,7 @@ https://clubtv.link/abr22/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 https://jmp2.uk/sam-ESBD3200002V5.m3u8
 
 *Pocoyo - jmp2 server
+#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10) 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="Infantil",✔️ Pocoyo
 https://jmp2.uk/sam-ESBC3900004ED.m3u8
 
