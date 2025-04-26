@@ -28,8 +28,6 @@ https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
-
-
 *TV-Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="Buenos Aires",✔️ TV Pública
@@ -206,9 +204,6 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
 
-
-
-
 🎬CANAL-DE-CINE
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -367,6 +362,10 @@ http://clubtv.link/abr22/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
 *Golden-Edge - teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",🔑 Golden Edge
 http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
+
+*Golden-Edge - 190.216 server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",✔️ Golden Edge (2)
+http://190.216.158.199:8000/play/a00n/index.m3u8
 
 *Golden-Plus - teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDENplus.png" group-title="Cine",🔑 Golden Plus
@@ -1006,12 +1005,20 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
 
 *Cartoonito - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",✔️ Cartoonito
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",✔️ Cartoonito (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8
+
+*Cartoonito - 190.216 server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="Infantil",✔️ Cartoonito (3)
+http://190.216.158.199:8000/play/a00b/index.m3u8
 
 *Cartoon-Network - Teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",🔑 Cartoon Network
 http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
+
+*Cartoon-Network - 190.216 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="Infantil",✔️ Cartoon Network (2)
+http://190.216.158.199:8000/play/a00j/index.m3u8
 
 *Cut-the-Rope - Ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CuttheRopeOmNomStories.png" group-title="Infantil",✔️ Cut the Rope - Om Nom Stories HD
@@ -1036,6 +1043,14 @@ http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
 *Disney-Jr - clubtv server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",✔️ Disney Jr (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
+
+*La-Abeja-Maya - jmp2 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="Infantil",✔️ La Abeja Maya
+https://jmp2.uk/sam-ESBD3200002V5.m3u8
+
+*Pocoyo - jmp2 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="Infantil",✔️ Pocoyo
+https://jmp2.uk/sam-ESBC3900004ED.m3u8
 
 *Los-Picapiedras - Teleclub Server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/video%2024-7/lospicaoiedras.png" group-title="Infantil",🔑 Los Picapiedras
@@ -1253,14 +1268,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f
 
 
 
-SERIES
-
-*PlutoTV-Archivoa-Forenses - PLutoTV server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/series/plutotvarchivosforenses.png" group-title="Series",✔️ PlutoTV Archivos Forenses
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-
-
-
 
 
 
@@ -1275,6 +1282,14 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" 
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/animalplanet.png" group-title="Cultura",🔑 Animal Planet
 https://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
 
+*Animal-Planet - 190.216 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="Cultura",✔️ Animal Planet
+http://190.216.158.199:8000/play/a00h/index.m3u8
+
+*PlutoTV-Archivoa-Forenses - PLutoTV server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/series/plutotvarchivosforenses.png" group-title="Cultura",✔️ Archivos Forenses
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+
 *Chacra-TV - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/ChacraTV.png" group-title="Cultura",✔️ Chacra TV
@@ -1287,6 +1302,10 @@ http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8
 *Discovery-Channel - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="Cultura",✔️ Discovery Channel (2)
 https://clubtv.link/abr22/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8
+
+*Discovery-Channel - 190.216 server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="Cultura",✔️ Discovery Channel (3)
+http://190.216.158.199:8000/play/a00o/index.m3u8
 
 *Discovery-Science - Teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/discoveryscience.png" group-title="Cultura",🔑 Discovery Science
@@ -1366,6 +1385,10 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococin
 *TLC - Teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura",🔑 TLC
 http://tv.teleclub.xyz/stream/server_1/mundo/tlc/master.m3u8
+
+*Todo-Crimen - Rakuten server
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/todocrimen.png" group-title="Cultura",Todo Crimen
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=004a7a3f-6d34-4cd6-802e-3e45cb604307&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 
 *Turistik - cef technology server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/turistik.png" group-title="Cultura",✔️ Turistik FHD
@@ -2097,19 +2120,23 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 *Vevo-70s - cloudfront server
-EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 70s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica",✔️ Vevo 70s
 https://dqwknz5qopbgu.cloudfront.net/playlist.m3u8
 
+*Vevo-70s-&-80s - jmp2 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo70%2680.png" group-title="Musica",✔️ Vevo '70s & '80s
+https://jmp2.uk/sam-ESBD230000289.m3u8
+
 *Vevo-80s - cloudfront server
-EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 80s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica",✔️ Vevo 80s
 https://d36tolctzl3cf9.cloudfront.net/playlist.m3u8
 
 *Vevo-90s - cloudfront server
-EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo 90s
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica",✔️ Vevo 90s
 https://d36vl7sxn34m5q.cloudfront.net/playlist.m3u8
 
 *Vevo-Country - cloudfront server
-EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica" ,✔️ Vevo Country
+EXTINF:-1  tvg-logo="https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2018/05/vevo.jpg" group-title="Musica",✔️ Vevo Country
 https://duj0m5mtx2apx.cloudfront.net/playlist.m3u8
 
 *Vevo-Hip-Hop - cloudfront server
