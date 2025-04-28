@@ -209,7 +209,7 @@ http://tv.teleclub.xyz/stream/server_1/entretenimiento/antena3series/master.m3u8
 
 *A&E - Teleclub server
 EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="Cine",🔑 A&E 
-http://clubtv.link/abr2604/phpcode/android0.php?c=474&token=Tecnoplus11&f=.m3u8
+http://clubtv.link/abr2604/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 
 *AMC - 185.189 server 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC 🔊(ESP)
@@ -274,6 +274,10 @@ http://clubtv.link/abr2604/phpcode/lista0.php?c=50&token=Tecnoplus11&f=.m3u8
 *Cinema-Azteca - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png?raw=true" group-title="Cine",✔️ Cinema Azteca
 http://clubtv.link/abr2604/phpcode/lista0.php?c=89&token=Tecnoplus11&f=.m3u8
+
+*Cinema-Dinamita - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/cinemadinamita.png?raw=true" group-title="Cine",✔️ Cinema Dinamita
+http://clubtv.link/abr2604/phpcode/lista0.php?c=85&token=Tecnoplus11&f=.m3u8
 
 *Cinemax - clubtv server ( SOLO ANDROID )
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINEMAX.png?raw=true" group-title="Cine",✔️ Cinemax
@@ -380,9 +384,9 @@ http://tv.teleclub.xyz/stream/server_3/entretenimiento/HBO/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo.png" group-title="Cine",✔️ HBO (2)
 http://clubtv.link/abr2604/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8
 
-*HBO-2 - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="Cine",🔑 HBO 2
-http://tv.teleclub.xyz/stream/server_1/entretenimiento/hbo2/master.m3u8
+*HBO-2 - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="Cine",✔️ HBO 2
+http://clubtv.link/abr2604/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8
 
 *HBO-Family - Teleclub server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbofamily.png" group-title="Cine",🔑 HBO Family
@@ -728,9 +732,9 @@ http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
 *ECDF - Televall server 
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF
 
-*ESPN  - Teleclub server 
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn.png" group-title="Deportes",🔑 ESPN 
-http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+*ESPN  - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="Deportes",✔️ ESPN 
+http://clubtv.link/abr2604/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
 
 *ESPN  - 190.216 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="Deportes",✔️ ESPN
@@ -1028,9 +1032,9 @@ http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="Infantil",✔️ Discovery Kids
 https://clubtv.link/abr2604/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 
-*Disney-channel - Teleclub server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="Infantil",🔑 Disney Channel
-http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
+*Disney-channel - clubtv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="Infantil",✔️ Disney Channel
+http://clubtv.link/abr2604/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 
 *Disney-Jr - teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",🔑 Disney Jr
@@ -1755,9 +1759,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="Canales Internacionales",✔️ Azteca Uno (2) (Mexico)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-*Azteca-7 (Mexico) - teleclub server ( SOLO PC )
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca7-2025.png" group-title="Canales Internacionales",🔑 Azteca 7 (Mexico)
-http://tv.teleclub.xyz/stream/server_1/mundo/azteca7/master.m3u8
+*Azteca-7 (Mexico) - clubtv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca7-2025.png" group-title="Canales Internacionales",✔️ Azteca 7 (Mexico)
+http://clubtv.link/abr2604/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8
 
 *Canal-5 (Mexico) - teleclub server ( SOLO PC )
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal5Mexico.png" group-title="Canales Internacionales",🔑 Canal 5 (Mexico)
