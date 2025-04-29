@@ -125,7 +125,7 @@ https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 *Telecreativa-Lanus - Panel Host server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 *Telemax - Telecentro server 
@@ -324,7 +324,7 @@ http://190.217.23.56:1010/play/a0e9/index.m3u8
 http://clubtv.link/abr2604/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8
 
 *Golden-Edge - 190.216 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",✔️ Golden Edge
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GoldenEdge.png" group-title="Cine",✔️ Golden Edge
 http://190.216.158.199:8000/play/a00n/index.m3u8
 
 *Golden-Plus - teleclub server
