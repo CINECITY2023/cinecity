@@ -10,7 +10,7 @@ https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u
 EXTVLCOPT:loop
 
 *El Eternauta-Cap01
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSD5z6yTx4G4gKC30CwB5YXCvqeOKL5SCf1w&s" group-title="EVENTOS",El Eternauta Cap 01
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSD5z6yTx4G4gKC30CwB5YXCvqeOKL5SCf1w&s" group-title="Preview",El Eternauta Cap 01
 https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09857/2n3v0ctg99xx_,l,n,.urlset/master.m3u8?t=6TryVRGCgPaZIBnJPYtWGugVSWIKYK58IkUO5-LSDAk&s=1746125604&e=129600&f=49286494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=27747
 
 
@@ -2078,6 +2078,25 @@ SERIES-----------------------------
 #EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 01
 https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09857/2n3v0ctg99xx_,l,n,.urlset/master.m3u8?t=6TryVRGCgPaZIBnJPYtWGugVSWIKYK58IkUO5-LSDAk&s=1746125604&e=129600&f=49286494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=27747
 
+*El Eternauta-Cap02
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 02
+https://2goita23a7njj.premilkyway.com/hls2/01/09857/xj48w26lmany_,l,n,.urlset/master.m3u8?t=CL_ZafNutX1ivYAWZtDfWs2dPacWIrRu9kDvYLnheCw&s=1746131100&e=129600&f=49286610&srv=Gy4KXLg7mXRDXE7k&i=0.4&sp=500&p1=Gy4KXLg7mXRDXE7k&p2=Gy4KXLg7mXRDXE7k&asn=27747
+
+*El Eternauta-Cap03
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 03
+https://m5qilv3g2l.premilkyway.com/hls2/01/09857/66jfl2rrgw5j_,l,n,.urlset/master.m3u8?t=MmOoAPyZA-_9zR1yfMfH5hCjtC1v3WhbYM6U9hyZKK8&s=1746131178&e=129600&f=49286704&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=27747
+
+*El Eternauta-Cap04
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 04
+https://5nrdhdrayadkaqp2.premilkyway.com/hls2/01/09857/g54jva8dpfvg_,l,n,.urlset/master.m3u8?t=GhHINQkwIwhtfaPbuAdLpkGkd5zBMIw3O9cCTq39WvE&s=1746131231&e=129600&f=49286685&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=27747
+
+*El Eternauta-Cap05
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 05
+https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/09857/hnw1ro2alff0_,l,n,.urlset/master.m3u8?t=gGuKB4dBGAJ2XMkc8shGnMFmWbi6qeBL-DGTl3roIVk&s=1746131295&e=129600&f=49286528&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=27747
+
+*El Eternauta-Cap06
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 06
+https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09857/6u8fwvt1fe25_,l,n,.urlset/index-f2-v1-a1.m3u8?t=7_nJHZhzkxXUY8d0hwq0PaxU1iiYuSq6n3akUkyB98g&s=1746131351&e=129600&f=49286673&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=27747
 
 *Tumberos-Cap01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Series-Tumberos",Tumberos Cap 01
