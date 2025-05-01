@@ -1,14 +1,18 @@
-
 #EXTM3U
 
 
                                          
 *Preview 📌
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/intros/output.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
 https://d2h0nsadrf7r2o.cloudfront.net/0bd6703d968349ba81bccc358dbab8f3/index.m3u8
 EXTVLCOPT:loop
+
+*El Eternauta-Cap01
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSD5z6yTx4G4gKC30CwB5YXCvqeOKL5SCf1w&s" group-title="EVENTOS",El Eternauta Cap 01
+https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09857/2n3v0ctg99xx_,l,n,.urlset/master.m3u8?t=6TryVRGCgPaZIBnJPYtWGugVSWIKYK58IkUO5-LSDAk&s=1746125604&e=129600&f=49286494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=27747
+
 
  sin señal
  https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
@@ -2070,6 +2074,11 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 
 SERIES-----------------------------
 
+*El Eternauta-Cap01
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfDdyEJeX0b4CiZBlSuh2oqHAb2f.jpg&w=256&q=75" group-title="EVENTOS",El Eternauta Cap 01
+https://uk2y0xwy2xup0.premilkyway.com/hls2/01/09857/2n3v0ctg99xx_,l,n,.urlset/master.m3u8?t=6TryVRGCgPaZIBnJPYtWGugVSWIKYK58IkUO5-LSDAk&s=1746125604&e=129600&f=49286494&srv=z13jtbat10fahdh456&i=0.4&sp=500&p1=z13jtbat10fahdh456&p2=z13jtbat10fahdh456&asn=27747
+
+
 *Tumberos-Cap01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Series-Tumberos",Tumberos Cap 01
 https://ucarecdn.com/c09b923c-c939-49d9-b9a0-7efa105159c0/
@@ -2117,45 +2126,42 @@ https://ucarecdn.com/157e4e7c-645d-4852-914a-1465ea2bd8c9/
 
 PELICULAS--------------
 
+ANIMACION----------------
+
+*Dragon Ball Super: Super Hero
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FdZH9gp0XQnjzYRYMGSwateGIXlB.jpg&w=256&q=75" group-title="Peliculas-Animacion" , Dragon Ball Super: Super Hero (2022)
+https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/00574/jf0ftqylljt3_n/index-v1-a1.m3u8?t=hnT6rHwqoH-pMra4K82XaVtyvtZ2kg_vqdkABVHw9D8&s=1746079408&e=129600&f=2870977&srv=pg8s50jw8kzp&i=0.4&sp=500&p1=pg8s50jw8kzp&p2=pg8s50jw8kzp&asn=11664
+
+*Sonic 2, la película
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FsJiHVM0A3OXDVxl4Z6a7ihMPHfm.jpg&w=256&q=75" group-title="Peliculas-Animacion" , Sonic 2, la película (2022)
+https://54pkdcyxbsxbermn.premilkyway.com/hls2/01/02938/ida7f8w4uln1_,n,h,.urlset/index-f1-v1-a1.m3u8?t=dpONMMAg2y6M789ltiq-m6BrPwqtcgMqsvxdJ_IwD-c&s=1746079540&e=129600&f=14691763&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
+
+*Spider-Man: A través del Spider-Verso
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F37WcNMgNOMxdhT87MFl7tq7FM1.jpg&w=256&q=75" group-title="Peliculas-Animacion" , Spider-Man: A través del Spider-Verso (2023)
+https://x8oi6owwkjoewr.premilkyway.com/hls2/01/01111/kmhvjbuh398f_n/index-v1-a1.m3u8?t=bpWUxPuTjLQFg4lPWfpYqHydmdEasRmrCxc2w8r7cqM&s=1746078515&e=129600&f=5558742&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
+
+
 ACCION--------------------
 
-*EL JUSTICIERO 3
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FeJKmexmCLwuxOxlAURSMnBVkfmY.jpg&w=256&q=75" group-title="Peliculas-Accion", EL JUSTICIERO 3 (2023)
-https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/02172/vnxshdbtjqvw_,n,h,.urlset/index-f1-v1-a1.m3u8?t=NxgGQGL3AsHb0UxcOIYumX5vub5Kn5lEjsGR7_8nk6U&s=1746068506&e=129600&f=10864414&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
-
-*RAPIDO Y FURIOSO
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6et0SLxB17fCEjWgGssCzqOsmiJ.jpg&w=256&q=75" group-title="Peliculas-Accion" , RAPIDO Y FURIOSO (2001)
+*Rapido y Furioso
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6et0SLxB17fCEjWgGssCzqOsmiJ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso (2001)
 https://m68btj72qc.premilkyway.com/hls2/01/02938/ggj8th2ou0hz_,n,h,.urlset/index-f1-v1-a1.m3u8?t=5O50yI-qD6WmhU6jvk22XvC7G-JAQUOHOfHANTBhIns&s=1745994667&e=129600&f=14691821&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
 
-*RAPIDO Y FURIOSO 2
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfZtSG5a6i5Ca39WQylLVmvWI5b.jpg&w=256&q=75" group-title="Peliculas-Accion" , RAPIDO Y FURIOSO 2 (2003)
+*Rapido y Furioso 2
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfZtSG5a6i5Ca39WQylLVmvWI5b.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 2 (2003)
 https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/04819/ns5ijsm5twny_,l,n,.urlset/index-f1-v1-a1.m3u8?t=FGbav_DnbotGOjt3omDjlEwWYDm6THhpgl_f-zUY100&s=1745995537&e=129600&f=24099778&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
 
-*RAPIDO Y FURIOSO 3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbvpsu5zUZMcbuf6GhcNqiR2BMbT8kO1qAhxMejAu9SOfiiEYYx2kqLqf5CtMIcwfzIEMIS3Bgemm1FKHHES74jcW1WfV9-9e-9u3q7mQ" group-title="Peliculas-Accion" , RAPIDO Y FURIOSO 3 (2006)
+*Rapido y Furioso 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbvpsu5zUZMcbuf6GhcNqiR2BMbT8kO1qAhxMejAu9SOfiiEYYx2kqLqf5CtMIcwfzIEMIS3Bgemm1FKHHES74jcW1WfV9-9e-9u3q7mQ" group-title="Peliculas-Accion" , Rapido y Furioso 3 (2006)
 https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/02938/a2vvsk6u5zz8_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2xWCAgW1fHzIecwOHYVvcBN5BAZ5K3c0x0c_pNOaCcE&s=1745995788&e=129600&f=14691420&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
 
-*RAPIDO Y FURIOSO 4
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg&w=256&q=75" group-title="Peliculas-Accion" , RAPIDO Y FURIOSO 4 (2009)
+*Rapido y Furioso 4
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 4 (2009)
 https://2goita23a7njj.premilkyway.com/hls2/01/04820/f3v0um4oryhj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=9zgYPaeXcFBQvUq4PvLG3sCN71yJHcM0D9bexBXwBPM&s=1745996001&e=129600&f=24100084&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
 
-*SISU
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=256&q=75" group-title="Peliculas-Accion" , SISU (2022)
+*Sisu
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=256&q=75" group-title="Peliculas-Accion" , Sisu (2022)
 https://uk2y0xwy2xup0.premilkyway.com/hls2/01/00515/yz2984swo5zd_n/index-v1-a1.m3u8?t=HuOOnqz6X4S3AzcqBqoC5GDBZLGUr_9YW-mcNLIyg1o&s=1745996315&e=129600&f=2575450&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=11664
-
-*TERMINATOR 1
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator-778052251-large.jpg" group-title="Peliculas-Accion", TERMINATOR (1984)
-https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/9jpj9p1lzz6q_,n,h,.urlset/master.m3u8?t=Kg_UFxvRxbfBaiXWxmfa2nJkOhzHDvR_G2dg3ZMKIJo&s=1745979128&e=129600&f=15986827&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
-
-*TERMINATOR 2
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F10xtoK2SFv6ADIeWxr3mcrjko72.jpg&w=256&q=75" group-title="Peliculas-Accion" , TERMINATOR 2 (1991)
-https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/04898/cu2s4i8xabck_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tclm__NRnfkZlT8fKBePbRCFSLEfSjcnz6n_I5ecLww&s=1746064358&e=129600&f=24493854&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
-
-*TERMINATOR 3
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg&w=256&q=75" group--title="Peliculas-Accion" , TERMINATOR 3 (2003)
-https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/rgutk5r9ba8a_,n,h,.urlset/index-f1-v1-a1.m3u8?t=m3Y_eRaxo7XT-DaZBFbSuZUKIm9nnRV8SZWjQaGeWuo&s=1745982724&e=129600&f=15987214&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
-
-
 
 
 BELICA------------------
@@ -2166,6 +2172,44 @@ BELICA------------------
 
 CIENCIA FICCION--------------
 
+*Aquaman y el reino perdido
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fd9Hv3b37ZErby79f4iqTZ8doaTp.jpg&w=256&q=75" group--title="Peliculas-Ciencia-Ficcion" , Aquaman y el reino perdido (2023)
+https://cyyroro04xrqr.premilkyway.com/hls2/01/02879/glu94bl8rewq_,n,h,x,.urlset/index-f1-v1-a1.m3u8?t=dvf9eVhaQHXmuUEFb18zH3LuXHCP3mMJ0BtEg26Qh8o&s=1746079660&e=129600&f=14399071&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
+
+*El Creador
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FxddifbxtO46XClG8wdyUySUqJA4.jpg&w=256&q=75" group--title="Peliculas-Ciencia-Ficcion" , El Creador (2023)
+https://i60k6cbfsa8z.premilkyway.com/hls2/01/02277/b4g4f1vt57di_,n,h,.urlset/index-f1-v1-a1.m3u8?t=nnnCmJnjP1ggcWhCZIRiSMZUG6SRG7NsWmEDa06oLyY&s=1746078168&e=129600&f=11388511&srv=rj9uehaz0ybig4&i=0.4&sp=500&p1=rj9uehaz0ybig4&p2=rj9uehaz0ybig4&asn=11664
+
+*Pantera Negra: Wakanda por siempre
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmYpT2R7639KvKZ668uoQGS2QNFp.jpg&w=256&q=75" group--title="Peliculas-Ciencia-Ficcion" , Pantera Negra: Wakanda por siempre (2022)
+https://i60k6cbfsa8z.premilkyway.com/hls2/01/02908/otl11yaa1fzp_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0j9pzu355vISZOiF7D_tzy9mfMt5bxXpwh8Zgi-8QMg&s=1746079235&e=129600&f=14541280&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=11664
+
+*Terminator 1
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator-778052251-large.jpg" group-title="Peliculas-Ciencia-Ficcion", Terminator (1984)
+https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/9jpj9p1lzz6q_,n,h,.urlset/master.m3u8?t=Kg_UFxvRxbfBaiXWxmfa2nJkOhzHDvR_G2dg3ZMKIJo&s=1745979128&e=129600&f=15986827&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
+
+*Terminator 2
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F10xtoK2SFv6ADIeWxr3mcrjko72.jpg&w=256&q=75" group-title="Peliculas-Ciecia-Ficcion" , Terminator 2 (1991)
+https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/04898/cu2s4i8xabck_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tclm__NRnfkZlT8fKBePbRCFSLEfSjcnz6n_I5ecLww&s=1746064358&e=129600&f=24493854&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
+
+*Terminator 3
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg&w=256&q=75" group--title="Peliculas-Ciencia-Ficcion" , Terminator 3 (2003)
+https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/rgutk5r9ba8a_,n,h,.urlset/index-f1-v1-a1.m3u8?t=m3Y_eRaxo7XT-DaZBFbSuZUKIm9nnRV8SZWjQaGeWuo&s=1745982724&e=129600&f=15987214&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
 
 
 
+DRAMA---------------------------
+
+*Creed III
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg&w=256&q=75" group--title="Peliculas-Drama" , Creed III (2003)
+https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/02899/dh7za9hipm63_n/index-v1-a1.m3u8?t=kroHtGoVaEZ18SNijkS60bazNaD2L9_D6pRwYMAX4bc&s=1746078921&e=129600&f=14499628&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
+
+
+
+
+
+TERROR-------------------
+
+*Megalodón 2: El gran abismo
+#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FmBgynPDplmo5JTY9VfGqY35OjDu.jpg&w=256&q=75" group--title="Peliculas-Terror" , Megalodón 2: El gran abismo (2023)
+https://7f12638xuzfg.premilkyway.com/hls2/01/01287/jtaq39tqckea_,n,h,.urlset/index-f1-v1-a1.m3u8?t=ievOS79px5uNolztdrgyXtuQv6e68X0_hhJV8in-hQM&s=1746078694&e=129600&f=6436797&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
