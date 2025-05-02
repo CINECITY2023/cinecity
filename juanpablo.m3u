@@ -212,7 +212,8 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="Cine",A3s
 
 *A&E - Teleclub server
-EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="Cine", A&E 
+#EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="Cine", A&E 
+http://185.189.225.150:85/AE/index.m3u8
 
 *AMC - 185.189 server 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="Cine",✔️ AMC 🔊(ESP)
@@ -988,6 +989,11 @@ http://190.216.158.199:8000/play/a02q/index.m3u8
 *Distrito-Comedia - 190.217 server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/distritocomedia.png" group-title="Comedia",✔️ Distrito Comedia (3)
 http://190.217.23.56:1010/play/a0er/index.m3u8
+
+*Lods-tres-Chiflados - plutotv server
+#EXTINF:-1 tvg-logo="https://resizer.glanacion.com/resizer/v2/VD753JYCDZAZDB4LS2FBJBBQGM.jpg?auth=4fa21d29a1894875d36a86af122c5aff09cf7eb699926a40b920034d5d41f755&width=420&height=280&quality=70&smart=true" group-title="Comedia",✔️ Los Tres Chiflados
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 *Pluto-TV-Humor - plutotv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/plutotvhumor.png" group-title="Comedia",✔️ Pluto TV Humor
@@ -2163,24 +2169,20 @@ https://x8oi6owwkjoewr.premilkyway.com/hls2/01/01111/kmhvjbuh398f_n/index-v1-a1.
 ACCION--------------------
 
 *Rapido y Furioso
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6et0SLxB17fCEjWgGssCzqOsmiJ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso (2001)
-https://m68btj72qc.premilkyway.com/hls2/01/02938/ggj8th2ou0hz_,n,h,.urlset/index-f1-v1-a1.m3u8?t=5O50yI-qD6WmhU6jvk22XvC7G-JAQUOHOfHANTBhIns&s=1745994667&e=129600&f=14691821&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F6et0SLxB17fCEjWgGssCzqOsmiJ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso (2001)
 
 *Rapido y Furioso 2
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfZtSG5a6i5Ca39WQylLVmvWI5b.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 2 (2003)
-https://sedrfmwrpjxatem5.premilkyway.com/hls2/01/04819/ns5ijsm5twny_,l,n,.urlset/index-f1-v1-a1.m3u8?t=FGbav_DnbotGOjt3omDjlEwWYDm6THhpgl_f-zUY100&s=1745995537&e=129600&f=24099778&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FfZtSG5a6i5Ca39WQylLVmvWI5b.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 2 (2003)
 
 *Rapido y Furioso 3
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbvpsu5zUZMcbuf6GhcNqiR2BMbT8kO1qAhxMejAu9SOfiiEYYx2kqLqf5CtMIcwfzIEMIS3Bgemm1FKHHES74jcW1WfV9-9e-9u3q7mQ" group-title="Peliculas-Accion" , Rapido y Furioso 3 (2006)
-https://e9ccawf5esyyffhp.premilkyway.com/hls2/01/02938/a2vvsk6u5zz8_,n,h,.urlset/index-f1-v1-a1.m3u8?t=2xWCAgW1fHzIecwOHYVvcBN5BAZ5K3c0x0c_pNOaCcE&s=1745995788&e=129600&f=14691420&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
+EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbvpsu5zUZMcbuf6GhcNqiR2BMbT8kO1qAhxMejAu9SOfiiEYYx2kqLqf5CtMIcwfzIEMIS3Bgemm1FKHHES74jcW1WfV9-9e-9u3q7mQ" group-title="Peliculas-Accion" , Rapido y Furioso 3 (2006)
 
 *Rapido y Furioso 4
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 4 (2009)
-https://2goita23a7njj.premilkyway.com/hls2/01/04820/f3v0um4oryhj_,l,n,.urlset/index-f1-v1-a1.m3u8?t=9zgYPaeXcFBQvUq4PvLG3sCN71yJHcM0D9bexBXwBPM&s=1745996001&e=129600&f=24100084&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Fb4oE1Bw6KmON4qNIfjgJbVYkOWZ.jpg&w=256&q=75" group-title="Peliculas-Accion" , Rapido y Furioso 4 (2009)
 
 *Sisu
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=256&q=75" group-title="Peliculas-Accion" , Sisu (2022)
-https://uk2y0xwy2xup0.premilkyway.com/hls2/01/00515/yz2984swo5zd_n/index-v1-a1.m3u8?t=HuOOnqz6X4S3AzcqBqoC5GDBZLGUr_9YW-mcNLIyg1o&s=1745996315&e=129600&f=2575450&srv=81cjh64633yue&i=0.4&sp=500&p1=81cjh64633yue&p2=81cjh64633yue&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2Ft9VXZkgcxpIwfPUKAWOOONs0vHv.jpg&w=256&q=75" group-title="Peliculas-Accion" , Sisu (2022)
+
 
 
 BELICA------------------
@@ -2204,16 +2206,14 @@ https://i60k6cbfsa8z.premilkyway.com/hls2/01/02277/b4g4f1vt57di_,n,h,.urlset/ind
 https://i60k6cbfsa8z.premilkyway.com/hls2/01/02908/otl11yaa1fzp_,n,h,.urlset/index-f2-v1-a1.m3u8?t=0j9pzu355vISZOiF7D_tzy9mfMt5bxXpwh8Zgi-8QMg&s=1746079235&e=129600&f=14541280&srv=js4BwLKgfmTMJmVh&i=0.4&sp=500&p1=js4BwLKgfmTMJmVh&p2=js4BwLKgfmTMJmVh&asn=11664
 
 *Terminator 1
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator-778052251-large.jpg" group-title="Peliculas-Ciencia-Ficcion", Terminator (1984)
-https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/9jpj9p1lzz6q_,n,h,.urlset/master.m3u8?t=Kg_UFxvRxbfBaiXWxmfa2nJkOhzHDvR_G2dg3ZMKIJo&s=1745979128&e=129600&f=15986827&srv=jubDiYuWLQCqfHI&i=0.4&sp=500&p1=jubDiYuWLQCqfHI&p2=jubDiYuWLQCqfHI&asn=11664
+EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Terminator-778052251-large.jpg" group-title="Peliculas-Ciencia-Ficcion", Terminator (1984)
 
 *Terminator 2
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F10xtoK2SFv6ADIeWxr3mcrjko72.jpg&w=256&q=75" group-title="Peliculas-Ciencia-Ficcion" , Terminator 2 (1991)
-https://s0mlxzpt0qgc8.premilkyway.com/hls2/01/04898/cu2s4i8xabck_,l,n,.urlset/index-f2-v1-a1.m3u8?t=tclm__NRnfkZlT8fKBePbRCFSLEfSjcnz6n_I5ecLww&s=1746064358&e=129600&f=24493854&srv=3FjgDmcnea8S35m&i=0.4&sp=500&p1=3FjgDmcnea8S35m&p2=3FjgDmcnea8S35m&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2F10xtoK2SFv6ADIeWxr3mcrjko72.jpg&w=256&q=75" group-title="Peliculas-Ciencia-Ficcion" , Terminator 2 (1991)
 
 *Terminator 3
-#EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg&w=256&q=75" group-title="Peliculas-Ciencia-Ficcion" , Terminator 3 (2003)
-https://qpljyz39awcoenfd.premilkyway.com/hls2/01/03197/rgutk5r9ba8a_,n,h,.urlset/index-f1-v1-a1.m3u8?t=m3Y_eRaxo7XT-DaZBFbSuZUKIm9nnRV8SZWjQaGeWuo&s=1745982724&e=129600&f=15987214&srv=z13jtbat10fa85i&i=0.4&sp=500&p1=z13jtbat10fa85i&p2=z13jtbat10fa85i&asn=11664
+EXTINF:-1 tvg-logo="https://www.cuevana.is/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg&w=256&q=75" group-title="Peliculas-Ciencia-Ficcion" , Terminator 3 (2003)
+
 
 
 
