@@ -1097,9 +1097,13 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="Cultura",✔️ H&H Discovery
 https://clubtv.link/1005my/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8
 
-*ID - clubtv server 
+*ID - clubtv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="Cultura",✔️ ID
 https://clubtv.link/1005my/phpcode/lista0.php?c=18&token=Tecnoplus11&f=.m3u8
+
+*love nature - 160.20 server
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="Cultura",✔️ love nature
+http://160.20.165.246:8000/play/a00d/index.m3u8
 
 *NatGeo - Teleclub server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="Cultura", NatGeo
