@@ -442,9 +442,13 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="Cine",✔️ Studio Universal
 https://clubtv.link/1005my/phpcode/lista0.php?c=70&token=Tecnoplus11&f=.m3u8
 
-*Studio-Universal - clubtv server 
+*Studio-Universal - 190.216 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="Cine",✔️ Studio Universal (2)
 http://190.216.158.199:8000/play/a02m/index.m3u8
+
+*SyFy - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="Cine",✔️ SyFy
+http://185.189.225.150:85/syfy/index.m3u8
 
 *TCM - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tcm.png" group-title="Cine",✔️ TCM
@@ -1183,6 +1187,10 @@ https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas HD (2) (ESP)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
+*CGTN Español (China)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias Internacional",✔️ CGTN Español (China)
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
 *DW-En-Español (ale) - Teleclub server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional", DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -1293,7 +1301,6 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 *El-Siete (Mendoza) - googlevideo server 
 EXTINF:-1 tvg-id="ElSiete.ar" tvg-name="EL SIETE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/ElSieteMendoza.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",El Siete (Mendoza)
 
-
 *Canal-9-Televida (Mendoza) - unlimited1 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9TelevidaMendoza.png" group-title="Provincia",✔️ Canal 9 Televida (Mendoza)
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -1354,6 +1361,10 @@ https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZ
 *Canal-7 (Santiago del Estero) - arcast server 
 #EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="Provincia",✔️ Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
+*Canal 2 de Ushuaia (Tierra Del Fuego)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="Provincia",✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
+https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
 
 
@@ -1604,6 +1615,10 @@ https://pelivechannelshls.media.claro.com.pe/bpk-tv/AMERICAHD/hls_fk/index.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvhdperu.png" group-title="Canales Internacionales",✔️ ATV HD (Peru)
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/ATVHD/hls_fk/index.m3u8
 
+*Autentica TV (Peru) - obslivestream server
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCe1vuyYZfb-_PiYcT98wPhRKiZdpV6s83Dg&s" group-title="Canales Internacionales",✔️ Autentica TV (Peru) 
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL 
+
 *Canal-del-Congreso (peru) - claro server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canalcongresoperu.png" group-title="Canales Internacionales",✔️ Canal del Congreso (Peru)
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/CANALCONGRESO/hls_fk/index.m3u8
@@ -1615,6 +1630,10 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 *Canal-Justicia (peru)
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canaljusticiaperu.png" group-title="Canales Internacionales",✔️ Canal Justicia (Peru)
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/CANALJUSTICIA/hls_fk/index.m3u8
+
+*Conecta2 TV (Peru) - Servilive server
+#EXTINF:-1 tvg-logo="https://media.licdn.com/dms/image/v2/C4E0BAQFPKr2YXO7dAQ/company-logo_200_200/company-logo_200_200/0/1658343714748?e=2147483647&v=beta&t=p-OYcXuHoEQJAI96Vjt29CIynwPIzTfK_-vwSwBVBho" group-title="Canales Internacionales",✔️ Conecta2 TV (Peru)
+https://servilive.com:3114/live/liveulive.m3u8 
 
 *Latina (peru) - rudo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",✔️ Latina (2) (Peru)
@@ -1843,9 +1862,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/MTV.png" group-title="Musica",✔️ MTV (ESP)
 http://185.189.225.150:85/MTV/index.m3u8
 
-*MTV-Hits - teleclub server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/MTVHits.png" group-title="Musica",MTV Hits
-
+*MTV-Hits - 185.189 server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/MTVHits.png" group-title="Musica",✔️ MTV Hits
+http://185.189.225.150:85/MTVHits/index.m3u8
 
 *MTV-00s - televall server 📌
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmsP0-TMjj_r1-QPteKV1Ng-F4nzvWPXjw_Q&s.png" group-title="Musica",MTV 00s
@@ -2080,6 +2099,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 
 
+****SERIES*****
+
 *Tumberos-Cap01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 01
 https://ucarecdn.com/c09b923c-c939-49d9-b9a0-7efa105159c0/
@@ -2124,9 +2145,18 @@ https://ucarecdn.com/054bacca-988d-4707-a656-483315fa2aca/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 11
 https://ucarecdn.com/157e4e7c-645d-4852-914a-1465ea2bd8c9/
 
+
 *El Eternauta Cap 1
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 1 (2025)
 https://archive.org/download/el-eternauta-capitulo-1/EL%20ETERNAUTA%20Capitulo%201.mp4
+
+*El Eternauta Cap 2
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 2 (2025)
+https://archive.org/download/el-eternauta-capitulo-2/EL%20ETERNAUTA%20Capitulo%202.mp4
+
+
+
+*****PELICULAS*******
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTY0N2MzODctY2ExYy00OWYxLTkyNDItMTVhZGIxZjliZjU5XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Godzilla y Kong: El nuevo imperio (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmay24%2FVer%20Godzilla%20y%20Kong-%20El%20nuevo%20imperio%20online%20HD%20-%20Cuevana%202.mp4
@@ -2158,3 +2188,26 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2I4NmE0MzAtNjE1MS00NzNlLWE1YjItYzkyMzE0MGM3ODY1XkEyXkFqcGc@._V1_.jpg" group-title="Movies",Atrapados en lo Profundo (2024)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Atrapados%20en%20lo%20Profundo%20online%20HD%20-%20Cuevana%202.mp4
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/664e39d29d8c15c8caf853f6fe6e3e3484fcb90d4118faf6427993a852829692.jpg" group-title="Movies",Ricky Stanicky: El impostor (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Ricky%20Stanicky-%20El%20impostor%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/06/16/05/5342408.jpg" group-title="Movies",Damsel (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Damsel%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/argylle/posters/01.jpg" group-title="Movies",Argylle: Agente secreto (2024)
+http://vod.tuxchannel.mx/peliculas/720/argylle%202024.mkv
+
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg" group-title="Movies",Dune: Parte uno (2021)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20Duna%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/spaceman-521831305-large.jpg" group-title="Movies",El Astronauta (2024)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmar24%2FVer%20El%20astronauta%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/08c3f7af558231c022dcccf9eae2cd7c_2867x4096_41eff7c2.png" group-title="Movies",Wish: El poder de los deseos (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20Wish-%20El%20poder%20de%20los%20deseos%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Migraciaon_Un_viaje_patas_arriba-947704095-large.jpg" group-title="Movies",Patos! Un viaje patas arriba (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20%C2%A1Patos!%20online%20HD%20-%20Cuevana%202.mp4
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/the_kitchen-675001481-mmed.jpg" group-title="Movies",La Cocina (2023)
+https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fene24%2FVer%20The%20Kitchen%20online%20HD%20-%20Cuevana%202.mp4
