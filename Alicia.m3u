@@ -237,11 +237,11 @@ http://clubtv.link/1005my/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8
 https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 *Canela-TV-Cinema - Ottera server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/canelatvcinema.png?raw=true" group-title="Cine",✔️ Canela TV Cinema HD
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/canelatvcinema.png?raw=true" group-title="Cine",✔️ Canela TV Cinema HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134
 
 *Canela--TV-Clasicos - Ottera server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/canelatvclasicos.png?raw=true" group-title="Cine",✔️ Canela TV Clasicos HD
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/canelatvclasicos.png?raw=true" group-title="Cine",✔️ Canela TV Clasicos HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 *+Cine-Classic- Ottera server 
@@ -265,11 +265,11 @@ EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/l
 http://clubtv.link/1005my/phpcode/lista0.php?c=49&token=Tecnoplus11&f=.m3u8
 
 *Cine-Romantico - Ottera server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/cineromantico.png?raw=true" group-title="Cine",✔️ Cine Romantico HD
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/cineromantico.png?raw=true" group-title="Cine",✔️ Cine Romantico HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
 *De-Pelicula - 190.60 server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/DEPELICULA.png?raw=true" group-title="Cine",✔️ De Pelicula 
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/DEPELICULA.png?raw=true" group-title="Cine",✔️ De Pelicula 
 http://190.60.38.114:1010/play/a08f/index.m3u8
 
 *De-Pelicula - clubtv server 
@@ -455,7 +455,7 @@ http://185.189.225.150:85/syfy/index.m3u8
 https://clubtv.link/1005my/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8
 
 *Tigueritos-TV - domint server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tingueritos.png" group-title="Cine",✔️ Tigueritos TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tingueritos.png" group-title="Cine",✔️ Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/.m3u8
 
 *TNT - 190.216 server 
@@ -482,7 +482,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.pn
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 *Universal-Cinema - clubtv server  ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",✔️ Universal Cinema
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="Cine",✔️ Universal Cinema
 https://clubtv.link/1005my/phpcode/lista0.php?c=36&token=Tecnoplus11&f=.m3u8
 
 *Universal-Comedy - clubtv server 
@@ -544,15 +544,15 @@ http://190.217.23.56:1010/play/a0bs/index.m3u8
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 
 *Canela-TV-Narco-Drama - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVNarco-Drama.png" group-title="Novelas",✔️ Canela TV Narco Drama HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVNarco-Drama.png" group-title="Novelas",✔️ Canela TV Narco Drama HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11099
 
 *Canela-TV-Novelas-Turcas - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVNovelasTurcas.png" group-title="Novelas",✔️ Canela TV Novelas Turcas HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVNovelasTurcas.png" group-title="Novelas",✔️ Canela TV Novelas Turcas HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 *Canela-TV-telenovelas - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVtelenovelas.png" group-title="Novelas",✔️ Canela TV Telenovelas HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVtelenovelas.png" group-title="Novelas",✔️ Canela TV Telenovelas HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
 *Kanal-D - PlutoTV server 
@@ -604,7 +604,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/adrenalin
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 *Canelatv-Deportes - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/caneladeportes.png" group-title="Deportes",✔️ Canela Deportes HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/caneladeportes.png" group-title="Deportes",✔️ Canela Deportes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
 *Claro-Sports - clubtv server 
@@ -635,7 +635,7 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=79&token=Tecnoplus11&f=.m3u8
 https://clubtv.link/1005my/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8
 
 *ESPN-2 - moveonjoy server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️ ESPN 2 HD 🔊(ING)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️ ESPN 2 HD 🔊(ING)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 *ESPN-3 - clubtv server ( SOLO ANDROID )
@@ -645,7 +645,7 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=60&token=Tecnoplus11&f=.m3u8
 
 *ESPN-U - moveonjoy server
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUVoZxvT84FCsyT6yH1oLOW-MtD7kgL-mtA&s" group-title="Deportes",✔️ ESPN U 🔊(ING)
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUVoZxvT84FCsyT6yH1oLOW-MtD7kgL-mtA&s" group-title="Deportes",✔️ ESPN U 🔊(ING)
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 *Eurosport-2 HD - 185.189 server
@@ -686,7 +686,7 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=64&token=Tecnoplus11&f=.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 
 *NFL-NETWORK - moveonjoy server
-#EXTINF:-1 tvg-id="nbatv" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nflnetwork.png" group-title="Deportes",✔️ NFL NETWORK 🔊(ING)
+EXTINF:-1 tvg-id="nbatv" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nflnetwork.png" group-title="Deportes",✔️ NFL NETWORK 🔊(ING)
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
 *Power-Nation - Voxtv server 
@@ -815,7 +815,7 @@ https://clubtv.link/1005my/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/1005my/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 
 *Disney-Jr - clubtv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",✔️ Disney Jr
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="Infantil",✔️ Disney Jr
 https://clubtv.link/1005my/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8
 
 *La-Abeja-Maya - jmp2 server
@@ -877,7 +877,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
 
 *Nova-Toon - eu1 server 
-#EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
+EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
 https://eu1.servers10.com:8081/8046/index.m3u8
 
 
@@ -1192,7 +1192,7 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 *DW-En-Español (ale) - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional", DW En Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",✔️ DW En Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 *Latina-Noticias (PER) - jireh server 
@@ -1388,11 +1388,11 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
 *Canal-9-Bio-Bio-Television (chile) - unlimited6 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="Canales Internacionales" ,✔️ Canal 9 Bio Bio Television (Chile)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="Canales Internacionales" ,✔️ Canal 9 Bio Bio Television (Chile)
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 *Agenda-Al-Día-TV (Colombia) - panelchs server 
-#EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AgendaAlD%C3%ADaTVColombia.png" group-title="Canales Internacionales",✔️ Agenda Al Día TV (Colombia)
+EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AgendaAlD%C3%ADaTVColombia.png" group-title="Canales Internacionales",✔️ Agenda Al Día TV (Colombia)
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
 
 *Alpavision-Neiva (Colombia) - voxtvhd server
@@ -1404,7 +1404,7 @@ https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
 *Cable-Sur-TV (Colombia) - tvlatina server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CableSurTVColombia.png" group-title="Canales Internacionales",✔️ Cable Sur TV (Colombia)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CableSurTVColombia.png" group-title="Canales Internacionales",✔️ Cable Sur TV (Colombia)
 https://tvlatina.live:1936/8012/8012/chunklist_w494668874.m3u8
 https://tvlatina.live:1936/8012/8012/playlist.m3u8
 
@@ -1518,7 +1518,7 @@ https://canal10.mediaflix.istream.mx/wza_live/live/movil/playlist.m3u8
 https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 *CanelaTV (Mexico) - ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanelaTVMexico.png" group-title="Canales Internacionales",✔️ Canela TV (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanelaTVMexico.png" group-title="Canales Internacionales",✔️ Canela TV (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
 *Canal-Once (Mexico) - canalonce server 
@@ -1563,7 +1563,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
 *Nueve-TV (Mexico) - streamlock server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/NueveTVMexico.png" group-title="Canales Internacionales",✔️ Nueve TV (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/NueveTVMexico.png" group-title="Canales Internacionales",✔️ Nueve TV (Mexico)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 
 *TelePlay (Mexico)
@@ -1640,7 +1640,7 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
 *Latina (peru) - Claro server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",✔️ Latina (3) (Peru)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="Canales Internacionales",✔️ Latina (3) (Peru)
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/LATINAHD/hls_fk/index.m3u8
 
 *Latina-Calsicos (peru) - Jireh server
@@ -1804,7 +1804,6 @@ FM Centro 100.7Mhz
 
 *002-Radio - 002radio server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/002Radio.png" group-title="Musica",✔️ 002 Radio 🌛
-https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 https://cdn.002radio.com:3909/live/radio002live.m3u8
 
 *Alterna-TV - alterna server 
@@ -1846,7 +1845,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 https://eu1.servers10.com:8081/8050/index.m3u8
 
 *GikTVMx - pistream server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/giktv.png" group-title="Musica",✔️ GikTVMx
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/giktv.png" group-title="Musica",✔️ GikTVMx
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
 
@@ -2055,7 +2054,7 @@ https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6t
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 
 *Wu-Tang-Collection (EEUU) - ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/wutang.png" group-title="Otros Idiomas",✔️ Wu Tang Collection (EEUU)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/wutang.png" group-title="Otros Idiomas",✔️ Wu Tang Collection (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=42
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
 
