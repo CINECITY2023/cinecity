@@ -1192,8 +1192,20 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 *DW-En-Español (ale) - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",✔️ DW En Español
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",✔️ DW En Español (ALE)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+*Estrella News (MEX)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8BJ9uyKPQF1UK2G47vFZA796Y-TEdA-8RQ&s" group-title="Noticias Internacional",✔️ Estrella News (MEX)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+
+*Euronews (FRA)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Noticias Internacional",✔️ Euronews (FRA)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
+
+*HispanTV (IRAN)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="Noticias Internacional",✔️ HispanTV (IRAN)
+https://live.presstv.ir/hls/hispantv.m3u8
 
 *Latina-Noticias (PER) - jireh server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png" group-title="Noticias Internacional",✔️ Latina Noticias (PER)
@@ -1243,10 +1255,17 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
+*TV BRICS (RUS)
+#EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/615577b9-4e2b-0074-b4f8-20f11d30f5ae/04e375ab-0ea1-4177-a56a-98448717ef9b/brics.png" group-title="Noticias Internacional",✔️ TV BRICS (RUS)
+https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
+*TVPE noticias (PER)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Wbg08UrS2OcoxKenQtNum5-ZeLZSmNkkj7QhyHcp9ZkMPqfGpqC1-6RgxanyuXedBvrd4Y=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias Internacional",✔️ TVPE noticias (PER)
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
-
-
+*Univision 24|7 (Mexico)
+#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Noticias Internacional",✔️ Univision 24|7 (Mexico)
+https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
 
 
@@ -1525,6 +1544,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceMexico.png" group-title="Canales Internacionales",✔️ Canal Once (Mexico)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
+*Canal Once Internacional (Mexico)
+#EXTINF:-1 tvg-title="https://mma.prnewswire.com/media/2446474/Once_Mexico_Logo.jpg?p=facebook" group-title="Canales Internacionales",✔️ Canal Once Internacional (Mexico)
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+*Capital 21 CDMX (Mexico)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Capital_21_4.png/revision/latest/scale-to-width-down/300?cb=20210414232255&path-prefix=es" group-title="Canales Internacionales",✔️ Capital 21 CDMX (Mexico)
+https://s5.mexside.net:1936/respaldo/respaldo/playlist.m3u8
+
 *Estrella-TV (Mexico) - estrellatv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="Canales Internacionales",✔️ Estrella TV (Mexico)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
@@ -1554,6 +1581,10 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ImagenTVmexico.png" group-title="Canales Internacionales",✔️ Imagen TV HD (2) (mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7390
 
+*JusticiaTV (Mexico)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1907094666719227904/GmwvBl36_400x400.jpg" group-title="Canales Internacionales",✔️ JusticiaTV (Mexico)
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
 *Las-Estrellas (Mexico) - onlymex server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LasEstrellas.png" group-title="Canales Internacionales",✔️ Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
@@ -1562,9 +1593,17 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/MexiquenseMexico.png" group-title="Canales Internacionales",✔️ Mexiquense (Mexico)
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
+*NRT Sureste (Mexico)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ8F28ih8d2pqpjhhe-xtdEsVrrrZFeb_WPw&s"  group-title="Canales Internacionales",✔️ NRT Sureste (Mexico)
+https://5c001c2729b09.streamlock.net:4443/live/_definst_/canal6/playlist.m3u8
+
 *Nueve-TV (Mexico) - streamlock server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/NueveTVMexico.png" group-title="Canales Internacionales",✔️ Nueve TV (Mexico)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
+
+*RCG Media (Mexico)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8K-3YUe3Spse-LCap3ABr21UJALb8irrfA&s" group-title="Canales Internacionales",✔️ RCG Media (Mexico)
+https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 *TelePlay (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
@@ -1578,10 +1617,18 @@ https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Tvc_2003.png" group-title="Canales Internacionales",✔️ TVC (Mexico)
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22306d19e5-c7af-41e3-9492-6bdc13aa2a40%22
 
+*Jalisco TV (Mexico)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jalisco-TV_logotype.png/1200px-Jalisco-TV_logotype.png" group-title="Canales Internacionales",✔️ Jalisco TV (Mexico)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
 *TV-Mas (Mexico) - streamlock server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVMasMexico.png" group-title="Canales Internacionales",✔️ TV Mas (Mexico)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1203070051.m3u8
+
+*TV Migrante (Mexico)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1xqNFYbbUE1_MWn-EvPH-z10f7BR8_SZ4A&s" group-title="Canales Internacionales",✔️ TV Migrante (Mexico)
+https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
 *TVOAI-Channel (Mexico) - ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVOAIChannelMexico.png" group-title="Canales Internacionales",✔️ TVOAI Channel (Mexico)
@@ -1720,25 +1767,49 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 *13-TV (España) - live edge server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/13TVEspa%C3%B1a.png" group-title="Canales Internacionales",13 TV (España)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/13TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ 13 TV (España)
 https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+
+*Andalucía Television (España)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Andalucia-Television-Logo.svg/1280px-Andalucia-Television-Logo.svg.png" group-title="Canales Internacionales",✔️ Andalucía Television (España)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+*El Confidencial (España)
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/iz1_ge7eZPhzvKRhplI9mBmWPc_tuq1PCSjsT3XRfsXPoFZyX5itsRJxw2Ccxl7sMbg4aJR9Jw=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Internacionales",✔️ El Confidencial (España)
+https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
+
+*El País (España)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFrjQs1yATE2Dmr7oWN6GSqsSFv1Av0_9aA&s" group-title="Canales Internacionales",✔️ El País (España)
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
 *El-Toro-TV (España) - eltoro server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ElToroTVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ El Toro TV (España)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
+*EsTuTele (España)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGw4y9YyLd1TuBn03zvXmmS2mb3zYMAp0guA&s" group-title="Canales Internacionales",✔️ EsTuTele (España)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12680&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
 *La-2-TV (España) - rtve server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (España) sv1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (España)
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-*La-2-TV (España) - akamaized server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (España) sv2
+*La-2-TV (España) - rtve server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/La2TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ La 2 TV (2)(España)
 https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
 
-*Star-TVE (España) - televall server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ Star TVE (España) sv1
+*Star-TVE (España) - rtve server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ Star TVE (España)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
+
+*TeleToledo (España)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQhLqt1PwGIW9VO_d1sFXSIasv2y15cMIGTQ&s" group-title="Canales Internacionales",✔️ TeleToledo (España)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12688&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
+
+*TVE (España)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoNVvKrbOhLaXFGerXWCkreqIrwDIQMRb0Dw&s" group-title="Canales Internacionales",✔️ TVE (España)
+https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 
 
 
