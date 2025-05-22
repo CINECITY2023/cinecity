@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -2231,6 +2232,10 @@ https://archive.org/download/el-eternauta-capitulo-2/EL%20ETERNAUTA%20Capitulo%2
 *El Eternauta Cap 3
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 3 (2025)
 https://archive.org/download/el-eternauta-capitulo-3/EL%20ETERNAUTA%20Capitulo%203.mp4
+
+*El Eternauta Cap 4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 4 (2025)
+https://archive.org/download/el-eternauta-capitulo-4/EL%20ETERNAUTA%20Capitulo%204.mp4
 
 
 
