@@ -14,8 +14,7 @@ EXTVLCOPT:loop
  sin señal
  https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
  
- algunos bloqueos
-#EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
+
 
 
 🏙️BUENOS-AIRES        
@@ -42,7 +41,6 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 *Canal 9 - Usher ttvnw server (	SOLO ANDROID )
 EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="Buenos Aires",⚠️ El Nueve
-http://zorrohunter.com:8080/haw5UJfF68/1729172230/46708
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
 *TELEFE-HD - Telefe Server 
@@ -65,13 +63,21 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/BragadoTV1.png" group-title="Buenos Aires",✔️ Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
+*Canal 2 Mar del Plata - streamcasthd server 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN0ygOjgr0VqQ1c_87uBAsdGKW9wTOEWYew&s" group-title="Buenos Aires",✔️ Canal 2 Mar del Plata
+https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
+
 *Canal-3-Pinamar-HD - Telpin server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 Pinamar HD 🌛
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 *Canal-4-La-Matanza-HD - Livecast server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal4LaMatanza.png" group-title="Buenos Aires",Canal 4 La Matanza HD
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal4LaMatanza.png" group-title="Buenos Aires",✔️ Canal 4 La Matanza HD
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
+
+*Canal 5 Tigre
+EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Buenos Aires",✔️ Canal 5 Tigre
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 *Canal-10-de-Junín - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -107,6 +113,10 @@ https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 *CarasTV - unlimited1 server
 #EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/carastv.png" ,✔️ Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+
+*Celt TV Tornquist - 190.103 server
+#EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://www.celttv.com.ar/wp-content/uploads/2023/02/312125490_516727240462773_4900317302751573583_n-1.jpg" ,✔️ Celt TV Tornquist
+http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 *Ciudad-Magazine - Vodgc Net server 
 #EXTINF:-1 tvg-id="Ciudad Magazine.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="Buenos Aires",✔️ Ciudad Magazine
@@ -151,7 +161,7 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
 *24/7-Canal-de-Noticias - Panel Host server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="Noticias",✔️ 24/7 Canal de Noticias
-https://panel.host-live.com:19360/cn247tv/passthru.m3u8
+https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
 *A24 - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
@@ -1412,6 +1422,10 @@ https://d3ew2cr4djta2j.cloudfront.net/index.m3u8
 https://5ca9af4645e15.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
+*Canal 1 Ñuble (Chile) - cdnz server
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/f2de944b-b10a-4daf-bc7d-fab9e64746ac/01.jpg?format=1500w" group-title="Canales Internacionales" ,✔️ Canal 1 Ñuble (Chile)
+https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+
 *Canal-2-Quellón (Chile) - unlimited1 server
 #EXTINF:-1 tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-extra-large-standard-q100.png" group-title="Canales Internacionales" ,✔️ Canal 2 Quellón (Chile)
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
@@ -2229,7 +2243,7 @@ https://ucarecdn.com/054bacca-988d-4707-a656-483315fa2aca/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tumberos_%28miniserie%29.jpg/250px-Tumberos_%28miniserie%29.jpg" group-title="Serie",Tumberos Cap 11
 https://ucarecdn.com/157e4e7c-645d-4852-914a-1465ea2bd8c9/
 
-
+--------------------
 *El Eternauta Cap 1
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 1 (2025)
 https://archive.org/download/el-eternauta-capitulo-1/EL%20ETERNAUTA%20Capitulo%201.mp4
@@ -2249,6 +2263,10 @@ https://archive.org/download/el-eternauta-capitulo-4/EL%20ETERNAUTA%20Capitulo%2
 *El Eternauta Cap 5
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 5 (2025)
 https://archive.org/download/el-eternauta-capitulo-5/EL%20ETERNAUTA%20Capitulo%205.mp4
+
+*El Eternauta Cap 6
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/el_eternauta-564337864-large.jpg" group-title="Serie",El Eternauta cap 6 (2025)
+https://archive.org/download/el-eternauta-capitulo-6/EL%20ETERNAUTA%20Capitulo%206.mp4
 
 *****PELICULAS*******
 
@@ -2403,7 +2421,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *1962 Halloween Masacre (2023 ‧ Terror)
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/1962_Halloween_Massacre-379166312-mmed.jpg" group-title="Movies",1962 Halloween Masacre (2023 ‧ Terror)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fnoviembre%2FVer%201962%20Halloween%20Massacre%20online%20HD%20-%20Cuevana%202.mp4
-
 
 
 
