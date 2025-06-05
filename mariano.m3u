@@ -22,7 +22,7 @@ EVENTOS
 
 *ESPAÑA VS FRANCIA (Eventos 1)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="Eventos",ESPAÑA VS FRANCIA (Eventos 1)
-https://2045.crackstreamslivehd.com/eventos8/tracks-v1a1/mono.m3u8?ip=181.46.106.31&token=fb32e7852e52c40bd58407ad679456cf5fcdcd7a-ba-1749174180-1749141780
+https://doc1.crackstreamslivehd.com/eventos8/tracks-v1a1/mono.m3u8?ip=45.228.67.31&token=0815195e38a6e8d6a8ee0763eb16365fbca77d30-70-1749169625-1749137225
 
 
 
@@ -62,11 +62,11 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 *Canal 9
-EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="Buenos Aires",⚠️ El Nueve
+EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="Buenos Aires",El Nueve
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
 *TELEFE-HD - Telefe Server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="Buenos Aires",✔️ Telefe HD 🌛
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="Buenos Aires",✔️ Telefe HD 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 *Telefe-Hits - plutotv server
@@ -81,7 +81,7 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-*Bragado-TV - Inlive server 
+*Bragado-TV - Inliveserver server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/BragadoTV1.png" group-title="Buenos Aires",✔️ Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
@@ -90,7 +90,7 @@ https://inliveserver.com:1936/12000/12000/playlist.m3u8
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 *Canal-3-Pinamar-HD - Telpin server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 Pinamar HD 🌛
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 Pinamar HD 
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 *Canal-4-La-Matanza-HD - Livecast server 
@@ -99,7 +99,7 @@ https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 *Canal-10-de-Junín - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",✔️ Canal 10 de Junín 🌛
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",✔️ Canal 10 de Junín 
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 *Canal-10-(Mar-del-Plata) - Edge Access server 
@@ -108,7 +108,7 @@ https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Pla
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 *Canal-11-de-la-Costa - Solumedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa 🌛
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa 
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 *Canal-22-Web-CABA - Streamlock server 
@@ -128,7 +128,7 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalProvincialSanMiguel.png" group-title="Buenos Aires",✔️ Canal Provincial San Miguel
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
-*Canal Santa Maria
+*Canal Santa Maria - telered server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/Canal5SantaMariaTV.png" group-title="Buenos Aires",✔️ Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
@@ -140,15 +140,15 @@ https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="Buenos Aires",✔️ Celt TV Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
-*Celta TV
+*Celta TV - solumedia server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celtatv.png" group-title="Buenos Aires",✔️ Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
-*Chilecito TV
+*Chilecito TV - solumedia server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/chilecitotv.png" group-title="Buenos Aires",✔️ Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-*Cinco TV General Pacheco
+*Cinco TV General Pacheco - shockmedia server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="Buenos Aires",✔️ Cinco TV General Pacheco
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
@@ -247,20 +247,20 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 🏡CANALES-PROVINCIALES🏡
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*Catamarca TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CEuPoqG.png" group-title="Provincia",✔️ Catamarca TV
+*Catamarca TV - arcast server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/catamarcatv.png" group-title="Provincia",✔️ Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
 *Canal-9 (Resistencia, Chaco) - coninfo server 
-#EXTINF:-1 tvg-id="Canal9Resistencia.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="Provincia",✔️ Canal 9 (Resistencia, Chaco)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="Provincia",✔️ Canal 9 (Resistencia, Chaco)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-*Somos Uno (Chaco)
-#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="Provincia",✔️ Somos Uno (Chaco)
+*Somos Uno (Chaco) - chaco server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/somosunochaco.png" group-title="Provincia",✔️ Somos Uno (Chaco)
 https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 
 *Canal 4 (Esquel, Chubut) - arcast server
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6kbOr16.png" group-title="Provincia",✔️ Canal 4 (Esquel, Chubut)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="Provincia",✔️ Canal 4 (Esquel, Chubut)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
 *Canal-12-Web (Puerto Madryn, Chubut) - streamlock server 
@@ -268,15 +268,15 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
 *Canal 4 (San Francisco, Cordoba) - 204.199 server 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/09/Canal-4-San-Francisco-Cordoba-en-vivo-Online-696x392.png" group-title="Provincia",✔️ Canal 4 (San Francisco, Cordoba)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4sanfranciscocordoba.png" group-title="Provincia",✔️ Canal 4 (San Francisco, Cordoba)
 http://204.199.3.2/.m3u8
 
 *UniTV (Villa Maria, Cordoba) - solumedia server 
-#EXTINF:-1 tvg-logo="https://lh6.googleusercontent.com/proxy/nj-6lbPUL8Y-yGY0RfBT_KKXaHncspGsgjQXPVdUraJ-S9gTlRpajdY_DTryfL6QuhUSXlxY_zw52d8IxbIqWVl19THYL1uO1_fdLiZzN_VDu94M0amcyS90qA" group-title="Provincia",✔️ UniTV (Villa Maria, Cordoba)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png" group-title="Provincia",✔️ UniTV (Villa Maria, Cordoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 *Canal-2-AVCHD (Monte Casero, Corrientes) - bozztv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2AVCHDMonteCaseroCorrientes.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ Canal 2 AVCHD 🌛(Monte Casero, Corrientes)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2AVCHDMonteCaseroCorrientes.png" group-title="Provincia",✔️ Canal 2 AVCHD (Monte Casero, Corrientes)
 https://ssh101.bozztv.com/ssh101/streamavc/playlist.m3u8
 
 *5TV (Corrientes) - coinnfo server 
@@ -292,11 +292,11 @@ http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
 *Canal 7 (Jujuy) - arcast server
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Provincia",✔️ Canal 7 (Jujuy)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal7jujuy.png" group-title="Provincia",✔️ Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
 *Canal-3 (La Pampa) - arcast server 
-#EXTINF:-1 tvg-id="Canal3LaPampa.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LaPampa.png" group-title="Provincia",✔️ Canal 3 (La Pampa)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LaPampa.png" group-title="Provincia",✔️ Canal 3 (La Pampa)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 *CPE-TV (La Pampa) - arcast server 
@@ -307,15 +307,11 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png" group-title="Provincia",✔️ Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-*Canal-13 (La Rioja) - arcast server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png" group-title="Provincia",✔️ Canal 13 (2)(La Rioja)
-https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+*El-Siete (Mendoza)
+EXTINF:-1 tvg-name="EL SIETE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/ElSieteMendoza.png" group-title="Provincia",El Siete (Mendoza)
 
-*El-Siete (Mendoza) - googlevideo server 
-EXTINF:-1 tvg-id="ElSiete.ar" tvg-name="EL SIETE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/ElSieteMendoza.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",El Siete (Mendoza)
-
-*Canal 8 (Valle de Uco,Mendoza)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XwZ7m4L.png" group-title="Provincia",✔️ Canal 8 (Valle de Uco,Mendoza)
+*Canal 8 (Valle de Uco,Mendoza) - shockmedia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal8ValledeUcoMendoza.png" group-title="Provincia",✔️ Canal 8 (Valle de Uco,Mendoza)
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 *Canal-9-Televida (Mendoza) - unlimited1 server 
@@ -328,15 +324,15 @@ https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 *Canal-4 (Posadas, Misiones) - iptv ixfo server 
-#EXTINF:-1 tvg-id="Canal4Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="Provincia",✔️ Canal 4 (Posadas, Misiones)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="Provincia",✔️ Canal 4 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-*Canal 4 El dorado (Misiones)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wgLw4sV.png" group-title="Provincia",✔️ Canal 4 El dorado (Misiones)
+*Canal 4 El dorado (Misiones) - arcast server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4EldoradoMisiones.png" group-title="Provincia",✔️ Canal 4 El dorado (Misiones)
 https://stream.arcast.com.ar/canal4eldorado/canal4eldorado/playlist.m3u8
 
 *Canal-6 (Posadas, Misiones) - iptv ixfo server 
-#EXTINF:-1 tvg-id="Canal6Posadas.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png" group-title="Provincia",✔️ Canal 6 (Posadas, Misiones)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png" group-title="Provincia",✔️ Canal 6 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 *Canal-21-TV (Posadas, Misiones) - iptv ixfo server 
@@ -344,7 +340,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
 *Canal-7 (Neuquén) - arcast server 
-#EXTINF:-1 tvg-id="Canal7Neuquen.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="Provincia",✔️ Canal 7 (Neuquén)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="Provincia",✔️ Canal 7 (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 *Canal-2 (salta) - solumedia server
@@ -352,27 +348,27 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://vivo.solumedia.com:19360/tv2salta/tv2salta.m3u8
 
 *Canal-7 (Salta) - solumedia server 
-#EXTINF:-1 tvg-id="Canal7Salta.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Salta.png" group-title="Provincia",✔️ Canal 7 (Salta)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Salta.png" group-title="Provincia",✔️ Canal 7 (Salta)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
 *Canal 10 Nortevision (Salta) - solumedia server 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Uqf93Mu.png" group-title="Provincia",✔️ Canal 10 Nortevision (Salta)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal10NortevisionSalta.png" group-title="Provincia",✔️ Canal 10 Nortevision (Salta)
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
-*Canal 4 (San Juan)
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-d0xwvrhf7JA/XjtInR7RIZI/AAAAAAAAvqw/68cv4FGDFB8BJwWGdo-31-vPYVqkw2OmgCK8BGAsYHg/s0/2020-02-05.png" group-title="Provincia",✔️ Canal 4 (San Juan)
+*Canal 4 (San Juan) - alsolnet server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4SanJuan.png" group-title="Provincia",✔️ Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
 *Canal 34 (San Juan) - alsolnet server
-#EXTINF:-1 tvg-id="Canal34SanJuan.ar" tvg-logo="https://i.imgur.com/bZMEiYe.png" group-title="Provincia",✔️ Canal 34 (San Juan)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal34SanJuan.png" group-title="Provincia",✔️ Canal 34 (San Juan)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 *Canal-3 (Las Heras; Santa Cruz) - arcast server 
-#EXTINF:-1 tvg-id="Canal3LasHeras.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png" group-title="Provincia",✔️ Canal 3 (Las Heras; Santa Cruz)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png" group-title="Provincia",✔️ Canal 3 (Las Heras; Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 *Canal-5 (Pico Truncado, Santa Cruz) - arcast server 
-#EXTINF:-1 tvg-id="Canal5PicoTruncado.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5PicoTruncadoSantaCruz.png" group-title="Provincia",✔️ Canal 5 (Pico Truncado, Santa Cruz)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5PicoTruncadoSantaCruz.png" group-title="Provincia",✔️ Canal 5 (Pico Truncado, Santa Cruz)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
 *Aire-de-Santa-Fe - unlimited1 server 
@@ -380,32 +376,36 @@ https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
 *Canal-5 (Santa Fe) - arcast server 
-#EXTINF:-1 tvg-id="Canal5SantaFe.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png" group-title="Provincia",✔️ Canal 5 (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png" group-title="Provincia",✔️ Canal 5 (Santa Fe)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
-*Canal Luz (Santa Fe)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GnY6dNT.png" group-title="Provincia",✔️ Canal Luz (Santa Fe)
+*Canal Luz (Rosario, Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/canalluzsantafe.png" group-title="Provincia",✔️ Canal Luz (Rosario, Santa Fe)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+
+*Canal Luz (Rosario, Santa Fe) - arcast server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/canalluzsantafe.png" group-title="Provincia",✔️ Canal Luz (2)(Rosario, Santa Fe)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 *Cable-Imagen-Armstrong (Santa Fe) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-*RTS (Santa Fe) - arcast server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ RTS 🌛(Santa Fe)
+*RTS (Santa Fe) - cloudflarestream server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ RTS (Santa Fe)
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MGRhY2I5NmMxZTFiMmM2Y2Y2YzEzMTMzN2QyMjg5MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ0NjQxOTI1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.V_doCnKonj4VJIgP6rHB1wycSItVfy0A_L9XMOHlm2LJs_lA89mydpq_Zu5vYduMcGgf5Cn1aRzBKCuOlNPBTnO7Gg_4omj0gwmy3NrPsNrVFT07cgiJW6oN4MOlPcmzUVi727KTcA3b0E-VgOod7ojMYmarJ6cCr327_PxAIvTBfvb4bSUX66E79EvL5aYE4d-4OQFkDwSbZfNIyceD1PZRy-EVrm6zliU5dIN_uFC1D_-0myhx1p8O5-_usZFf4QUgL7o7-ojANiMBULFTkbPiJmapNPRWuhZFkk_ebNqJeTiBeaqdFni2iVltU4FXTPAWz7bToZqKuu9XB6Enzw/manifest/video.m3u8?CMCD=cid%3D%221744598727038%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22500dde74-54a6-42e3-9afc-5c2ff5cd8dd6%22%2Csu
 
 *Canal-7 (Santiago del Estero) - arcast server 
-#EXTINF:-1 tvg-id="Canal7TV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="Provincia",✔️ Canal 7 (Santiago del Estero)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="Provincia",✔️ Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-*Canal 2 de Ushuaia (Tierra Del Fuego)
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q5NPdK2/canal2-logo.png" group-title="Provincia",✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
+*Canal 2 de Ushuaia (Tierra Del Fuego) - republicaservers server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="Provincia",✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-*Canal 5 (Tucumán)
-#EXTINF:-1 tvg-logo="https://i2.paste.pics/a3cc09111530a9edea11497d6575afb0.png" group-title="Provincia",✔️ Canal 5 (Tucumán)
+*Canal 5 (Tucumán) - videohd server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5Tucum%C3%A1n.png" group-title="Provincia",✔️ Canal 5 (Tucumán)
 https://videohd.live:19360/8090/8090.m3u8
 
 
