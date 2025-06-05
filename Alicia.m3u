@@ -1,4 +1,5 @@
 
+
 #EXTM3U
 
 
@@ -17,7 +18,7 @@ EXTVLCOPT:loop
 
 
 
-🏙️BUENOS-AIRES        
+🏙️BUENOS-AIRES🏙️   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *America - dai google server 
@@ -47,7 +48,7 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="Buenos Aires",✔️ TV Publica (2)
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
-*Canal 9 - Usher ttvnw server (	SOLO ANDROID )
+*Canal 9
 EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="Buenos Aires",⚠️ El Nueve
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
@@ -64,7 +65,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c00099104
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v3a1/mono.m3u8
 
 *Argentinisima-Satelital - Sersat server 
-#EXTINF:-1 tvg-id="Argentinísima Satelital.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="Buenos Aires",✔️ Argentinisima Satelital
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
 *Bragado-TV - Inlive server 
@@ -72,7 +73,7 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 *Canal 2 Mar del Plata - streamcasthd server 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlN0ygOjgr0VqQ1c_87uBAsdGKW9wTOEWYew&s" group-title="Buenos Aires",✔️ Canal 2 Mar del Plata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png" group-title="Buenos Aires",✔️ Canal 2 Mar del Plata
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 *Canal-3-Pinamar-HD - Telpin server 
@@ -82,10 +83,6 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 *Canal-4-La-Matanza-HD - Livecast server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal4LaMatanza.png" group-title="Buenos Aires",✔️ Canal 4 La Matanza HD
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
-
-*Canal 5 Tigre
-EXTINF:-1 tvg-logo="https://cincotv.com.ar/wp-content/uploads/2022/05/LOGO-SOLO.png" group-title="Buenos Aires",✔️ Canal 5 Tigre
-https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 *Canal-10-de-Junín - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -119,27 +116,27 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 *Canal Santa Maria
-#EXTINF:-1 tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg" group-title="Buenos Aires",✔️ Canal Santa Maria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/Canal5SantaMariaTV.png" group-title="Buenos Aires",✔️ Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 *CarasTV - unlimited1 server
-#EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/carastv.png" ,✔️ Caras TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/carastv.png" group-title="Buenos Aires",✔️ Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
 *Celt TV Tornquist - 190.103 server
-#EXTINF:-1 group-title="Buenos Aires" tvg-logo="https://www.celttv.com.ar/wp-content/uploads/2023/02/312125490_516727240462773_4900317302751573583_n-1.jpg" ,✔️ Celt TV Tornquist
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="Buenos Aires",✔️ Celt TV Tornquist
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 *Celta TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Buenos Aires",✔️ Celta TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celtatv.png" group-title="Buenos Aires",✔️ Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 *Chilecito TV
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zGubmgZ.png" group-title="Buenos Aires",✔️ Chilecito TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/chilecitotv.png" group-title="Buenos Aires",✔️ Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 *Cinco TV General Pacheco
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p9aaBKg.png" group-title="Buenos Aires",✔️ Cinco TV General Pacheco
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="Buenos Aires",✔️ Cinco TV General Pacheco
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 *Ciudad-Magazine - Vodgc Net server 
