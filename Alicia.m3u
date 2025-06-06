@@ -420,32 +420,32 @@ https://videohd.live:19360/8090/8090.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="Noticias Internacional",✔️ Abc TV (Paraguay)
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.mpd
 
-*AMX-Noticias - streamlock server
+*AMX-Noticias (Mexico) - streamlock server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/amxnoticas.png" group-title="Noticias Internacional" ,✔️ AMX Noticias (Mexico)
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
-*Bloomberg (sub) - samsung server 
+*Bloomberg (USA) - samsung server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Bloomberg.png" group-title="Noticias Internacional",✔️ Bloomberg (USA)
 https://bloomberg-bloomberg-5-mx.samsung.wurl.tv/manifest/216bba5fb0699b4dbd6d25606d580c43.m3u8
 
-*C4-en-Alerta (MEX) - Ottera server 
+*C4-en-Alerta (Mexico) - Ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/c4alerta.png" group-title="Noticias Internacional",✔️ C4 en Alerta (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
-*Canal-10-Noticias-Cancun - canal10mx server
+*Canal-10-Noticias-Cancun (Mexico) - canal10mx server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal10noticiascancun.png" group-title="Noticias Internacional" ,✔️ Canal 10 Noticias Cancun (Mexico)
 https://stream2.canal10mx.com/live/movil/chunklist_w1994174427.m3u8
 
-*Canal-24-Horas (ESP) - Ztnr server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",⚠️ Canal 24 Horas HD (ESP)
+*Canal-24-Horas (España) - Ztnr server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas (España)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-*Canal-24-Horas (ESP) - Akamaized server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas HD (2) (ESP)
+/////Canal-24-Horas (ESP)\\\\\
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas (2) (España)
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
-*CGTN Español (China)
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/gctqqDTaW5FQ_OhZ02YzQVj8I7ZHYe0VeXqfPc0ALteCgbGSDZyQm0XMv_lek3bl8a0QfOb3Ag=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias Internacional",✔️ CGTN Español (China)
+*CGTN Español (China) - cgtn server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="Noticias Internacional",✔️ CGTN Español (China)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
 *DW-En-Español (ale) - Teleclub server 
