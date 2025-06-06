@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="Buenos Aires",✔️ TV Pública
 https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
 
-*TV-Pública-HD - Edge Access server 
+*TV-Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="Buenos Aires",✔️ TV Publica (2)
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
@@ -65,8 +65,8 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 EXTINF:1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="Buenos Aires",El Nueve
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
 
-*TELEFE-HD - Telefe Server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="Buenos Aires",✔️ Telefe HD 
+*TELEFE - Telefe Server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="Buenos Aires",✔️ Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 *Telefe-Hits - plutotv server
@@ -85,38 +85,38 @@ https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/BragadoTV1.png" group-title="Buenos Aires",✔️ Bragado TV
 https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
-*Canal 2 Mar del Plata - streamcasthd server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png" group-title="Buenos Aires",✔️ Canal 2 Mar del Plata
+*Canal 2 (Mar del Plata) - streamcasthd server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png" group-title="Buenos Aires",✔️ Canal 2 (Mar del Plata)
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
-*Canal-3-Pinamar-HD - Telpin server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 Pinamar HD 
+*Canal-3 (Pinamar) - Telpin server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 (Pinamar)
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
-*Canal-4-La-Matanza-HD - Livecast server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal4LaMatanza.png" group-title="Buenos Aires",✔️ Canal 4 La Matanza HD
+*Canal-4 (La-Matanza) - Livecast server 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal4LaMatanza.png" group-title="Buenos Aires",✔️ Canal 4 (La Matanza)
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
-*Canal-10-de-Junín - Edge Access server 
+*Canal-10 (Junín) - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",✔️ Canal 10 de Junín 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10deJun%C3%ADn.png" group-title="Buenos Aires",✔️ Canal 10 (Junín)
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
 *Canal-10-(Mar-del-Plata) - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10MarDelPlata.png" group-title="Buenos Aires",✔️ Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10MarDelPlata.png" group-title="Buenos Aires",✔️ Canal 10 (Mar del Plata)
 https://g5.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/Playlist.m3u8?sense=true
 
 *Canal-11-de-la-Costa - Solumedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal11delaCosta1.png" group-title="Buenos Aires",✔️ Canal 11 de la Costa
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-*Canal-22-Web-CABA - Streamlock server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal22WebCABA.png" group-title="Buenos Aires",✔️ Canal 22 Web CABA FHD
+*Canal-22-Web - Streamlock server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal22WebCABA.png" group-title="Buenos Aires",✔️ Canal 22 Web 
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
 *Canal-79-(Mar-del-Plata) - Streamconex server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 Mar del Plata
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (Mar del Plata)
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 
 *Canal-de-la-Ciudad -  edge-access serever
@@ -124,8 +124,8 @@ https://streamconex.com:19360/mardelplata/mardelplata.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
-*Canal-Provincial-San-Miguel - Trimi server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalProvincialSanMiguel.png" group-title="Buenos Aires",✔️ Canal Provincial San Miguel
+*Canal-Provincial (San-Miguel) - Trimi server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalProvincialSanMiguel.png" group-title="Buenos Aires",✔️ Canal Provincial (San Miguel)
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 *Canal Santa Maria - telered server
@@ -136,8 +136,8 @@ https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/carastv.png" group-title="Buenos Aires",✔️ Caras TV
 https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
 
-*Celt TV Tornquist - 190.103 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="Buenos Aires",✔️ Celt TV Tornquist
+*Celt TV (Tornquist) - 190.103 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/celttvtornquist.png" group-title="Buenos Aires",✔️ Celt TV (Tornquist)
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 *Celta TV - solumedia server
@@ -148,8 +148,8 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/chilecitotv.png" group-title="Buenos Aires",✔️ Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
-*Cinco TV General Pacheco - shockmedia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="Buenos Aires",✔️ Cinco TV General Pacheco
+*Cinco TV (General Pacheco) - shockmedia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="Buenos Aires",✔️ Cinco TV (General Pacheco)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 *Ciudad-Magazine - Vodgc Net server 
@@ -158,20 +158,20 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
 https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
-*Neo-TV Florencio Varela
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="Buenos Aires",✔️ Neo TV Florencio Varela
+*Neo-TV (Florencio Varela) - shockmedia server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="Buenos Aires",✔️ Neo TV (Florencio Varela)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-*Net-TV-FHD - Us DPS server 
-#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="Buenos Aires",✔️ Net TV FHD
+*Net-TV - unlimited1 server 
+#EXTINF:-1 tvg-id="Net TV.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="Buenos Aires",✔️ Net TV
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
-*Sicardi-TV-La-pLata - Solumedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/SicardiTVLapLata.png" group-title="Buenos Aires",✔️ Sicardi TV La pLata
+*Sicardi-TV (La-pLata) - Solumedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/SicardiTVLapLata.png" group-title="Buenos Aires",✔️ Sicardi TV (La pLata)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-*Telecreativa-Lanus - Panel Host server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa Lanus
+*Telecreativa (Lanus) - Panel Host server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa (Lanus)
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 *Telemax - Telecentro server 
@@ -197,18 +197,18 @@ https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="Noticias",✔️ 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
-*A24 - Edge Acces server 
+*A24 - dai google server 
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
-https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
-https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
 
-*A24 HD - Edge Acces server 
+*A24 - Edge Acces server 
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 HD (2)
+#EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="Noticias",✔️ A24 (2)
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_720p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
+https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
 
 *Canal-26 - Telecentro server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="Noticias",✔️ Canal 26
@@ -222,22 +222,22 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p.m3u8
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
-*Cronica-tv-HD - Edge Access server 
+*Cronica-tv - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="Noticias",✔️ Cronica HD (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="Noticias",✔️ Cronica (2)
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 *IP-informacion-periodistica
 EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.png" group-title="Noticias",IP Informacion Periodistica
 
-*LN+ - google server
+*LN+
 #EXTVLCOPT:http-user-agent=iPhone
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="Noticias",✔️ LN +
 
 *TN+ - google server
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="Noticias",✔️ TN +
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="Noticias",✔️ TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
 
@@ -389,11 +389,11 @@ https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Play
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
 *Cable-Imagen-Armstrong (Santa Fe) - arcast server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 *RTS (Santa Fe) - cloudflarestream server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" tvg-country="AR" tvg-language="Spanish" group-title="Provincia",✔️ RTS (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" group-title="Provincia",✔️ RTS (Santa Fe)
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MGRhY2I5NmMxZTFiMmM2Y2Y2YzEzMTMzN2QyMjg5MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ0NjQxOTI1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.V_doCnKonj4VJIgP6rHB1wycSItVfy0A_L9XMOHlm2LJs_lA89mydpq_Zu5vYduMcGgf5Cn1aRzBKCuOlNPBTnO7Gg_4omj0gwmy3NrPsNrVFT07cgiJW6oN4MOlPcmzUVi727KTcA3b0E-VgOod7ojMYmarJ6cCr327_PxAIvTBfvb4bSUX66E79EvL5aYE4d-4OQFkDwSbZfNIyceD1PZRy-EVrm6zliU5dIN_uFC1D_-0myhx1p8O5-_usZFf4QUgL7o7-ojANiMBULFTkbPiJmapNPRWuhZFkk_ebNqJeTiBeaqdFni2iVltU4FXTPAWz7bToZqKuu9XB6Enzw/manifest/video.m3u8?CMCD=cid%3D%221744598727038%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22500dde74-54a6-42e3-9afc-5c2ff5cd8dd6%22%2Csu
 
 *Canal-7 (Santiago del Estero) - arcast server 
@@ -418,7 +418,7 @@ https://videohd.live:19360/8090/8090.m3u8
 
 *Abc TV (PAR) - Abc server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="Noticias Internacional",✔️ Abc TV (PAR)
-https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.mpd
 
 *AMX-Noticias - mexiquense server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/amxnoticas.png" group-title="Noticias Internacional" ,✔️ AMX Noticias (MEX)
