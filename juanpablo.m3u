@@ -20,9 +20,9 @@ EXTVLCOPT:loop
 EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-*ESPAÑA VS FRANCIA (Eventos 1)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="Eventos",ESPAÑA VS FRANCIA (Eventos 1)
-https://doc1.crackstreamslivehd.com/eventos8/tracks-v1a1/mono.m3u8?ip=45.228.67.31&token=0815195e38a6e8d6a8ee0763eb16365fbca77d30-70-1749169625-1749137225
+* (Eventos 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="Eventos",CHILE VS ARGENTINA (Eventos 1)
+https://lima.crackstreamslivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=179.27.200.30&token=83277171507fd1f1b89da487c5a1f5b7d8e78342-63-1749198362-1749165962
 
 
 
