@@ -448,77 +448,77 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="Noticias Internacional",✔️ CGTN Español (China)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-*DW-En-Español (ale) - Teleclub server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",✔️ DW En Español (ALE)
+*DW-En-Español (Alemania) - akamaized server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="Noticias Internacional",✔️ DW En Español (Alemania)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-*Estrella News (MEX)
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE8BJ9uyKPQF1UK2G47vFZA796Y-TEdA-8RQ&s" group-title="Noticias Internacional",✔️ Estrella News (MEX)
+*Estrella News (Mexico) - roku server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EstrellaNewsMexico.png" group-title="Noticias Internacional",✔️ Estrella News (Mexico)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-*Euronews (FRA)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Noticias Internacional",✔️ Euronews (FRA)
+*Euronews (Francia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EuronewsFrancia.png" group-title="Noticias Internacional",✔️ Euronews (Francia)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8
 
-*HispanTV (IRAN)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg" group-title="Noticias Internacional",✔️ HispanTV (IRAN)
+*HispanTV (Iran) - presstv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="Noticias Internacional",✔️ HispanTV (Iran)
 https://live.presstv.ir/hls/hispantv.m3u8
 
-*Latina-Noticias (PER) - jireh server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png" group-title="Noticias Internacional",✔️ Latina Noticias (PER)
+*Latina-Noticias (Peru) - jireh server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png" group-title="Noticias Internacional",✔️ Latina Noticias (Peru)
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8
 
-*Milenio (MEX - Mdstrm server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="Noticias Internacional",✔️ Milenio HD (MEX)
+*Milenio (Mexico) - Mdstrm server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="Noticias Internacional",✔️ Milenio (Mexico)
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-*Milenio (MEX - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="Noticias Internacional",✔️ Milenio FHD (2) (MEX)
+*Milenio (Mexico) - Ottera server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="Noticias Internacional",✔️ Milenio (2) (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7367
 
-*Multimedios-TeleDiario-Now (MEX) - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telediariomex.png" group-title="Noticias Internacional",✔️ TeleDiario Now HD (MEX)
+*TeleDiario-Now (Mexico) - Ottera server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telediariomex.png" group-title="Noticias Internacional",✔️ TeleDiario Now (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-*N+ (MEX) - Akanaized server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/N%2B.png" group-title="Noticias Internacional",✔️ N+ FHD (2) (MEX)
+*N+ (Mexico) - Akanaized server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/N%2B.png" group-title="Noticias Internacional",✔️ N+ (Mexico)
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 
-*N+ FORO (MEX) - Univision server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/nmasforo.png" group-title="Noticias Internacional",✔️ N+ FORO FHD (MEX)
+*N+ Foro (Mexico) - Univision server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/nmasforo.png" group-title="Noticias Internacional",✔️ N+ Foro (Mexico)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
-*Pura-Noticia (chile) - janusmedia - server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png" group-title="Noticias Internacional" ,✔️ Pura Noticia (chile)
+*Pura-Noticia (Chile) - janusmedia - server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png" group-title="Noticias Internacional" ,✔️ Pura Noticia (Chile)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
-*RT-en-Español (RUS) - Rttv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="Noticias Internacional",✔️ RT en Español FHD (RUS)
+*RT-en-Español (Rusia) - Rttv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="Noticias Internacional",✔️ RT en Español (Rusia)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-*TeleFormula (MEX) - Mdstrm server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/teleformula.png" group-title="Noticias Internacional",✔️ TeleFormula HD (MEX)
+*TeleFormula (Mexico) - Mdstrm server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/teleformula.png" group-title="Noticias Internacional",✔️ TeleFormula (Mexico)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-*Telemundo-Noticias (MEX) - 190.92 server  ( SOLO PC )
-EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (MEX)
+/////Telemundo-Noticias (Mexico) - 190.92 server\\\\\\
+EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (Mexico)
 http://190.92.10.66:4000/play/a004/index.m3u8
 
-*Telesur (VEN) - Telesur server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="Noticias Internacional",✔️ Telesur (VEN)
+*Telesur (Venezuela) - Telesur server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="Noticias Internacional",✔️ Telesur (Venezuela)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-*TV BRICS (RUS)
-#EXTINF:-1 tvg-logo="https://assets-us-01.kc-usercontent.com/615577b9-4e2b-0074-b4f8-20f11d30f5ae/04e375ab-0ea1-4177-a56a-98448717ef9b/brics.png" group-title="Noticias Internacional",✔️ TV BRICS (RUS)
+*TV BRICS (Rusia) - mediacdn server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TVBRICSRusia.png" group-title="Noticias Internacional",✔️ TV BRICS (Rusia)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-*TVPE noticias (PER)
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8Wbg08UrS2OcoxKenQtNum5-ZeLZSmNkkj7QhyHcp9ZkMPqfGpqC1-6RgxanyuXedBvrd4Y=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias Internacional",✔️ TVPE noticias (PER)
+*TVPE Noticias (Peru) - iblups server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TVPENoticiasPeru.png" group-title="Noticias Internacional",✔️ TVPE Noticias (Peru)
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
-*Univision 24|7 (Mexico)
-#EXTINF:-1 tvg-logo="https://st1.uvnimg.com/14/d5/0170ef7f436cac49f7dd6264549e/24.16.9.png" group-title="Noticias Internacional",✔️ Univision 24|7 (Mexico)
+*Univision 24|7 (Mexico) - cloudfront server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Univision247Mexico.png" group-title="Noticias Internacional",✔️ Univision 24|7 (Mexico)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
 
