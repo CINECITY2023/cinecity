@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 
 
@@ -19,7 +21,7 @@ EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * (Eventos 1)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="Eventos",CHILE VS ARGENTINA (Eventos 1)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="Eventos",CHILE VS ARGENTINA (Eventos 1)
 https://44.crackstreamslivehd.com/tycsports/tracks-v1a1/mono.m3u8?ip=186.157.140.205&token=88aced03fb39154a62db4b6fbe8eaf5481fc539c-e1-1749198767-1749166367
 
 
@@ -706,7 +708,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
 *Canal Once Internacional (Mexico) - canaloncelive server
-#EXTINF:-1 tvg-title="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceInternacionalMexico.png" group-title="Canales Internacionales",✔️ Canal Once Internacional (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceInternacionalMexico.png" group-title="Canales Internacionales",✔️ Canal Once Internacional (Mexico)
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 *Capital 21 CDMX (Mexico) - mexside server
