@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 
 
@@ -770,7 +768,7 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 *TelePlay (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
+https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 *TV-Cuatro (Mexico) - streamlock server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcuatromexico.png" group-title="Canales Internacionales",✔️ TV Cuatro (Mexico)
