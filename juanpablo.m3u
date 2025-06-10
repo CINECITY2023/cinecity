@@ -561,6 +561,10 @@ https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/ch
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="Canales Internacionales",✔️ Canal 9 Bio Bio Television (Chile)
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
+*Canal 74 Valparaiso (Chile) - servers10 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal74valparaisochile.png" group-title="Canales Internacionales",✔️ Canal 74 Valparaiso (Chile)
+https://eu1.servers10.com:8081/8050/index.m3u8
+
 //////Agenda-Al-Día-TV (Colombia)\\\\\\
 EXTINF:-1 tvg-id="AgendaAlDiaTV.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AgendaAlD%C3%ADaTVColombia.png" group-title="Canales Internacionales",✔️ Agenda Al Día TV (Colombia)
 https://cp.panelchs.com:1936/8156/8156/playlist.m3u8
@@ -1463,7 +1467,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/adrenalin
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/aymsports.png" group-title="Deportes",✔️ AYM SPORTS HD
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
-*Canelatv-Deportes - Ottera server 
+///////Canelatv-Deportes\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/caneladeportes.png" group-title="Deportes",✔️ Canela Deportes HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 
@@ -1471,7 +1475,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/clarosports.png" group-title="Deportes",✔️ Claro Sports
 https://clubtv.link/0607ju/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
 
-*ECDF - Televall server 
+////////ECDF\\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="Deportes",ECDF
 
 *ESPN  - clubtv server 
@@ -1487,23 +1491,19 @@ http://190.216.158.199:8000/play/a02l/index.m3u8
 https://clubtv.link/0607ju/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
 
 *ESPN-2 - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️  ESPN 2 (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️  ESPN 2
 https://clubtv.link/0607ju/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
 
-*ESPN-2-MX - clubtv server 
-#EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/espn2.png" group-title="Deportes",✔️ ESPN 2 MX
+*ESPN-2 MX - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️ ESPN 2 MX
 https://clubtv.link/0607ju/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
-
-*ESPN-2 - moveonjoy server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="Deportes",✔️ ESPN 2 HD 🔊(ING)
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 *ESPN-3 - clubtv server ( SOLO ANDROID )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="Deportes",✔️ ESPN 3 (2)
 https://clubtv.link/0607ju/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/0607ju/phpcode/lista0.php?c=60&token=TecnoplusJunio03&f=.m3u8
 
-*ESPN-U - moveonjoy server
+///////ESPN-U\\\\\\\\
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsUVoZxvT84FCsyT6yH1oLOW-MtD7kgL-mtA&s" group-title="Deportes",✔️ ESPN U 🔊(ING)
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
@@ -1521,10 +1521,10 @@ https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playl
 https://clubtv.link/0607ju/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
 
 *Fox-Sports-3-MX - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="Deportes",✔️ Fox Sports 3 MX (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Fox_sports_3_mx.png" group-title="Deportes",✔️ Fox Sports 3 MX 
 https://clubtv.link/0607ju/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
 
-*Fox-Sports-premium - Tamal server 
+////////Fox-Sports-premium\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/foxsportspremium.png" group-title="Deportes",Fox Sports premium
 
 *Garage-TV - Sersat server 
@@ -1545,7 +1545,7 @@ https://clubtv.link/0607ju/phpcode/lista0.php?c=64&token=TecnoplusJunio03&f=.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png" group-title="Deportes",✔️ MotorVision HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 
-*NFL-NETWORK - moveonjoy server
+////////NFL-NETWORK\\\\\\\\
 EXTINF:-1 tvg-id="nbatv" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nflnetwork.png" group-title="Deportes",✔️ NFL NETWORK 🔊(ING)
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
@@ -1562,23 +1562,23 @@ https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/pl
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 *Sky-Sports-La-Liga - 190.92 server ( SOLO PC )
-EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/Sky_Sports_LaLiga.png" group-title="Deportes",⚠️ Sky Sports La Liga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/skysportslaliga.png" group-title="Deportes",✔️ Sky Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
 
 *TUDN - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="Deportes",⚠️ TUDN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="Deportes",✔ TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 
 *TUDN - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="Deportes",✔ TUDN (3)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="Deportes",✔ TUDN (2)
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 *Tigo-Sports - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tigosports.png" group-title="Deportes",✔️ Tigo Sports HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tigosports.png" group-title="Deportes",✔️ Tigo Sports
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 
 *Tigo-Sports - Otteravision server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tigosports.png" group-title="Deportes",✔️ Tigo Sports HD ((2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tigosports.png" group-title="Deportes",✔️ Tigo Sports (2)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 *Win-Sports - clubtv server 
@@ -1647,11 +1647,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f29ada4bdaebd000708d4
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 *Boing - 185.189 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/boing.png" group-title="Infantil",✔️ boing HD 🔊 (ESP)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/boing.png" group-title="Infantil",✔️ Boing 🔊 (ESP)
 http://185.189.225.150:85/boing/index.m3u8
 
 *Canela-Kids - canelatv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/canelakids.png" group-title="Infantil",✔️ Canela Kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/canelakids.png" group-title="Infantil",✔️ Canela Kids
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af6abe55914d06da5ac1d4cc72758e68314c9c914bc80d6469f128f27f5129a9ba582871088bdab50f50af6466d324053b8da00f9a35ca6caa56b2c927524436c3e8cca90ff40398a460d48eea5a1d506fb1ddafb46eb0167e14df22c80398e19ec63e3b419f2f5b88f441674a1c102366af4e7f4d2b66d61e560b6a3eb8a752ac8a1177c109a358252415099fbca2b90da0593c447efd6473c62b7fb2a9f98a48aecb5b2469d2bcdd2f59f38302a0966079507ccf00fd22aaf10c2a83a007e1c09fac020aeebd84e205d5c928f4cd12c0eabd7f9e7b56c15eb3a4e308b75cb577722a6786468f13deac073238a270480393cb54c23cf52f0b935f0b594e60e3abbd0c24eb06ceebb0fdef74fa264384a58cc98464a56736dc2e7700c3360b1348ebcc4f47b053ff9e4f2eed25a2e063a0e0860e187e47f8b9ec15b7e7ca00314a0157a63feef41e2be7a2b211c8b77f2be0e718b122823e7d54737385fb7b87f051ab4b0298670c6dbf5790e365c71b430045c1dbb5036e89c4a275c6f588e0077039c0e4847f9d7b28d1a2bdfafee058942133676c0fe185249737a710f88d04e997aacd97bd3ff9b049bbedf462df14d98b2cc1da4f14d58941100e924c7fb7ab92de9f22ac06124c4169b0a9ad575d6a45c081d73625dc7805bec6098d688c238a0e1cc250c53e562b290efb2993318b7d102043a0751186841360238f88b852a5020ac8b2ee80bb2b015b114007a7f66ce920c5bb1ed753795213135f6f785d8fb8a4b3be25ad95985200faf5c086ec6c93be18cfbb3d98f7d5b0ddcf9fa1feeefd8cf9c989a664d0a6a3189c81000248f68a3da7594c7774be6878feacd7dd724b247dcaa826eb56cee9bc64dc4f6baf1f4701b5b2027dfc9e5f519defc47058c72d549220f8fc883d060e8d1a80868e03fb9d41f0f4e5ff3ad7f749d8646bac2b646c5fbd1e6df7575bc9774/91/640x360_1333540/index.m3u8
 
 *Cartoonito - clubtv server 
@@ -1667,7 +1667,7 @@ http://190.216.158.199:8000/play/a00b/index.m3u8
 http://190.216.158.199:8000/play/a00j/index.m3u8
 
 *Cut-the-Rope - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CuttheRopeOmNomStories.png" group-title="Infantil",✔️ Cut the Rope - Om Nom Stories HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CuttheRopeOmNomStories.png" group-title="Infantil",✔️ Cut the Rope - Om Nom Stories
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 
 *Discovery-Kids - clubtv server
@@ -1699,7 +1699,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://clubtv.link/0607ju/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8
 
 *Nick-Jr - astra colombia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="Infantil",⚠️ Nick Jr
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="Infantil",✔️ Nick Jr
 http://190.217.23.56:1010/play/a0af/index.m3u8
 
 *Nick-Jr - clubtv server 
@@ -1730,7 +1730,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/rugrats.png" group-title="Infantil",✔️ Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-*Talking-Tom-and-Friends-Minis - Ottera server 
+/////Talking-Tom-and-Friends-Minis\\\\\\\
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/infantil/talkintomaandfriends.png" group-title="Infantil",Talking-Tom-and-Friends Minis
 
 *Xtrema-Cartoons - Voxtv server 
@@ -1745,13 +1745,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
 
 *Nova-Toon - eu1 server 
-EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
+#EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
 https://eu1.servers10.com:8081/8046/index.m3u8
 
 
 
 
 ANIMACION
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Anime-Vision - jmp2 server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/animevision.png" group-title="Animacion",✔️ Anime Visión
@@ -1762,7 +1763,7 @@ https://jmp2.uk/sam-ES300029LP.m3u8
 https://jmp2.uk/sam-ES3000288I.m3u8
 
 *Capitain Tsubasa - plutotv server
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/thumbnail.jpg" group-title="Animacion",✔️ Capitain Tsubasa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CapitainTsubasa.png" group-title="Animacion",✔️ Capitain Tsubasa
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Daria - Plutotv server
@@ -1770,11 +1771,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bf
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *Dead-Note - plutotv server
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png" group-title="Animacion",✔️ Death Note
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dead-Note.png" group-title="Animacion",✔️ Death Note
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-*Dragon-Ball-Super - 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dragon_Ball_Super.png" group-title="Animacion",✔️ Dragon Ball Super
+///////Dragon-Ball-Super\\\\\\\
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dragon_Ball_Super.png" group-title="Animacion",✔️ Dragon Ball Super
 https://cdnhd.iblups.com/hls/NH7QW2NZ5K.m3u8
 https://cdnhd.iblups.com/hls/kDFXjTIGka.m3u8
 
@@ -1811,7 +1812,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6a4d875
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 *South-Park - Plutotv server
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdzdYgcT/south_park.png" group-title="Animacion",✔️ South Park
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/south-park.png" group-title="Animacion",✔️ South Park
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
 
 *Taltal-TV - bozztv server
@@ -1845,6 +1846,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 
 
 COMEDIA
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *Always-Funny-en-Español - Ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/alwaysfunny.png" group-title="Comedia",✔️ Always Funny en Español HD
@@ -1852,7 +1854,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=12147
 https://d15gk5a13gdlfb.cloudfront.net/v1/manifest/36da43ef19a73084c6c27662c7531ffa75a2f69f/prod_fast_AlwaysFunnyEspanol/f99e7ef9-3623-499d-a6ff-136e5ec06433/3.m3u8
 
 *Distrito-Comedia - astra colombia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/distritocomedia.png" group-title="Comedia",⚠️ Distrito Comedia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/distritocomedia.png" group-title="Comedia",✔️ Distrito Comedia
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
 *Distrito-Comedia - 190.216 server
@@ -1926,7 +1928,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f
 🚜CANALES-DE-CULTURA🌾
 -----------------------------------------------------------------------------------------------------------------------------------
 
-*A-Mas+ - Televall server 
+///////A-Mas+\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="Cultura",A Mas+
 
 *Animal-Planet - 190.216 server
@@ -1962,7 +1964,7 @@ http://190.217.23.56:1010/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="Cultura",✔️ El Mundo Del Campo
 http://190.217.23.56:1010/play/a0be/index.m3u8
 
-*H2-History - Teleclub server 
+///////H2-History\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="Cultura",H2 History
 
 *History - clubtv server 
@@ -1981,7 +1983,7 @@ https://clubtv.link/0607ju/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="Cultura",✔️ love nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
 
-*NatGeo - Teleclub server 
+/////////NatGeo\\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="Cultura", NatGeo
 
 *PlutoTV-Viajes - plutotv server 
@@ -1992,10 +1994,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutococina.png" group-title="Cultura",✔️ PlutoTV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-*Theater-Discovery - teleclub server
+////////Theater-Discovery\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococina.png"   group-title="Cultura",Theater Discovery
 
-*TLC - Teleclub server
+///////TLC\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="Cultura", TLC
 
 *Todo-Crimen - Rakuten server
@@ -2010,7 +2012,7 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/UNIFETV.png" group-title="Cultura",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
-*World-Discovery - Teleclub server
+/////////World-Discovery\\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="Cultura",World Discovery
 
 
@@ -2064,7 +2066,7 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 *La-Kalle - astra colombia server  ( SOLO PC )
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="Radio en Vivo",✔️ La Kalle
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="Radio en Vivo",✔️ La Kalle
 http://190.217.23.56:1010/play/a0a6/index.m3u8
 
 *Latina - telecentro server 
@@ -2072,7 +2074,7 @@ http://190.217.23.56:1010/play/a0a6/index.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 *Mi-Gente - Astra colombia server ( SOLO PC )
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="Radio en Vivo",✔️ Mi Gente TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="Radio en Vivo",✔️ Mi Gente TV
 http://190.217.23.56:1010/play/a0a8/index.m3u8
 
 *Antena 91 - tuvideoonline server
@@ -2084,7 +2086,6 @@ https://tuvideoonline.com.ar:3393/live/antena91live.m3u8
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 
-FM Centro 100.7Mhz
 
 🎹CANALES-DE-MUSICA🎹
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -2097,7 +2098,7 @@ https://cdn.002radio.com:3909/live/radio002live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/AlternaTV.png" group-title="Musica",✔️ Alterna TV
 https://alternatv.ar/stream/hls/live.m3u8
 
-*BandamaX - televall server 
+///////BandamaX\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Bandamax.png" group-title="Musica",BandaMAx
 
 *Beats-Radio - shockmedia server 
@@ -2126,10 +2127,6 @@ https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-10004
 *Conecta-TV - mexiserver server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/conectatv.png" group-title="Musica" ,✔️ Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
-
-*Carderno-de-Musica-pop
-#EXTINF:-1 tvg-logo="https://acdn-us.mitiendanube.com/stores/001/398/366/products/cuadernillo-asamblea-musica-a11ed3acb394f6bdad17048447847183-640-0.jpg" group-title="Musica",✔️ Cuaderno De Musica POP
-https://eu1.servers10.com:8081/8050/index.m3u8
 
 *GikTVMx - pistream server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/giktv.png" group-title="Musica",✔️ GikTVMx
