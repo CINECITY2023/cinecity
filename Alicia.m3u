@@ -87,6 +87,10 @@ https://inliveserver.com:1936/12000/12000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2mardelplata.png" group-title="Buenos Aires",✔️ Canal 2 (Mar del Plata)
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
+*Canal 2 Telpin TV (Pinamar) - telpin server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/canal2telpintvpinamar.png" group-title="Buenos Aires",✔️ Canal 2 Telpin TV (Pinamar)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+
 *Canal-3 (Pinamar) - Telpin server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="Buenos Aires",✔️ Canal 3 (Pinamar)
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
@@ -113,9 +117,25 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal22WebCABA.png" group-title="Buenos Aires",✔️ Canal 22 Web 
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 
+*Canal-79-(La Costa) - Streamconex server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (La Costa)
+https://streamconex.com:19360/lacosta/lacosta.m3u8
+
 *Canal-79-(Mar-del-Plata) - Streamconex server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (Mar del Plata)
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8
+
+*Canal-79-(Puan) - Streamconex server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (Puan)
+https://streamconex.com:19360/puan/puan.m3u8
+
+*Canal-79-(Santa Clara del Mar) - Streamconex server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (Santa Clara del Mar)
+https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
+
+*Canal-79-(Villa Maza) - Streamconex server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="Buenos Aires",✔️ Canal 79 (Villa Maza)
+https://streamconex.com:19360/villamaza/villamaza.m3u8
 
 *Canal-de-la-Ciudad -  edge-access serever
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalDeLaCiudad.png" group-title="Buenos Aires",✔️ Canal de la Ciudad
@@ -172,9 +192,17 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telecreativa22.png" group-title="Buenos Aires",✔️ Telecreativa (Lanus)
 https://panel.host-live.com:19360/8012/8012.m3u8
 
+*TeleJunin - shockmedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png" group-title="Buenos Aires",✔️ TeleJunin
+https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
+
 *Telemax - Telecentro server 
-#EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Telemax.png" group-title="Buenos Aires",✔️ Telemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Telemax.png" group-title="Buenos Aires",✔️ Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+
+*UNLP TV (La Plata) - unlp server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/UNLP.png" group-title="Buenos Aires",✔️ UNLP TV (La Plata)
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 *Urbana-Teve - iblups server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/urbana.png" group-title="Buenos Aires",✔️ Urbana Teve
@@ -249,9 +277,13 @@ https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/catamarcatv.png" group-title="Provincia",✔️ Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-*Canal-9 (Resistencia, Chaco) - coninfo server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="Provincia",✔️ Canal 9 (Resistencia, Chaco)
+*Canal-9 (Chaco) - coninfo server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="Provincia",✔️ Canal 9 (Chaco)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
+
+*NG Federal (Chaco) - coninfo server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/ngfederalchaco.png" group-title="Provincia",✔️ NG Federal (Chaco)
+http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 
 *Somos Uno (Chaco) - chaco server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/somosunochaco.png" group-title="Provincia",✔️ Somos Uno (Chaco)
@@ -265,12 +297,20 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal12WebPuertoMadrynChubut.png" group-title="Provincia",✔️ Canal 12 Web (Puerto Madryn, Chubut)
 https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
 
+*Tele Cinco Trelew (Chubut) - videohd server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telecincotrelewchubut.png" group-title="Provincia",✔️ Tele Cinco Trelew (Chubut)
+https://videohd.live:19360/8016/8016.m3u8
+
 *Canal 4 (San Francisco, Cordoba) - 204.199 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4sanfranciscocordoba.png" group-title="Provincia",✔️ Canal 4 (San Francisco, Cordoba)
 http://204.199.3.2/.m3u8
 
-*UniTV (Villa Maria, Cordoba) - solumedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png" group-title="Provincia",✔️ UniTV (Villa Maria, Cordoba)
+*Canal 14 TeleCondor Satelital (Cordoba) - shockmedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal14TeleCondorSatelitalCordoba.png" group-title="Provincia",✔️ Canal 14 TeleCondor Satelital (Cordoba)
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+
+*UniTeve (Villa Maria, Cordoba) - solumedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png" group-title="Provincia",✔️ UniTeve (Villa Maria, Cordoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 *Canal-2-AVCHD (Monte Casero, Corrientes) - bozztv server 
@@ -285,9 +325,18 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/13MaxTelevisi%C3%B3nCorrientes.png" group-title="Provincia",✔️ 13Max Televisión (Corrientes)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
-*Canal-9-Litoral (Entre Rios) arcast server 
+*TeleNord (Corrientes) - streamlock server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telenordcorrientes.png" group-title="Provincia",✔️ TeleNord (Corrientes)
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+
+*Canal-9-Litoral (Entre Rios) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9LitoralEntreRios.png" group-title="Provincia",✔️ Canal 9 Litoral (Entre Rios)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+
+*Canal 11 Lapacho (Formosa) - solumedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal11LapachoFormosa.png" group-title="Provincia",✔️ Canal 11 Lapacho (Formosa)
+https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 
 *Canal 7 (Jujuy) - arcast server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal7jujuy.png" group-title="Provincia",✔️ Canal 7 (Jujuy)
@@ -300,6 +349,10 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 *CPE-TV (La Pampa) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CPETVLaPampa.png" group-title="Provincia",✔️ CPE TV (La Pampa)
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+
+*Somos La Pampa - arcast server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/somoslapampa.png" group-title="Provincia",✔️ Somos La Pampa
+https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 
 *Canal-13 (La Rioja) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png" group-title="Provincia",✔️ Canal 13 (La Rioja)
@@ -337,6 +390,10 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal21TVPosadasMisiones.png" group-title="Provincia",✔️ Canal 21 TV (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+*Misiones Cuatro (Posadas, Misiones) - alsolnet server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/misionescuatro.png" group-title="Provincia",✔️ Misiones Cuatro (Posadas, Misiones)
+https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8
+
 *Canal-7 (Neuquén) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="Provincia",✔️ Canal 7 (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
@@ -353,6 +410,10 @@ https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal10NortevisionSalta.png" group-title="Provincia",✔️ Canal 10 Nortevision (Salta)
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8
 
+*Neox TV (Salta) - streamcasthd server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/NeoxTVSalta.png" group-title="Provincia",✔️ Neox TV (Salta)
+https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
+
 *Canal 4 (San Juan) - alsolnet server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4SanJuan.png" group-title="Provincia",✔️ Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
@@ -360,6 +421,10 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 *Canal 34 (San Juan) - alsolnet server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal34SanJuan.png" group-title="Provincia",✔️ Canal 34 (San Juan)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
+
+*TeleSol (San Juan) - cnnsanjuan server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telesolsanjuan.png" group-title="Provincia",✔️ TeleSol (San Juan)
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 *Canal-3 (Las Heras; Santa Cruz) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png" group-title="Provincia",✔️ Canal 3 (Las Heras; Santa Cruz)
@@ -390,6 +455,10 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
+*Play TV (Santa Fe) - solumedia server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/playtvsantafe.png" group-title="Provincia",✔️ Play TV (Santa Fe)
+https://vivo.solumedia.com:19360/playtv/playtv.m3u8
+
 *RTS (Santa Fe) - cloudflarestream server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/rtssantafe.png" group-title="Provincia",✔️ RTS (Santa Fe)
 https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1MGRhY2I5NmMxZTFiMmM2Y2Y2YzEzMTMzN2QyMjg5MSIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzQ0NjQxOTI1LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.V_doCnKonj4VJIgP6rHB1wycSItVfy0A_L9XMOHlm2LJs_lA89mydpq_Zu5vYduMcGgf5Cn1aRzBKCuOlNPBTnO7Gg_4omj0gwmy3NrPsNrVFT07cgiJW6oN4MOlPcmzUVi727KTcA3b0E-VgOod7ojMYmarJ6cCr327_PxAIvTBfvb4bSUX66E79EvL5aYE4d-4OQFkDwSbZfNIyceD1PZRy-EVrm6zliU5dIN_uFC1D_-0myhx1p8O5-_usZFf4QUgL7o7-ojANiMBULFTkbPiJmapNPRWuhZFkk_ebNqJeTiBeaqdFni2iVltU4FXTPAWz7bToZqKuu9XB6Enzw/manifest/video.m3u8?CMCD=cid%3D%221744598727038%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22500dde74-54a6-42e3-9afc-5c2ff5cd8dd6%22%2Csu
@@ -405,6 +474,10 @@ https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 *Canal 5 (Tucumán) - videohd server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5Tucum%C3%A1n.png" group-title="Provincia",✔️ Canal 5 (Tucumán)
 https://videohd.live:19360/8090/8090.m3u8
+
+*Canal 12 Metro TV (Tucumán) - streamtv12 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal12metrotvtucuman.png" group-title="Provincia",✔️ Canal 12 Metro TV (Tucumán)
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 
 
@@ -1388,6 +1461,10 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="Cine",✔️ Warner TV
 http://190.216.158.199:8000/play/a00m/index.m3u8
 
+*Xtrema TV Cine Accion - voxtvhd server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/xtrematvcineaccion.png" group-title="Cine",✔️ Xtrema TV Cine Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
 //////ZoyPlus\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/zoytv.png" group-title="Cine",✔️ ZoyPlus
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytv/playlist.m3u8
@@ -2015,7 +2092,9 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 /////////World-Discovery\\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="Cultura",World Discovery
 
-
+*Xtrema TV Animal - voxtvhd server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/xtrematvanimal.png" group-title="Cultura",✔️ Xtrema TV Animal
+https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 
 
