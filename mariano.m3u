@@ -1745,7 +1745,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=143
 
 *Nova-Toon - eu1 server 
-#EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
+EXTINF:-1 tvg-logo="https://sdmntprwestus2.oaiusercontent.com/files/00000000-1248-61f8-a2ec-7c749d78f4d1/raw?se=2025-04-28T04%3A47%3A32Z&sp=r&sv=2024-08-04&sr=b&scid=26990681-7fed-5162-b65e-7a46c1c0c756&skoid=b53ae837-f585-4db7-b46f-2d0322fce5a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-27T14%3A29%3A30Z&ske=2025-04-28T14%3A29%3A30Z&sks=b&skv=2024-08-04&sig=vVBtx/J%2BTf3NgSpup%2BJliDiiOc/KVRhGzSvIwtSS14I%3D" group-title="Infantil",✔️ Nova Toons
 https://eu1.servers10.com:8081/8046/index.m3u8
 
 
@@ -1980,7 +1980,7 @@ https://clubtv.link/0607ju/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u
 https://clubtv.link/0607ju/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
 
 *love nature - 160.20 server
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/Lovenature2.png/revision/latest?cb=20250226152711" group-title="Cultura",✔️ love nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="Cultura",✔️ love nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
 
 /////////NatGeo\\\\\\\\
