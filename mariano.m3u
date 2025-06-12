@@ -22,6 +22,10 @@ EVENTOS
 #EXTINF:-1 tvg-logo="https://polimor.club/wp-content/uploads/2025/05/phhFcYZgGiLazYLVYVhwSTsWSlk-204x350_c.webp" group-title="Eventos",Lilo y Stich (2025) (Eventos 1)
 https://canvasolutions.com.mx/stuff/lilo.mp4
 
+* (Eventos 2)
+#EXTINF:-1 tvg-logo="https://polimor.club/wp-content/uploads/2025/05/efNhiZPk71FTYJ30dBkWMfc939D-204x350_c.webp" group-title="Eventos",Karate Kid: Leyendas (2025) (Eventos 2)
+https://canvasolutions.com.mx/stuff/kid.mp4
+
 
 
 
@@ -261,6 +265,11 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Logo-120x120/canalip.p
 #EXTVLCOPT:http-user-agent=iPhone
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="Noticias",✔️ LN +
 
+*Telefe Noticias
+#EXTVLCOPT:http-user-agent=(Android 8.0.0)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="Noticias",✔️ Telefe Noticias
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1749695734~exp=1749872134~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=bb4f9ef0bfdb4bc4e011d91198362adacb80d01534a4a7c73d46dcbb34881305
+
 *TN+ - google server
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="Noticias",✔️ TN
@@ -451,6 +460,10 @@ https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Play
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/canalluzsantafe.png" group-title="Provincia",✔️ Canal Luz (2)(Rosario, Santa Fe)
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
+*Canal Veo (Santa Fe) - edge server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canalveosantafe.png" group-title="Provincia",✔️ Canal Veo (Santa Fe)
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
 *Cable-Imagen-Armstrong (Santa Fe) - arcast server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
@@ -511,9 +524,9 @@ https://stream2.canal10mx.com/live/movil/chunklist_w1994174427.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas (España)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-/////Canal-24-Horas (ESP)\\\\\
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="Noticias Internacional",✔️ Canal 24 Horas (2) (España)
-https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+*Canal 44 (Mexico) - streamlock server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal44mexico.png" group-title="Noticias Internacional",✔️ Canal 44 (Mexico)
+https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724.m3u8
 
 *CGTN Español (China) - cgtn server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="Noticias Internacional",✔️ CGTN Español (China)
@@ -572,8 +585,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/teleformula.png" group-title="Noticias Internacional",✔️ TeleFormula (Mexico)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-/////Telemundo-Noticias (Mexico) - 190.92 server\\\\\\
-EXTINF:-1 tvg-logo="https://archive.org/download/Noticias-Internacionales-Logo-120x120/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (Mexico)
+*Telemundo-Noticias (Mexico) - 190.92 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telemundonoticias.png" group-title="Noticias Internacional",✔️ Telemundo Noticias (Mexico)
 http://190.92.10.66:4000/play/a004/index.m3u8
 
 *Telesur (Venezuela) - Telesur server 
@@ -835,6 +848,10 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ImagenTVmexico.png" group-title="Canales Internacionales",✔️ Imagen TV (2) (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7390
 
+*Jalisco TV (Mexico) - rogohosting server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JaliscoTVMexico.png" group-title="Canales Internacionales",✔️ Jalisco TV (Mexico)
+https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
+
 *JusticiaTV (Mexico) - vivaro server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JusticiaTVMexico.png" group-title="Canales Internacionales",✔️ JusticiaTV (Mexico)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
@@ -867,17 +884,16 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
 https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-*TV-Cuatro (Mexico) - streamlock server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcuatromexico.png" group-title="Canales Internacionales",✔️ TV Cuatro (Mexico)
+*TelePlay (Mexico) - tvstream server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
+
+*TRC Television (Mexico) - streamlock server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/trctelevisionmexico.png" group-title="Canales Internacionales",✔️ TRC Television (Mexico)
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
 ///////TVC (Mexico)\\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Tvc_2003.png" group-title="Canales Internacionales",✔️ TVC (Mexico)
 https://d2blnrh268ipk.cloudfront.net/live_0.m3u8?CMCD=cid%3D%22https%3A%2F%2Fd2blnrh268ipk.cloudfront.net%2Findex.m3u8%22%2Csid%3D%22306d19e5-c7af-41e3-9492-6bdc13aa2a40%22
-
-*Jalisco TV (Mexico) - rogohosting server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JaliscoTVMexico.png" group-title="Canales Internacionales",✔️ Jalisco TV (Mexico)
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
 *TV-Mas (Mexico) - streamlock server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVMasMexico.png" group-title="Canales Internacionales",✔️ TV Mas (Mexico)
@@ -895,6 +911,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 *TV-Pacifico (Mexico) - streamlock server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPacificoMexico.png" group-title="Canales Internacionales",✔️ TV Pacifico (Mexico)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
+
+*TV Unam (Mexico) - streamlock server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvunammexico.png" group-title="Canales Internacionales",✔️ TV Unam (Mexico)
+https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DVR.m3u8
 
 //////Unicable (Mexico)\\\\\\\
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/uniclb.png" group-title="Canales Internacionales",Unicable (Mexico)
@@ -1091,6 +1111,10 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 *EWTN (Usa) - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="Canales Internacionales",✔️ EWTN (Usa)
 http://190.216.158.199:8000/play/a00y/index.m3u8
+
+*Andorra TV  - enetres server 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/andorratv.png" group-title="Canales Internacionales",✔️ Andorra TV 
+https://play.cdn.enetres.net/56495F77FD124FECA75590A906965F2C022/022/playlist.m3u8
 
 *13-TV (España) - live edge server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/13TVEspa%C3%B1a.png" group-title="Canales Internacionales",✔️ 13 TV (España)
