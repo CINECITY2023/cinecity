@@ -1696,7 +1696,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7357
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tigosports.png" group-title="⚽ Deportes",✔️ Tigo Sports (2)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
-*TyC Sports - cvattv server
+*TyC Sports - cvattv server (Android)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
