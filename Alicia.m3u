@@ -918,9 +918,6 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
 https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-*TelePlay (Mexico) - tvstream server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="Canales Internacionales",✔️ Teleplay (Mexico)
-
 *TRC Television (Mexico) - streamlock server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/trctelevisionmexico.png" group-title="Canales Internacionales",✔️ TRC Television (Mexico)
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
@@ -1014,15 +1011,15 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/plus226/latina2/latina2.smil
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
 *TV-Cosmo (Peru) - streamlock server
-#EXTINF:0,TV tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png" group-title="Canales Internacionales",✔️ TV Cosmos (Peru)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png" group-title="Canales Internacionales",✔️ TV Cosmos (Peru)
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1336493216.m3u8 
 
 *TVPE Internacional (Peru) - claro server
-#EXTINF:0,TV tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPEINTERNACIONALPeru.png" group-title="Canales Internacionales",✔️ TVPE Internacional (Peru)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPEINTERNACIONALPeru.png" group-title="Canales Internacionales",✔️ TVPE Internacional (Peru)
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 
 //////Viva-TV (Peru)\\\\\\\
-EXTINF:0,TV tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vivatvperu.png" group-title="Canales Internacionales",✔️ Viva TV (Peru)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vivatvperu.png" group-title="Canales Internacionales",✔️ Viva TV (Peru)
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/VIVATV/hls_fk/index.m3u8
 
 //////Willax (Peru)\\\\\\\\
