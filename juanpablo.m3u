@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -1607,6 +1608,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/clarosports.png" group-title="⚽ Deportes",✔️ Claro Sports
 https://clubtv.link/ju0614/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
 
+*DAZN - cdn.net server
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dazn.png" group-title="⚽ Deportes",✔️ DAZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
 ////////ECDF\\\\\\\\\
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="⚽ Deportes",ECDF
 
@@ -2866,7 +2873,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *En el desierto (2023 ‧ Terror/Drama)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
-
 
 
 
