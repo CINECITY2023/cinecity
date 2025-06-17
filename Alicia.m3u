@@ -857,7 +857,7 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 
 *Galavision (Mexico) - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="🌍Canales Internacionales",✔️ Galavision (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="🌍Canales Internacionales",✔️ Galavision (Mexico)
 http://104.238.205.28:8989/278723_.m3u8
 
 *Imagen-TV (Mexico) - otteravision server 
