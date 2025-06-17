@@ -1242,11 +1242,11 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?P
 http://104.238.205.28:8989/278753_.m3u8
 
 *Cinecanal - clubtv server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬Cine",✔️ Cinecanal
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬Cine",✔️ Cinecanal
 http://clubtv.link/ju0614/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
 
 *Cinecanal - 104.238 server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬Cine",✔️ Cinecanal (2)
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬Cine",✔️ Cinecanal (2)
 http://104.238.205.28:8989/278462_.m3u8
 
 *Cinema-Azteca - clubtv server 
