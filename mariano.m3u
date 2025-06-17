@@ -1608,7 +1608,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
 https://clubtv.link/ju0614/phpcode/lista0.php?c=82&token=TecnoplusJunio03&f=.m3u8
 
 *DAZN - cdn.net server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dazn.png" group-title="⚽ Deportes",✔️ DAZN
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dazn.png" group-title="⚽ Deportes",✔️ DAZN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
 https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
