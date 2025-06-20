@@ -202,13 +202,9 @@ https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=h
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="🏙️ Buenos Aires",✔️ Neo TV (Florencio Varela)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-✔️💻Net_TV - unlimited1 server 
+✔️Net_TV - unlimited1 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="🏙️ Buenos Aires",✔️ Net TV
 https://unlimited1-saopaulo.dps.live/nettv/nettv.smil/playlist.m3u8
-
-✔️Net_TV_(2) - unlimited1 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="🏙️ Buenos Aires",✔️ Net TV (2)
-https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/playlist.m3u8
 
 ✔️Sicardi_TV_(La_pLata) - Solumedia server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/SicardiTVLapLata.png" group-title="🏙️ Buenos Aires",✔️ Sicardi TV (La pLata)
