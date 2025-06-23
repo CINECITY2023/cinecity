@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="ES: DAZN F1 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MVF1.png" group-title="Espanha",ES: DAZN F1 1 HD
-http://elrinconcito.ddns.net:8080/123456789/987654321/119437
+http://elrinconcito.ddns.net:8080/123456789/987654321/133877
 
 #EXTINF:-1 tvg-id="TNT SERIES.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="🎬 CINE Y SERIES", TNT SERIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
