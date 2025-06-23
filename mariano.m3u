@@ -60,7 +60,7 @@ https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
 ✔️📱Canal_9 - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -187,13 +187,13 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 ✔️📱KZO_Entertainmen - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/kzo.png" group-title="🏙️ Buenos Aires",✔️ KZO Entertainmen 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/kzo.png" group-title="🏙️ Buenos Aires",✔️ KZO Entertainmen 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
 https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Metro_TV - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" group-title="🏙️ Buenos Aires",✔️ Metro TV 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" group-title="🏙️ Buenos Aires",✔️ Metro TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -263,7 +263,7 @@ https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-10005
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056_540p.m3u8
 https://g1.vxral-hor.transport.edge-access.net/a12/ngrp:a24-100056_all/a24-100056.m3u8
 
-✔️📱C5N - cvattv server
+✔️C5N - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",✔️ C5N 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
@@ -288,13 +288,13 @@ https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all
 https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 ✔️📱IP_informacion_periodistica - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canalip.png" group-title="🎙️ Noticias",✔️ IP Informacion Periodistica 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canalip.png" group-title="🎙️ Noticias",✔️ IP Informacion Periodistica 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
 https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc/Investigacion_Periodistica.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱LN_+ - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+ 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+ 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
 https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1289,7 +1289,7 @@ http://185.189.225.150:85/AXN/index.m3u8
 http://clubtv.link/20junio/phpcode/lista0.php?c=58&token=TecnoplusJunio03&f=.m3u8
 
 ✔️📱AXN - cvattv server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="🎬 Cine",✔️ AXN 📱
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="🎬 Cine",✔️ AXN 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc/AXNHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1315,7 +1315,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?P
 http://104.238.205.28:8989/278753_.m3u8
 
 ✔️📱CineAr - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CINEAR.png" group-title="🎬 Cine",✔️ CineAr 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CINEAR.png" group-title="🎬 Cine",✔️ CineAr 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1345,7 +1345,7 @@ http://clubtv.link/20junio/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u
 http://clubtv.link/20junio/phpcode/lista0.php?c=49&token=TecnoplusJunio03&f=.m3u8
 
 ✔️📱Cinemax - cvattv server
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINEMAX.png?raw=true" group-title="🎬 Cine",✔️ Cinemax 📱
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINEMAX.png?raw=true" group-title="🎬 Cine",✔️ Cinemax 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
 https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1415,7 +1415,7 @@ http://104.238.205.28:8989/278426_.m3u8
 http://104.238.205.28:8989/278427_.m3u8
 
 ✔️📱FX - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
 https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1539,7 +1539,7 @@ https://clubtv.link/20junio/phpcode/lista0.php?c=11&token=TecnoplusJunio03&f=.m3
 http://190.216.158.199:8000/play/a00k/index.m3u8
 
 ✔️📱Sony_Channel - cvattv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1557,7 +1557,7 @@ https://clubtv.link/20junio/phpcode/lista0.php?c=10&token=TecnoplusJunio03&f=.m3
 http://190.216.158.199:8000/play/a01r/index.m3u8
 
 ✔️📱Space - cvattv server 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space 📱
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1567,7 +1567,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd?|referer=h
 https://clubtv.link/20junio/phpcode/lista0.php?c=37&token=TecnoplusJunio03&f=.m3u8
 
 ✔️📱Star_Channel - cvattv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ STAR Channel 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ STAR Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1601,7 +1601,7 @@ http://190.216.158.199:8000/play/a02j/index.m3u8
 http://38.44.109.41:8003/play/a01v/index.m3u8
 
 ✔️📱TNT - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1617,7 +1617,7 @@ http://190.216.158.199:8000/play/a00l/index.m3u8
 https://clubtv.link/20junio/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u8
 
 ✔️📱TNT_Series - cvattv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1662,7 +1662,7 @@ http://104.238.205.28:8989/278451_.m3u8
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 ✔️📱Volver - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",✔️ Volver 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",✔️ Volver 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1676,7 +1676,7 @@ http://190.216.158.199:8000/play/a00m/index.m3u8
 http://104.238.205.28:8989/278453_.m3u8
 
 ✔️📱Warner_TV - cvattv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -1967,7 +1967,7 @@ https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 http://104.238.205.28:8989/278565_.m3u8
 
 ✔️📱TyC_Sports - cvattv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
