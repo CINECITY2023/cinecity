@@ -1252,20 +1252,38 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️A3Cine - 38.44 server
-#EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",✔️ A3Cine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",✔️ A3Cine
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
+✔️📱A3Cine - cvattv server
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",✔️ A3Cine 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6ff881a6f07986a80d6ad6f041b57d4:b401c87c2ab11a1a488ee1c474b109ae
+https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️A3S - 160.20 server
-#EXTINF:-1 tvg-id="a3s.es" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s
 http://160.20.165.246:8000/play/a00f/index.m3u8
 
+✔️📱A3s - cvattv server
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
+https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️A&E - 185.189 server
-#EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E 
 http://185.189.225.150:85/AE/index.m3u8
 
 ✔️A&E_(2) - 104.238 server
-#EXTINF:-1 tvg-id="a_e" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E (2)
 http://104.238.205.28:8989/278388_.m3u8
+
+✔️📱A&E - cvattv server
+#EXTINF:-1   tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=db12035627a4b3d7198b761f36b4a290:80ca761a875992ac0e50b0851d5563fe
+https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc/AEHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️AMC_🔊(ESP) - 185.189 server 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC 🔊(ESP)
@@ -1279,6 +1297,12 @@ https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC (2)
 http://clubtv.link/20junio/phpcode/lista0.php?c=57&token=TecnoplusJunio03&f=.m3u8
 http://38.44.109.41:8003/play/a02a/index.m3u8
+
+✔️📱AMC - cvattv server
+#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+https://cdn.cvattv.com.ar/live/c3eds/AMC/SA_Live_dash_enc/AMC.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️AXN - 185.189 server 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="🎬 Cine",✔️ AXN 🔊(ESP)
@@ -1502,6 +1526,12 @@ http://38.44.109.41:8003/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/paramountnetwork.png" group-title="🎬 Cine",✔️ Paramount Network
 https://clubtv.link/20junio/phpcode/lista0.php?c=12&token=TecnoplusJunio03&f=.m3u8
 
+✔️📱Paramount_Network - cvattv server
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/paramountnetwork.png" group-title="🎬 CINE Y SERIES",✔️ Paramount Network 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️Planeta_TV - obslivestream server
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/planetatv.png" group-title="🎬 Cine",✔️ Planeta TV
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
@@ -1622,9 +1652,6 @@ https://clubtv.link/20junio/phpcode/lista0.php?c=5&token=TecnoplusJunio03&f=.m3u
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-//TNT_Novelas
-EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/tntnovelas.png" group-title="🎬 Cine",TNT Novelas
-
 ✔️Todo_Cine - Ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/todocine.png" group-title="🎬 Cine",✔️ Todo Cine FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
@@ -1632,10 +1659,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 ✔️Universal_Cinema - clubtv server  ( SOLO PC )
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema
 https://clubtv.link/20junio/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
-
-✔️Universal_Comedy - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🎬 Cine",✔️ Universal Comedy
-https://clubtv.link/20junio/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Universal_Crime - clubtv server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime
@@ -1656,6 +1679,13 @@ http://190.216.158.199:8000/play/a00g/index.m3u8
 ✔️Usa_TV - 104.238 server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV (2)
 http://104.238.205.28:8989/278451_.m3u8
+
+✔️📱Usa TV - cvattv server
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV 📱
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Video_Club - shockmedia server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/videoclub.png" group-title="🎬 Cine",✔️ Video Club
@@ -1744,7 +1774,11 @@ http://clubtv.link/20junio/phpcode/lista0.php?c=69&token=TecnoplusJunio03&f=.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/tlnovelas.png" group-title="❤️ Novelas",✔️ TLnovelas (2)
 http://190.216.158.199:8000/play/a00q/index.m3u8
 
-
+✔️📱TNT_Novelas
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntnovelas.png" group-title="🎬 Cine",✔️ TNT Novelas 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 
 
@@ -1781,6 +1815,10 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+✔️📱DAZN F1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznf1.png" group-title="⚽ Deportes",✔️ DAZN F1 📱
+http://elrinconcito.ddns.net:8080/123456789/987654321/133877
 
 ✔️Deportv - 38.211 server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/deportv.png" group-title="⚽ Deportes",✔️ Deportv
@@ -2069,6 +2107,12 @@ https://clubtv.link/20junio/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="🎈 Infantil",✔️ Discovery Kids (2)
 http://190.216.158.199:8000/play/a00r/index.m3u8
 
+✔️📱Discovery_Kids - cvattv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="🎈 Infantil",✔️ Discovery Kids 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️Disney_channel - 38.44 server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel
 http://38.44.109.41:8003/play/a00e/index.m3u8
@@ -2287,6 +2331,12 @@ http://190.217.23.56:1010/play/a0er/index.m3u8
 http://190.216.158.199:8000/play/a02q/index.m3u8
 http://190.217.23.56:1010/play/a0er/index.m3u8
 
+✔️📱Comedy_Central - cvattv server
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/comedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc/ComedyCentral.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️Los_Tres_Chiflados - plutotv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/lostrechiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -2303,7 +2353,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/Ridiculousness.png" group-title="🤡 Comedia",✔️ Ridiculousness
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
+✔️Universal_Comedy - clubtv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy
+https://clubtv.link/20junio/phpcode/lista0.php?c=34&token=TecnoplusJunio03&f=.m3u8
 
 
 
@@ -3219,7 +3271,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *En el desierto (2023 ‧ Terror/Drama)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
-
 
 
 
