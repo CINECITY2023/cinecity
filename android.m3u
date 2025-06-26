@@ -2,7 +2,7 @@
 
 ✔️America
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America
-https://tvlibreonline.org/html/fl/?get=QW1lcmljYVRW
+<iframe id="player" src="https://tvlibreonline.org/html/fl/?get=QW1lcmljYVRW" allowfullscreen allow="autoplay; encrypted-media"></iframe>
 
 ✔️TV_Pública
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="🏙️ Buenos Aires",✔️ TV Pública
