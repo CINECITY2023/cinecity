@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 
@@ -2412,119 +2413,125 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f
 -----------------------------------------------------------------------------------------------------------------------------------
 
 //A-Mas+
-EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="🚜Cultura",A Mas+
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/amas.png" group-title="🚜 Cultura",A Mas+
 
 ✔️Animal_Planet - 190.216 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜Cultura",✔️ Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet
 http://190.216.158.199:8000/play/a00h/index.m3u8
 
+✔️📱Animal_Planet - cvattv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
+https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️PlutoTV_Archivos_Forenses - PLutoTV server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutotvarchivosforenses.png" group-title="🚜Cultura",✔️ Archivos Forenses
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutotvarchivosforenses.png" group-title="🚜 Cultura",✔️ Archivos Forenses
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 
 ✔️Chacra_TV - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/ChacraTV.png" group-title="🚜Cultura",✔️ Chacra TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/ChacraTV.png" group-title="🚜 Cultura",✔️ Chacra TV
 https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true
 
 *Discovery_Channel - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="🚜Cultura",✔️ Discovery Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="🚜 Cultura",✔️ Discovery Channel
 https://clubtv.link/jun27/phpcode/lista0.php?c=47&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Discovery_Channel - 190.216 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="🚜Cultura",✔️ Discovery Channel (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discovery-channel.png" group-title="🚜 Cultura",✔️ Discovery Channel (2)
 http://190.216.158.199:8000/play/a00o/index.m3u8
 
 ✔️Discovery_Turbo - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜Cultura",✔️ Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜 Cultura",✔️ Discovery Turbo
 https://clubtv.link/jun27/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Discovery_Turbo_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜Cultura",✔️ Discovery Turbo (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜 Cultura",✔️ Discovery Turbo (2)
 http://104.238.205.28:8989/278396_.m3u8
 
 *E! - astra colombia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/e%21.png" group-title="🚜Cultura",✔️ E! 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/e%21.png" group-title="🚜 Cultura",✔️ E! 
 http://190.217.23.56:1010/play/a0ej/index.m3u8
 
 ✔️El_Gourmet - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="🚜Cultura",✔️ El Gourmet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="🚜 Cultura",✔️ El Gourmet
 http://104.238.205.28:8989/278422_.m3u8
 
 ✔️El_Mundo_Del_Campo - astra colombia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="🚜Cultura",✔️ El Mundo Del Campo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="🚜 Cultura",✔️ El Mundo Del Campo
 http://190.217.23.56:1010/play/a0be/index.m3u8
 
 ✔️El_Mundo_Del_Campo_(2) - 38.44 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="🚜Cultura",✔️ El Mundo Del Campo (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/elmundodelcampo.png" group-title="🚜 Cultura",✔️ El Mundo Del Campo (2)
 http://38.44.109.41:8003/play/a036/index.m3u8
 
 ✔️Encuentro - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/encuentro.png" group-title="🚜Cultura",✔️ Encuentro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/encuentro.png" group-title="🚜 Cultura",✔️ Encuentro
 http://104.238.205.28:8989/278761_.m3u8
 
 //H2_History
-EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="🚜Cultura",H2 History
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/History2.png" group-title="🚜 Cultura",H2 History
 
 ✔️History - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/History.png" group-title="🚜Cultura",✔️ History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/History.png" group-title="🚜 Cultura",✔️ History
 https://clubtv.link/jun27/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
 
 ✔️H&H_Discovery - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜Cultura",✔️ H&H Discovery
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜 Cultura",✔️ H&H Discovery
 https://clubtv.link/jun27/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
 
 ✔️H&H_Discovery_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜Cultura",✔️ H&H Discovery (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜 Cultura",✔️ H&H Discovery (2)
 http://104.238.205.28:8989/278395_.m3u8
 
 ✔️ID - clubtv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="🚜Cultura",✔️ ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/discoveryid.png" group-title="🚜 Cultura",✔️ ID
 https://clubtv.link/jun27/phpcode/lista0.php?c=18&token=TecnoplusJunio03&f=.m3u8
 
 ✔️love_nature - 160.20 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜Cultura",✔️ love nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜 Cultura",✔️ love nature
 http://160.20.165.246:8000/play/a00d/index.m3u8
 
 ✔️love_nature_(2) - 38.44 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜Cultura",✔️ love nature (2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/lovenature.png" group-title="🚜 Cultura",✔️ love nature (2)
 http://38.44.109.41:8003/play/a02d/index.m3u8
 
 ✔️NatGeo - 38.44 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="🚜Cultura",✔️ NatGeo
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="🚜 Cultura",✔️ NatGeo
 http://38.44.109.41:8003/play/a006/index.m3u8
 
 ✔️PlutoTV_Viajes - plutotv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutoviajes.png" group-title="🚜Cultura",✔️ PlutoTV Viajes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutoviajes.png" group-title="🚜 Cultura",✔️ PlutoTV Viajes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ✔️PlutoTV_Cocina - plutotv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutococina.png" group-title="🚜Cultura",✔️ PlutoTV Cocina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/plutococina.png" group-title="🚜 Cultura",✔️ PlutoTV Cocina
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 //Theater-Discovery
-EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococina.png"   group-title="🚜Cultura",Theater Discovery
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/plutococina.png"   group-title="🚜 Cultura",Theater Discovery
 
 //TLC
-EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="🚜Cultura", TLC
+EXTINF:-1 tvg-logo="https://archive.org/download/Cultura-Logo-120x120/TLC.png" group-title="🚜 Cultura", TLC
 
 ✔️Todo_Crimen - Rakuten server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/todocrimen.png" group-title="🚜Cultura",✔️ Todo Crimen
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/todocrimen.png" group-title="🚜 Cultura",✔️ Todo Crimen
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=004a7a3f-6d34-4cd6-802e-3e45cb604307&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 
 ✔️Turistik - cef technology server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/turistik.png" group-title="🚜Cultura",✔️ Turistik FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/turistik.png" group-title="🚜 Cultura",✔️ Turistik FHD
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
 ✔️Unife_TV - mycloudstream server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/UNIFETV.png" group-title="🚜Cultura",✔️ Unife TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/UNIFETV.png" group-title="🚜 Cultura",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/mono.m3u8
 
 //World_Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="🚜Cultura",World Discovery
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="🚜 Cultura",World Discovery
 
 ✔️XtremaTV_Animal - voxtvhd server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/xtrematvanimal.png" group-title="🚜Cultura",✔️ Xtrema TV Animal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/xtrematvanimal.png" group-title="🚜 Cultura",✔️ Xtrema TV Animal
 https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8
 
 
