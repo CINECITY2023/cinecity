@@ -1,1 +1,6 @@
-a
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",America TV
+https://tvlibreonline.org/html/fl/?get=QW1lcmljYVRW
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="🏙️ Buenos Aires",Tv Publica
+https://tvlibreonline.org/html/fl/?get=Q2FuYWw3
