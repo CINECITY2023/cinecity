@@ -113,3 +113,6 @@ https://tvlibreonline.org/html/fl/?get=VHlDU3BvcnQ
       
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/vtvplus.png" group-title="⚽ Deportes",VTV Plus
 https://tvlibreonline.org/html/fl/?get=VlRWX1BsdXNfSEQ
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/adultswim.png" group-title="🤖 Animacion",Adult Swim
+https://tvlibreonline.org/html/fl/?get=QWR1bHRfU3dpbQ==
