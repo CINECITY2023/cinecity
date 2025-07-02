@@ -296,3 +296,9 @@ https://tvlibreonline.org/html/fl/?get=Vm9sdmVy
       
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",Warner TV
 https://tvlibreonline.org/html/fl/?get=V2FybmVySEQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/comedycentral.png" group-title="🤡 Comedia",Comedy Central
+https://tvlibreonline.org/html/fl/?get=Q29tZWR5Q2VudHJhbA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🤡 Comedia",Universal Comedy
+https://tvlibreonline.org/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==
