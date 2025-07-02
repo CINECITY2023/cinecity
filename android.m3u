@@ -152,6 +152,12 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+✔️📱Discovery_Kids - cvattv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/discoverykids.png" group-title="🎈 Infantil",✔️ Discovery Kids 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
+https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️📱Animal_Planet - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
