@@ -91,6 +91,12 @@ https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_Live_dash_enc/FXHD.mpd?|referer=htt
 #KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
 https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_Live_dash_enc/Paramount.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+✔️📱Sony_Channel - cvattv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️📱Animal_Planet - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
