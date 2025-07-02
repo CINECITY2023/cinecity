@@ -188,6 +188,12 @@ https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChan
 #KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
 https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+✔️📱Nickelodeon 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/09/Nickelodeon-Logo.png" group-title="🎈 Infantil",✔️ Nickelodeon 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️📱Nick_JR 
 #EXTINF:-1  tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/NICKJRHD/EXPORTACION_WEB/SS/NICKJRHD_t-290x163.png" group-title="🎈 Infantil",✔️ Nick JR 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
