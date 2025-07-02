@@ -128,6 +128,30 @@ https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd?|r
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc/USA_Network.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+✔️📱Volver - cvattv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",✔️ Volver 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Warner_TV - cvattv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱TNT_Novelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntnovelas.png" group-title="🎬 Cine",✔️ TNT Novelas 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
+https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱TyC_Sports - cvattv server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️📱Animal_Planet - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/animalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
