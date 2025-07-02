@@ -59,3 +59,6 @@ https://tvlibreonline.org/html/fl/?get=TGFfTmFjaW9u
       	
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",TN
 https://tvlibreonline.org/html/fl/?get=VG9kb05vdGljaWFz
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba1.png" group-title="🏡 Provincia",Canal 12 Cordoba
+https://tvlibreonline.org/html/fl/?get=Q2FuYWxfMTJfQ0JB
