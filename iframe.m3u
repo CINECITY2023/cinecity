@@ -362,3 +362,15 @@ https://tvlibreonline.org/html/fl/?get=VFY1X01vbmRl
       
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvciudaduruguay.png" group-title="🌍 Internacionales",TV Ciudad
 https://tvlibreonline.org/html/fl/?get=VGV2ZV9DaXVkYWQ=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png" group-title="❤️ Novelas",Azteca Corazon
+https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9NDgzMA==
+      
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/lifetime.png" group-title="❤️ Novelas",LifeTime
+https://tvlibreonline.org/html/fl/?get=TGlmZXRpbWU=
+      
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/maschic.png" group-title="❤️ Novelas",Mas Chic
+https://tvlibreonline.org/html/fl/?get=TWFzX0NoaWM=
+      
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntnovelas.png" group-title="❤️ Novelas",TNT Novelas
+https://tvlibreonline.org/html/fl/?get=VEJT
