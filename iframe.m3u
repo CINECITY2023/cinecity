@@ -26,3 +26,6 @@ https://tvlibreonline.org/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="🏙️ Buenos Aires",Ciudad Magazine
 https://tvlibreonline.org/html/fl/?get=TWFnYXppbmU=
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" group-title="🏙️ Buenos Aires",Metro TV
+https://tvlibreonline.org/html/fl/?get=TWV0cm8
