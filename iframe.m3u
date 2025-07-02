@@ -35,3 +35,27 @@ https://tvlibreonline.org/html/fl/?get=TmV0X1RW
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Telemax.png" group-title="🏙️ Buenos Aires",Telemax
 https://tvlibreonline.org/html/fl/?get=VGVsZW1heA
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",A24
+https://tvlibreonline.org/html/fl/?get=QW1lcmljYTI0
+     	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",C5N
+https://tvlibreonline.org/html/fl/?get=QzVO
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",Canal 26
+https://tvlibreonline.org/html/fl/?get=MjZfVFZfSEQ
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",Cronica TV
+https://tvlibreonline.org/html/fl/?get=Q3JvbmljYVRW
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/diputadostv.png" group-title="🎙️ Noticias",DTV
+https://tvlibreonline.org/html/fl/?get=RGlwdXRhZG9zX1RW
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canalip.png" group-title="🎙️ Noticias",IP
+https://tvlibreonline.org/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",LN+
+https://tvlibreonline.org/html/fl/?get=TGFfTmFjaW9u
+      	
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",TN
+https://tvlibreonline.org/html/fl/?get=VG9kb05vdGljaWFz
