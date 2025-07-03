@@ -54,10 +54,6 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱Telefe_(Bahia_Blanca)
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefebahia.png" group-title="🏙️ Buenos Aires",✔️📱 Telefe (Bahia Blanca)
-https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 ✔️📱A24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️📱 A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
