@@ -419,12 +419,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc/Canal_Rural.mp
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱Viajar
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/viajar.png" group-title="🚜 Cultura",✔️📱 Viajar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
-https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 ////////////////✔️📱Decasa
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/decasa.png" group-title="🚜 Cultura",✔️📱 Decasa
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
