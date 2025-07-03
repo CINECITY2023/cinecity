@@ -25,7 +25,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱El_Trece
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_Canal_13_200_8.png/800px-Logo_Canal_13_200_8.png" group-title="🏙️ Buenos Aires",✔️📱 El Trece
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" group-title="🏙️ Buenos Aires",✔️📱 El Trece
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -61,7 +61,7 @@ https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc/America24.mpd?|r
 https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Canal_26
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOvN7HEybuqi5cATBqIDNouB6Kc5nVYBLZCA&usqp=CAU" group-title="🎙️ Noticias",✔️📱 Canal 26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",✔️📱 Canal 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
 https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -199,7 +199,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signatur
 https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc/HBO_Extreme.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱I-Sat
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/2560px-I.Sat_logo.svg.png" group-title="🎬 Cine",✔️📱 I-Sat
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/isat.png" group-title="🎬 Cine",✔️📱 I-Sat
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db764164934a48749a7a01bd015694f3:512f3c8869af45e6e5dd1525b6a77867
 https://cdn.cvattv.com.ar/live/c6eds/ISAT/SA_Live_dash_enc/ISAT.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -391,8 +391,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
 https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc/AnimalPlanet.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱Buen_Viaje
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/buenviaje.png" group-title="🚜 Cultura",✔️📱 Buen Viaje
+//////////////✔️📱Buen_Viaje
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/buenviaje.png" group-title="🚜 Cultura",✔️📱 Buen Viaje
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:91_HD.smil/manifest.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Canal_Cocina
@@ -419,8 +419,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=ac3ae78beb64478ab390b4ad70e3e0c9:c7d669761c3516d852a0edf9e07c9198
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc/Encuentro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱Decasa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/decasa.png" group-title="🚜 Cultura",✔️📱 Decasa
+////////////////✔️📱Decasa
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/decasa.png" group-title="🚜 Cultura",✔️📱 Decasa
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:84_HD.smil/manifest.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱 Discovery
@@ -489,8 +489,8 @@ https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc/HistoryHD.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
 https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc/Home_and_Garden.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱NatGeo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="🚜 Cultura",✔️📱 NatGeo
+////////////////✔️📱NatGeo
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/National-Geographic.png" group-title="🚜 Cultura",✔️📱 NatGeo
 http://cdn-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱NatGeo_Wild
@@ -499,8 +499,8 @@ http://cdn-py.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd?|r
 #KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
 https://testphp07.alwaysdata.net/yt/BJ3Yv572V1A.m3u8
 
-✔️📱Odisea
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/odisea.png" group-title="🚜 Cultura",✔️📱 Odisea
+////////////////✔️📱Odisea
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/odisea.png" group-title="🚜 Cultura",✔️📱 Odisea
 https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/manifest.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Sun_Channel
