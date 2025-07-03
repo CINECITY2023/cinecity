@@ -30,6 +30,12 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd?|ref
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc/ArtearHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
+✔️📱BravoTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️📱 Bravo TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
+https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc/BravoTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️📱Ciudad_Magazine
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="🏙️ Buenos Aires",✔️📱 Ciudad Magazine
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -47,6 +53,10 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Telefe_(Bahia_Blanca)
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefebahia.png" group-title="🏙️ Buenos Aires",✔️📱 Telefe (Bahia Blanca)
+https://cdn.cvattv.com.ar/live/c3eds/Canal9_Bahia_Blanca/SA_Live_dash_enc/Canal9_Bahia_Blanca.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱A24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️📱 A24
@@ -508,6 +518,56 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/mani
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
 https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱_Telefe_Cordoba
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefecba.png" group-title="🏡 Provincia",✔️📱 Telefe Cordoba
+https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_10_Cordoba
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal10cordoba.png" group-title="🏡 Provincia",✔️📱 Canal 10 Cordoba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d85fcc70989d0dbe8d70dd70a4629c0:a953290192fd5db5bf7936a88ecc6877
+https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_12_Cordoba
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba1.png" group-title="🏡 Provincia",✔️📱 Canal 12 Cordoba
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
+https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_9_Litoral_(Entre Rios)
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal9litoral.png" group-title="🏡 Provincia",✔️📱 Canal 9 Litoral (Entre Rios)
+https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Telefe_(Neuquen)
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefeneuquen.png" group-title="🏡 Provincia",✔️📱 Telefe (Neuquen)
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_3_(Sante_Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eltresrosariosantafe.png" group-title="🏡 Provincia",✔️📱 El Tres (Sante Fe)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
+https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_5_Rosario_(Sante Fe)
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/teleferosario.png" group-title="🏡 Provincia",✔️📱 Canal 5 Rosario (Sante Fe)
+https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Telefe_(Santa Fe)
+#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefesfe.png" group-title="🏡 Provincia",✔️📱 Canal 13 (Santa Fe)
+https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Canal_8_(Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal8tucuman.png" group-title="🏡 Provincia",✔️📱 Canal 8 (Tucuman)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
+https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc/Canal_8_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱 CANAL_10_(Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal10tucuman.png" group-title="🏡 Provincia",✔️📱 CANAL 10 (Tucuman)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
+https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc/Ch10_Tucuman.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱5_Dias
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/5diasparaguay.png" group-title="🌍 Canales Internacionales",✔️📱 5 Dias
