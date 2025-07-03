@@ -509,10 +509,6 @@ https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:83_HD.smil/mani
 #KODIPROP:inputstream.adaptive.license_key=158177692aa3463eae5f4e1f72403e9c:1c6c026fba9cf7ecb576c7bedce0ead4
 https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc/Sun_Channel.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱_Telefe_Cordoba
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefecba.png" group-title="🏡 Provincia",✔️📱 Telefe Cordoba
-https://cdn.cvattv.com.ar/live/c6eds/Canal_8_CBA/SA_Live_dash_enc/Canal_8_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 ✔️📱Canal_10_Cordoba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal10cordoba.png" group-title="🏡 Provincia",✔️📱 Canal 10 Cordoba
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -525,27 +521,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Canal10_CBA_HD/SA_Live_dash_enc/Canal10_CBA
 #KODIPROP:inputstream.adaptive.license_key=90422640d3e846159fa450f83870ed4a:abb3cd94aece1a462df25a8f21085cca
 https://cdn.cvattv.com.ar/live/c6eds/Canal_12_CBA/SA_Live_dash_enc/Canal_12_CBA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️📱Canal_9_Litoral_(Entre Rios)
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/canal9litoral.png" group-title="🏡 Provincia",✔️📱 Canal 9 Litoral (Entre Rios)
-https://cdn.cvattv.com.ar/live/c6eds/Canal_9_Parana/SA_Live_dash_enc/Canal_9_Parana.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-✔️📱Telefe_(Neuquen)
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefeneuquen.png" group-title="🏡 Provincia",✔️📱 Telefe (Neuquen)
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_Neuquen/SA_Live_dash_enc/Telefe_Neuquen.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
 ✔️📱Canal_3_(Sante_Fe)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eltresrosariosantafe.png" group-title="🏡 Provincia",✔️📱 El Tres (Sante Fe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
 https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-✔️📱Canal_5_Rosario_(Sante Fe)
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/teleferosario.png" group-title="🏡 Provincia",✔️📱 Canal 5 Rosario (Sante Fe)
-https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
-
-✔️📱Telefe_(Santa Fe)
-#EXTINF:-1 tvg-logo="https://static.tvar.io/imagenes/telefesfe.png" group-title="🏡 Provincia",✔️📱 Canal 13 (Santa Fe)
-https://cdn.cvattv.com.ar/live/c6eds/Canal_13_SFE/SA_Live_dash_enc/Canal_13_SFE.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Canal_8_(Tucuman)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal8tucuman.png" group-title="🏡 Provincia",✔️📱 Canal 8 (Tucuman)
@@ -668,7 +648,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Universo/SA_Live_dash_enc/Universo.mpd?|ref
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_Live_dash_enc/Vorterix.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Allegro
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/allegrotv.png" group-title="🎵 MÚSICA",✔️📱 Allegro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/allegrotv.png" group-title="🎵 Musica",✔️📱 Allegro
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc/AllegroHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -692,7 +672,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc/HTV.mpd?|referer=https
 https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱MTV_00s
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/mtv00s.png" group-title="🎵 MÚSICA",✔️📱 MTV 00s
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/mtv00s.png" group-title="🎵 Musica",✔️📱 MTV 00s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f0c09ed9e5841cf867ba6eb3cdfd61d:802c89c6bae6a245aaafcf40c1986fc1
 https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
@@ -704,7 +684,7 @@ https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_Live_dash_enc/MTV00.mpd?|referer=h
 https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️📱Much_Music
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/muchmusic.png" group-title="🎵 MÚSICA",✔️📱 Much Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/muchmusic.png" group-title="🎵 Musica",✔️📱 Much Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb0558f9ddd4820bc9982ce483e5888:c2845f4c554fcaf96a13da4a373868c4
 https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc/Much_Music.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
