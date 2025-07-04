@@ -66,10 +66,10 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 ✔️📱Canal_9 - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:edef8ba979d64acea3c827dcd51d21ed 
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020 
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️TELEFE - Telefe Server 602122f8426c5c942b8c18d299cc6020
+✔️TELEFE - Telefe Server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
