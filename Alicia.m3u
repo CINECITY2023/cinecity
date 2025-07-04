@@ -20,13 +20,16 @@ EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️(Evento ⚽ 1)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 1)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 1)
 http://104.238.205.28:8989/278758_.m3u8
 
 ✔️(Evento ⚽ 2)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 2)
 http://104.238.205.28:8989/278757_.m3u8
 
+✔️(Evento 🎬 3)
+#EXTINF:-1 tvg-logo="https://polimor.club/wp-content/uploads/2025/07/hzOFdCttANBCFnmPmvw0CstjScN-204x350_c.webp" group-title="🎬 Evento",✔️ Jurassic World Renace 2025 (Evento 🎬 3)
+https://canvasolutions.com.mx/stuff/jurassic.mp4
 
 
 
@@ -63,10 +66,10 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 ✔️📱Canal_9 - cvattv server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:edef8ba979d64acea3c827dcd51d21ed 
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
 https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-✔️TELEFE - Telefe Server 602122f8426c5c942b8c18d299cc6020
+✔️TELEFE - Telefe Server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
@@ -158,7 +161,7 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 ✔️Canal_Santa_Maria - telered server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/Canal5SantaMariaTV.png" group-title="🏙️ Buenos Aires",✔️ Canal Santa Maria
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/Canal5SantaMariaTV.png" group-title="🏙️ Buenos Aires",✔️ Canal Santa Maria
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
 //CarasTV
@@ -178,7 +181,7 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 ✔️Cinco_TV_(General_Pacheco) - shockmedia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="🏙️ Buenos Aires",✔️ Cinco TV (General Pacheco)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="🏙️ Buenos Aires",✔️ Cinco TV (General Pacheco)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
 ✔️Ciudad_Magazine - Vodgc Net server 
@@ -200,7 +203,7 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc/KZO.mpd?|referer=https
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Neo_TV_(Florencio_Varela) - shockmedia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="🏙️ Buenos Aires",✔️ Neo TV (Florencio Varela)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="🏙️ Buenos Aires",✔️ Neo TV (Florencio Varela)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 ✔️Net_TV - unlimited1 server 
@@ -220,7 +223,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 ✔️TeleJunin - shockmedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png" group-title="🏙️ Buenos Aires",✔️ TeleJunin
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png" group-title="🏙️ Buenos Aires",✔️ TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 ✔️Telemax - Telecentro server 
@@ -401,7 +404,7 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 EXTINF:-1 tvg-name="EL SIETE" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/ElSieteMendoza.png" group-title="🏡 Provincia",El Siete (Mendoza)
 
 ✔️Canal_8_Valle_de_Uco_(Mendoza) - shockmedia server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal8ValledeUcoMendoza.png" group-title="🏡 Provincia",✔️ Canal 8 (Valle de Uco,Mendoza)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal8ValledeUcoMendoza.png" group-title="🏡 Provincia",✔️ Canal 8 (Valle de Uco,Mendoza)
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 ✔️Canal_9_Televida_(Mendoza) - unlimited1 server 
@@ -462,7 +465,7 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 ✔️💻TeleSol_(San_Juan) - cnnsanjuan server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telesolsanjuan.png" group-title="🏡 Provincia",✔️ TeleSol (San Juan)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telesolsanjuan.png" group-title="🏡 Provincia",✔️ TeleSol (San Juan)
 https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
 
 ✔️Canal_3_Las_Heras_(Santa_Cruz) - arcast server 
@@ -528,7 +531,7 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️Abc_TV_(Parguay) - jwplive server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="🎙️ Noticias Internacional",✔️ Abc TV (Paraguay)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="🎙️ Noticias Internacional",✔️ Abc TV (Paraguay)
 https://livecdn.use1-0004.jwplive.com/live/sites/rmOO40BU/media/N4AiIwBJ/live.isml/.mpd
 
 ✔️AMX_Noticias_(Mexico) - streamlock server
@@ -661,7 +664,7 @@ https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️BoliVision_(Bolivia) - airstream server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Bolivision.png" group-title="🌍 Canales Internacionales",✔️ BoliVision (Bolivia)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Bolivision.png" group-title="🌍 Canales Internacionales",✔️ BoliVision (Bolivia)
 https://live.airstream.run/alba-bo-bolivision-bolivision/360p.m3u8
 
 ✔️BTV_(Bolivia) - streamlock server 
@@ -894,7 +897,7 @@ https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 https://apollo.production-public.tubi.io/live/ac-estrella-games.m3u8
 
 ✔️Galavision_(Mexico) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="🌍 Canales Internacionales",✔️ Galavision (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/galavson.png" group-title="🌍 Canales Internacionales",✔️ Galavision (Mexico)
 http://104.238.205.28:8989/278723_.m3u8
 
 ✔️Imagen_TV_(Mexico) - otteravision server 
@@ -971,7 +974,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
 ✔️TV_Pacifico_(2)_(Mexico) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPacificoMexico.png" group-title="🌍 Canales Internacionales",✔️ TV Pacifico (2) (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPacificoMexico.png" group-title="🌍 Canales Internacionales",✔️ TV Pacifico (2) (Mexico)
 http://104.238.205.28:8989/278372_.m3u8
 
 ✔️TV_Unam_(Mexico) - streamlock server 
@@ -979,7 +982,7 @@ http://104.238.205.28:8989/278372_.m3u8
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DVR.m3u8
 
 ✔️TV_Unam_(2)_(Mexico) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvunammexico.png" group-title="🌍 Canales Internacionales",✔️ TV Unam (2) (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvunammexico.png" group-title="🌍 Canales Internacionales",✔️ TV Unam (2) (Mexico)
 http://104.238.205.28:8989/278370_.m3u8
 
 //Unicable_(Mexico)
@@ -990,11 +993,11 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://172.93.102.112:8989/158753_.m3u8
 
 ✔️Univision_(Mexico) - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="🌍 Canales Internacionales",✔️ Univision (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="🌍 Canales Internacionales",✔️ Univision (Mexico)
 http://190.92.10.66:4000/play/a005/index.m3u8
 
 ✔️💻Univision_(Mexico)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="🌍 Canales Internacionales",✔️ Univision (2) (Mexico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/unvisn.png" group-title="🌍 Canales Internacionales",✔️ Univision (2) (Mexico)
 https://clubtv.link/jun27/phpcode/lista0.php?c=3&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Univision_(Mexico) - 190.216 server
@@ -1035,7 +1038,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://pelivechannelshls.media.claro.com.pe/bpk-tv/CANALJUSTICIA/hls_fk/index.m3u8
 
 ✔️Conecta2_TV_(Peru) - Servilive server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Conecta2TVPeru.png" group-title="🌍 Canales Internacionales",✔️ Conecta2 TV (Peru)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Conecta2TVPeru.png" group-title="🌍 Canales Internacionales",✔️ Conecta2 TV (Peru)
 https://servilive.com:3114/live/liveulive.m3u8 
 
 ✔️Latina_(Peru) - rudo server
@@ -1078,11 +1081,11 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 http://172.93.102.112:8989/158747_.m3u8
 
 ✔️Telemundo_(Puerto_Rico) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (3) (Puerto Rico)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (3) (Puerto Rico)
 http://104.238.205.28:8989/278657_.m3u8
 
 ✔️Telemundo_(Puerto_Rico) 190.92 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telemundonoticias.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (4) (Puerto Rico))
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telemundonoticias.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (4) (Puerto Rico))
 http://190.92.10.66:4000/play/a004/index.m3u8
 
 ✔️Telemundo_Internacional_(Puerto_Rico) - 190.216 server 
@@ -1134,7 +1137,7 @@ https://vcp7.myplaytv.com/canaldiplomatico/canaldiplomatico/playlist.m3u8
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
 
 ✔️Italianissimo_(Venezuela) - myplaytv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ItalianissimoVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Italianissimo (Venezuela)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ItalianissimoVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Italianissimo (Venezuela)
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8
 
 //Net_Channel_(Venezuela)
@@ -1142,7 +1145,7 @@ EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1573_Net_Channel.png" group-title="�
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
 ✔️Nubeh_TV_(Venezuela) - myplaytv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/NubehTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Nubeh TV (Venezuela)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/NubehTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Nubeh TV (Venezuela)
 https://vcp.myplaytv.com/nubehtv/nubehtv/playlist.m3u8
 
 ✔️Promar_TV_(Venezuela) - myplaytv server 
@@ -1277,7 +1280,7 @@ https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc/A3_Series.mpd?|r
 http://185.189.225.150:85/AE/index.m3u8
 
 ✔️A&E_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",✔️ A&E (2)
 http://104.238.205.28:8989/278388_.m3u8
 
 ✔️📱A&E - cvattv server
@@ -1336,7 +1339,7 @@ EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/mascineclassi
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/chunks.m3u8?PlaylistM3UCL
 
 ✔️CineAr - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CINEAR.png" group-title="🎬 Cine",✔️ CineAr
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CINEAR.png" group-title="🎬 Cine",✔️ CineAr
 http://104.238.205.28:8989/278753_.m3u8
 
 ✔️📱CineAr - cvattv server
@@ -1350,7 +1353,7 @@ https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|ref
 http://clubtv.link/jun27/phpcode/lista0.php?c=50&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Cinecanal - 104.238 server 
-#EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬 Cine",✔️ Cinecanal (2)
+EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬 Cine",✔️ Cinecanal (2)
 http://104.238.205.28:8989/278462_.m3u8
 
 ✔️Cinema_Azteca - clubtv server 
@@ -1358,11 +1361,11 @@ http://104.238.205.28:8989/278462_.m3u8
 http://clubtv.link/jun27/phpcode/lista0.php?c=89&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Cinema_Azteca_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png?raw=true" group-title="🎬 Cine",✔️ Cinema Azteca (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/aztecacinema.png?raw=true" group-title="🎬 Cine",✔️ Cinema Azteca (2)
 http://104.238.205.28:8989/278464_.m3u8
 
 ✔️Cinema_Dinamita - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/cinemadinamita.png?raw=true" group-title="🎬 Cine",✔️ Cinema Dinamita
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/cinemadinamita.png?raw=true" group-title="🎬 Cine",✔️ Cinema Dinamita
 http://clubtv.link/jun27/phpcode/lista0.php?c=85&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Cinemax - clubtv server
@@ -1396,11 +1399,11 @@ https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 http://190.216.158.199:8000/play/a01m/index.m3u8
 
 ✔️Europa_Europa - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/EUROPAEUROPA.png" group-title="🎬 Cine",✔️ Europa Europa
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/EUROPAEUROPA.png" group-title="🎬 Cine",✔️ Europa Europa
 http://104.238.205.28:8989/278399_.m3u8
 
 ✔️Films&arts - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FILMANDARTS.png" group-title="🎬 Cine",✔️ Films&arts 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FILMANDARTS.png" group-title="🎬 Cine",✔️ Films&arts 
 http://104.238.205.28:8989/278400_.m3u8
 
 ✔️FreeTV_Accion - Olympusat server 
@@ -1432,11 +1435,11 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
 
 ✔️FX - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX
 http://104.238.205.28:8989/278426_.m3u8
 
 ✔️FX_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",✔️ FX (2)
 http://104.238.205.28:8989/278427_.m3u8
 
 ✔️📱FX - cvattv server
@@ -1476,7 +1479,7 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8
 http://clubtv.link/jun27/phpcode/lista0.php?c=24&token=TecnoplusJunio03&f=.m3u8
 
 *HBO_2 - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="🎬 Cine",✔️ HBO 2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="🎬 Cine",✔️ HBO 2
 http://clubtv.link/jun27/phpcode/lista0.php?c=23&token=TecnoplusJunio03&f=.m3u8
 
 ✔️HBO_Family - clubtv server 
@@ -1508,7 +1511,7 @@ https://7.innovatestream.pe:19360/server11/server11.m3u8
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 
 ✔️Multipremier - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/multipremier.png" group-title="🎬 Cine",✔️ Multipremier
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/multipremier.png" group-title="🎬 Cine",✔️ Multipremier
 http://104.238.205.28:8989/278510_.m3u8
 
 ✔️MyTime_Movie_Network - amagitv server
@@ -1658,11 +1661,11 @@ https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc/TNTSeries.mpd?|r
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
 ✔️Universal_Cinema - clubtv server  ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema
 https://clubtv.link/jun27/phpcode/lista0.php?c=36&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Universal_Crime - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime
 http://clubtv.link/jun27/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Universal_Premier - clubtv server 
@@ -1670,7 +1673,7 @@ http://clubtv.link/jun27/phpcode/lista0.php?c=32&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=31&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Universal_TV - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV
 https://clubtv.link/jun27/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Usa_TV - 190.216 server 
@@ -1678,7 +1681,7 @@ https://clubtv.link/jun27/phpcode/lista0.php?c=38&token=TecnoplusJunio03&f=.m3u8
 http://190.216.158.199:8000/play/a00g/index.m3u8
 
 ✔️Usa_TV - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV (2)
 http://104.238.205.28:8989/278451_.m3u8
 
 ✔️📱Usa TV - cvattv server
@@ -1699,11 +1702,11 @@ https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc/Volver.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Warner_TV - 190.216 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV
 http://190.216.158.199:8000/play/a00m/index.m3u8
 
 ✔️Warner_TV_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV (2)
 http://104.238.205.28:8989/278453_.m3u8
 
 ✔️📱Warner_TV - cvattv server 
@@ -1738,7 +1741,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
 ✔️Azteca_Corazon - Astra Colombia Server ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png"  group-title="❤️ Novelas",✔️ Azteca Corazon (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png"  group-title="❤️ Novelas",✔️ Azteca Corazon (2)
 http://190.217.23.56:1010/play/a0bs/index.m3u8
 https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8
 
@@ -1793,7 +1796,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc/TBS.mpd?|referer=https
 
 
 ✔️Adrenalina_Sports_Network - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/adrenalinasportsnetwork.png" group-title="⚽ Deportes",✔️ Adrenalina Sports Network
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/adrenalinasportsnetwork.png" group-title="⚽ Deportes",✔️ Adrenalina Sports Network
 http://104.238.205.28:8989/278572_.m3u8
 
 ✔️AYM_Sports - Otteravision server 
@@ -1818,11 +1821,11 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 ✔️📱DAZN F1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznf1.png" group-title="⚽ Deportes",✔️ DAZN F1 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznf1.png" group-title="⚽ Deportes",✔️ DAZN F1 📱
 http://elrinconcito.ddns.net:8080/123456789/987654321/133877
 
 ✔️Deportv - 38.211 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/deportv.png" group-title="⚽ Deportes",✔️ Deportv
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/deportv.png" group-title="⚽ Deportes",✔️ Deportv
 http://104.238.205.28:8989/278756_.m3u8
 
 ✔️Dsports - 38.211 server
@@ -1830,7 +1833,7 @@ http://104.238.205.28:8989/278756_.m3u8
 http://38.211.242.128:8001/play/a09s/index.m3u8
 
 ✔️Dsports - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" group-title="⚽ Deportes",✔️ Dsports (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" group-title="⚽ Deportes",✔️ Dsports (2)
 http://104.238.205.28:8989/278758_.m3u8
 
 ✔️Dsports_2 - 38.211 server
@@ -1862,11 +1865,11 @@ https://clubtv.link/jun27/phpcode/lista0.php?c=77&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=79&token=TecnoplusJunio03&f=.m3u8
 
 *ESPN_2_MX - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 MX
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 MX
 https://clubtv.link/jun27/phpcode/lista0.php?c=40&token=TecnoplusJunio03&f=.m3u8
 
 ✔️ESPN_2_MX - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 (2)MX
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 (2)MX
 http://104.238.205.28:8989/278762_.m3u8
 
 *ESPN_3 - clubtv server ( SOLO ANDROID )
@@ -1875,27 +1878,27 @@ https://clubtv.link/jun27/phpcode/lista0.php?c=39&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=60&token=TecnoplusJunio03&f=.m3u8
 
 ✔️ESPN_3 - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3 (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3 (2)
 http://104.238.205.28:8989/278763_.m3u8
 
 ✔️ESPN_4 - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn4.png" group-title="⚽ Deportes",✔️ ESPN 4
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn4.png" group-title="⚽ Deportes",✔️ ESPN 4
 http://104.238.205.28:8989/278763_.m3u8
 
 ✔️ESPN_5 - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn5.png" group-title="⚽ Deportes",✔️ ESPN 5
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn5.png" group-title="⚽ Deportes",✔️ ESPN 5
 http://104.238.205.28:8989/278558_.m3u8
 
 ✔️ESPN_6 - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" group-title="⚽ Deportes",✔️ ESPN 6
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" group-title="⚽ Deportes",✔️ ESPN 6
 http://104.238.205.28:8989/278566_.m3u8
 
 ✔️ESPN_7 - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" group-title="⚽ Deportes",✔️ ESPN 7
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" group-title="⚽ Deportes",✔️ ESPN 7
 http://104.238.205.28:8989/278567_.m3u8
 
 ✔️ESPN_Deportes - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espndeportes.png" group-title="⚽ Deportes",✔️ ESPN Deportes
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espndeportes.png" group-title="⚽ Deportes",✔️ ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
 
 //ESPN-U
@@ -1912,15 +1915,15 @@ EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/ref
 https://aegis-cloudfront-1.tubi.video/63c84a5d-300a-4b9d-b1e8-40edbefb1ef6/playlist.m3u8
 
 ✔️Fox_Sports - 104.238 server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportsar.png" group-title="⚽ Deportes",✔️ Fox Sports
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportsar.png" group-title="⚽ Deportes",✔️ Fox Sports
 http://104.238.205.28:8989/278766_.m3u8
 
 ✔️Fox_Sports_2 - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports2.png" group-title="⚽ Deportes",✔️ Fox Sports 2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports2.png" group-title="⚽ Deportes",✔️ Fox Sports 2
 http://104.238.205.28:8989/278767_.m3u8
 
 ✔️Fox_Sports_3 - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports3.png" group-title="⚽ Deportes",✔️ Fox Sports 3
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsports3.png" group-title="⚽ Deportes",✔️ Fox Sports 3
 http://104.238.205.28:8989/278768_.m3u8
 
 *Fox_Sports_3_MX - clubtv server 
@@ -1932,7 +1935,7 @@ https://clubtv.link/jun27/phpcode/lista0.php?c=28&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=29&token=TecnoplusJunio03&f=.m3u8
 
 ✔️FS_Premium - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportspremiummx.png" group-title="⚽ Deportes",✔️ FS Premium (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/foxsportspremiummx.png" group-title="⚽ Deportes",✔️ FS Premium (2)
 http://104.238.205.28:8989/278599_.m3u8
 
 ✔️Garage_TV - Sersat server 
@@ -1940,11 +1943,11 @@ http://104.238.205.28:8989/278599_.m3u8
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 ✔️Garage_TV_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV (2)
 http://104.238.205.28:8989/278397_.m3u8
 
 ✔️Golf_Channel - Sersat server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel
 http://104.238.205.28:8989/278568_.m3u8
 
 ✔️InterneTV_Deportes - Ottera server 
@@ -1954,7 +1957,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7397
 
 ✔️Liga_De_Campeones_Movistar - clubtv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/ligadecampeonesmovistar.png" group-title="⚽ Deportes",✔️ Liga De Campeones Movistar
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/ligadecampeonesmovistar.png" group-title="⚽ Deportes",✔️ Liga De Campeones Movistar
 https://clubtv.link/jun27/phpcode/lista0.php?c=64&token=TecnoplusJunio03&f=.m3u8
 
 ✔️MotorVision - Ottera server 
@@ -1978,23 +1981,23 @@ https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/pl
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 ✔️Sky_Sports_La_Liga - 190.92 server ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/skysportslaliga.png" group-title="⚽ Deportes",✔️ Sky Sports La Liga
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/skysportslaliga.png" group-title="⚽ Deportes",✔️ Sky Sports La Liga
 http://190.92.10.66:4000/play/a001/index.m3u8
 
 ✔️TNT_Sports - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsports.png" group-title="⚽ Deportes",✔️ TNT Sports
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsports.png" group-title="⚽ Deportes",✔️ TNT Sports
 http://104.238.205.28:8989/278540_.m3u8
 
 ✔️TNT_Sports_Premium - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
 http://104.238.205.28:8989/278776_.m3u8
 
 ✔️TUDN - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN
 http://190.92.10.66:4000/play/a002/index.m3u8
 
 ✔️TUDN - 190.92 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN (2)
 http://190.92.10.66:4000/play/a006/index.m3u8
 
 //Tigo_Sports 
@@ -2002,7 +2005,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
 
 ✔️TVC_Deportes
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tvcdeprtes.png" group-title="⚽ Deportes",✔️ TVC Deportes
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tvcdeprtes.png" group-title="⚽ Deportes",✔️ TVC Deportes
 http://104.238.205.28:8989/278565_.m3u8
 
 ✔️📱TyC_Sports - cvattv server
@@ -2012,7 +2015,7 @@ http://104.238.205.28:8989/278565_.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc/TyC_Internacional.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️TyC_Sports_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports (2)
 http://104.238.205.28:8989/278778_.m3u8
 
 ✔️TyC_Sports_(3) - 38.44 server
@@ -2020,7 +2023,7 @@ http://104.238.205.28:8989/278778_.m3u8
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
 *Win_Sports - clubtv server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/winsports.png" tvg-country="AR" group-title="⚽ Deportes",✔️ Win Sports 
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/winsports.png" tvg-country="AR" group-title="⚽ Deportes",✔️ Win Sports 
 https://clubtv.link/jun27/phpcode/lista0.php?c=67&token=TecnoplusJunio03&f=.m3u8
 
 //Win_Sports+ - 190.216 server 
@@ -2028,7 +2031,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://190.216.158.199:8000/play/a04n/index.m3u8
 
 ✔️WW_Network - clubtv server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/wwnetwork.png" tvg-country="AR" group-title="⚽ Deportes",✔️ WW Network 🔊(ING)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/wwnetwork.png" tvg-country="AR" group-title="⚽ Deportes",✔️ WW Network 🔊(ING)
 https://clubtv.link/jun27/phpcode/lista0.php?c=65&token=TecnoplusJunio03&f=.m3u8
 
 ✔️XtremaTV_cnarDeportes_2 - Voxtv server 
@@ -2080,7 +2083,7 @@ http://185.189.225.150:85/boing/index.m3u8
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af6abe55914d06da5ac1d4cc72758e68314c9c914bc80d6469f128f27f5129a9ba582871088bdab50f50af6466d324053b8da00f9a35ca6caa56b2c927524436c3e8cca90ff40398a460d48eea5a1d506fb1ddafb46eb0167e14df22c80398e19ec63e3b419f2f5b88f441674a1c102366af4e7f4d2b66d61e560b6a3eb8a752ac8a1177c109a358252415099fbca2b90da0593c447efd6473c62b7fb2a9f98a48aecb5b2469d2bcdd2f59f38302a0966079507ccf00fd22aaf10c2a83a007e1c09fac020aeebd84e205d5c928f4cd12c0eabd7f9e7b56c15eb3a4e308b75cb577722a6786468f13deac073238a270480393cb54c23cf52f0b935f0b594e60e3abbd0c24eb06ceebb0fdef74fa264384a58cc98464a56736dc2e7700c3360b1348ebcc4f47b053ff9e4f2eed25a2e063a0e0860e187e47f8b9ec15b7e7ca00314a0157a63feef41e2be7a2b211c8b77f2be0e718b122823e7d54737385fb7b87f051ab4b0298670c6dbf5790e365c71b430045c1dbb5036e89c4a275c6f588e0077039c0e4847f9d7b28d1a2bdfafee058942133676c0fe185249737a710f88d04e997aacd97bd3ff9b049bbedf462df14d98b2cc1da4f14d58941100e924c7fb7ab92de9f22ac06124c4169b0a9ad575d6a45c081d73625dc7805bec6098d688c238a0e1cc250c53e562b290efb2993318b7d102043a0751186841360238f88b852a5020ac8b2ee80bb2b015b114007a7f66ce920c5bb1ed753795213135f6f785d8fb8a4b3be25ad95985200faf5c086ec6c93be18cfbb3d98f7d5b0ddcf9fa1feeefd8cf9c989a664d0a6a3189c81000248f68a3da7594c7774be6878feacd7dd724b247dcaa826eb56cee9bc64dc4f6baf1f4701b5b2027dfc9e5f519defc47058c72d549220f8fc883d060e8d1a80868e03fb9d41f0f4e5ff3ad7f749d8646bac2b646c5fbd1e6df7575bc9774/91/640x360_1333540/index.m3u8
 
 ✔️Cartoonito - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito
 http://104.238.205.28:8989/278527_.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=53&token=TecnoplusJunio03&f=.m3u8
 
@@ -2093,7 +2096,7 @@ http://190.216.158.199:8000/play/a00b/index.m3u8
 http://190.216.158.199:8000/play/a00j/index.m3u8
 
 ✔️Cartoon_Network_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network (2)
 http://104.238.205.28:8989/278524_.m3u8
 
 ✔️Cut_the_Rope - Ottera server 
@@ -2120,16 +2123,16 @@ http://38.44.109.41:8003/play/a00e/index.m3u8
 http://clubtv.link/jun27/phpcode/lista0.php?c=44&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Disney_channel_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel (2)
 http://104.238.205.28:8989/278538_.m3u8
 
 ✔️Disney-Jr - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr
 http://104.238.205.28:8989/278542_.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=43&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Disney_Jr - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr (2)
 http://104.238.205.28:8989/278541_.m3u8
 
 ✔️La_Abeja_Maya - jmp2 server
@@ -2146,7 +2149,7 @@ http://38.44.109.41:8003/play/a01s/index.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=92&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Nickelodeon_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon (2)
 http://104.238.205.28:8989/278544_.m3u8
 
 ✔️Nickelodeon_🔊(ESP) - 185.189 server 
@@ -2163,7 +2166,7 @@ http://190.217.23.56:1010/play/a0af/index.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=13&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Paka_Paka- 185.189 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pakapaka.png" group-title="🎈 Infantil",✔️ Paka Paka
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pakapaka.png" group-title="🎈 Infantil",✔️ Paka Paka
 http://104.238.205.28:8989/278772_.m3u8
 
 ✔️Padrinos_Mágicos- stitcher cluster server 
@@ -2187,11 +2190,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ✔️Tooncast - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast
 http://104.238.205.28:8989/278551_.m3u8
 
 ✔️Tooncast_(2) - 104.238 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast (2)
 http://104.238.205.28:8989/278552_.m3u8
 
 ✔️Xtrema_Cartoons - Voxtv server 
@@ -2261,7 +2264,7 @@ https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 ✔️Locomotion - 51.222 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png" group-title="🤖 Animacion",✔️ Locomotion
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png" group-title="🤖 Animacion",✔️ Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 ✔️Naruto - plutotv server
@@ -2447,7 +2450,7 @@ http://190.216.158.199:8000/play/a00o/index.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=80&token=TecnoplusJunio03&f=.m3u8
 
 ✔️Discovery_Turbo_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜 Cultura",✔️ Discovery Turbo (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Turbo.png" group-title="🚜 Cultura",✔️ Discovery Turbo (2)
 http://104.238.205.28:8989/278396_.m3u8
 
 *E! - astra colombia server 
@@ -2455,7 +2458,7 @@ http://104.238.205.28:8989/278396_.m3u8
 http://190.217.23.56:1010/play/a0ej/index.m3u8
 
 ✔️El_Gourmet - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="🚜 Cultura",✔️ El Gourmet
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="🚜 Cultura",✔️ El Gourmet
 http://104.238.205.28:8989/278422_.m3u8
 
 ✔️El_Mundo_Del_Campo - astra colombia server 
@@ -2467,7 +2470,7 @@ http://190.217.23.56:1010/play/a0be/index.m3u8
 http://38.44.109.41:8003/play/a036/index.m3u8
 
 ✔️Encuentro - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/encuentro.png" group-title="🚜 Cultura",✔️ Encuentro
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/encuentro.png" group-title="🚜 Cultura",✔️ Encuentro
 http://104.238.205.28:8989/278761_.m3u8
 
 //H2_History
@@ -2482,7 +2485,7 @@ https://clubtv.link/jun27/phpcode/lista0.php?c=19&token=TecnoplusJunio03&f=.m3u8
 https://clubtv.link/jun27/phpcode/lista0.php?c=46&token=TecnoplusJunio03&f=.m3u8
 
 ✔️H&H_Discovery_(2) - 104.238 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜 Cultura",✔️ H&H Discovery (2)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Discovery_Home_%26_Health.png" group-title="🚜 Cultura",✔️ H&H Discovery (2)
 http://104.238.205.28:8989/278395_.m3u8
 
 ✔️ID - clubtv server
@@ -2573,7 +2576,7 @@ https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 ✔️La_Kalle - astra colombia server  ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="📻 Radio en Vivo",✔️ La Kalle
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/lakalle.png" group-title="📻 Radio en Vivo",✔️ La Kalle
 http://190.217.23.56:1010/play/a0a6/index.m3u8
 
 ✔️Latina - telecentro server 
@@ -2581,7 +2584,7 @@ http://190.217.23.56:1010/play/a0a6/index.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
 *Mi_Gente - Astra colombia server ( SOLO PC )
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="📻 Radio en Vivo",✔️ Mi Gente TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/migentetv.png" group-title="📻 Radio en Vivo",✔️ Mi Gente TV
 http://190.217.23.56:1010/play/a0a8/index.m3u8
 
 ✔️Antena_91 - tuvideoonline server
@@ -2613,11 +2616,11 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://alternatv.ar/stream/hls/live.m3u8
 
 ✔️BandamaX - 104.238 Server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Bandamax.png" group-title="🎵​ Musica",✔️ BandamaX
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Bandamax.png" group-title="🎵​ Musica",✔️ BandamaX
 http://104.238.205.28:8989/278603_.m3u8
 
 ✔️Beats_Radio - shockmedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 ✔️Canela_Music - ottera server 
@@ -2678,7 +2681,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 https://jmp2.uk/sam-USAJ3000013FJ.m3u8
 
 ✔️Quantica_TV - shockmedia server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quantica.png" group-title="🎵​ Musica",✔️ Quantica TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quantica.png" group-title="🎵​ Musica",✔️ Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
@@ -2710,7 +2713,7 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
 *Vevo-70s - jmp2 server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo70.png" group-title="🎵​ Musica",✔️ Vevo 70s
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo70.png" group-title="🎵​ Musica",✔️ Vevo 70s
 https://jmp2.uk/sam-USBD300011KQ.m3u8
 
 ✔️Vevo_70s_&_80s - jmp2 server
@@ -2726,15 +2729,15 @@ https://jmp2.uk/sam-USBD300012YC.m3u8
 https://jmp2.uk/sam-USBD3000133M.m3u8
 
 *Vevo_2k - jmp2 server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo2k.png" group-title="🎵​ Musica",✔️ Vevo 2k
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo2k.png" group-title="🎵​ Musica",✔️ Vevo 2k
 https://jmp2.uk/sam-USBB4400015F5.m3u8
 
 *Vevo_2010 - jmp2 server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo2010.png" group-title="🎵​ Musica",✔️ Vevo 2010
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevo2010.png" group-title="🎵​ Musica",✔️ Vevo 2010
 https://jmp2.uk/sam-USBD120002431.m3u8
 
 *Vevo_Country - jmp2 server
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevocountry.png" group-title="🎵​ Musica",✔️ Vevo Country
+EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/vevocountry.png" group-title="🎵​ Musica",✔️ Vevo Country
 https://jmp2.uk/sam-USBC3600001RQ.m3u8
 
 ✔️Vevo_Hip_Hop - cloudfront server
