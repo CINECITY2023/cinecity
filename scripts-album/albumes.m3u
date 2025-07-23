@@ -9,6 +9,9 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/album-mp3/eurotecno.jpg" group-title="Musica Disco",Eurotecno
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/Eurotecno.m3u
 
+#EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2735f4ebdc22b366c5bccf245d2" group-title="Musica Disco",80 Disco Hits 1
+https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/80-disco-hits1.m3u
+
 #EXTINF:-1 tvg-logo="https://ia601702.us.archive.org/1/items/guns-n-roses_202301/GUNS_N_ROSES_GREATEST_HITS.jpg" group-title="Hard Rock",Guns'n Roses - Greatest Hits
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/guns-n-roses.m3u
 
@@ -17,3 +20,5 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 
 #EXTINF:-1 tvg-logo="https://i.discogs.com/7f2Y-3P53IYQHXrahXKcSfL2TEZkctJL1BM0RH_Ih24/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk3MjI2/MDMtMTQ4NTcwNTc5/Mi00MTgyLmpwZWc.jpeg" group-title="Rock Alternativo",Gorillaz - Greatest Hits
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/gorillaz-68-state_vbr.m3u
+
+
