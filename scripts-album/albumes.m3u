@@ -12,6 +12,9 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-logo="https://i.scdn.co/image/ab67616d0000b2735f4ebdc22b366c5bccf245d2" group-title="Musica Disco",80 Disco Hits 1
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/80-disco-hits1.m3u
 
+#EXTINF:-1 tvg-logo="https://digitaltechnology.com.ar/vinilosencd/wp-content/uploads/2023/10/Front-14.jpg" group-title="Musica Disco",KHTR Radio Action Vol 1
+https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/radio-action-vol-1_vbr.m3u
+
 #EXTINF:-1 tvg-logo="https://ia601702.us.archive.org/1/items/guns-n-roses_202301/GUNS_N_ROSES_GREATEST_HITS.jpg" group-title="Hard Rock",Guns'n Roses - Greatest Hits
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/album-mp3-m3u/guns-n-roses.m3u
 
