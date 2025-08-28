@@ -22,14 +22,6 @@ EVENTOS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 1)
 http://38.211.242.128:8001/play/a09s/index.m3u8
 
-✔️(Evento ⚽ 2)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento",✔️ Mundial de Clubes 2025 (Evento ⚽ 2)
-http://104.238.205.28:8989/278757_.m3u8
-
-✔️(Evento 🎬 3)
-#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/9784475/f4229e39-d886-42a5-8b5b-79baa5c44132/1920x" group-title="🎬 Evento",✔️ Superman - 2025 (Evento 🎬 3)
-https://canvasolutions.com.mx/stuff/superman.mp4
-
 
 
 🏙️BUENOS-AIRES🏙️   
@@ -3282,6 +3274,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *En el desierto (2023 ‧ Terror/Drama)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
+
 
 
 
