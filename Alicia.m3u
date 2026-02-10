@@ -30,17 +30,22 @@ EVENTOS
 #EXTVLCOPT:http-user-agent=iPhone
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 
-✔️America - qaotic server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America (2)
+✔️America2 - qaotic server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America *2
 #EXTVLCOPT:http-user-agent=iPhone
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_360p.m3u8
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
 
-✔️America - github server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America (3)
+✔️America3 - github server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America *3
 #EXTVLCOPT:http-user-agent=iPhone
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
+
+✔️America4 - 107.152 server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America *4
+#EXTVLCOPT:http-user-agent=iPhone
+http://107.152.39.199:8030/hls/canal14.m3u8
 
 ✔️TV_Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
@@ -3292,6 +3297,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *En el desierto (2023 ‧ Terror/Drama)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
+
 
 
 
