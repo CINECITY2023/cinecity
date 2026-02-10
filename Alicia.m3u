@@ -742,8 +742,12 @@ http://clubtv.link/11sept/phpcode/lista0.php?c=71&token=tecnotokenplustv&f=.m3u8
 http://190.216.158.199:8000/play/a02t/index.m3u8
 
 ✔️RCN_3(Colombia) - 107.152 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (3)(Colombia) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN *3 (Colombia) 
 http://107.152.39.199:8030/hls/canal3.m3u8
+
+✔️RCN_4(Colombia) - 107.152 server
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN *4 (Colombia) 
+http://107.152.39.199:8030/hls/canal9.m3u8
 
 ✔️RCN_Mas_(Colombia) - plex server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png" group-title="🌍 Canales Internacionales",✔️ RCN Mas (Colombia)
@@ -3286,6 +3290,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 *En el desierto (2023 ‧ Terror/Drama)
 #EXTINF:-1 tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/9/w1280/45pDkZ986FayuGEkXz5paF6X6BO.jpg" group-title="Movies",En el desierto (2023 ‧ Terror/Drama)
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4
+
 
 
 
