@@ -2110,13 +2110,17 @@ http://104.238.205.28:8989/278599_.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-Garage_TV_(2) - 104.238 server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV (2)
-http://104.238.205.28:8989/278397_.m3u8
+✔️📱Garage_TV 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv2.png" group-title="⚽ Deportes",✔️ Garage TV *2 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc/El_Garage.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Golf_Channel - Sersat server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel
-http://104.238.205.28:8989/278568_.m3u8
+✔️📱Golf_Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
+https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc/Golf_Channel.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️InterneTV_Deportes - Ottera server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/itvdeportes.png" group-title="⚽ Deportes",✔️ InterneTV Deportes HD
@@ -2132,6 +2136,12 @@ https://clubtv.link/11sept/phpcode/lista0.php?c=64&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png" group-title="⚽ Deportes",✔️ MotorVision HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 
+✔️📱NBA_TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nba.png" group-title="⚽ Deportes",✔️ NBA TV 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
+https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc/NBA_TV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 NFL-NETWORK
 EXTINF:-1 tvg-id="nbatv" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nflnetwork.png" group-title="⚽ Deportes",✔️ NFL NETWORK 🔊(ING)
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -2143,6 +2153,12 @@ https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/pl
 Power_Nation - Voxtv server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/powernation.png" group-title="⚽ Deportes",✔️ Power Nation (2)
 https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af7f9e65811896cf7ac1d4c967b58e68314c9c94deed5d646cc458f23f5419dc7a28cd61488a3ab5ef817f20b1a4c2d6f9cbf6c81c52fd2b0f84718c63c42251a5ce2d1d5940a69d1151b5fa8f99cf260fa4a99c47183346ff658ca17827d8b69fd0ff1b019a3a9ec8c1a1b18cea74e732bd2bfcad2f32127ad75a1eda6de72729cfa153653df22c82e2a2195ef84178cc21b98b32fcaa4660a3dd2dc4b9a89bb8ce1fd8844d120d9d7f596324e14086e618a50b6e809b14bf359f2b1794b495e7bbd885cd287da47421325e98e4bd81f24acc8b493cd072dcb630200860abb52061ea45e0a55c40fa8d76b36f94c628c333cc44c2c90478edc469789fabf6a51d0ddc852ef6e9dd660b3a658c3075f5d0ca7804f35241c27a9840c0c2069fc47f1ddceed727b6b869eceffce56340677034456fc8888749e98c92a1829cd5228676111109376b203bd055a32eea874a7c4e2e30e675b4fc7957d347b7e91cdbf958ed8cb36cd15b1fcdc49e1bfc401c75e36297bc7becd78f03d5977795cfa7c0ca506b63b3086b7dce0978f7d8ebd6db83d715618ad73bcf06820124070eab27dd250ed805d9892d859dfafab5c61cb76c56b74cf888b3daab9e9b33e342376d46d4ab6735e55b48bec40850628980ef9bd5014153f4107e39c53fa51add694c664b839a8410c6dd559b28ee6a0ecab378d9e673c2900591b7e1d23625cf892e26d0e7fe3ab34a673d2ab04f90c04687f70d78c560adda86f4ac87c3e41b5b0c78e9acf013bc37abb209a374df5014d66cae40cc7affeb3f68e645140feb3a847b4e8c8a2c4c4c52b7b443d63ce8f0f1b279676b0bf06e7ac0f75a0dcd8b2943dc107975fd1b3bf20e033b7d8fc5ffee2fad0cf37460e140786829d9c33d4b30d49be01ab6e250a9387e1b428bbedb5097ce54af3c7604aab2d7549c6bbf166917fa087d94b6c14db86b38b773cd6586f8a3279b84cd1c7a25447/40/1280x720_3329040/index.m3u8
+
+✔️📱PX_Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/pxsports.png" group-title="⚽ Deportes",✔️ PX Sports 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
+https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc/PX_Sports.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Red_Bull_TV - Akamaized server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png" group-title="⚽ Deportes",✔️ Red Bull TV 🔊(ING)
@@ -2156,9 +2172,11 @@ TNT_Sports - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsports.png" group-title="⚽ Deportes",✔️ TNT Sports
 http://104.238.205.28:8989/278540_.m3u8
 
-TNT_Sports_Premium - 104.238 server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
-http://104.238.205.28:8989/278776_.m3u8
+✔️📱TNT_Sports_Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 TUDN - 190.92 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",✔️ TUDN
@@ -2226,9 +2244,11 @@ Baby_Shark - Plutotv server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyshark.png" group-title="🎈 Infantil",✔️ Baby Shark TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-Baby_TV - 185.189 server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babytv.png" group-title="🎈 Infantil",✔️ Baby TV 🔊 (ESP)
-http://185.189.225.150:85/BabyTV/index.m3u8
+✔️📱Baby_TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babytv.png" group-title="🎈 Infantil",✔️ Baby TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
+https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Baby_TV - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babytv.png" group-title="🎈 Infantil",✔️ Baby TV (2)
@@ -2250,18 +2270,21 @@ Canela_Kids - canelatv server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/canelakids.png" group-title="🎈 Infantil",✔️ Canela Kids
 https://amg00658-amg00658c38-canelatv-international-5220.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakidsta-canelatvinternational/cb563d167d6c648684ce3878d9f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aa86852db80148b6f4adafb8c2360625f5c98435ee3b24af6abe55914d06da5ac1d4cc72758e68314c9c914bc80d6469f128f27f5129a9ba582871088bdab50f50af6466d324053b8da00f9a35ca6caa56b2c927524436c3e8cca90ff40398a460d48eea5a1d506fb1ddafb46eb0167e14df22c80398e19ec63e3b419f2f5b88f441674a1c102366af4e7f4d2b66d61e560b6a3eb8a752ac8a1177c109a358252415099fbca2b90da0593c447efd6473c62b7fb2a9f98a48aecb5b2469d2bcdd2f59f38302a0966079507ccf00fd22aaf10c2a83a007e1c09fac020aeebd84e205d5c928f4cd12c0eabd7f9e7b56c15eb3a4e308b75cb577722a6786468f13deac073238a270480393cb54c23cf52f0b935f0b594e60e3abbd0c24eb06ceebb0fdef74fa264384a58cc98464a56736dc2e7700c3360b1348ebcc4f47b053ff9e4f2eed25a2e063a0e0860e187e47f8b9ec15b7e7ca00314a0157a63feef41e2be7a2b211c8b77f2be0e718b122823e7d54737385fb7b87f051ab4b0298670c6dbf5790e365c71b430045c1dbb5036e89c4a275c6f588e0077039c0e4847f9d7b28d1a2bdfafee058942133676c0fe185249737a710f88d04e997aacd97bd3ff9b049bbedf462df14d98b2cc1da4f14d58941100e924c7fb7ab92de9f22ac06124c4169b0a9ad575d6a45c081d73625dc7805bec6098d688c238a0e1cc250c53e562b290efb2993318b7d102043a0751186841360238f88b852a5020ac8b2ee80bb2b015b114007a7f66ce920c5bb1ed753795213135f6f785d8fb8a4b3be25ad95985200faf5c086ec6c93be18cfbb3d98f7d5b0ddcf9fa1feeefd8cf9c989a664d0a6a3189c81000248f68a3da7594c7774be6878feacd7dd724b247dcaa826eb56cee9bc64dc4f6baf1f4701b5b2027dfc9e5f519defc47058c72d549220f8fc883d060e8d1a80868e03fb9d41f0f4e5ff3ad7f749d8646bac2b646c5fbd1e6df7575bc9774/91/640x360_1333540/index.m3u8
 
-Cartoonito - 104.238 server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito
-http://104.238.205.28:8989/278527_.m3u8
-https://clubtv.link/11sept/phpcode/lista0.php?c=53&token=tecnotokenplustv&f=.m3u8
+✔️📱Cartoonito
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
+https://cdn.cvattv.com.ar/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Cartoonito_(2) - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/Cartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito (2)
 http://190.216.158.199:8000/play/a00b/index.m3u8
 
-Cartoon_Network - 190.216 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network
-http://190.216.158.199:8000/play/a00j/index.m3u8
+✔️📱Cartoon_Network 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.a
 
 Cartoon_Network_(2) - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/cartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network (2)
@@ -2290,18 +2313,27 @@ https://cdn.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_K
 http://38.44.109.41:8003/play/a00e/index.m3u8
 http://clubtv.link/11sept/phpcode/lista0.php?c=44&token=tecnotokenplustv&f=.m3u8
 
-Disney_channel_(2) - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel (2)
-http://104.238.205.28:8989/278538_.m3u8
+✔️📱Disney_Channel 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel *2 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+https://cdn.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Disney-Jr - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr
-http://104.238.205.28:8989/278542_.m3u8
-https://clubtv.link/11sept/phpcode/lista0.php?c=43&token=tecnotokenplustv&f=.m3u8
+✔️📱Disney_JR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney JR 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
+https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Disney_Jr - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneyjr.png" group-title="🎈 Infantil",✔️ Disney Jr (2)
 http://104.238.205.28:8989/278541_.m3u8
+
+✔️📱Dreamworks 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/dreamworks.png" group-title="🎈 Infantil",✔️ Dreamworks 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
+https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 La_Abeja_Maya - jmp2 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/laabejamaya.png" group-title="🎈 Infantil",✔️ La Abeja Maya
@@ -2316,9 +2348,11 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 http://38.44.109.41:8003/play/a01s/index.m3u8
 https://clubtv.link/11sept/phpcode/lista0.php?c=92&token=tecnotokenplustv&f=.m3u8
 
-Nickelodeon_(2) - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon (2)
-http://104.238.205.28:8989/278544_.m3u8
+✔️📱Nickelodeon 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon *2 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
+https://cdn.cvattv.com.ar/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Nickelodeon_🔊(ESP) - 185.189 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickelodeon.png" group-title="🎈 Infantil",✔️ Nickelodeon 🔊(ESP)
@@ -2329,13 +2363,23 @@ http://185.189.225.150:85/nickelodeon/index.m3u8
 http://38.44.109.41:8003/play/a026/index.m3u8
 http://190.217.23.56:1010/play/a0af/index.m3u8
 
-Nick_Jr_(2) - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="🎈 Infantil",✔️ Nick Jr (2)
-https://clubtv.link/11sept/phpcode/lista0.php?c=13&token=tecnotokenplustv&f=.m3u8
+✔️📱Nick_JR 2
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="🎈 Infantil",✔️ Nick Jr *2 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
+https://cdn.cvattv.com.ar/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Paka_Paka- 185.189 server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pakapaka.png" group-title="🎈 Infantil",✔️ Paka Paka
-http://104.238.205.28:8989/278772_.m3u8
+✔️📱Paka_Paka 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/pakapaka.png" group-title="🎈 Infantil",✔️ Paka Paka 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
+https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱Plim_Plim_TV 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/plimplim.png" group-title="🎈 Infantil",✔️ Plim Plim TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
+https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Padrinos_Mágicos- stitcher cluster server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/LosPadrinosMagico.png" group-title="🎈 Infantil",✔️ Padrinos Mágicos
@@ -2357,9 +2401,11 @@ Rugrats - plutotv server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/rugrats.png" group-title="🎈 Infantil",✔️ Rugrats
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-Tooncast - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast
-http://104.238.205.28:8989/278551_.m3u8
+✔️📱Tooncast 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
+https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Tooncast_(2) - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/tooncast.png" group-title="🎈 Infantil",✔️ Tooncast (2)
@@ -3085,6 +3131,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
