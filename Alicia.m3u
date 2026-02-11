@@ -1426,9 +1426,11 @@ http://104.238.205.28:8989/278753_.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc/INCAA_Tv.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Cinecanal - clubtv server 
-EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬 Cine",✔️ Cinecanal
-http://clubtv.link/11sept/phpcode/lista0.php?c=50&token=tecnotokenplustv&f=.m3u8
+✔️📱 CineCanal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CINECANAL.png" group-title="🎬 Cine",✔️ CineCanal 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+https://cdn.cvattv.com.ar/live/c3eds/CinecanalHD/SA_Live_dash_enc/CinecanalHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Cinecanal - 104.238 server 
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINECANAL.png?raw=true" group-title="🎬 Cine",✔️ Cinecanal *2
@@ -1459,6 +1461,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc/Cinemax.mpd?|refer
 Cine_Romantico
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/cineromantico.png?raw=true" group-title="🎬 Cine",✔️ Cine Romantico HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+
+✔️📱 DHE
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/DHE.png" group-title="🎬 Cine",✔️ DHE 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
+https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc/DHE.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 D_Pelicula - clubtv server 
 EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/DEPELICULA.png?raw=true" group-title="🎬 Cine",✔️ D Pelicula
@@ -2994,6 +3002,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
