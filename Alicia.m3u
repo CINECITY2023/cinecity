@@ -1641,7 +1641,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://185.189.225.150:85/Hollywood/index.m3u8
 
 ✔️Imagen Universal TV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", Imagen Universal TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES",✔️ Imagen Universal TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 Kalidad_Television - innovatestream server
@@ -1721,7 +1721,7 @@ http://190.216.158.199:8000/play/a00k/index.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc/SonyHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ✔️Sony_Movies
-#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="🎬 Cine",v✔️ Sony Movies
+#EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="🎬 Cine",✔️ Sony Movies
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 ✔️Space - 38.44 server 
@@ -2115,7 +2115,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://104.238.205.28:8989/278599_.m3u8
 
 ✔️Garage_TV - Sersat server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv.png" group-title="⚽ Deportes",✔️ Garage TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/garagetv2.png" group-title="⚽ Deportes",✔️ Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
 ✔️📱Garage_TV 2
@@ -3200,6 +3200,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
