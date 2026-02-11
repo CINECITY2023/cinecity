@@ -1740,9 +1740,11 @@ https://clubtv.link/11sept/phpcode/lista0.php?c=37&token=tecnotokenplustv&f=.m3u
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Studio_Universal - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal
-https://clubtv.link/11sept/phpcode/lista0.php?c=70&token=tecnotokenplustv&f=.m3u8
+✔️📱Studio_Universal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc/Studio_Universal.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Studio_Universal_(2) - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal (2)
@@ -1794,21 +1796,29 @@ Todo_Cine - Ottera server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/todocine.png" group-title="🎬 Cine",✔️ Todo Cine FHD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 
-Universal_Cinema - clubtv server  ( SOLO PC )
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema
-https://clubtv.link/11sept/phpcode/lista0.php?c=36&token=tecnotokenplustv&f=.m3u8
+✔️📱Universal_Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Universal_Crime - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime
-http://clubtv.link/11sept/phpcode/lista0.php?c=32&token=tecnotokenplustv&f=.m3u8
+✔️📱Universal_Crime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
+https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc/universal_Crime.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Universal_Premier - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",✔️ Universal Premier
-https://clubtv.link/11sept/phpcode/lista0.php?c=31&token=tecnotokenplustv&f=.m3u8
+✔️📱Universal_Premiere
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",✔️ Universal Premiere 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-Universal_TV - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV
-https://clubtv.link/11sept/phpcode/lista0.php?c=38&token=tecnotokenplustv&f=.m3u8
+✔️📱Universal_TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc/Universal_Channel_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 Usa_TV - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV
@@ -1981,9 +1991,11 @@ http://38.211.242.128:8001/play/a05h/index.m3u8
 ECDF
 EXTINF:-1 tvg-logo="https://archive.org/download/Deportes-Logo-120x120/ecdf.png" group-title="⚽ Deportes",ECDF
 
-ESPN  - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN 
-http://clubtv.link/11sept/phpcode/lista0.php?c=77&token=tecnotokenplustv&f=.m3u8
+✔️📱ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aab4bd18144c7316c35c74ccce96ddc:3e6db98d9df4747108bd896cba0be57d
+https://cdn.cvattv.com.ar/live/c4eds/ESPN2_PY/SA_Live_dash_enc/ESPN2_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ESPN  - 190.216 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN
@@ -1993,9 +2005,11 @@ ESPN-MX - clubtv server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",✔️ ESPN MX
 https://clubtv.link/11sept/phpcode/lista0.php?c=77&token=tecnotokenplustv&f=.m3u8
 
-ESPN-2 - clubtv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️  ESPN 2
-https://clubtv.link/11sept/phpcode/lista0.php?c=79&token=tecnotokenplustv&f=.m3u8
+✔️📱ESPN_2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4cbc5f5cbac72d38371bb63309e4a9d2:dbc8de27da9726cd2e7659abb08e86ef
+https://cdn.cvattv.com.ar/live/c4eds/ESPN_PY/SA_Live_dash_enc/ESPN_PY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ESPN_2_MX - clubtv server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 MX
@@ -2005,34 +2019,49 @@ ESPN_2_MX - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn2.png" group-title="⚽ Deportes",✔️ ESPN 2 (2)MX
 http://104.238.205.28:8989/278762_.m3u8
 
-ESPN_3 - clubtv server ( SOLO ANDROID )
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3
-https://clubtv.link/11sept/phpcode/lista0.php?c=39&token=tecnotokenplustv&f=.m3u8
-https://clubtv.link/11sept/phpcode/lista0.php?c=60&token=tecnotokenplustv&f=.m3u8
+✔️📱ESPN_3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+https://cdn.cvattv.com.ar/live/c3eds/ESPN3/SA_Live_dash_enc/ESPN3.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ESPN_3 - 104.238 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn3.png" group-title="⚽ Deportes",✔️ ESPN 3 (2)
 http://104.238.205.28:8989/278763_.m3u8
 
-ESPN_4 - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn4.png" group-title="⚽ Deportes",✔️ ESPN 4
-http://104.238.205.28:8989/278764_.m3u8
+✔️📱ESPN_4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn4.png" group-title="⚽ Deportes",✔️ ESPN 4 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://cdn.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-ESPN_5 - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn5.png" group-title="⚽ Deportes",✔️ ESPN 5
-http://104.238.205.28:8989/278558_.m3u8
+✔️📱ESPN_5
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn5.png" group-title="⚽ Deportes",✔️ ESPN 5 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
+https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc/ESPN4.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-ESPN_6 - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" group-title="⚽ Deportes",✔️ ESPN 6
-http://104.238.205.28:8989/278566_.m3u8
+✔️📱ESPN_6
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" group-title="⚽ Deportes",✔️ ESPN 6 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports3_UY/SA_Live_dash_enc/FoxSports3_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
-ESPN_7 - 104.238 server
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" group-title="⚽ Deportes",✔️ ESPN 7
-http://104.238.205.28:8989/278567_.m3u8
+✔️📱ESPN_7
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" group-title="⚽ Deportes",✔️ ESPN 7 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5fc7b662e69c0fbf8d39691166b1c919:89157cdd25df25d56f1ecccee3850888
+https://cdn.cvattv.com.ar/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ESPN_Deportes - 190.92 server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espndeportes.png" group-title="⚽ Deportes",✔️ ESPN Deportes
 http://190.92.10.66:4000/play/a003/index.m3u8?elkiosko
+
+✔️📱_ESPN_Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Deportes",✔️ ESPN Premium 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://cdn.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
 
 ESPN-U
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
@@ -3050,6 +3079,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
