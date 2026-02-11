@@ -47,6 +47,12 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTVLCOPT:http-user-agent=iPhone
 http://107.152.39.199:8030/hls/canal14.m3u8
 
+✔️📱America_TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️📱 America *5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
 ✔️TV_Pública - Edge Access server 
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="🏙️ Buenos Aires",✔️ TV Pública
@@ -2929,4 +2935,5 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
