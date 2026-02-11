@@ -1636,6 +1636,10 @@ Hollywood_HD - 185.189 server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hollywoodhd.png" group-title="🎬 Cine",✔️ Hollywood HD 🔊(ESP)
 http://185.189.225.150:85/Hollywood/index.m3u8
 
+✔️Imagen Universal TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="CINE Y SERIES", Imagen Universal TV
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
+
 Kalidad_Television - innovatestream server
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/KalidadTelevision.png" group-title="🎬 Cine",✔️ Kalidad Television
 https://7.innovatestream.pe:19360/server11/server11.m3u8
@@ -1901,18 +1905,17 @@ CanelaTV_Telenovelas
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/CanelaTVtelenovelas.png" group-title="❤️ Novelas",✔️ Canela TV Telenovelas HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 
-Kanal_D - PlutoTV server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/kanald.png" group-title="❤️ Novelas",✔️ Kanal D
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/cb573d167a6c618884cb3f61cef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b05946d06ea1e00149c42e13fa83439fd401b3d3d55383128425f242c891f8dad618d4e4015293738adf9ed34307fba14bd1a07ca4dd9f672d957f2934663f8490b28e80b81b253931cbf0deab6dbf32c38c37886336c173f0a93f81eb19c62bb2e440afbefbfe4b533cb7862009a40b54c1f89a1649cc44eea7e7d2603cb8ff067d54894b96066572f697af45dc9444c4e24bf1c552aee443e568ba3dcb132816a61dcd086a8d8ab930475c6a0703c97cb09d68d53dd476a981313459434bbea574cd94dc4d0aaf2eec8f73db0912b5d78acc8a406b8a282c53e664d64c162ce2002c2db563a9c17c5b80285cd16e7de30e61c902dda83cf9a2ece00410bcca8817ac38a1e65c92be29815911754ef3fe2554400c5ad5ed6d027939e04df6dcc7e4385853b9b99db0901d68470a16540d99eba825c8d98e7a4b64b4394c577d1e139913c5298e503b6700fd5e82fc4724ff454b4bc1a8305a5669ecb8928995d9c741f53293f8f4372b344e70ff5421237dd8a28249f75b1a262b45e1ef05b26d9d8524e9f20bb3e1b0f1e8b8e52fcf096c7cf3/181/1280x720_3329040/index.m3u8
+✔️Kanal_D - PlutoTV server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/kanald.png" group-title="❤️ Novelas",✔️ Kanal D
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 Novelísima - Ottera server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/Novel%C3%ADsima.png" group-title="❤️ Novelas",✔️ Novelísima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
-PlutoTV_Novelas - plutotv server 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+✔️PlutoTV_Novelas - plutotv server 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 TLnovelas - clubtv server 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/tlnovelas.png" group-title="❤️ Novelas",✔️ TLnovelas
@@ -3192,6 +3195,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
