@@ -18,7 +18,7 @@ EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️(Evento ⚽ 1)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Deportes",✔️ ESPN Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Evento Deportes",✔️ ESPN Premium
 https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=f6a67f55fd2a0da09606b688647e8c92de70b0a2-7b-1770963177-1770945177
 
 
@@ -2616,3 +2616,4 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
