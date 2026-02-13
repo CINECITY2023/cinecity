@@ -3,7 +3,7 @@
 
                                          
 *Preview 📌
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.acom/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/LOGO.png" group-title="Preview",🏠 Preview
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/intros/output.m3u8
 http://stream-gtlc.telecentro.net.ar/hls/telecentropreviewhls/main.m3u8
 EXTVLCOPT:loop
@@ -18,6 +18,8 @@ EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️(Evento ⚽ 1)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Deportes",✔️ ESPN Premium
+https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=f6a67f55fd2a0da09606b688647e8c92de70b0a2-7b-1770963177-1770945177
 
 
 
@@ -969,6 +971,12 @@ http://cdn.sensa.com.ar/live/eds/KanalD/live_dash_cld/KanalD.mpd?|referer=https:
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae51b1d67ff47adac7b6bd3a4b1120a:b4d6bb47193f33ffc12379cdc447455d
 https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc/Lifetime.mpd?|referer=https://web.app.flow.com.ar/&origin=https://web.app.flow.com.ar
+
+✔️📱 Novelísima 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/Novel%C3%ADsima.png" group-title="❤️ Novelas",✔️ Novelísima 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4400f758ddbddc81b7ef9a2b32251625:aa2448ebc63a5034b9b8e6e8d15f770d
+http://cdn.sensa.com.ar/bpk-tv/Novelis/default/index_fk.mpd?|referer=https://player.sensa.com.ar/
 
 ✔️PlutoTV Novelas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
@@ -2608,4 +2616,3 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
-
