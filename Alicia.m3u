@@ -18,12 +18,13 @@ EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️(Evento ⚽ 1)
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento Deportes",✔️ ESPN Premium
-https://rm8zcvk3.fubohd.com/espnpremium/mono.m3u8?token=f6a67f55fd2a0da09606b688647e8c92de70b0a2-7b-1770963177-1770945177
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento Deportes",✔️ Talleres Córdoba vs. Gimnasia Mendoza
+https://bgfuzq.fubohd.com/espnpremium/mono.m3u8?token=1f442854184897d687e417769f60dd910fd1a2a1-11-1771108969-1771090969
 
 ✔️(Evento ⚽ 2)
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento Deportes",✔️ TNT Sports
-https://ag9wzq.fubohd.com/tntsports/mono.m3u8?token=57ed1e07af7676d7a3fdc4b3e148b8ef80e5f31f-97-1770963558-1770945558
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Evento Deportes",✔️ Banfield vs. Racing Club
+https://tyg2mnl9.fubohd.com/tntsports/mono.m3u8?token=26aa88088b9585f6ccddf3585441ad08ce34aa31-4c-1771108819-1771090819
+
 
 🏙️BUENOS-AIRES🏙️   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -411,6 +412,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317
 ✔️PlutoTV Cine Terror
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineterror.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+✔️Runtime Accion
+#EXTINF:0 tvg-logo:"https://img.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/runtime_accion.jpg" group-title="🎬 Cine",✔️ Accion Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 ✔️Sony Movies
 #EXTINF:-1 tvg-logo="https://archive.org/download/Cine-logo-120x120/sonymovies.png" group-title="🎬 Cine",✔️ Sony Movies
@@ -1017,6 +1022,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 🌍CANALES-INTERNACIONALES🌍
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+✔️ADN (Chile)
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/iKWMDFrfvrXEBt1b1v9iLCIyLVrqy2PPCyUeIeMZKFa4LYFmEXNBrZPdfuz8Yk2oyF9m-EPApA=s900-c-k-c0x00ffffff-no-rj" group-title="🌍 Canales Internacionales",✔️ ADN (Chile)
+https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/.m3u8
 
 ✔️Canal_1_Ñuble_(Chile) - cdnz server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png" group-title="🌍 Canales Internacionales",✔️ Canal 1 Ñuble (Chile)
@@ -1253,7 +1261,6 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSig
 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="🌍 Canales Internacionales",✔️ Next (Paraguay)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-
 ✔️ATV_(Peru) - cloudfront server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvhdperu.png" group-title="🌍 Canales Internacionales",✔️ ATV (Peru)
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
@@ -1291,6 +1298,10 @@ http://172.93.102.112:8989/158747_.m3u8
 ✔️Telemundo_Punto_2_(Puerto Rico) - akamaized server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telemundopunto2.png" group-title="🌍 Canales Internacionales",✔️ Telemundo Punto 2 (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+
+✔️Acento (Rep. Dominicana)
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzr7e7SIIdbsMKfylAraQ52OIwApg0h43ksw&s" group-title="🌍 Canales Internacionales",✔️ Acento (Rep. Dominicana)
+https://acentotv01.streamprolive.com/hls/live.m3u8
 
 ✔️10_Microvision_(Rep._Dominicana) - telecablecentral server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ 10 Microvision (Rep. dominicana)
@@ -1418,6 +1429,9 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 🎵​CANALES-DE-MUSICA🎵​
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+✔️AE Radio (Chile)
+#EXTINF:0 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/401839908_1106199430728349_1346653006194574756_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Uij3FYOlATQQ7kNvwENwF5Z&_nc_oc=AdnWP6922ao790SjBpImZ48VLFG6QiS3wjZFzrev9BkLAKubqxu9NRSpzCKdC8sfr5b4BqpynKzkpVCKIBsuzclX&_nc_zt=23&_nc_ht=scontent.feze8-1.fna&_nc_gid=A41VVUQldujFUSf8C6XyEw&oh=00_AftG5GIx4PdwlnU2nGbx5NgvIiBgtE8a7uluAGtybj1omw&oe=69967D78" group-title="🎵​ Musica",✔️ AE Radio (Chile)
+https://tls-cl.cdnz.cl/aeradio/live/.m3u8
 
 ✔️Beats_Radio - shockmedia server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
