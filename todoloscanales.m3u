@@ -181,9 +181,6 @@ https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5VHVyYm8=&lang=1
 #EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="🚜 Cultura",Discovery World
 https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1
 
-#EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/e%21.png" group-title="🚜 Cultura",E!
-https://tvlibree.com/html/fl/?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1
-
 #EXTINF:-1 tvg-name="El Gourmet" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/Elgourmet_23.png" group-title="🚜 Cultura",El Gourmet
 https://tvlibree.com/html/fl/?get=R291cm1ldA==
 
@@ -237,7 +234,7 @@ https://tvlibree.com/html/fl/?get=RXVyb2NoYW5uZWw=
 #EXTINF:-1 tvg-name="Europa Europa" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/EUROPAEUROPA.png" group-title="🎬 Cine",Europa Europa
 https://tvlibree.com/html/fl/?get=RXVyb3BhX0V1cm9wYQ
 
-#EXTINF:-1 tvg-name="Flms & Arts" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FILMANDARTS.png" group-title="🎬 Cine",Flms & Arts
+#EXTINF:-1 tvg-name="Films & Arts" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FILMANDARTS.png" group-title="🎬 Cine",Films & Arts
 https://tvlibree.com/html/fl/?get=RmlsbV9BcnRz
 
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",FX
