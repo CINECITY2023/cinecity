@@ -326,6 +326,9 @@ https://tvlibree.com/html/fl/?get=Q2FuYWxfMTJfQ0JB
 #EXTINF:-1 tvg-name="Antena 3 - España" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/antena3espa%C3%B1a.png" group-title="🌍 Internacionales",Antena 3 - España
 https://tvlibree.com/html/fl/?get=QW50ZW5hXzM=
 
+#EXTINF:-1 tvg-name="Azteca Uno - Mexico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Internacionales",Azteca Uno - Mexico
+https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9henQtb28ub3R0ZXJhdmlzaW9uLmNvbS9vdXQvdjEvZGE1M2Q3ZDM4OGJlNDM3ZTkyYmY4ZjQ2NDAxOGViNDgvaW5kZXgubTN1OA==
+
 #EXTINF:-1 tvg-name="C9N - Paraguay" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/c9nparaguay1.png" group-title="🌍 Internacionales",C9N - Paraguay
 https://tvlibree.com/html/fl/?get=QzlOX0M0
 
