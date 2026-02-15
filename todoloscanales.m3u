@@ -190,9 +190,6 @@ https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5VHVyYm8=&lang=1
 #EXTINF:-1 tvg-name="Discovery World" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/World_Discovery_HD.png" group-title="🚜 Cultura",Discovery World
 https://tvlibree.com/html/fl/?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1
 
-
-
-# --- 🚜 Cultura ---
 #EXTINF:-1 tvg-name="E!" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/e%21.png" group-title="🚜 Cultura",E!
 https://tvlibree.com/html/fl/?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1
 
@@ -312,8 +309,6 @@ https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1
 #EXTINF:-1 tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",Volver
 https://tvlibree.com/html/fl/?get=Vm9sdmVy
 
-
-# --- 🎬 Cine ---
 #EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",Warner TV
 https://tvlibree.com/html/fl/?get=V2FybmVySEQ=&lang=1
 
@@ -329,9 +324,6 @@ https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1
 # --- 🌍 Internacionales ---
 #EXTINF:-1 tvg-name="Antena 3 - España" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/antena3espa%C3%B1a.png" group-title="🌍 Internacionales",Antena 3 - España
 https://tvlibree.com/html/fl/?get=QW50ZW5hXzM=
-
-#EXTINF:-1 tvg-name="Azteca Uno - Mexico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Internacionales",Azteca Uno - Mexico
-https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9henQtb28ub3R0ZXJhdmlzaW9uLmNvbS9vdXQvdjEvZGE1M2Q3ZDM4OGJlNDM3ZTkyYmY4ZjQ2NDAxOGViNDgvaW5kZXgubTN1OA==
 
 #EXTINF:-1 tvg-name="C9N - Paraguay" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/c9nparaguay1.png" group-title="🌍 Internacionales",C9N - Paraguay
 https://tvlibree.com/html/fl/?get=QzlOX0M0
@@ -389,8 +381,6 @@ https://tvlibree.com/html/fl/?get=VGV2ZV9DaXVkYWQ=
 
 
 # --- ❤️ Novelas ---
-#EXTINF:-1 tvg-name="Azteca Corazon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png" group-title="❤️ Novelas",Azteca Corazon
-https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9NDgzMA==
 
 #EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/lifetime.png" group-title="❤️ Novelas",LifeTime
 https://tvlibree.com/html/fl/?get=TGlmZXRpbWU=&lang=1
