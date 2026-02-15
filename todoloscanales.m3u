@@ -87,9 +87,6 @@ https://tvlibree.com/html/fl/?get=RVNQTjQ=
 #EXTINF:-1 tvg-name="ESPN 6" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn6.png" group-title="⚽ Deportes",ESPN 6
 https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzM19VWQ==
 
-
-
-# --- ⚽ Deportes ---
 #EXTINF:-1 tvg-name="ESPN 7" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn7.png" group-title="⚽ Deportes",ESPN 7
 https://tvlibree.com/html/fl/?get=Rm94U3BvcnRzMl9VWQ==
 
@@ -385,6 +382,8 @@ https://tvlibree.com/html/fl/?get=VGV2ZV9DaXVkYWQ=
 
 
 # --- ❤️ Novelas ---
+#EXTINF:-1 tvg-name="Azteca Corazon" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/aztecacorazon.png" group-title="❤️ Novelas",Azteca Corazon
+https://tvlibree.com/html/hls.html?get=aHR0cHM6Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9NDgzMA==
 
 #EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/lifetime.png" group-title="❤️ Novelas",LifeTime
 https://tvlibree.com/html/fl/?get=TGlmZXRpbWU=&lang=1
