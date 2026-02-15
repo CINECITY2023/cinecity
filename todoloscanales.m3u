@@ -54,7 +54,7 @@ https://tvlibree.com/html/fl/?get=Q3JvbmljYVRW
 #EXTINF:-1 tvg-name="DTV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/diputadostv.png" group-title="🎙️ Noticias",DTV
 https://tvlibree.com/html/fl/?get=RGlwdXRhZG9zX1RW
 
-#EXTINF:-1 tvg-name="IP" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canalip.png" group-title="🎙️ Noticias",IP
+#EXTINF:-1 tvg-name="Argentina 12" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/argentina12.png" group-title="🎙️ Noticias",Argentina 12
 https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=
 
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",LN+
@@ -63,10 +63,6 @@ https://tvlibree.com/html/fl/?get=TGFfTmFjaW9u
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",TN
 https://tvlibree.com/html/fl/?get=VG9kb05vdGljaWFz
 
-
-# --- 🏡 Provincia ---
-#EXTINF:-1 tvg-name="Canal 12 Cordoba" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba1.png" group-title="🏡 Provincia",Canal 12 Cordoba
-https://tvlibree.com/html/fl/?get=Q2FuYWxfMTJfQ0JB
 
 
 # --- ⚽ Deportes ---
@@ -121,8 +117,6 @@ https://tvlibree.com/html/fl/?get=VE5UX1Nwb3J0c19IRA
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",TyC Sports
 https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ
 
-#EXTINF:-1 tvg-name="VTV Plus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/vtvplus.png" group-title="⚽ Deportes",VTV Plus
-https://tvlibree.com/html/fl/?get=VlRWX1BsdXNfSEQ
 
 
 # --- 🤖 Animacion ---
@@ -319,6 +313,13 @@ https://tvlibree.com/html/fl/?get=Q29tZWR5Q2VudHJhbA
 
 #EXTINF:-1 tvg-name="Universal Comedy" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🤡 Comedia",Universal Comedy
 https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1
+
+
+
+# --- 🏡 Provincia ---
+#EXTINF:-1 tvg-name="Canal 12 Cordoba" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba1.png" group-title="🏡 Provincia",Canal 12 Cordoba
+https://tvlibree.com/html/fl/?get=Q2FuYWxfMTJfQ0JB
+
 
 
 # --- 🌍 Internacionales ---
