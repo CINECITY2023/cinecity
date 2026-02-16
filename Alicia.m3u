@@ -1293,7 +1293,7 @@ http://172.93.102.112:8989/158747_.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
 ✔️Acento (Rep. Dominicana)
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzr7e7SIIdbsMKfylAraQ52OIwApg0h43ksw&s" group-title="🌍 Canales Internacionales",✔️ Acento (Rep. Dominicana)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/acentotvrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ Acento (Rep. Dominicana)
 https://acentotv01.streamprolive.com/hls/live.m3u8
 
 ✔️10_Microvision_(Rep._Dominicana) - telecablecentral server
@@ -1608,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
