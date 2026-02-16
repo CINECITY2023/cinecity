@@ -1321,7 +1321,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
 ✔️Anzoategui_TV_(Venezuela)
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/927_Anzoategui_TV.png" group-title="🌍 Canales Internacionales",✔️ Anzoategui TV (Venezuela)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AnzoateguiTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Anzoategui TV (Venezuela)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
 ✔️Canal_Once_Del_Zulia_(Venezuela) - globalhostla server 
@@ -1608,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
