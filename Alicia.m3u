@@ -1251,7 +1251,7 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
 ✔️ Next  (Paraguay)
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="🌍 Canales Internacionales",✔️ Next (Paraguay)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/nextparaguay.png" group-title="🌍 Canales Internacionales",✔️ Next (Paraguay)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
 ✔️ATV_(Peru) - cloudfront server
@@ -1608,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
