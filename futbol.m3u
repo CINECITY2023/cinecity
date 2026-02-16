@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://bestleague.world/img/dsports.webp" group-title="Deportes",DSports
+https://la14hd.com/vivo/canales.php?stream=dsports
+
 #EXTINF:-1 tvg-logo="https://bestleague.world/img/espnpr.webp" group-title="Deportes",ESPN Premium
 https://tvlibree.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE
 
