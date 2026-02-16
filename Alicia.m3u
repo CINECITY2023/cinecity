@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://impeditor.com/epg/capanueve/capanueve"
+#EXTM3U 
 
 
                                          
@@ -16,9 +16,7 @@ EXTVLCOPT:loop
 
 EVENTOS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-✔️futbol
-#EXTINF:-1 tvg-logo="" group-title="🏙️ Futbol",✔️ Futbol
-https://wp9xqedt.fubohd.com/espnpremium/mono.m3u8?token=6ea2f9af317be573e9d41b78ec3adf8cf8806574-65-1771211654-1771193654
+
 
 
 🏙️BUENOS-AIRES🏙️   
@@ -1610,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
