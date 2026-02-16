@@ -367,7 +367,7 @@ http://200.92.227.238:8000/play/a0mu/index.m3u8
 http://45.5.117.57:8999/play/a05u/index.m3u8
 
 ✔️Imagen Universal TV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGINoCyWiG_cw9svuACXtn-SXfyLZhTNFX3g&usqp=CAU" group-title="🎬 Cine",✔️ Imagen Universal TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/imagenuniversal.png" group-title="🎬 Cine",✔️ Imagen Universal TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
 ✔️MegaCineTV
@@ -1608,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
