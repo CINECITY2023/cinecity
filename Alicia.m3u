@@ -1423,7 +1423,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️AE Radio (Chile)
-#EXTINF:0 tvg-logo="https://scontent.feze8-1.fna.fbcdn.net/v/t39.30808-6/401839908_1106199430728349_1346653006194574756_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Uij3FYOlATQQ7kNvwENwF5Z&_nc_oc=AdnWP6922ao790SjBpImZ48VLFG6QiS3wjZFzrev9BkLAKubqxu9NRSpzCKdC8sfr5b4BqpynKzkpVCKIBsuzclX&_nc_zt=23&_nc_ht=scontent.feze8-1.fna&_nc_gid=A41VVUQldujFUSf8C6XyEw&oh=00_AftG5GIx4PdwlnU2nGbx5NgvIiBgtE8a7uluAGtybj1omw&oe=69967D78" group-title="🎵​ Musica",✔️ AE Radio (Chile)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/aeradiochile.png" group-title="🎵​ Musica",✔️ AE Radio (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
 
 ✔️Beats_Radio - shockmedia server 
@@ -1608,6 +1608,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
