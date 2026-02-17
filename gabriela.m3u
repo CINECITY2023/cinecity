@@ -29,7 +29,7 @@ https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 http://45.5.151.62:8000/play/a08y/index.m3u8
 http://107.152.39.199:8030/hls/canal14.m3u8
 
-✔️America
+✔️America *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America
 #EXTVLCOPT:http-user-agent=iPhone
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
@@ -60,13 +60,19 @@ http://45.5.151.62:8000/play/a093/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 
-✔️Telefe
+✔️Telefe *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 http://45.5.151.62:8000/play/a09d/index.m3u8
 
 ✔️El Trece
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
 http://107.152.39.199:8030/hls/canal12.m3u8
+
+✔️El Trece *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" group-title="🏙️ Buenos Aires",✔️El Trece
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+https://livetrx01.vodgc.net/eltrecetv/index.m3u
 
 ✔️Argentinisima Satelital
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
@@ -162,12 +168,6 @@ https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/cincotvgeneralpacheco.png" group-title="🏙️ Buenos Aires",✔️ Cinco TV (General Pacheco)
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 
-✔️Ciudad Magazine
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="🏙️ Buenos Aires",✔️ Ciudad Magazine
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v3a1/mono.m3u8
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v2a1/mono.m3u8
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-
 ✔️Neo TV (Florencio Varela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/neotv.png" group-title="🏙️ Buenos Aires",✔️ Neo TV (Florencio Varela)
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -221,7 +221,7 @@ https://panel.host-live.com:19360/cn247tv/Source.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️ A24
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
-✔️A24
+✔️A24 *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️ A24
 http://45.5.151.62:8000/play/a08x/index.m3u8
 
@@ -233,13 +233,13 @@ http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",✔️ C5N
 http://45.5.151.62:8000/play/a08z/index.m3u8
 
-✔️C5N
+✔️C5N *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",✔️ C5N
 http://45.5.151.62:8000/play/a05q/index.m3u8
 
 ✔️Cronica TV
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica TV
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p.m3u8
@@ -247,16 +247,16 @@ https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_
 
 ✔️Cronica TV *2
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica TV
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
 ✔️LN+
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",✔️ LN+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+
 http://45.5.151.62:8000/play/a06f/index.m3u8
 
-✔️LN+
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",✔️ LN+
+✔️LN+ *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+
 http://45.5.151.62:8000/play/a09c/index.m3u8
 
 ✔️TN
@@ -264,7 +264,7 @@ http://45.5.151.62:8000/play/a09c/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",✔️ TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-✔️TN
+✔️TN *2
 #EXTVLCOPT:http-user-agent=iPhone
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",✔️ TN
 http://45.5.151.62:8000/play/a09e/index.m3u8
@@ -366,8 +366,8 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",✔️ A3Cine
 http://38.44.109.41:8003/play/a01k/index.m3u8
 
-✔️A3S
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s
+A3S
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",✔️ A3s
 http://160.20.165.246:8000/play/a00f/index.m3u8
 
 ✔️A&E
@@ -378,7 +378,7 @@ http://45.5.117.57:8999/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 
-✔️AMC
+✔️AMC *2
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC
 http://45.5.151.62:8000/play/a07f/index.m3u8
 
@@ -390,7 +390,7 @@ http://45.5.151.62:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/AXN.png" group-title="🎬 Cine",✔️ AXN
 http://45.5.151.62:8000/play/a0at/index.m3u8
 
-✔️AXN
+✔️AXN *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/AXN.png" group-title="🎬 Cine",✔️ AXN
 http://45.5.151.62:8000/play/a07h/index.m3u8
 
@@ -454,7 +454,7 @@ http://45.5.117.57:8999/play/a05q/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="🎬 Cine",✔️ HBO 2
 http://45.5.117.57:8999/play/a05r/index.m3u8
 
-✔️HBO 2
+✔️HBO 2 *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo2.png" group-title="🎬 Cine",✔️ HBO 2
 http://45.5.151.62:8000/play/a085/index.m3u8
 
@@ -475,7 +475,7 @@ http://45.5.151.62:8000/play/a08a/index.m3u8
 http://200.92.227.238:8000/play/a0mu/index.m3u8
 
 ✔️HBO Xtreme *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme
 http://45.5.117.57:8999/play/a05u/index.m3u8
 
 ✔️Imagen Universal TV
@@ -495,7 +495,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 ✔️OromarTV *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV
 http://38.44.109.41:8003/play/a01a/index.m3u8
 
 ✔️PlutoTV Cine Accion 
@@ -526,7 +526,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel
 http://45.5.117.57:8999/play/a02t/index.m3u8
 
-✔️Sony Channel
+✔️Sony Channel *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonychannel.png" group-title="🎬 Cine",✔️ Sony Channel
 http://45.5.151.62:8000/play/a0ap/index.m3u8
 
@@ -537,13 +537,12 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 ✔️Space
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space
 http://38.44.109.41:8003/play/a01y/index.m3u8
-https://clubtv.link/11sept/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u8
 
 ✔️Star Channel
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ Star Channel
 http://45.5.117.57:8999/play/a03v/index.m3u8
 
-✔️Star Channel
+✔️Star Channel *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ Star Channel
 http://45.5.151.62:8000/play/a08m/index.m3u8
 
@@ -560,7 +559,7 @@ http://45.5.117.57:8999/play/a02h/index.m3u8
 http://38.44.109.41:8003/play/a01v/index.m3u8
 http://45.5.151.62:8000/play/a08q/index.m3u8
 
-✔️TNT
+✔️TNT *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT
 http://45.5.151.62:8000/play/a0af/index.m3u8
 
@@ -568,7 +567,7 @@ http://45.5.151.62:8000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series
 http://38.44.109.41:8003/play/a01x/index.m3u8
 
-✔️TNT Series
+✔️TNT Series *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series
 http://45.5.151.62:8000/play/a08s/index.m3u8
 
@@ -592,7 +591,7 @@ http://45.5.151.62:8000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV
 http://45.5.117.57:8999/play/a02u/index.m3u8
 
-✔️Warner TV
+✔️Warner TV *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV
 http://45.5.151.62:8000/play/a08w/index.m3u8
 
@@ -687,7 +686,7 @@ http://181.78.82.6:46090/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Deportes",✔️ ESPN Premium
 http://189.50.210.3:8008/play/a04l/index.m3u8
 
-✔️ESPN Premium
+✔️ESPN Premium *2
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espnpremium.png" group-title="⚽ Deportes",✔️ ESPN Premium
 http://45.5.151.62:8000/play/a099/index.m3u8
 
@@ -733,7 +732,7 @@ http://45.5.151.62:8000/play/a09f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
-✔️TyC Sports
+✔️TyC Sports *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
 http://45.5.151.62:8000/play/a09h/index.m3u8
 
@@ -782,7 +781,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
 http://45.5.151.62:8000/play/a07t/index.m3u8
 http://38.44.109.41:8003/play/a00e/index.m3u8
 
-✔️Disney Channel
+✔️Disney Channel *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/disneychannel.png" group-title="🎈 Infantil",✔️ Disney Channel
 http://45.5.117.57:8999/play/a03u/index.m3u8
 
@@ -804,7 +803,7 @@ https://clubtv.link/11sept/phpcode/lista0.php?c=92&token=tecnotokenplustv&f=.m3u
 http://38.44.109.41:8003/play/a026/index.m3u8
 http://190.217.23.56:1010/play/a0af/index.m3u8
 
-✔️Nick Jr
+✔️Nick Jr *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/nickjr.png" group-title="🎈 Infantil",✔️ Nick Jr
 http://45.5.151.62:8000/play/a08g/index.m3u8
 
@@ -988,31 +987,31 @@ http://45.5.151.62:8000/play/a08p/index.m3u8
 🏡CANALES-PROVINCIALES🏡
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️Catamarca_TV
+✔️Catamarca TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/catamarcatv.png" group-title="🏡 Provincia",✔️ Catamarca TV
 https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR=
 
-✔️Canal_9_(Chaco)
+✔️Canal 9 (Chaco)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9ResistenciaChaco.png" group-title="🏡 Provincia",✔️ Canal 9 (Chaco)
 http://coninfo.net:1935/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 
-✔️Canal_4_(Chubut)
+✔️Canal 4 (Chubut)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4esquelchubut.png" group-title="🏡 Provincia",✔️ Canal 4 (Esquel, Chubut)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 
-✔️Tele_Cinco_Trelew_(Chubut)
+✔️Tele Cinco Trelew (Chubut)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/telecincotrelewchubut.png" group-title="🏡 Provincia",✔️ Tele Cinco Trelew (Chubut)
 https://videohd.live:19360/8016/8016.m3u8
 
-✔️Canal_4_San_Francisco_(Cordoba)
+✔️Canal 4 San Francisco (Cordoba)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal4sanfranciscocordoba.png" group-title="🏡 Provincia",✔️ Canal 4 (San Francisco, Cordoba)
 http://204.199.3.2/.m3u8
 
-✔️UniTeve_Villa_Maria_(Cordoba) - solumedia server 
+✔️UniTeve Villa Maria (Cordoba)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/unitvvillamariacordoba.png" group-title="🏡 Provincia",✔️ UniTeve (Villa Maria, Cordoba)
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
-✔️5TV_(Corrientes) - coinnfo server 
+✔️5TV (Corrientes)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/5TVCorrientes.png" group-title="🏡 Provincia",✔️ 5TV (Corrientes)
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
@@ -1022,93 +1021,93 @@ http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
 https://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index_fk.mpd?|referer=https://player.sensa.com.ar/
 
-✔️Canal_9_Litoral_(Entre_Rios) - arcast server 
+✔️Canal 9 Litoral (Entre Rios)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal9LitoralEntreRios.png" group-title="🏡 Provincia",✔️ Canal 9 Litoral (Entre Rios)
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 
-✔️Canal_7_(Jujuy) - arcast server
+✔️Canal 7 (Jujuy)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal7jujuy.png" group-title="🏡 Provincia",✔️ Canal 7 (Jujuy)
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-✔️Canal-3_(La_Pampa) - arcast server 
+✔️Canal 3 (La Pampa)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LaPampa.png" group-title="🏡 Provincia",✔️ Canal 3 (La Pampa)
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
-✔️Canal_13_(La_Rioja) - arcast server 
+✔️Canal 13 (La Rioja)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal13LaRioja.png" group-title="🏡 Provincia",✔️ Canal 13 (La Rioja)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 
-✔️Canal_2_(Misiones) - republicaservers server 
+✔️Canal 2 (Misiones)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2Misiones.png" group-title="🏡 Provincia",✔️ Canal 2 (Misiones)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
-✔️Canal_4_Posadas_(Misiones) - iptv ixfo server 
+✔️Canal 4 Posadas (Misiones)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 4 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
-✔️Canal_6_Posadas_(Misiones) - iptv ixfo server 
+✔️Canal 6 Posadas (Misiones)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 6 (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
-✔️Canal_21_TV_Posadas_(Misiones) - iptv ixfo server 
+✔️Canal 21 TV Posadas (Misiones)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal21TVPosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 21 TV (Posadas, Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-✔️Canal_7_(Neuquén) - arcast server 
+✔️Canal 7 (Neuquén)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="🏡 Provincia",✔️ Canal 7 (Neuquén)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-✔️Canal_7_(Salta) - solumedia server 
+✔️Canal 7 (Salta)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Salta.png" group-title="🏡 Provincia",✔️ Canal 7 (Salta)
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 
-✔️Canal_4_(San_Juan) - alsolnet server
+✔️Canal 4 (San Juan)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4SanJuan.png" group-title="🏡 Provincia",✔️ Canal 4 (San Juan)
 https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 
-✔️Canal_34_(San_Juan) - alsolnet server
+✔️Canal 34 (San Juan)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal34SanJuan.png" group-title="🏡 Provincia",✔️ Canal 34 (San Juan)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
-✔️Canal_3_Las_Heras_(Santa_Cruz) - arcast server 
+✔️Canal 3 Las Heras (Santa Cruz)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal3LasHerasSantaCruz.png" group-title="🏡 Provincia",✔️ Canal 3 (Las Heras; Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
-✔️Canal_5_Pico_Truncado_(Santa_Cruz) - arcast server 
+✔️Canal 5 Pico Truncado (Santa Cruz) 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5PicoTruncadoSantaCruz.png" group-title="🏡 Provincia",✔️ Canal 5 (Pico Truncado, Santa Cruz)
 https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
 
-✔️Aire_de_Santa_Fe - unlimited1 server 
+✔️Aire de Santa Fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/AiredeSantaFe.png" group-title="🏡 Provincia",✔️ Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
-✔️Canal_5_(Santa_Fe) - arcast server 
+✔️Canal 5 (Santa Fe)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png" group-title="🏡 Provincia",✔️ Canal 5 (Santa Fe)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
-✔️Canal_Luz_Rosario_(Santa_Fe)
+✔️Canal Luz Rosario (Santa Fe)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/canalluzsantafe.png" group-title="🏡 Provincia",✔️ Canal Luz (Rosario, Santa Fe)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 
-✔️Canal_Veo_(Santa_Fe) - edge server 
+✔️Canal Veo (Santa Fe)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canalveosantafe.png" group-title="🏡 Provincia",✔️ Canal Veo (Santa Fe)
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
-✔️Cable_Imagen_Armstrong_(Santa_Fe) - arcast server 
+✔️Cable Imagen Armstrong (Santa Fe)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="🏡 Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
-✔️Canal_7_(Santiago_del_Estero) - arcast server 
+✔️Canal 7 (Santiago del Estero)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="🏡 Provincia",✔️ Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
-✔️Canal_2_de_Ushuaia_(Tierra_Del_Fuego) - republicaservers server
+✔️Canal 2 de Ushuaia (Tierra Del Fuego)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2deUshuaiaTierraDelFuego.png" group-title="🏡 Provincia",✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
-✔️Canal_12_Metro_TV_(Tucumán) - streamtv12 server
+✔️Canal 12 Metro TV (Tucumán)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal12metrotvtucuman.png" group-title="🏡 Provincia",✔️ Canal 12 Metro TV (Tucumán)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
@@ -1123,27 +1122,27 @@ https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-✔️AMX_Noticias_(Mexico) - streamlock server
+✔️AMX Noticias (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/amxnoticas.png" group-title="🎙️ Noticias Internacional" ,✔️ AMX Noticias (Mexico)
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL
 
-✔️C4_en_Alerta_(Mexico) - Ottera server 
+✔️C4 en Alerta (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/c4alerta.png" group-title="🎙️ Noticias Internacional",✔️ C4 en Alerta (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420
 
-✔️Canal_24_Horas_(España)
+✔️Canal 24 Horas (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Canal24Horas.png" group-title="🎙️ Noticias Internacional",✔️ Canal 24 Horas (España)
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-✔️Canal_44_(Mexico)
+✔️Canal 44 (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/canal44mexico.png" group-title="🎙️ Noticias Internacional",✔️ Canal 44 (Mexico)
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724.m3u8
 
-✔️CGTN_Español_(China)
+✔️CGTN Español (China)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="🎙️ Noticias Internacional",✔️ CGTN Español (China)
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 
-✔️CGTN_Español_(2)_(China)
+✔️CGTN Español *2 (China)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CGTNEspa%C3%B1olChina.png" group-title="🎙️ Noticias Internacional",✔️ CGTN Español (China)
 http://38.44.109.41:8003/play/a021/index.m3u8
 
@@ -1152,80 +1151,80 @@ http://38.44.109.41:8003/play/a021/index.m3u8
 http://45.5.151.62:8000/play/a06v/index.m3u8
 http://45.5.151.62:8000/play/a07k/index.m3u8
 
-✔️DW_En_Español_(Alemania) 
+✔️DW En Español (Alemania) 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="🎙️ Noticias Internacional",✔️ DW En Español (Alemania)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-✔️DW_En_Español_(2)_(Alemania) - 38.44 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="🎙️ Noticias Internacional",✔️ DW En Español *2 (Alemania)
+✔️DW En Español *2 (Alemania)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/dw.png" group-title="🎙️ Noticias Internacional",✔️ DW En Español (Alemania)
 http://38.44.109.41:8003/play/a01b/index.m3u8
 
-✔️Estrella_News_(Mexico) - roku server
+✔️Estrella News (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EstrellaNewsMexico.png" group-title="🎙️ Noticias Internacional",✔️ Estrella News (Mexico)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
-✔️HispanTV_(Iran) - presstv server
+✔️HispanTV (Iran)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="🎙️ Noticias Internacional",✔️ HispanTV (Iran)
 https://live.presstv.ir/hls/hispantv.m3u8
 
-✔️HispanTV_(2)_(Iran) - 38.44 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="🎙️ Noticias Internacional",✔️ HispanTV *2 (Iran)
+✔️HispanTV *2 (Iran)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png" group-title="🎙️ Noticias Internacional",✔️ HispanTV (Iran)
 http://38.44.109.41:8003/play/a024/index.m3u8
 
-✔️Latina_Noticias_(Peru) - jireh server 
+✔️Latina Noticias (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/latinanoticias.png" group-title="🎙️ Noticias Internacional",✔️ Latina Noticias (Peru)
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8
 
-✔️Milenio_(Mexico) - Mdstrm server 
+✔️Milenio (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="🎙️ Noticias Internacional",✔️ Milenio (Mexico)
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-✔️Milenio_(Mexico) - Ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="🎙️ Noticias Internacional",✔️ Milenio *2 (Mexico)
+✔️Milenio *2 (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/MilenioTV.png" group-title="🎙️ Noticias Internacional",✔️ Milenio (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7367
 
-✔️TeleDiario_Now_(Mexico) - Ottera server 
+✔️TeleDiario Now (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/telediariomex.png" group-title="🎙️ Noticias Internacional",✔️ TeleDiario Now (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
 
-✔️N+_(Mexico) - Akanaized server 
+✔️N+ (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/N%2B.png" group-title="🎙️ Noticias Internacional",✔️ N+ (Mexico)
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 
-✔️N+_Foro_(Mexico) - Univision server 
+✔️N+ Foro (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/nmasforo.png" group-title="🎙️ Noticias Internacional",✔️ N+ Foro (Mexico)
 https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true
 
-✔️Pura_Noticia_(Chile) - janusmedia - server
+✔️Pura Noticia (Chile)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png" group-title="🎙️ Noticias Internacional" ,✔️ Pura Noticia (Chile)
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
-✔️RT_en_Español_(Rusia) - Rttv server 
+✔️RT en Español (Rusia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="🎙️ Noticias Internacional",✔️ RT en Español (Rusia)
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-✔️RT_en_Español_(2)_(Rusia) - 38.44 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="🎙️ Noticias Internacional",✔️ RT en Español *2 (Rusia)
+✔️RT en Español *2 (Rusia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/RT.png" group-title="🎙️ Noticias Internacional",✔️ RT en Español (Rusia)
 http://38.44.109.41:8003/play/a00a/index.m3u8
 
-✔️TeleFormula_(Mexico) - Mdstrm server 
+✔️TeleFormula (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/teleformula.png" group-title="🎙️ Noticias Internacional",✔️ TeleFormula (Mexico)
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
-✔️Telesur_(Venezuela) - Telesur server 
+✔️Telesur (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur (Venezuela)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
-✔️Telesur_(2)_(Venezuela) - Telesur server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur *2 (Venezuela)
+✔️Telesur *2 (Venezuela)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur (Venezuela)
 http://38.44.109.41:8003/play/a01q/index.m3u8
 
-✔️TV_BRICS_(Rusia) - mediacdn server
+✔️TV BRICS (Rusia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TVBRICSRusia.png" group-title="🎙️ Noticias Internacional",✔️ TV BRICS (Rusia)
 https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8
 
-✔️Univision_24|7_(Mexico) - cloudfront server
+✔️Univision 24|7 (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Univision247Mexico.png" group-title="🎙️ Noticias Internacional",✔️ Univision 24|7 (Mexico)
 https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8
 
@@ -1241,27 +1240,27 @@ https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️EWTN_(2)_(Usa) - 38.44 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🌍 Canales Internacionales",✔️ EWTN *2 (Usa)
+✔️EWTN (EEUU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🌍 Canales Internacionales",✔️ EWTN (EEUU)
 http://38.44.109.41:8003/play/a01u/index.m3u8
 
-✔️Andalucía_Television_(España) - getpublica server
+✔️Andalucía Television (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Andaluc%C3%ADaTelevisionEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ Andalucía Television (España)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12685&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
-✔️El_Toro_TV_(España) - eltoro server 
+✔️El Toro TV (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ElToroTVEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ El Toro TV (España)
 https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
-✔️EsTuTele_(España) - getpublica server
+✔️EsTuTele (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EsTuTeleEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ EsTuTele (España)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12680&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
-✔️Star_TVE_(España) - rtve server 
+✔️Star TVE (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ Star TVE (España)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 
-✔️TeleToledo_(España) - getpublica server
+✔️TeleToledo (España)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleToledoEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ TeleToledo (España)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=12688&live=1&avod=1&hls_marker=1&pod_duration=[POD_DURATION]&min_ad_duration=6&max_ad_duration=120&site_page=[SITE_PAGE]&site_name=
 
@@ -1275,35 +1274,35 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adnchile.png" group-title="🌍 Canales Internacionales",✔️ ADN (Chile)
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/.m3u8
 
-✔️Canal_1_Ñuble_(Chile) - cdnz server
+✔️Canal 1 Ñuble (Chile)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png" group-title="🌍 Canales Internacionales",✔️ Canal 1 Ñuble (Chile)
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-✔️Canal_2_Quellón_(Chile) - unlimited1 server
+✔️Canal 2 Quellón (Chile)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Canales Internacionales",✔️ Canal 2 Quellón (Chile)
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-✔️Canal_9_Bio_Bio_Television_(Chile) - unlimited6 server
+✔️Canal 9 Bio Bio Television (Chile)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="🌍 Canales Internacionales",✔️ Canal 9 Bio Bio Television (Chile)
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
-✔️Alpavision_Neiva_(Colombia) - voxtvhd server
+✔️Alpavision Neiva (Colombia)
 #EXTINF:-1 tvg-id="Canal2AlpavisionNeiva.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Canales Internacionales",✔️ Alpavisión Neiva (Colombia)
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
-✔️Bum_Televisión_(Colombia) - ejeserver server 
+✔️Bum Televisión (Colombia)
 #EXTINF:-1 tvg-id="CanalVisionDorada.co" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/BumTelevisi%C3%B3nColombia.png" group-title="🌍 Canales Internacionales",✔️ Bum Televisión (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-✔️Cali_TV_(colombia) - cehis server
+✔️Cali TV (colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/calitvcolombia.png" group-title="🌍 Canales Internacionales",✔️ Cali TV (Colombia)
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-✔️Canal_1_(Colombia) - 38.44 server
+✔️Canal 1 (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal1colombia.png" group-title="🌍 Canales Internacionales",✔️ Canal 1 (Colombia)
 http://38.44.109.41:8003/play/a020/index.m3u8
 
-✔️Canal_8_Tv+_(Colombia) - ejeserver server
+✔️Canal 8 Tv+ (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal8Tv%2B.png" group-title="🌍 Canales Internacionales",✔️ Canal 8 TV+ (Colombia)
 https://movil.ejeserver.com/live/canal8tv.m3u8
 
@@ -1323,36 +1322,36 @@ http://107.152.39.199:8030/hls/canal10.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Canales Internacionales",✔️ Caracol TV *3 (Colombia)
 http://205.235.6.29:8000/play/a0vf/index.m3u8
 
-✔️City_TV_(Colombia) - 38.44 server
+✔️City TV (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CityTV1Colombia.png" group-title="🌍 Canales Internacionales",✔️ City TV (Colombia)
 http://38.44.109.41:8003/play/a02f/index.m3u8
 
-✔️RCN_3(Colombia) - 107.152 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN *3 (Colombia) 
+✔️RCN (Colombia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (Colombia) 
 http://107.152.39.199:8030/hls/canal3.m3u8
 
-✔️RCN_4(Colombia) - 107.152 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN *4 (Colombia) 
+✔️RCN *2 (Colombia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (Colombia) 
 http://107.152.39.199:8030/hls/canal9.m3u8
 
-✔️RCN_Mas_(Colombia) - plex server 
+✔️RCN Mas (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rcnmascolombia.png" group-title="🌍 Canales Internacionales",✔️ RCN Mas (Colombia)
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
-✔️Señal_Colombia_(Colombia) -38.44 server
+✔️Señal Colombia (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Se%C3%B1alColombiaColombia.png" group-title="🌍 Canales Internacionales",✔️ Señal Colombia (Colombia)
 http://38.44.109.41:8003/play/a018/index.m3u8
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-✔️Telepacifico_(Colombia) - enetres server 
+✔️Telepacifico (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telepacificocolombia.png" group-title="🌍 Canales Internacionales",✔️ Telepacifico (Colombia)
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-✔️Extra_TV_(Costa Rica)- cloudfront server 
+✔️Extra TV (Costa Rica)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Canales Internacionales",✔️ Extra TV (Costa Rica)
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 
-✔️Tele_Uno_(Costa Rica) - streamlock server
+✔️Tele Uno (Costa Rica)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Canales Internacionales",✔️ Tele Uno (Costa Rica)
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 
@@ -1360,56 +1359,56 @@ https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Canales Internacionales",✔️ Austral TV (Ecuador)
 http://205.235.6.29:8000/play/a0vn/index.m3u8
 
-✔️Ecuador_TV_(Ecuador) - samson server 
+✔️Ecuador TV (Ecuador)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-✔️Ecuador_TV_(2)_Ecuador) - 38.44 server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV *2 (Ecuador)
+✔️Ecuador TV *2 (Ecuador)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV (Ecuador)
 http://38.44.109.41:8003/play/a02b/index.m3u8
 
-✔️Ecuavisa_(Ecuador) - rudo server
+✔️Ecuavisa (Ecuador)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuavisa (Ecuador)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b2163355050067fdfde47773e
 
-✔️Ecuavisa_(2)_(Ecuador) - 38.44 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuavisa *2 (Ecuador)
+✔️Ecuavisa *2 (Ecuador)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuavisa (Ecuador)
 http://38.44.109.41:8003/play/a019/index.m3u8
 
-✔️Teleamazonas_(2)_(Ecuador) - 38.44 server
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleamazonasEcuador.png" group-title="🌍 Canales Internacionales",✔️ Teleamazonas *2 (Ecuador)
+✔️Teleamazonas (Ecuador)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleamazonasEcuador.png" group-title="🌍 Canales Internacionales",✔️ Teleamazonas (Ecuador)
 http://38.44.109.41:8003/play/a01d/index.m3u8
 
-✔️Wuan+_(Ecuador) - innovatestream server
+✔️Wuan+ (Ecuador)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Wuan%2BEcuador.png" group-title="🌍 Canales Internacionales",✔️ Wuan+ (Ecuador)
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
 
 ✔️ Canal 7 (Guatemala)
-#EXTINF:-1 tvg-logo="" group-title="🌍 Canales Internacionales",✔️ Canal 7 (Guatemala)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal7Guatemala.png" group-title="🌍 Canales Internacionales",✔️ Canal 7 (Guatemala)
 http://45.5.117.57:8999/play/a02m/index.m3u8
 
 ✔️Sas TV (Guatemala)
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_877325b0e9574b8ea585d9eef33fae50~mv2.jpg" group-title="🌍 Canales Internacionales",✔️ Sas TV (Guatemala)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/sastvguatemala.png" group-title="🌍 Canales Internacionales",✔️ Sas TV (Guatemala)
 https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 
 ✔️Vision TV (Guatemala)
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_7de20afef37447a38a68945f348bbad6~mv2.jpg" group-title="🌍 Canales Internacionales",✔️ Vision TV (Guatemala)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/visiontvguatemala.png" group-title="🌍 Canales Internacionales",✔️ Vision TV (Guatemala)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-✔️VTV_(Honduras) - VTV server 
+✔️VTV (Honduras)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vtvhonduras.png" group-title="🌍 Canales Internacionales",✔️ VTV (Honduras)
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-✔️ADN40_(Mexico) - mdstrm server 
+✔️ADN40 (Mexico) 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adn40.png" group-title="🌍 Canales Internacionales",✔️ ADN40 (Mexico)
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-✔️Azteca_Clic_(Mexico) - ottera server 
+✔️Azteca Clic (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ClicMexico.png" group-title="🌍 Canales Internacionales",✔️ Azteca Clic (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
 
-✔️Azteca_Internacional_(Mexico) - otteravision server 
+✔️Azteca Internacional (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Canales Internacionales",✔️ Azteca Internacional (Mexico)
 https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
@@ -1417,22 +1416,22 @@ https://azt-mun.otteravision.com/azt/mun/mun_540p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_480p.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 
-✔️Azteca_Internacional_(Mexico) - ottera server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Canales Internacionales",✔️ Azteca Internacional *2 (Mexico)
+✔️Azteca Internacional *2 (Mexico) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Canales Internacionales",✔️ Azteca Internacional (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
-✔️Azteca_Uno_(Mexico) - ottera server 
+✔️Azteca Uno (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Canales Internacionales",✔️ Azteca Uno (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
 http://38.44.109.41:8003/play/a033/index.m3u8
 
-✔️Azteca_Uno_(Mexico) - otteravision server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Canales Internacionales",✔️ Azteca Uno *2 (Mexico)
+✔️Azteca Uno *2 (Mexico) 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Canales Internacionales",✔️ Azteca Uno (Mexico)
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
-✔️Canal_6_Multimedios_Laguna_(Mexico) - mdstrm server 
+✔️Canal 6 Multimedios Laguna (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal%206%20Multimedios.png" group-title="🌍 Canales Internacionales",✔️ Canal 6 Multimedios Laguna (Mexico)
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
@@ -1440,36 +1439,36 @@ https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-✔️Canal_6_Multimedios_Laguna_(Mexico) - ottera sever  
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal%206%20Multimedios.png" group-title="🌍 Canales Internacionales",✔️ Canal 6 Multimedios *2 Laguna (Mexico)
+✔️Canal 6 Multimedios Laguna *2 (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal%206%20Multimedios.png" group-title="🌍 Canales Internacionales",✔️ Canal 6 Multimedios Laguna (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7368
 
-✔️Canal_6_Multimedios_Monterrey_(Mexico) - mdstrm server 
+✔️Canal 6 Multimedios Monterrey (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal%206%20Multimedios.png" group-title="🌍 Canales Internacionales",✔️ Canal 6 Multimedios *3 Monterrey (Mexico)
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-✔️Canal_6_Multimedios_Saltillo_(Mexico) - mdsrtm server 
+✔️Canal 6 Multimedios Saltillo (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal%206%20Multimedios.png" group-title="🌍 Canales Internacionales",✔️ Canal 6 Multimedios *4 Saltillo (Mexico)
 https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 
-✔️Canal_10_(Mexico) - streamlock server 
+✔️Canal 10 (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal10Mexico.png" group-title="🌍 Canales Internacionales",✔️ Canal 10 (Mexico)
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 
-✔️Canal_Once_(Mexico) - canaloncelive server
+✔️Canal Once (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceMexico.png" group-title="🌍 Canales Internacionales",✔️ Canal Once (Mexico)
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
-✔️Estrella_TV_(Mexico) - oando server 
+✔️Estrella TV (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Canales Internacionales",✔️ Estrella TV (Mexico)
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-✔️Estrella_TV_(Mexico) - roku server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Canales Internacionales",✔️ Estrella TV *2 (Mexico)
+✔️Estrella TV *2 (Mexico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Canales Internacionales",✔️ Estrella TV (Mexico)
 https://estrellatv-roku.amagi.tv/playlist.m3u8 
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
-✔️Imagen_TV_(Mexico) - otteravision server 
+✔️Imagen TV (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ImagenTVmexico.png" group-title="🌍 Canales Internacionales",✔️ Imagen TV (Mexico)
 https://igd-it-runtime.otteravision.com/igd/it/it_360.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
@@ -1477,60 +1476,60 @@ https://igd-it-runtime.otteravision.com/igd/it/it_540.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_480.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 
-✔️Jalisco_TV_(Mexico) - rogohosting server
+✔️Jalisco TV (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JaliscoTVMexico.png" group-title="🌍 Canales Internacionales",✔️ Jalisco TV (Mexico)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 
-✔️JusticiaTV_(Mexico) - vivaro server
+✔️JusticiaTV (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JusticiaTVMexico.png" group-title="🌍 Canales Internacionales",✔️ JusticiaTV (Mexico)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 
-✔️Las_Estrellas_(Mexico) - onlymex server 
+✔️Las Estrellas (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LasEstrellas.png" group-title="🌍 Canales Internacionales",✔️ Las Estrellas (Mexico)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-✔️Las_Estrellas_(Mexico) - onlymex server 
+✔️Las Estrellas *2 (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LasEstrellas.png" group-title="🌍 Canales Internacionales",✔️ Las Estrellas (Mexico)
 http://45.5.151.62:8000/play/a09y/index.m3u8
 
-✔️Mexiquense_(Mexico) - streamlock server 
+✔️Mexiquense (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/MexiquenseMexico.png" group-title="🌍 Canales Internacionales",✔️ Mexiquense (Mexico)
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-✔️RCG_Media_(Mexico) - getstreamhosting server
+✔️RCG Media (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCGMediaMexico.png" group-title="🌍 Canales Internacionales",✔️ RCG Media (Mexico)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-✔️TelePlay_(Mexico) - tvstream server
+✔️TelePlay (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="🌍 Canales Internacionales",✔️ Teleplay (Mexico)
 https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-✔️TRC_Television_(Mexico) - streamlock server 
+✔️TRC Television (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/trctelevisionmexico.png" group-title="🌍 Canales Internacionales",✔️ TRC Television (Mexico)
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
-✔️TV_Mas_(Mexico) - streamlock server 
+✔️TV Mas (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVMasMexico.png" group-title="🌍 Canales Internacionales",✔️ TV Mas (Mexico)
 https://5ca9af4645e15.streamlock.net/rtv/videortv/.m3u8
 https://5ca9af4645e15.streamlock.net/rtv/videortv/chunklist_w1203070051.m3u8
 
-✔️TV_Migrante_(Mexico) - mexside server
+✔️TV Migrante (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVMigranteMexico.png" group-title="🌍 Canales Internacionales",✔️ TV Migrante (Mexico)
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
-✔️TVOAI_Channel_(Mexico) - ottera server 
+✔️TVOAI Channel (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVOAIChannelMexico.png" group-title="🌍 Canales Internacionales",✔️ TVOAI Channel (Mexico)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 
-✔️TV_Pacifico_(Mexico) - streamlock server 
+✔️TV Pacifico (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVPacificoMexico.png" group-title="🌍 Canales Internacionales",✔️ TV Pacifico (Mexico)
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/.m3u8
 
-✔️TV_Unam_(Mexico) - streamlock server 
+✔️TV Unam (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvunammexico.png" group-title="🌍 Canales Internacionales",✔️ TV Unam (Mexico)
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DVR.m3u8
 
-✔️Vibe_TV_(Mexico) - streamlock server 
+✔️Vibe TV (Mexico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/VibeTVMexico.png" group-title="🌍 Canales Internacionales",✔️ Vibe TV (Mexico)
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
@@ -1538,41 +1537,41 @@ https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSig
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/nextparaguay.png" group-title="🌍 Canales Internacionales",✔️ Next (Paraguay)
 https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 
-✔️ATV_(Peru) - cloudfront server
+✔️ATV (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvhdperu.png" group-title="🌍 Canales Internacionales",✔️ ATV (Peru)
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 
-✔️ATV_Sur_(Peru) - 38.44 server
+✔️ATV Sur (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/atvsurperu.png" group-title="🌍 Canales Internacionales",✔️ ATV Sur (Peru)
 http://38.44.109.41:8003/play/a02r/index.m3u8
 
-✔️Autentica_TV_(Peru) - obslivestream server
+✔️Autentica TV (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AutenticaTVPeru.png" group-title="🌍 Canales Internacionales",✔️ Autentica TV (Peru) 
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL 
 
-✔️Latina_(Peru) - rudo server
+✔️Latina (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="🌍 Canales Internacionales",✔️ Latina (Peru)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-✔️Latina_Clasicos_(Peru) - Jireh server
+✔️Latina Clasicos (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/latinaclasicosperu.png" group-title="🌍 Canales Internacionales",✔️ Latina Clasicos (Peru)
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8
 
-✔️Panamericana_TV_(Peru) - 38.44 server
+✔️Panamericana TV (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PanamericanaPeru.png" group-title="🌍 Canales Internacionales",✔️ Panamericana TV (Peru)
 http://38.44.109.41:8003/play/a013/index.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 
-✔️TV_Cosmo_(Peru) - streamlock server
+✔️TV Cosmo (Peru)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvcosmosperu.png" group-title="🌍 Canales Internacionales",✔️ TV Cosmos (Peru)
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1336493216.m3u8 
 
-✔️Telemundo_2(Puerto_Rico) - akamaized server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Canales Internacionales",✔️ Telemundo *2 (Puerto Rico)
+✔️Telemundo (Puerto Rico)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Canales Internacionales",✔️ Telemundo (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 http://172.93.102.112:8989/158747_.m3u8
 
-✔️Telemundo_Punto_2_(Puerto Rico) - akamaized server 
+✔️Telemundo Punto 2 (Puerto Rico)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telemundopunto2.png" group-title="🌍 Canales Internacionales",✔️ Telemundo Punto 2 (Puerto Rico)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
 
@@ -1580,75 +1579,75 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/acentotvrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ Acento (Rep. Dominicana)
 https://acentotv01.streamprolive.com/hls/live.m3u8
 
-✔️10_Microvision_(Rep._Dominicana) - telecablecentral server
+✔️10 Microvision (Rep. Dominicana)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ 10 Microvision (Rep. dominicana)
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-✔️Canal_4_RTVD_(Rep._Dominicana) - prostudionetwork server
+✔️Canal 4 RTVD (Rep. Dominicana)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png" group-title="🌍 Canales Internacionales",✔️ Canal 4 RTVD (Rep. Dominicana)
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-✔️Canal_Catorce_(Rep._Dominicana)
+✔️Canal Catorce (Rep. Dominicana)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="🌍 Canales Internacionales",✔️ Canal Catorce (Rep. Dominicana)
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 ✔️Faro Vision (Rep. Dominicana)
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/526a76_d696844d1b49413d91aadba9ad6e8c5f~mv2.jpg" group-title="🌍 Canales Internacionales",✔️ Faro Vision (Rep. Dominicana)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/FaroVisionRepDominicana.png" group-title="🌍 Canales Internacionales",✔️ Faro Vision (Rep. Dominicana)
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
-✔️ReadyHD_(Rep._Dominicana) - telecablecentral server
+✔️ReadyHD (Rep. Dominicana)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png" group-title="🌍 Canales Internacionales",✔️ ReadyHD (Rep. Dominicana)
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-✔️Teleunion_(Rep._Dominicana) - prostudionetwork server
+✔️Teleunion (Rep. Dominicana)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Canales Internacionales",✔️ Teleunion (Rep. Dominicana)
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
-✔️Alcance_TV_(Venezuela) - streamlock server 
+✔️Alcance TV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AlcanceTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Alcance TV (Venezuela)
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
-✔️Anzoategui_TV_(Venezuela)
+✔️Anzoategui TV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AnzoateguiTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Anzoategui TV (Venezuela)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-✔️Canal_Once_Del_Zulia_(Venezuela) - globalhostla server 
+✔️Canal Once Del Zulia (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CanalOnceDelZuliaVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Canal Once Del Zulia (Venezuela)
 https://streaming5.globalhostla.com/rtplive/canalzulia/playlist.m3u8
 
-✔️Net_Channel_(Venezuela)
+✔️Net Channel (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/netchannelvenezuela.png" group-title="🌍 Canales Internacionales",✔️ Net Channel (Venezuela)
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
-✔️Promar_TV_(Venezuela) - myplaytv server 
+✔️Promar TV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PromarTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Promar TV (Venezuela)
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-✔️Reforma_TV_(Venezuela) - streamlock server
+✔️Reforma TV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ReformaTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Reforma TV (Venezuela)
 https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8
 
-✔️Telearagua_(Venezuela) - 45.173 server
+✔️Telearagua (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelearaguaVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Telearagua (Venezuela)
 http://45.173.198.59:8080/hls/nginx3.m3u8
 
-✔️Torococo_TV_(Venezuela) - streaminghd server
+✔️Torococo TV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TorococoTVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ Torococo TV (Venezuela)
 https://us.streaminghd.cl/torococotelevision/video.m3u8
 
-✔️TRT_(Venezuela) - myplaytv server
+✔️TRT (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRTVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TRT (Venezuela)
 https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 
-✔️TRV_(Venezuela) - myplaytv server
+✔️TRV (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TRVVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TRV (Venezuela)
 https://vcp3.myplaytv.com/trv/trv/playlist.m3u8
 
-✔️TV_FANB_(Venezuela) - myplaytv server
+✔️TV FANB (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVFANBVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TV FANB (Venezuela)
 https://vcp2.myplaytv.com/tvfanb/tvfanb/playlist.m3u8
 
-✔️TVS_Maracay_(Venezuela) - myplaytv server
+✔️TVS Maracay (Venezuela)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVSMaracayVenezuela.png" group-title="🌍 Canales Internacionales",✔️ TVS Maracay (Venezuela)
 https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 
@@ -1664,37 +1663,37 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 📻RADIOS-EN-VIVO📻
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️AN24 - streamlock server 
+✔️AN24
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/An24.png" group-title="📻 Radio en Vivo",✔️ AN24
 https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/playlist.m3u8
 
-✔️Azahares_Radiovisual_Multimedia - alsolnet server 
+✔️Azahares Radiovisual Multimedia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/AzaharesRadiovisualMultimedia.png" group-title="📻 Radio en Vivo",✔️ Azahares Radiovisual Multimedia
 https://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 
-✔️RNE_para_todos - rtve server 
+✔️RNE para todos 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RNEparatodos.png" group-title="📻 Radio en Vivo",✔️ RNE para todos
 https://ztnr.rtve.es/ztnr/6688753.m3u8
 
-✔️RTN_(Neuquen) - media neuquen server 
+✔️RTN (Neuquen)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/RTNNeuquen.png" group-title="📻 Radio en Vivo",✔️ RTN (Neuquen)
 http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 
-✔️Vorterix - qaotic server 
+✔️Vorterix
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Vorterix.png" group-title="📻 Radio en Vivo",✔️ Vorterix
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_360p.m3u8
 
-✔️Vorterix 2- qaotic server 
+✔️Vorterix *2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Vorterix.png" group-title="📻 Radio en Vivo",✔️ Vorterix *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Vorterix.png" group-title="📻 Radio en Vivo",✔️ Vorterix
 https://prepublish.f.qaotic.net:443/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_720p.m3u8
 
 ✔️Latina - telecentro server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/latina.png" group-title="📻 Radio en Vivo",✔️ Latina
 http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 
-✔️Cadena_103 - arcast server
+✔️Cadena 103
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Cadena103.png" group-title="📻 Radio en Vivo",✔️ Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
@@ -1714,26 +1713,26 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/aeradiochile.png" group-title="🎵​ Musica",✔️ AE Radio (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
 
-✔️Beats_Radio - shockmedia server 
+✔️Beats Radio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
-✔️CM - edge access server 
+✔️CM 
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵​ Musica",✔️ CM
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/Playlist.m3u8?sense=true
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
-✔️CM 2- edge access server 
+✔️CM *2
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵​ Musica",✔️ CM *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵​ Musica",✔️ CM
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 
-✔️Conecta_TV
+✔️Conecta TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/conectatv.png" group-title="🎵​ Musica" ,✔️ Conecta TV
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 
-✔️GikTVMx - pistream server 
+✔️GikTVMx
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/giktv.png" group-title="🎵​ Musica",✔️ GikTVMx
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
@@ -1742,16 +1741,16 @@ https://pistream.ddns.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png" group-title="🎵​ Musica" ,✔️ HTV
 http://45.5.151.62:8000/play/a08c/index.m3u8
 
-✔️MusicTop - telecentro server 
+✔️MusicTop 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/MusicTop.png" group-title="🎵​ Musica",✔️ MusicTop
 http://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 
-✔️Quantica_TV - shockmedia server 
+✔️Quantica TV 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quantica.png" group-title="🎵​ Musica",✔️ Quantica TV
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-✔️Retro_TV - mediawork server 
+✔️Retro TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/RetroTV.png" group-title="🎵​ Musica",✔️ Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
@@ -1763,11 +1762,11 @@ http://38.44.109.41:8003/play/a003/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/Teleritmo.png" group-title="🎵​ Musica",✔️ Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-✔️Telpin_TV_Pinamar - telpin server 
+✔️Telpin TV Pinamar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TelpinTVPinamar.png" group-title="🎵​ Musica",✔️ Telpin TV Pinamar
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
-✔️Tierramia_TV - telecentro server 
+✔️Tierramia TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
@@ -1785,72 +1784,72 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 🌐OTROS-IDIOMAS🌐 america
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️CBC_News_Toronto_(Canada) - cloudfront server 
+✔️CBC News Toronto (Canada)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cbcnewstoronto.png" group-title="🌐 Otros Idiomas",✔️ CBC News Toronto (Canada)
 https://dgmkbg0c12wvc.cloudfront.net/CBC_News_Toronto.m3u8
 
-✔️Global_TV_(Canada) - corusdigitaldev server 
+✔️Global TV (Canada)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/GlobalTV.png" group-title="🌐 Otros Idiomas",✔️ Global TV (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-✔️ICI_Television_(Canada) - akamaized server 
+✔️ICI Television (Canada)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/ICITelevision.png" group-title="🌐 Otros Idiomas",✔️ ICI Television (Canada)
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 
-✔️ICI_RDI_(Canada) - akamaized server 
+✔️ICI RDI (Canada)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/IciRDI.png" group-title="🌐 Otros Idiomas",✔️ ICI RDI (Canada)
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 
-✔️CBS_News_(EEUU) - cbstream server 
+✔️CBS News (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNews.png" group-title="🌐 Otros Idiomas",✔️ CBS News (EEUU)
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
 
-✔️CBS_News_Boston_(EEUU) - google server 
+✔️CBS News Boston (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNBoston.png" group-title="🌐 Otros Idiomas",✔️ CBS News Boston (EEUU)
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 
-✔️CBS_News_Chicago_(EEUU) - cbstream server 
+✔️CBS News Chicago (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsChicago.png" group-title="🌐 Otros Idiomas",✔️ CBS News Chicago (EEUU)
 https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master_8.m3u8
 
-✔️CBS_News_Los_Angeles_(EEUU) - cbstream server 
+✔️CBS News Los Angeles (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSLosAngeles.png" group-title="🌐 Otros Idiomas",✔️ CBS News Los Angeles (EEUU)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master_2.m3u8
 
-✔️CBS_News_Miami_(EEUU) - cbstream server 
+✔️CBS News Miami (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSMiami.png" group-title="🌐 Otros Idiomas",✔️ CBS News Bay Miami (EEUU)
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master_2.m3u8
 
-✔️CBS_News_New_York_(EEUU) - cbstream server 
+✔️CBS News New York (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CBSNewsNewYork.png" group-title="🌐 Otros Idiomas",✔️ CBS News New York (EEUU)
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_21.m3u8
 
-✔️Cheddar_TV_(EEUU) - ottera server 
+✔️Cheddar TV (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/cheddar.png" group-title="🌐 Otros Idiomas",✔️ Cheddar TV (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=102
 
-✔️CNN_(EEUU) - turnerlive server 
+✔️CNN (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNN.png" group-title="🌐 Otros Idiomas",✔️ CNN (EEUU)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-✔️Fox_4_(EEUU) - uplynk server 
+✔️Fox 4 (EEUU)
 EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/Fox4.png" group-title="🌐 Otros Idiomas",✔️ Fox 4 (EEUU)
 https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
 
-✔️Fox_Weather_(EEUU) - foxweather server 
+✔️Fox Weather (EEUU) 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png" group-title="🌐 Otros Idiomas",✔️Fox Weather (EEUU)
 https://247wlive.foxweather.com/stream/index_640x360.m3u8
 
-✔️Fox_Weather_2(EEUU) - foxweather server 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png" group-title="🌐 Otros Idiomas",✔️ Fox Weather *2 (EEUU)
+✔️Fox Weather *2 (EEUU)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/FoxWeather.png" group-title="🌐 Otros Idiomas",✔️ Fox Weather (EEUU)
 https://247wlive.foxweather.com/stream/index_1280x720.m3u8
 
-✔️United_Nations_TV_(EEUU) - kaltura server 
+✔️United Nations TV (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/UnitedNationsTV.png" group-title="🌐 Otros Idiomas",✔️ United Nations TV (EEUU)
 https://cdnapisec.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/.m3u8
 
-✔️Very_Local_(EEUU) - ottera server 
+✔️Very Local (EEUU)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/verylocal.png" group-title="🌐 Otros Idiomas",✔️ Very Local (EEUU)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 
@@ -1866,28 +1865,28 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 🌐OTROS-IDIOMAS🌐 europa
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️CNA_(ALB) - mediadesk server 
+✔️CNA (ALB)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/CNA.png"  group-title="🌐 Otros Idiomas",✔️ CNA (ALB)
 https://live1.mediadesk.al/cnatvlive.m3u8
 
-✔️1-2-3_TV_(ALE) - flex server 
+✔️1-2-3 TV (ALE)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/123TV.png" group-title="🌐 Otros Idiomas",✔️ 1-2-3 TV (ALE)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 
-✔️1HD_(RUS) - 1internet server 
+✔️1HD (RUS)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/1hd.png" group-title="🌐 Otros Idiomas",✔️ 1 HD (RUS)
 http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
-✔️Россия_1_HD_(RUS) - reg cdnvideo server
+✔️Россия 1 HD (RUS)
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1-HD.png?raw=true" group-title="🌐 Otros Idiomas",✔️ Россия-1 HD (RUS)
 http://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8 
 
-✔️Россия_Культура_(RUS) - reg cdnvideo server
+✔️Россия Культура (RUS)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%9A%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0.png" group-title="🌐 Otros Idiomas",✔️ Россия Культура (RUS)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8 
 
-✔️НТВ_HD_(RUS) - ntv server
+✔️НТВ HD (RUS)
 #EXTVLCOPT:http-user-agent=(Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) (Dalvik/2.1.0)(Mozilla/5.0)(Windows NT 10.0)(Android 10)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/%D0%9D%D0%A2%D0%92.png" group-title="🌐 Otros Idiomas",✔️ НТВ HD (RUS)
 http://cdn2.ntv.ru/ntv0_hd/index.m3u8
@@ -1897,11 +1896,9 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 🌐OTROS-IDIOMAS🌐 asia
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-✔️Aljazeera_(QAT) - reg cdnvideo server
+✔️Aljazeera (QAT)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
-
-
 
 
 
