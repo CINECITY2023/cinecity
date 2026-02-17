@@ -434,7 +434,8 @@ https://clubtv.link/11sept/phpcode/lista0.php?c=10&token=tecnotokenplustv&f=.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ Star Channel
 http://45.5.117.57:8999/play/a03v/index.m3u8
 
-#EXTINF:-1,✔️ TCM
+✔️TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tcm.png" group-title="🎬 Cine",✔️ TCM
 http://45.5.117.57:8999/play/a02h/index.m3u8
 
 ✔️TNT
@@ -1669,6 +1670,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
