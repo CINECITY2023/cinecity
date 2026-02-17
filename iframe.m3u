@@ -32,7 +32,7 @@ https://tvlibree.com/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk
 #EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CiudadMagazine.png" group-title="🏙️ Buenos Aires",Ciudad Magazine
 https://tvlibree.com/html/fl/?get=TWFnYXppbmU=
 
-#EXTINF:-1 tvg-name="KZO" tvg-logo="" group-title="🏙️ Buenos Aires",KZO
+#EXTINF:-1 tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/kzo.png" group-title="🏙️ Buenos Aires",KZO
 https://tvlibree.com/html/fl/?get=S1pP
 
 #EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" group-title="🏙️ Buenos Aires",Metro TV
@@ -70,7 +70,7 @@ https://tvlibree.com/html/fl/?get=TGFfTmFjaW9u
 #EXTINF:-1 tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",TN
 https://tvlibree.com/html/fl/?get=VG9kb05vdGljaWFz
 
-#EXTINF:-1 tvg-name="TeleSur" tvg-logo="" group-title="🎙️ Noticias",TeleSur
+#EXTINF:-1 tvg-name="TeleSur" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias",TeleSur
 https://tvlibree.com/html/fl/?get=VGVsZXN1cg==
 
 
@@ -220,7 +220,7 @@ https://tvlibree.com/html/fl/?get=VExD&lang=1
 #EXTINF:-1 tvg-name="A3Cine" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/a3cine.png" group-title="🎬 Cine",A3Cine
 https://tvlibree.com/html/fl/?get=QTNfQ2luZQ==
 
-#EXTINF:-1 tvg-name="A3Series" tvg-logo="" group-title="🎬 Cine",A3Series
+#EXTINF:-1 tvg-name="A3Series" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/Atreseries.png" group-title="🎬 Cine",A3Series
 https://tvlibree.com/html/fl/?get=QTNfU2VyaWVz
 
 #EXTINF:-1 tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/A%26E.png" group-title="🎬 Cine",A&E
@@ -229,7 +229,7 @@ https://tvlibree.com/html/fl/?get=QUVIRA==&lang=1
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",AMC
 https://tvlibree.com/html/fl/?get=QU1D&lang=1
 
-#EXTINF:-1 tvg-name="AMC Series" tvg-logo="" group-title="🎬 Cine",AMC Series
+#EXTINF:-1 tvg-name="AMC Series" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/amcseries.png" group-title="🎬 Cine",AMC Series
 https://tvlibree.com/html/fl/?get=QU1DX1Nlcmllcw==&lang=1
 
 #EXTINF:-1 tvg-name="AXN" tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AXN.png?raw=true" group-title="🎬 Cine",AXN
@@ -256,7 +256,7 @@ https://tvlibree.com/html/fl/?get=RmlsbV9BcnRz
 #EXTINF:-1 tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/FX.png" group-title="🎬 Cine",FX
 https://tvlibree.com/html/fl/?get=RlhIRA==&lang=1
 
-#EXTINF:-1 tvg-name="Golden" tvg-logo="" group-title="🎬 Cine",Golden
+#EXTINF:-1 tvg-name="Golden" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/GOLDEN.png" group-title="🎬 Cine",Golden
 https://tvlibree.com/html/fl/?get=R29sZGVu
 
 #EXTINF:-1 tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hbo.png" group-title="🎬 Cine",HBO
@@ -304,7 +304,7 @@ https://tvlibree.com/html/fl/?get=VE5UX0hEX0FyZw==&lang=1
 #EXTINF:-1 tvg-name="TNT Series" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",TNT Series
 https://tvlibree.com/html/fl/?get=VE5UU2VyaWVz&lang=1
 
-#EXTINF:-1 tvg-name="Universal TV" tvg-logo="" group-title="🎬 Cine",Universal TV
+#EXTINF:-1 tvg-name="Universal TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",Universal TV
 https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NoYW5uZWxfSEQ=&lang=1
 
 #EXTINF:-1 tvg-name="Universal Cinema" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",Universal Cinema
@@ -316,7 +316,7 @@ https://tvlibree.com/html/fl/?get=dW5pdmVyc2FsX0NyaW1l&lang=1
 #EXTINF:-1 tvg-name="Universal Premiere" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",Universal Premiere
 https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1
 
-#EXTINF:-1 tvg-name="USA TV" tvg-logo="" group-title="🎬 Cine",USA TV
+#EXTINF:-1 tvg-name="USA TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",USA TV
 https://tvlibree.com/html/fl/?get=VVNBX05ldHdvcms=&lang=1
 
 #EXTINF:-1 tvg-name="Volver" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",Volver
@@ -339,19 +339,19 @@ https://tvlibree.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1
 #EXTINF:-1 tvg-name="Canal 12 Cordoba" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eldocecordoba1.png" group-title="🏡 Provincia",Canal 12 Cordoba
 https://tvlibree.com/html/fl/?get=Q2FuYWxfMTJfQ0JB
 
-#EXTINF:-1 tvg-name="Canal 7 Neuquen" tvg-logo="" group-title="🏡 Provincia",Canal 7 Neuquen
+#EXTINF:-1 tvg-name="Canal 7 Neuquen" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7Neuqu%C3%A9n.png" group-title="🏡 Provincia",Canal 7 Neuquen
 https://tvlibree.com/html/fl/?get=VGVsZWZlX05ldXF1ZW4=
 
-#EXTINF:-1 tvg-name="Canal 8 Tucuman" tvg-logo="" group-title="🏡 Provincia",Canal 8 Tucuman
+#EXTINF:-1 tvg-name="Canal 8 Tucuman" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal8tucuman.png" group-title="🏡 Provincia",Canal 8 Tucuman
 https://tvlibree.com/html/fl/?get=Q2FuYWxfOF9UdWN1bWFu
 
-#EXTINF:-1 tvg-name="Charrua Television" tvg-logo="" group-title="🏡 Provincia",Charrua Television
+#EXTINF:-1 tvg-name="Charrua Television" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/charruatelevision.png" group-title="🏡 Provincia",Charrua Television
 https://tvlibree.com/html/fl/?get=RXZlbnRvc19IRF9VeQ==
 
-#EXTINF:-1 tvg-name="El Once Salta" tvg-logo="" group-title="🏡 Provincia",El Once Salta
+#EXTINF:-1 tvg-name="El Once Salta" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eloncesalta.png" group-title="🏡 Provincia",El Once Salta
 https://tvlibree.com/html/fl/?get=VGVsZWZlX1NhbHRh
 
-#EXTINF:-1 tvg-name="Telefe Rosario" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏡 Provincia",Telefe Rosario
+#EXTINF:-1 tvg-name="Telefe Rosario" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/teleferosario.png" group-title="🏡 Provincia",Telefe Rosario
 https://tvlibree.com/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv
 
 
@@ -361,7 +361,7 @@ https://tvlibree.com/html/fl/?get=Q2FuYWxfNV9Sb3Nhcmlv
 #EXTINF:-1 tvg-name="Antena 3 - España" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/antena3espa%C3%B1a.png" group-title="🌍 Internacionales",Antena 3 - España
 https://tvlibree.com/html/fl/?get=QW50ZW5hXzM=
 
-#EXTINF:-1 tvg-name="BBC News - GBR" tvg-logo="" group-title="🌍 Internacionales",BBC News GBR
+#EXTINF:-1 tvg-name="BBC News - GBR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/bbcnews.png" group-title="🌍 Internacionales",BBC News GBR
 https://tvlibree.com/html/fl/?get=QkJDX1dvcmxkX05ld3M
 
 #EXTINF:-1 tvg-name="Azteca Uno - Mexico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Internacionales",Azteca Uno - Mexico
@@ -379,7 +379,7 @@ https://tvlibree.com/html/fl/?get=Q2FuYWwxMF9VUlU=
 #EXTINF:-1 tvg-name="Euro News - Portugal" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/EuronewsFrancia.png" group-title="🌍 Internacionales",Euro News - Portugal
 https://tvlibree.com/html/fl/?get=RXVyb25ld3M=
 
-#EXTINF:-1 tvg-name="FOX News" tvg-logo="" group-title="🌍 Internacionales",FOX News
+#EXTINF:-1 tvg-name="FOX News" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/foxnews.png" group-title="🌍 Internacionales",FOX News
 https://tvlibree.com/html/fl/?get=Rm94X05ld3M=
 
 #EXTINF:-1 tvg-name="Gen - Paraguay" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/genparaguay.png" group-title="🌍 Internacionales",Gen - Paraguay
@@ -400,7 +400,7 @@ https://tvlibree.com/html/fl/?get=UGFyYWd1YXlfVFY=
 #EXTINF:-1 tvg-name="Paravision - Paraguay" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/paravisionparaguay.png" group-title="🌍 Internacionales",Paravision - Paraguay
 https://tvlibree.com/html/fl/?get=UEFSQVZJU0lPTl9DNA==
 
-#EXTINF:-1 tvg-name="RAI Italia" tvg-logo="" group-title="🌍 Internacionales",RAI Italia
+#EXTINF:-1 tvg-name="RAI Italia" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/raiitalia.png" group-title="🌍 Internacionales",RAI Italia
 https://tvlibree.com/html/fl/?get=UkFJ
 
 #EXTINF:-1 tvg-name="SNT - Paraguay" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/sntparaguay.png" group-title="🌍 Internacionales",SNT - Paraguay
@@ -415,7 +415,7 @@ https://tvlibree.com/html/fl/?get=VEVMRUZVVFVST19DNA==
 #EXTINF:-1 tvg-name="Telemundo Internacional - Puerto Rico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Internacionales",Telemundo Internacional - Puerto Rico
 https://tvlibree.com/html/fl/?get=VGVsZW11bmRvX0hE
 
-#EXTINF:-1 tvg-name="TV Chile" tvg-logo="" group-title="🌍 Internacionales",TV Chile
+#EXTINF:-1 tvg-name="TV Chile" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvchile.png" group-title="🌍 Internacionales",TV Chile
 https://tvlibree.com/html/fl/?get=VHZfQ2hpbGU=
 
 #EXTINF:-1 tvg-name="TVE - España" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVEEspa%C3%B1a.png" group-title="🌍 Internacionales",TVE - España
@@ -475,17 +475,18 @@ https://tvlibree.com/html/fl/?get=TVRWX0hpdHM=
 #EXTINF:-1 tvg-name="Quiero Musica" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quieromusica.png" group-title="🎵​ Musica",Quiero Musica
 https://tvlibree.com/html/fl/?get=UXVpZXJvX0hE
 
-#EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://bestleague.world/img/venuspaj.png" group-title="XXX",Playboy TV
+#EXTINF:-1 tvg-name="Playboy TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/playyboytv.png" group-title="XXX",Playboy TV
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=/html/fl/?get=UGxheWJveQ ---
 
-#EXTINF:-1 tvg-name="Sex Xtreme" tvg-logo="https://bestleague.world/img/sextreme.png" group-title="XXX",Sex Xtreme
+#EXTINF:-1 tvg-name="SeXtreme" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/sextreme.png" group-title="XXX",SeXtreme
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=U2V4dHJlbWU ---
 
-#EXTINF:-1 tvg-name="Venus" tvg-logo="https://bestleague.world/img/venuspaj.png" group-title="XXX",Venus
+#EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="XXX",Venus
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
