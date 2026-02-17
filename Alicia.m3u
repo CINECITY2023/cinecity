@@ -309,10 +309,6 @@ http://45.5.117.57:8999/play/a02w/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/AMC.png?raw=true" group-title="🎬 Cine",✔️ AMC
 https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 
-✔️Austral TV
-#EXTINF:-1 tvg-logo="" group-title="🎬 Cine",✔️ Austral TV
-http://205.235.6.29:8000/play/a0vn/index.m3u8
-
 ✔️Cinemax 
 #EXTINF:-1 tvg-logo="https://github.com/CINECITY2023/cinecity/blob/cinecity.net/logos/cine/CINEMAX.png?raw=true" group-title="🎬 Cine",✔️ Cinemax
 http://45.5.119.43:4000/play/a0il/index.m3u8
@@ -1137,6 +1133,10 @@ https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Canales Internacionales",✔️ Tele Uno (Costa Rica)
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 
+✔️Austral TV (Ecuador)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Canales Internacionales",✔️ Austral TV (Ecuador)
+http://205.235.6.29:8000/play/a0vn/index.m3u8
+
 ✔️Ecuador_TV_(Ecuador) - samson server 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Canales Internacionales",✔️ Ecuador TV (Ecuador)
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
@@ -1669,6 +1669,7 @@ http://cdn2.ntv.ru/ntv0_hd/index.m3u8
 ✔️Aljazeera_(QAT) - reg cdnvideo server
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/aljazeera.png" group-title="🌐 Otros Idiomas",✔️ Aljazeera (QAT)
 http://38.44.109.41:8003/play/a00q/index.m3u8
+
 
 
 
