@@ -78,6 +78,9 @@ https://tvlibree.com/html/fl/?get=VGVsZXN1cg==
 #EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/deportv.png" group-title="⚽ Deportes",DeporTV
 https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
 
+#EXTINF:-1 tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" group-title="⚽ Deportes",DSports
+https://embed.saohgdasregions.fun/embed2/directvsports.html
+
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",ESPN
 https://tvlibree.com/html/fl/?get=RVNQTjJIRA
 
@@ -491,6 +494,7 @@ https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="XXX",Venus
 https://github.com/CINECITY2023/cinecity/raw/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
