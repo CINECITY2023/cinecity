@@ -2,7 +2,7 @@
 
 # --- 🏙️ Buenos Aires ---
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",America TV
-https://gollibre.com/en-vivo-online/dsports-2/embed.php
+https://gollibre.com/mpd2.php?id=directv2
 https://gollibre.com/embed/stream-539.php
 https://tvlibree.com/html/fl/?get=QW1lcmljYVRW&lang=1
 
@@ -557,6 +557,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
