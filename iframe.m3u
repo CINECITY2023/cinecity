@@ -63,23 +63,23 @@ https://tvlibree.com/html/fl/?get=RGlwdXRhZG9zX1RW
 #EXTINF:-1 tvg-name="Argentina 12" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png" group-title="🎙️ Noticias",Argentina 12
 https://tvlibree.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=
 
-#EXTINF:-1 tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",LN+
+#EXTINF:-1 tvg-name="LN+" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png" group-title="🎙️ Noticias",LN+
 https://tvlibree.com/html/fl/?get=TGFfTmFjaW9u
 
-#EXTINF:-1 tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",TN
+#EXTINF:-1 tvg-name="TN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",TN
 https://tvlibree.com/html/fl/?get=VG9kb05vdGljaWFz
 
-#EXTINF:-1 tvg-name="TeleSur" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias",TeleSur
+#EXTINF:-1 tvg-name="TeleSur" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtelesur.png" group-title="🎙️ Noticias",TeleSur
 https://tvlibree.com/html/fl/?get=VGVsZXN1cg==
 
 
 
 # --- ⚽ Deportes ---
 
-#EXTINF:-1 tvg-name="Bein Sports Xtra ñ" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/beinsportsextra%C3%B1.png" group-title="⚽ Deportes",Bein Sports Xtra ñ
+#EXTINF:-1 tvg-name="Bein Sports Xtra ñ" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="⚽ Deportes",Bein Sports Xtra ñ
 https://embed.ksdjugfsddeports.com/embed2/beinsportsxtra.html 
 
-#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznf1.png" group-title="⚽ Deportes",DAZN F1
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdaznf1.png" group-title="⚽ Deportes",DAZN F1
 https://embed.ksdjugfsddeports.com/embed2/daznf1.html
 
 #EXTINF:-1 tvg-name="DAZN La Liga" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznlaliga.png" group-title="⚽ Deportes",DAZN La Liga
@@ -555,6 +555,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
