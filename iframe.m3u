@@ -75,6 +75,15 @@ https://tvlibree.com/html/fl/?get=VGVsZXN1cg==
 
 
 # --- ⚽ Deportes ---
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznf1.png" group-title="⚽ Deportes",DAZN F1
+https://embed.ksdjugfsddeports.com/embed2/daznf1.html
+https://embed.saohgdasregions.fun/embed2/daznf1.html
+
+#EXTINF:-1 tvg-name="DAZN La Liga" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznlaliga.png" group-title="⚽ Deportes",DAZN La Liga
+https://embed.ksdjugfsddeports.com/embed2/daznlaliga.html
+https://embed.saohgdasregions.fun/embed2/daznlaliga.html
+
 #EXTINF:-1 tvg-name="DeporTV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/deportv.png" group-title="⚽ Deportes",DeporTV
 https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
 
@@ -82,12 +91,9 @@ https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
 https://embed.ksdjugfsddeports.com/embed2/directvsports.html
 https://embed.saohgdasregions.fun/embed2/directvsports.html
 
-#EXTINF:-1 tvg-name="DSports 2" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/disports2.png" group-title="⚽ Deportes",DSports 2
-https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/istockphoto-1324853178-640_adpp_is.m3u8
-
 #EXTINF:-1 tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports%2B.png" group-title="⚽ Deportes",DSports +
 https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html
-https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html 
+https://embed.saohgdasregions.fun/embed2/directvsportsplus.html
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",ESPN
 https://tvlibree.com/html/fl/?get=RVNQTjJIRA
@@ -181,8 +187,8 @@ https://embed.ksdjugfsddeports.com/embed2/tntsports.html
 https://embed.saohgdasregions.fun/embed2/tntsports.html
 
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",TUDN
-https://embed.ksdjugfsddeports.com/embed2/tudn.html
-https://embed.saohgdasregions.fun/embed2/tudn.html
+https://embed.ksdjugfsddeports.com/embed/tudn.html
+https://embed.saohgdasregions.fun/embed/tudn.html
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",TyC Sports
 https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ
@@ -551,6 +557,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
