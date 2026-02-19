@@ -92,7 +92,7 @@ https://embed.ksdjugfsddeports.com/embed2/directvsports.html
 https://embed.saohgdasregions.fun/embed2/directvsports.html
 
 #EXTINF:-1 tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports%2B.png" group-title="⚽ Deportes",DSports +
-https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html
+https://embed.ksdjugfsddeports.com/embed/directvsportsplus.html
 https://embed.saohgdasregions.fun/embed2/directvsportsplus.html
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",ESPN
@@ -177,6 +177,10 @@ https://embed.saohgdasregions.fun/embed2/liga1.html
 #EXTINF:-1 tvg-name="Liga 1 Max" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/l1max.png" group-title="⚽ Deportes",Liga 1 Max
 https://embed.ksdjugfsddeports.com/embed2/liga1max.html
 https://embed.saohgdasregions.fun/embed2/liga1max.html
+
+#EXTINF:-1 tvg-name="Liga de Campeones Movistar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/ligadecampeonesmovistar.png" group-title="⚽ Deportes",Liga de Campeones Movistar
+https://embed.ksdjugfsddeports.com/embed2/movistarligadecampeones.html
+https://embed.saohgdasregions.fun/embed2/movistarligadecampeones.html
 
 #EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/nba.png" group-title="⚽ Deportes",NBA TV
 https://tvlibree.com/html/fl/?get=TkJBX1RW
@@ -557,6 +561,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
