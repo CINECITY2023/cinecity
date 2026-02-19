@@ -172,9 +172,13 @@ https://tvlibree.com/html/fl/?get=TkJBX1RW
 #EXTINF:-1 tvg-name="TNT Sports Premium" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tntsportspremium.png" group-title="⚽ Deportes",TNT Sports Premium
 https://tvlibree.com/html/fl/?get=VE5UX1Nwb3J0c19IRA
 https://embed.ksdjugfsddeports.com/embed2/tntsports.html
+https://embed.ksdjugfsddeports.com/embed2/tntsportschile.html 
 
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tudn.png" group-title="⚽ Deportes",TUDN
 https://embed.ksdjugfsddeports.com/embed/tudn.html
+
+#EXTINF:-1 tvg-name="TV Azteca Deportes" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/aztecadeportes.png" group-title="⚽ Deportes",TV Azteca Deportes
+https://embed.ksdjugfsddeports.com/embed2/aztecadeportes.html 
 
 #EXTINF:-1 tvg-name="TyC Sports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/tycsports.png" group-title="⚽ Deportes",TyC Sports
 https://tvlibree.com/html/fl/?get=VHlDU3BvcnQ
@@ -548,5 +552,6 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
