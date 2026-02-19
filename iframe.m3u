@@ -2,7 +2,6 @@
 
 # --- 🏙️ Buenos Aires ---
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",America TV
-https://embed.ksdjugfsddeports.com/embed2.js
 https://tvlibree.com/html/fl/?get=QW1lcmljYVRW&lang=1
 
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TVPublica.png" group-title="🏙️ Buenos Aires",TV Pública
@@ -89,11 +88,11 @@ https://embed.saohgdasregions.fun/embed2/daznlaliga.html
 https://tvlibree.com/html/fl/?get=RGVwb3JUVkhE
 
 #EXTINF:-1 tvg-name="DSports" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports.png" group-title="⚽ Deportes",DSports
-https://embed.ksdjugfsddeports.com/embed2/directvsports.html
+https://embed.ksdjugfsddeports.com/embed/directvsports.html
 https://embed.saohgdasregions.fun/embed2/directvsports.html
 
 #EXTINF:-1 tvg-name="DSports +" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/dsports%2B.png" group-title="⚽ Deportes",DSports +
-https://embed.ksdjugfsddeports.com/embed/directvsportsplus.html
+https://embed.ksdjugfsddeports.com/embed2/directvsportsplus.html
 https://embed.saohgdasregions.fun/embed2/directvsportsplus.html
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/espn.png" group-title="⚽ Deportes",ESPN
@@ -562,6 +561,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
