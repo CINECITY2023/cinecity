@@ -25,27 +25,27 @@ https://tvlibree.com/html/fl/?get=QXJnZW50aW5pc2ltYQ
 #EXTINF:-1 tvg-name="Bravo TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="🏙️ Buenos Aires",Bravo TV
 https://tvlibree.com/html/fl/?get=QnJhdm9UVg==
 
-#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldeLaciudad.png" group-title="🏙️ Buenos Aires",Canal de la Ciudad
+#EXTINF:-1 tvg-name="Canal de la Ciudad" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png" group-title="🏙️ Buenos Aires",Canal de la Ciudad
 https://tvlibree.com/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk
 
 #EXTINF:-1 tvg-name="Ciudad Magazine" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHciudadmagazine.png" group-title="🏙️ Buenos Aires",Ciudad Magazine
 https://tvlibree.com/html/fl/?get=TWFnYXppbmU=
 
-#EXTINF:-1 tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/kzo.png" group-title="🏙️ Buenos Aires",KZO
+#EXTINF:-1 tvg-name="KZO" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHkzo.png" group-title="🏙️ Buenos Aires",KZO
 https://tvlibree.com/html/fl/?get=S1pP
 
-#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Metro.png" group-title="🏙️ Buenos Aires",Metro TV
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png" group-title="🏙️ Buenos Aires",Metro TV
 https://tvlibree.com/html/fl/?get=TWV0cm8
 
-#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/NetTV.png" group-title="🏙️ Buenos Aires",Net TV
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="🏙️ Buenos Aires",Net TV
 https://tvlibree.com/html/fl/?get=TmV0X1RW
 
-#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Telemax.png" group-title="🏙️ Buenos Aires",Telemax
+#EXTINF:-1 tvg-name="Telemax" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png" group-title="🏙️ Buenos Aires",Telemax
 https://tvlibree.com/html/fl/?get=VGVsZW1heA
 
 
 # --- 🎙️ Noticias ---
-#EXTINF:-1 tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",A24
+#EXTINF:-1 tvg-name="A24" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",A24
 https://tvlibree.com/html/fl/?get=QW1lcmljYTI0
 
 #EXTINF:-1 tvg-name="C5N" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",C5N
@@ -555,6 +555,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
