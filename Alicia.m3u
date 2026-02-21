@@ -109,7 +109,7 @@ https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C_wl/TodoNoti
 https://cdn.cvattv.com.ar/live/c7eds/A3_Cine/SA_Live_dash_enc_C/A3_Cine.mpd
 
 ✔️📱A3s
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHatreseries.png" group-title="🎬 Cine",✔️📱 A3s
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa3series.png" group-title="🎬 Cine",✔️📱 A3s
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e34e08ae5ae440f01a03e505dd24a57:ed30cc7f5040a75d73f619320249272b
 https://cdn.cvattv.com.ar/live/c7eds/A3_Series/SA_Live_dash_enc_C/A3_Series.mpd
@@ -954,5 +954,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_C/Much_Music.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
+
 
 
