@@ -61,21 +61,16 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-✔️Argentinisima Satelital *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital *2
-http://45.5.151.62:8000/play/a09t/index.m3u8
-
-✔️Argentinisima Satelital *3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital *3
-http://45.5.151.62:8000/play/a07a/index.m3u8
-
 ✔️Bravo TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
 ✔️Bravo TV *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV *2
 http://107.152.39.199:8030/hls/canal4.m3u8
+
+✔️Bravo TV *3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/bravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV *3
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 ✔️Canal 2 (Mar de Plata)
