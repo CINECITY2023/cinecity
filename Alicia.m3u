@@ -100,7 +100,7 @@ https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",✔️📱 TN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C_wl/TodoNoticias.mpd
+https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 
 ✔️📱A3Cine
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa3cine.png" group-title="🎬 Cine",✔️📱 A3Cine
@@ -954,6 +954,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_Live_dash_enc_C/Much_Music.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
+
 
 
 
