@@ -186,61 +186,43 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️24/7 Canal de Noticias
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="🎙️ Noticias",✔️ 24/7 Canal de Noticias
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="🎙️ Noticias",✔️ 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
 ✔️A24
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️ A24
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
-✔️A24 *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/a24.png" group-title="🎙️ Noticias",✔️ A24
-http://45.5.151.62:8000/play/a08x/index.m3u8
-
 ✔️Canal 26
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/canal26.png" group-title="🎙️ Noticias",✔️ Canal 26
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="🎙️ Noticias",✔️ Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 
-✔️C5N
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",✔️ C5N
-http://45.5.151.62:8000/play/a08z/index.m3u8
-
-✔️C5N *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/C5N.png" group-title="🎙️ Noticias",✔️ C5N
-http://45.5.151.62:8000/play/a05q/index.m3u8
-
 ✔️Cronica TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="🎙️ Noticias",✔️ Cronica TV
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica TV
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_240p.m3u8
 https://g3.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
-
-✔️Cronica TV *2
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CronicaTV.png" group-title="🎙️ Noticias",✔️ Cronica TV
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 https://g3.proy-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
 
-✔️LN+
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+
-http://45.5.151.62:8000/play/a06f/index.m3u8
-
-✔️LN+ *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/LN%2B.png" group-title="🎙️ Noticias",✔️ LN+
-http://45.5.151.62:8000/play/a09c/index.m3u8
-
 ✔️TN
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",✔️ TN
 #EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",✔️ TN
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
 
-✔️TN *2
-#EXTVLCOPT:http-user-agent=iPhone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/TN.png" group-title="🎙️ Noticias",✔️ TN
-http://45.5.151.62:8000/play/a09e/index.m3u8
+
+
+
+
+
+
+
+
+
+
 
 
 🚜CANALES-DE-CULTURA🌾
