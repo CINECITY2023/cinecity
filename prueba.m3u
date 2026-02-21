@@ -47,25 +47,11 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 
 http://107.152.39.199:8030/hls/canal7.m3u8
 
-✔️Canal 9 *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElNueve.png" group-title="🏙️ Buenos Aires",✔️ Canal 9 *2
-http://45.5.151.62:8000/play/a093/index.m3u8
-
 ✔️Telefe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 http://107.152.39.199:8030/hls/canal13.m3u8
 
-✔️Telefe *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/TELEFE.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-http://45.5.151.62:8000/play/a09d/index.m3u8
-
 ✔️El Trece
-#EXTVLCOPT:http-user-agent=(Android 8.0.0)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-http://107.152.39.199:8030/hls/canal12.m3u8
-
-
-✔️El Trece *2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ElTrece.png" group-title="🏙️ Buenos Aires",✔️El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
@@ -74,7 +60,13 @@ https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 ✔️Argentinisima Satelital
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
+
+✔️Argentinisima Satelital *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital *2
 http://45.5.151.62:8000/play/a09t/index.m3u8
+
+✔️Argentinisima Satelital *3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/ArgentinisimaSatelital1.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital *3
 http://45.5.151.62:8000/play/a07a/index.m3u8
 
 ✔️Bravo TV
