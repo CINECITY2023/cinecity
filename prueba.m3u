@@ -14,7 +14,6 @@ EXTINF:0 tvg-name="Eventos" tvg-logo="https://raw.githubusercontent.com/CINECITY
 ✔️America
 #EXTINF:-1 tvg-name="América TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/america.png" group-title="🏙️ Buenos Aires",✔️ America
 #EXTVLCOPT:http-user-agent=iPhone
-http://45.5.151.62:8000/play/a08y/index.m3u8
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
 http://107.152.39.199:8030/hls/canal14.m3u8
 
