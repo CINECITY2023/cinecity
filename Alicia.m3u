@@ -117,7 +117,7 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 ✔️Canal 10 (Junín)
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal10deJun%C3%ADn.png" group-title="🏙️ Buenos Aires",✔️ Canal 10 (Junín)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal10dejunin.png" group-title="🏙️ Buenos Aires",✔️ Canal 10 (Junín)
 #EXTVLCOPT:http-user-agent=(Android 8.0.0)
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
