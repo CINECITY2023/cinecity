@@ -160,7 +160,7 @@ https://streamconex.com:19360/villamaza/villamaza.m3u8
 https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Playlist.m3u8?sense=true
 
 ✔️Canal Provincial (San Miguel)
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CanalProvincialSanMiguel.png" group-title="🏙️ Buenos Aires",✔️ Canal Provincial (San Miguel)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalprovincialdesanmiguel.png" group-title="🏙️ Buenos Aires",✔️ Canal Provincial (San Miguel)
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
 ✔️Canal Santa Maria
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
