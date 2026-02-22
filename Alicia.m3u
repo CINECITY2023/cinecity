@@ -113,7 +113,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 ✔️Canal 3 (Pinamar)
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal3Pinamar.png" group-title="🏙️ Buenos Aires",✔️ Canal 3 (Pinamar)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal3pinamar.png" group-title="🏙️ Buenos Aires",✔️ Canal 3 (Pinamar)
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 
 ✔️Canal 10 (Junín)
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
