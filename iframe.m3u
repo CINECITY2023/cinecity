@@ -3,7 +3,6 @@
 # --- 🏙️ Buenos Aires ---
 #EXTINF:-1 tvg-name="America TV" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",America TV
 https://tvlibree.com/html/fl/?get=QW1lcmljYVRW&lang=1
-https://regionales.saohgdasregions.fun/tvporinternet2.php?stream=20_
 
 #EXTINF:-1 tvg-name="TV Pública" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png" group-title="🏙️ Buenos Aires",TV Pública
 https://tvlibree.com/html/fl/?get=Q2FuYWw3&lang=1
@@ -433,6 +432,9 @@ https://tvlibree.com/html/fl/?get=QW50ZW5hXzM=
 #EXTINF:-1 tvg-name="BBC News - GBR" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/bbcnews.png" group-title="🌍 Internacionales",BBC News GBR
 https://tvlibree.com/html/fl/?get=QkJDX1dvcmxkX05ld3M
 
+#EXTINF:-1 tvg-name="Azteca 7 - Mexico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/otros-idiomas/bbcnews.png" group-title="🌍 Internacionales",Azteca 7 - Mexico
+https://embed.ksdjugfsddeports.com/embed2/azteca7.html
+
 #EXTINF:-1 tvg-name="Azteca Uno - Mexico" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png" group-title="🌍 Internacionales",Azteca Uno - Mexico
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 https://tvlibreonline.org/html/hls.html?get=aHR0cHM6Ly9henQtb28ub3R0ZXJhdmlzaW9uLmNvbS9vdXQvdjEvZGE1M2Q3ZDM4OGJlNDM3ZTkyYmY4ZjQ2NDAxOGViNDgvaW5kZXgubTN1OA==
@@ -556,6 +558,7 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 #EXTINF:-1 tvg-name="Venus" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/venus.png" group-title="🔞 Adultos",Venus
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/sin-se%C3%B1al/blockxxx/mez.m3u8
 # --- https://tvlibree.com/html/fl/?get=VmVudXM= ---
+
 
 
 
