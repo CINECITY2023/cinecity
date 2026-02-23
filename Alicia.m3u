@@ -206,7 +206,7 @@ EXTINF:3 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
 ✔️Sicardi TV (La PLata)
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/SicardiTVLapLata.png" group-title="🏙️ Buenos Aires",✔️ Sicardi TV (La pLata)
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHsicarditv.png" group-title="🏙️ Buenos Aires",✔️ Sicardi TV (La pLata)
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 ✔️Telecreativa (Lanus)
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
