@@ -74,8 +74,8 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
-✔️Telefe
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
+✔️Telefe Internacional 
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional 
 http://107.152.39.199:8030/hls/canal13.m3u8
 
 ✔️📱El_Trece
@@ -2291,7 +2291,7 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
 
 ✔️📱Allegro
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/allegrotv.png" group-title="🎵 Musica",✔️ Allegro 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/allegrotv.png" group-title="🎵​ Musica",✔️ Allegro 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e55e61b81b992d6c21466891d72157e9:566d341bf7209a88976e75c20ad7aca2
 https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd
@@ -2301,7 +2301,7 @@ https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 ✔️📱CM
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵 Musica",✔️ CM 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵​ Musica",✔️ CM 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=682f36b5736f4560951ca14b80d29524:3accb729067a39b3b8143f1b447b9d25
 https://cdn.cvattv.com.ar/live/c6eds/CM/SA_Live_dash_enc_C/CM.mpd
@@ -2327,7 +2327,7 @@ https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8?PlaylistM3UCL
 https://pistream.ddns.net/hls/stream.m3u8
 
 ✔️📱HTV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png" group-title="🎵 Musica",✔️ HTV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png" group-title="🎵​ Musica",✔️ HTV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd
@@ -2342,7 +2342,7 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
 ✔️📱Quiero
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quieromusica.png" group-title="🎵 Musica",✔️ Quiero 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/quieromusica.png" group-title="🎵​ Musica",✔️ Quiero 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
