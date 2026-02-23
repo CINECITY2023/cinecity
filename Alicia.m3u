@@ -237,7 +237,7 @@ https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 
 ✔️24/7 Canal de Noticias
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/24-7.png" group-title="🎙️ Noticias",✔️ 24/7 Canal de Noticias
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CH247.png" group-title="🎙️ Noticias",✔️ 24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
 ✔️📱A24
@@ -2374,6 +2374,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
