@@ -214,7 +214,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 ✔️TeleJunin
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/telejunin.png" group-title="🏙️ Buenos Aires",✔️ TeleJunin
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelejunin.png" group-title="🏙️ Buenos Aires",✔️ TeleJunin
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 ✔️Telemax
@@ -2366,6 +2366,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
 
 
 
