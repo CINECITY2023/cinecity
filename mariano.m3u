@@ -347,7 +347,7 @@ https://live-01-01-tn.vodgc.net/TN24/index_TN24_1080.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
 
 ✔️PlutoTV Archivos Forenses
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHplutotvarchivosforenses.png" group-title="🚜 Cultura",✔️ Archivos Forenses
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHplutotvarchivosforenses.png" group-title="🚜 Cultura",✔️ Archivos Forenses
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Canal_Rural
@@ -448,7 +448,7 @@ https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/pla
 https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc_C/NatGeoHD.mpd
 
 ✔️PlutoTV Cocina
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHplutotvcocina.png" group-title="🚜 Cultura",✔️ PlutoTV Cocina
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHplutotvcocina.png" group-title="🚜 Cultura",✔️ PlutoTV Cocina
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Sun_Channel
@@ -572,7 +572,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd
 http://45.5.119.43:4000/play/a0il/index.m3u8
 
 ✔️PlutoTV CSI: Miami
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcsimiami.png" group-title="🎬 Cine",✔️ CSI: Miami
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcsimiami.png" group-title="🎬 Cine",✔️ CSI: Miami
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱DHE
@@ -740,27 +740,27 @@ EXTINF:3 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/
 http://38.44.109.41:8003/play/a01a/index.m3u8
 
 ✔️PlutoTV Cine Accion 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineaccion.png" group-title="🎬 Cine",✔️ PlutoTV Cine Accion
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineaccion.png" group-title="🎬 Cine",✔️ PlutoTV Cine Accion
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Cine Comedia
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinecomedia.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Comedia
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinecomedia.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Comedia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcdde78f080d900098550e4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Estrellas de Acción
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvestrellasdeaccion.png" group-title="🎬 Cine",✔️ PlutoTV Estrellas de Acción
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvestrellasdeaccion.png" group-title="🎬 Cine",✔️ PlutoTV Estrellas de Acción
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Cine Drama
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinedrama.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Drama
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocinedrama.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Series
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutoseries.png"  group-title="🎬 Cine",✔️ PlutoTV Series
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutoseries.png"  group-title="🎬 Cine",✔️ PlutoTV Series
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Cine Terror
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineterror.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Terror
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/plutocineterror.png"  group-title="🎬 Cine",✔️ PlutoTV Cine Terror
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️RakutenTV Pelis Top
@@ -1110,11 +1110,11 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ✔️Baby First
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyfirst.png" group-title="🎈 Infantil",✔️ Baby First
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyfirst.png" group-title="🎈 Infantil",✔️ Baby First
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Baby Shark
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyshark.png" group-title="🎈 Infantil",✔️ Baby Shark TV
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babyshark.png" group-title="🎈 Infantil",✔️ Baby Shark TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a093e7c0007489211/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Baby_TV 
@@ -1124,7 +1124,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619d5e6a0
 https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
 
 ✔️Bob Esponja
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/BOBSPONJA.png" group-title="🎈 Infantil",✔️ Bob Esponja
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/BOBSPONJA.png" group-title="🎈 Infantil",✔️ Bob Esponja
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Cartoonito
@@ -1210,7 +1210,7 @@ http://38.44.109.41:8003/play/a026/index.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/PAKA_PAKA/SA_Live_dash_enc_C/PAKA_PAKA.mpd
 
 ✔️Padrinos Mágicos 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/LosPadrinosMagico.png" group-title="🎈 Infantil",✔️ Padrinos Mágicos
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/LosPadrinosMagico.png" group-title="🎈 Infantil",✔️ Padrinos Mágicos
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6322099c822bbc00074857db/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Pequeradio TV
@@ -1228,7 +1228,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Plim_Plim/SA_Live_dash_enc_C/Plim_Plim.mpd
 https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname=distrotv&version=12&id=37&partner=distro&ads.rnd=pc1o&ads.env_i=9f2ed548-6f6a-4b2a-865d-ff516704c20e&ads.env_u=&ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.appCategory=entertainment&ads.app_version=202105131041&ads.width=994&ads.height=559&ads.deviceId=&ads.deviceDNT=0&ads.gdpr=0&ads.us_privacy=0&ads.aid=&ads.deviceMake=Web&ads.deviceIdType=localStorage&ads.deviceConnectionType=2&ads.deviceCategory=web&ads.client_ip=186.18.5.78&ads.geo=AR&ads.lat=-36.00000&ads.long=-59.99640&ads.dma=&ads.geoType=2&ads.contentid=22882&ads.content_duration=18000&ads.episode_id=126120&ads.show_id=5059&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CAnimation%20%26%20Anime%2CFamily%2FChildren%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=Pitufo%20TV&ads.episodetitle=Pitufo%20TV&ads.keywords=Smurf%2CSmurfs%2CPitufo&ads.contenturl=&ads.gdprConsent=&ads.paln=&ads.islive=1&ads.streamtype=live&ads.vf=20250401
 
 ✔️Rugrats
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/rugrats.png" group-title="🎈 Infantil",✔️ Rugrats
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/rugrats.png" group-title="🎈 Infantil",✔️ Rugrats
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Tooncast 
@@ -1269,15 +1269,15 @@ https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mp
 http://38.44.109.41:8003/play/a00f/index.m3u8
 
 ✔️Capitain Tsubasa
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CapitainTsubasa.png" group-title="🤖 Animacion",✔️ Supercampeones
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CapitainTsubasa.png" group-title="🤖 Animacion",✔️ Supercampeones
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Daria
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/daria.png" group-title="🤖 Animacion",✔️ Daria
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/daria.png" group-title="🤖 Animacion",✔️ Daria
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Dead Note
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dead-Note.png" group-title="🤖 Animacion",✔️ Death Note
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/Dead-Note.png" group-title="🤖 Animacion",✔️ Death Note
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Dreiko TV
@@ -1285,7 +1285,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626c2ed93
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
 ✔️La Familia del Barrio 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/lafamiliadelbarrio.png" group-title="🤖 Animacion",✔️ La Familia del Barrio
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/lafamiliadelbarrio.png" group-title="🤖 Animacion",✔️ La Familia del Barrio
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Locomotion
@@ -1293,27 +1293,27 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62d08af52
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 ✔️Naruto
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/naruto.png" group-title="🤖 Animacion",✔️ Naruto
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/naruto.png" group-title="🤖 Animacion",✔️ Naruto
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️One Piece
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/onepiece.png" group-title="🤖 Animacion",✔️ One Piece
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/onepiece.png" group-title="🤖 Animacion",✔️ One Piece
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Pokemon
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHpokemon.png" group-title="🤖 Animacion",✔️ Pokemon
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHpokemon.png" group-title="🤖 Animacion",✔️ Pokemon
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6870072ca9d5c45c3e9466f1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Anime
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/plutoanime.png"  group-title="🤖 Animacion",✔️ PlutoTV Anime
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/plutoanime.png"  group-title="🤖 Animacion",✔️ PlutoTV Anime
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV E-Sports
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/esports.png" group-title="🤖 Animacion",✔️ PlutoTV E-Sports
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/esports.png" group-title="🤖 Animacion",✔️ PlutoTV E-Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️South Park
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/south-park.png" group-title="🤖 Animacion",✔️ South Park
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/south-park.png" group-title="🤖 Animacion",✔️ South Park
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
 
 ✔️Taltal TV
@@ -1321,11 +1321,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
 
 ✔️Tokusato
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/tokusato.png" group-title="🤖 Animacion",✔️ Tokusato
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/tokusato.png" group-title="🤖 Animacion",✔️ Tokusato
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Yu Gi Oh
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/yugiho.png" group-title="🤖 Animacion",✔️ Yu-Gi-Oh
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/yugiho.png" group-title="🤖 Animacion",✔️ Yu-Gi-Oh
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Zaz
@@ -1351,7 +1351,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
 
 ✔️Kanal D 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/kanald.png" group-title="❤️ Novelas",✔️ Kanal D
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/kanald.png" group-title="❤️ Novelas",✔️ Kanal D
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/639751f81a36b400072b8f5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Lifetime
@@ -1367,7 +1367,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Lifetime/SA_Live_dash_enc_C/Lifetime.mpd
 https://cdn.cvattv.com.ar/live/c7eds/Pasiones/SA_Live_dash_enc_C/Pasiones.mpd
 
 ✔️PlutoTV Novelas
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/plutonevelas.png"  group-title="❤️ Novelas",✔️ PlutoTV Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱TNT_Novelas
@@ -1403,15 +1403,15 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCent
 http://38.44.109.41:8003/play/a00j/index.m3u8
 
 ✔️PlutoTV Humor
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/plutotvhumor.png" group-title="🤡 Comedia",✔️ Pluto TV Humor
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/plutotvhumor.png" group-title="🤡 Comedia",✔️ Pluto TV Humor
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Comedy Central
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/comedycentral.png" group-title="🤡 Comedia",✔️ Pluto TV Comedy Central 
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/comedycentral.png" group-title="🤡 Comedia",✔️ Pluto TV Comedy Central 
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Ridiculousness
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/Ridiculousness.png" group-title="🤡 Comedia",✔️ Ridiculousness
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/Ridiculousness.png" group-title="🤡 Comedia",✔️ Ridiculousness
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e98a911c881310007d7aae2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱Universal_Comedy
@@ -1432,23 +1432,23 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Univers
 
 
 ✔️MTV Reality
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/mtvreality.png" group-title="👁️‍ Reality",✔️ MTV Reality
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/mtvreality.png" group-title="👁️‍ Reality",✔️ MTV Reality
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV Reality
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/plutotvreality.png" group-title="👁️‍ Reality",✔️ Pluto TV Reality
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/plutotvreality.png" group-title="👁️‍ Reality",✔️ Pluto TV Reality
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️PlutoTV MasterChef
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/masterchef.png" group-title="👁️‍ Reality",✔️ MasterChef
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/masterchef.png" group-title="👁️‍ Reality",✔️ MasterChef
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Plutotv Hells Kitchen
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/hellskitchen.png" group-title="👁️‍ Reality",✔️ Hells Kitchen
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/hellskitchen.png" group-title="👁️‍ Reality",✔️ Hells Kitchen
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️Plutotv Minuto Para Ganar
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/minutoparaganar.png" group-title="👁️‍ Reality",✔️ Minuto Para Ganar
+EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/minutoparaganar.png" group-title="👁️‍ Reality",✔️ Minuto Para Ganar
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 ✔️📱MTV 
@@ -2417,9 +2417,3 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️Tierramia TV
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
-
-
-
-
-
-
