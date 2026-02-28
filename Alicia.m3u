@@ -147,10 +147,6 @@ https://g3.proy-slo.transport.edge-access.net/a06/ngrp:gcba_video4-100042_all/Pl
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalprovincialdesanmiguel.png" group-title="🏙️ Buenos Aires",✔️ Canal Provincial (San Miguel)
 https://cdn.trimi.com.ar/live/sm-live/PROVINCIAL/sa_live_hls/PROVINCIAL.m3u8
 
-✔️ Canal Santa Maria
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🏙️ Buenos Aires",✔️ Canal Santa Maria
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
-
 ✔️ Celt TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcelttv.png" group-title="🏙️ Buenos Aires",✔️ Celt TV
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
@@ -2102,4 +2098,14 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
 https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
+
+✔️ Canal Santa Maria 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d456fba3fccb4c06a0f4776fe412400b:ca5530ffe42a38759d3887c82d6a909a
+https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.mpd
+
+✔️ Canal Santa Maria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria
+https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 
