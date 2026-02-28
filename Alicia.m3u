@@ -66,6 +66,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 ✔️ El Trece
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
 ✔️ Argentinisima Satelital 📱
