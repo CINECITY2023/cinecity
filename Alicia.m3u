@@ -425,10 +425,6 @@ https://cdn.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_Live_dash_enc_C/Discovery
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturistiktv.png" group-title="🚜 Cultura",✔️ Turistik TV
 https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 
-✔️ Tu Universo TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/tuuniversotv.png" group-title="🚜 Cultura",✔️ Tu Universo TV
-https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
 ✔️ World Discovery 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="🚜 Cultura",✔️ World Discovery 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2112,6 +2108,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
 ✔️ Solidaria TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHsolidariatv.png" group-title="🙏 Religion",✔️ Solidaria TV
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+✔️ Tu Universo TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHtuuniversotv.png" group-title="🙏 Religion",✔️ Tu Universo TV
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 
 ✔️ Unife TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
