@@ -63,8 +63,8 @@ http://107.152.39.199:8030/hls/canal13.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
-✔️El Trece
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️El Trece
+✔️ El Trece
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
 #EXTVLCOPT:http-referrer=https://www.m3u8player.online/
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
 
@@ -428,10 +428,6 @@ https://cdn1.cef-technology.com/stream_web/turistik/playlist.m3u8
 ✔️ Tu Universo TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/tuuniversotv.png" group-title="🚜 Cultura",✔️ Tu Universo TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-
-✔️ Unife TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🚜 Cultura",✔️ Unife TV
-https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
 ✔️ World Discovery 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="🚜 Cultura",✔️ World Discovery 📱
@@ -1612,16 +1608,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/StarTVEEspa%C3%B1a.png" group-title="🌍 Canales Internacionales",✔️ Star TVE (España)
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 
-✔️ EWTN 📱 (EEUU)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="⛪ Religion",✔️ EWTN 📱 (EEUU)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
-https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_C/EWTN.mpd
-
-✔️ EWTN (EEUU)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🌍 Canales Internacionales",✔️ EWTN (EEUU)
-http://38.44.109.41:8003/play/a01u/index.m3u8
-
 ✔️ Canal 7 (Guatemala)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal7Guatemala.png" group-title="🌍 Canales Internacionales",✔️ Canal 7 (Guatemala)
 http://45.5.117.57:8999/play/a02m/index.m3u8
@@ -2093,12 +2079,6 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
-✔️ Orbe 21 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHorbe21.png" group-title="🙏 Religion",✔️ Orbe 21 📱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
-https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
-
 ✔️ Canal Santa Maria 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2107,5 +2087,33 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.
 
 ✔️ Canal Santa Maria
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria
-https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
+https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
+
+✔️ EWTN 📱 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="⛪ Religion",✔️ EWTN 📱 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
+https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_C/EWTN.mpd
+
+✔️ EWTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🙏 Religion",✔️ EWTN
+http://38.44.109.41:8003/play/a01u/index.m3u8
+
+✔️ Maria Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHmariavision.png" group-title="🙏 Religion",✔️ Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+✔️ Orbe 21 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHorbe21.png" group-title="🙏 Religion",✔️ Orbe 21 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
+https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
+
+✔️ Solidaria TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHsolidariatv.png" group-title="🙏 Religion",✔️ Solidaria TV
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+
+✔️ Unife TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
+https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
