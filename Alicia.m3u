@@ -1029,6 +1029,10 @@ https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd
 #KODIPROP:inputstream.adaptive.license_key=60cb38a05880cd0eb429f71398609540:c251aac7943c0d1324aa9a4129f3afd4
 https://cdn.cvattv.com.ar/live/c6eds/Telenovelas/SA_Live_dash_enc_C/Telenovelas.mpd
 
+✔️ TLNovelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Novelas/tlnovelas.png" group-title="❤️ Novelas",✔️ TLNovelas
+http://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
+
 ✔️ Baby TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/babytv.png" group-title="🎈 Infantil",✔️ Baby TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1928,14 +1932,14 @@ https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Canales Internacionales",✔️ Teleunion (Rep. Dominicana)
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
-✔️ Canal 5 (Uruguay)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5uruguay.png" group-title="🌍 Canales Internacionales",✔️ Canal 5 (Uruguay)
+✔️  Canal 5 📱 (Uruguay)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5uruguay.png" group-title="🌍 Canales Internacionales",✔️  Canal 5 📱 (Uruguay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_C/TV_Nacional_Uy.mpd
 
-✔️ TV Ciudad (Uruguay)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvciudaduruguay.png" group-title="🌍 Canales Internacionales",✔️ TV Ciudad (Uruguay)
+✔️  TV Ciudad 📱 (Uruguay)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvciudaduruguay.png" group-title="🌍 Canales Internacionales",✔️  TV Ciudad 📱 (Uruguay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6
 https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_C/Teve_Ciudad.mpd
@@ -2092,4 +2096,10 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 ✔️ Tierramia TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+
+✔️ Orbe 21 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHorbe21.png" group-title="🙏 Religion",✔️ Orbe 21 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29ccae9b98d74e76b35ac4e9a7fd1af1:cd6f0d4dca0fc30533e845fc8ea6a945
+https://cdn.cvattv.com.ar/live/c6eds/Canal_21/SA_Live_dash_enc_C/Canal_21.mpd
 
