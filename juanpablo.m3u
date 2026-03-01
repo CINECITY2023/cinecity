@@ -508,6 +508,10 @@ http://45.5.119.43:4000/play/a0il/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=ff800156f81f70c687eccaadedc2ca15:937ba1301e27008b34d02b9d8a31a0db
 https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
 
+✔️ Doctor House
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdoctorhouse.png" group-title="🎬 Cine",✔️ Doctor House
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=279022&token=tecnotokenplustv230516F&f=.m3u8
+
 ✔️ Euro Channel 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeurochannel.png" group-title="🎬 Cine",✔️ Euro Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1178,6 +1182,10 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="🤖 Animacion",✔️ Max Anime
 https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
+✔️ Pokemon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHpokemon.png" group-title="🤖 Animacion",✔️ Pokemon
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=168751&token=tecnotokenplustv230516F&f=.m3u8
+
 ✔️ Taltal TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/taltaltv.png" group-title="🤖 Animacion",✔️ Taltal TV
 https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.m3u8
@@ -1185,6 +1193,10 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 ✔️ Zaz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/zaz.png" group-title="🤖 Animacion",✔️ Zaz
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13012&live=1&hls_marker=1&position=preroll&pod_duration=120&min_ad_duration=6&max_ad_duration=120&did=[DID]&ip=[IP]&ua=[UA]&player_height=[HEIGHT]&player_width=[WIDTH]&is_lat=[LIMITED_AD_TRACKING]&us_privacy=[US_PRIVACY]&consent=[CONSENT]&lat=[LAT]&lon=[LON]&device_type=[DEVICE_TYPE]&gdpr=[GDPR]&ifa_type=[IFA_TYPE&schain=[SCHAIN]
+
+✔️ Chavo del Ocho
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=279007&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Comedy Central 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central 📱
@@ -1195,6 +1207,10 @@ https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCent
 ✔️ Distrito Comedia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/distritocomedia.png" group-title="🤡 Comedia",✔️ Distrito Comedia
 http://38.44.109.41:8003/play/a00j/index.m3u8
+
+✔️ Los Tres Chiflados
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHlostreschiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
+http://tecnotv.club/FEB27/phpcode/lista01.php?c=279037&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Universal Comedy 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy 📱
@@ -1478,7 +1494,7 @@ http://38.44.109.41:8003/play/a00a/index.m3u8
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 
 ✔️ Telesur 📱 (Venezuela)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🌍 Canales Internacionales",✔️ Telesur 📱 (Venezuela)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ Telesur 📱 (Venezuela)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5235d8ee29f14ce6b26ea5d828aee77a:6bf6bd339e3098babc2ab0b984cd2376
 https://cdn.cvattv.com.ar/live/c6eds/Telesur/SA_Live_dash_enc_C/Telesur.mpd
@@ -2028,6 +2044,10 @@ http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Cadena103.png" group-title="📻 Radio en Vivo",✔️ Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
+70-80 TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CH7080tv.png" group-title="🎵 Musica",70-80 TV
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+
 ✔️ AE Radio (Chile)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/aeradiochile.png" group-title="🎵​ Musica",✔️ AE Radio (Chile)
 https://tls-cl.cdnz.cl/aeradio/live/.m3u8
@@ -2041,6 +2061,10 @@ https://cdn.cvattv.com.ar/live/c7eds/AllegroHD/SA_Live_dash_enc_C/AllegroHD.mpd
 ✔️ Beats Radio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/BeatsRadio.png" group-title="🎵​ Musica",✔️ Beats Radio
 https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+✔️ Canal VM Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHcanalvmlatino.png" group-title="🎵 Musica",✔️ Canal VM Latino
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
 ✔️ CM 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CM.png" group-title="🎵​ Musica",✔️ CM 📱
@@ -2085,6 +2109,10 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a354b0c82a3a720c4a6f52ed5a1190f4:45a76dcc84f058cfabc8b958d7303b28
 https://cdn.cvattv.com.ar/live/c6eds/Quiero_HD/SA_Live_dash_enc_C/Quiero_HD.mpd
+
+✔️ Retro Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretroplus.png" group-title="🎵 Musica",✔️ Retro Plus
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 ✔️ Retro TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/RetroTV.png" group-title="🎵​ Musica",✔️ Retro TV
