@@ -1,7 +1,12 @@
 #EXTM3U
-✔️ America TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logo/eventos.png" group-title="🏙️ Buenos Aires",✔️Boca - gimnasia Mendoza 📱
+
+✔️EVENTOS⚽ 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
 http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
+
+✔️EVENTOS⚽ 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+http://tecnotv.club/FEB27/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ America TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV 📱
@@ -68,9 +73,7 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
 ✔️ El Trece
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
+http://107.152.39.199:8030/hls/canal21.m3u8
 
 ✔️ Argentinisima Satelital 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital 📱
@@ -915,6 +918,10 @@ https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="⚽ Deportes",✔️ Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
+✔️ Gol Caracol
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgolcaracol.png" group-title="⚽ Deportes",✔️ Gol Caracol
+http://107.152.39.199:8030/hls/canal19.m3u8
+
 ✔️ Golf Channel 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1155,9 +1162,21 @@ http://38.44.109.41:8003/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/dreiko.png" group-title="🤖 Animacion",✔️ Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
 
+✔️ EnerGeek Retro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHenergeek.png" group-title="🤖 Animacion",✔️ EnerGeek Retro
+https://cdn.energeek.cl/hls/energeekretro.m3u8
+
+✔️ EnerGeek Fan
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHenergeekfan.png" group-title="🤖 Animacion",✔️ EnerGeek Fan
+https://cdn.energeek.cl/hls/energeekfan.m3u8
+
 ✔️ Locomotion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/locomotion.png" group-title="🤖 Animacion",✔️ Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+
+✔️ Max Anime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="🤖 Animacion",✔️ Max Anime
+https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
 
 ✔️ Taltal TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/taltaltv.png" group-title="🤖 Animacion",✔️ Taltal TV
@@ -1526,9 +1545,17 @@ http://107.152.39.199:8030/hls/canal1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Canales Internacionales",✔️ Caracol TV *2 (Colombia)
 http://205.235.6.29:8000/play/a0vf/index.m3u8
 
+✔️ Caracol TV *3 (Colombia)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Canales Internacionales",✔️ Caracol TV *3 (Colombia)
+http://107.152.39.199:8030/hls/canal1.m3u8
+
 ✔️ City TV (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CityTV1Colombia.png" group-title="🌍 Canales Internacionales",✔️ City TV (Colombia)
 http://38.44.109.41:8003/play/a02f/index.m3u8
+
+✔️ RCN (Colombia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (Colombia)
+http://107.152.39.199:8030/hls/canal3.m3u8
 
 ✔️ RCN (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCNColombia.png" group-title="🌍 Canales Internacionales",✔️ RCN (Colombia)
@@ -2079,6 +2106,10 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/TierramiaTV.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
+✔️ ABN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHabn.png" group-title="🙏 Religion",✔️ ABN
+http://107.152.39.199:8030/hls/canal22.m3u8
+
 ✔️ Canal Santa Maria 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2089,8 +2120,8 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
-✔️ EWTN 📱 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🙏 Religion",✔️ EWTN 📱 
+✔️ EWTN 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/ewtn.png" group-title="🙏 Religion",✔️ EWTN 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07df3c48652a431ab779d133f085b799:ee2fbeec1ecdffa5617383f684dfda0e
 https://cdn.cvattv.com.ar/live/c6eds/EWTN/SA_Live_dash_enc_C/EWTN.mpd
@@ -2120,7 +2151,4 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 ✔️ Unife TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
-
-
-
 
