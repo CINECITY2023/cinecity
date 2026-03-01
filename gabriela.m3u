@@ -374,17 +374,17 @@ https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and
 #KODIPROP:inputstream.adaptive.license_key=e82318e518ba70cea3d7b37bef99e692:a05fcb634c071a514e3039e1c274b4db
 https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_Live_dash_enc_C/HistoryHD.mpd
 
-✔️ Hola TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHholatv.png" group-title="🚜 Cultura",✔️ Hola TV 📱
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
-https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd
-
 ✔️ H2 History 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh2history.png" group-title="🚜 Cultura",✔️ H2 History 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
 https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc_C/History_2.mpd
+
+✔️ Hola TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHholatv.png" group-title="🚜 Cultura",✔️ Hola TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d759477f0ad1bdef2c6de09e7c275fd:82cc6eea185eecc934df95adfbbf9dbc
+https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd
 
 ✔️ Love Nature
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="🚜 Cultura",✔️ Love Nature
@@ -647,7 +647,7 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.
 http://200.92.227.238:8000/play/a0mu/index.m3u8
 
 ✔️ HBO Xtreme *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme *2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/hboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme *2
 http://45.5.117.57:8999/play/a05u/index.m3u8
 
 ✔️ Imagen Universal TV
@@ -663,11 +663,11 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 ✔️ Oromar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🎬 Cine",✔️ Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
 ✔️ Oromar TV *2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/oromartv.png" group-title="🎬 Cine",✔️ Oromar TV *2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🎬 Cine",✔️ Oromar TV *2
 http://38.44.109.41:8003/play/a01a/index.m3u8
 
 ✔️ RakutenTV Pelis Top
@@ -675,7 +675,7 @@ http://38.44.109.41:8003/play/a01a/index.m3u8
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1f8e6c44-30c8-4797-a406-b3fa0ef5fa89&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
 
 ✔️ Accion Runtime
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/runtimeaccion.png" group-title="🎬 Cine",✔️ Accion Runtime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHruntimeaccion.png" group-title="🎬 Cine",✔️ Accion Runtime
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 ✔️ Sony Channel 📱
@@ -689,117 +689,117 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
 http://45.5.117.57:8999/play/a02t/index.m3u8
 
 ✔️ Sony Movies
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/sonymovies.png" group-title="🎬 Cine",✔️ Sony Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png" group-title="🎬 Cine",✔️ Sony Movies
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 ✔️ Space 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png" group-title="🎬 Cine",✔️ Space 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
 https://cdn.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc_C/Space.mpd
 
 ✔️ Space
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/space.png" group-title="🎬 Cine",✔️ Space
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png" group-title="🎬 Cine",✔️ Space
 http://38.44.109.41:8003/play/a01y/index.m3u8
 
 ✔️ Star Channel 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ Star Channel 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="🎬 Cine",✔️ Star Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
 https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc_C/FOXHD.mpd
 
 ✔️ Star Channel
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/starchannel.png" group-title="🎬 Cine",✔️ Star Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png" group-title="🎬 Cine",✔️ Star Channel
 http://45.5.117.57:8999/play/a03v/index.m3u8
 
 ✔️ Studio Universal 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/studiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png" group-title="🎬 Cine",✔️ Studio Universal 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
 https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_Live_dash_enc_C/Studio_Universal.mpd
 
 ✔️ TCM 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tcm.png" group-title="🎬 Cine",✔️ TCM 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="🎬 Cine",✔️ TCM 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
 https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_Live_dash_enc_C/TCM.mpd
 
 ✔️ TCM
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tcm.png" group-title="🎬 Cine",✔️ TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="🎬 Cine",✔️ TCM
 http://45.5.117.57:8999/play/a02h/index.m3u8
 
 ✔️ TNT 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="🎬 Cine",✔️ TNT 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
 https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc_C/TNT_HD_Arg.mpd
 
 ✔️ TNT
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tnt.png" group-title="🎬 Cine",✔️ TNT
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="🎬 Cine",✔️ TNT
 http://38.44.109.41:8003/play/a01v/index.m3u8
 
 ✔️ TNT Series 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="🎬 Cine",✔️ TNT Series 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
 https://cdn.cvattv.com.ar/live/c3eds/TNTSeries/SA_Live_dash_enc_C/TNTSeries.mpd
 
 ✔️ TNT Series
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/tntseries.png" group-title="🎬 Cine",✔️ TNT Series
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png" group-title="🎬 Cine",✔️ TNT Series
 http://38.44.109.41:8003/play/a01x/index.m3u8
 
 ✔️ Universal Cinema 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcinema.png" group-title="🎬 Cine",✔️ Universal Cinema 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6ae2e17173055e4ca69dc18963406ae:5a955c29eb88a0b4c9a2538cc4b3aea2
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Cinema/SA_Live_dash_cenc/Universal_Cinema.mpd
 
 ✔️ Universal Crime 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalcrime.png" group-title="🎬 Cine",✔️ Universal Crime 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcrime.png" group-title="🎬 Cine",✔️ Universal Crime 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1efd7edf60e1514f775dd13d046ae708:c2ef1abbd945c62c11b1375eaaa50f0d
 https://cdn.cvattv.com.ar/live/c6eds/universal_Crime/SA_Live_dash_enc_C/universal_Crime.mpd
 
 ✔️ Universal Premiere 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",✔️ Universal Premiere 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png" group-title="🎬 Cine",✔️ Universal Premiere 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0eb20b51ad13b58ad417f11318e588b3:ad5d29a33d73d21187157802de8e6097
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Premiere/SA_Live_dash_enc_C/Universal_Premiere.mpd
 
 ✔️ Universal Premiere
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universalpremiere.png" group-title="🎬 Cine",✔️ Universal Premiere
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png" group-title="🎬 Cine",✔️ Universal Premiere
 http://45.5.117.57:8999/play/a03j/index.m3u8
 
 ✔️ Universal TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/universaltv.png" group-title="🎬 Cine",✔️ Universal TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversaltv.png" group-title="🎬 Cine",✔️ Universal TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash_enc_C/Universal_Channel_HD.mpd
 
 ✔️ Usa TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/usa.png" group-title="🎬 Cine",✔️ Usa TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHusatv.png" group-title="🎬 Cine",✔️ Usa TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c754b522b3b87dc2ba2da3e35154ec14:141a51e9e83861ae99b4b217431710b3
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd
 
 ✔️ Volver 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/volver.png" group-title="🎬 Cine",✔️ Volver 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png" group-title="🎬 Cine",✔️ Volver 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 
 ✔️ Warner TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://cdn.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc_C/WarnerHD.mpd
 
 ✔️ Warner TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/warnertv.png" group-title="🎬 Cine",✔️ Warner TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="🎬 Cine",✔️ Warner TV
 http://45.5.117.57:8999/play/a02u/index.m3u8
 
 ✔️ Xtrema TV Cine Accion
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/xtrematvcineaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHxtremacineaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 ✔️ AYM Sports
@@ -2044,7 +2044,7 @@ http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/radio-en-vivo/Cadena103.png" group-title="📻 Radio en Vivo",✔️ Cadena 103
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
-✔️ 70-80 TV
+70-80 TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CH7080tv.png" group-title="🎵​ Musica",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
@@ -2179,3 +2179,4 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 ✔️ Unife TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
+
