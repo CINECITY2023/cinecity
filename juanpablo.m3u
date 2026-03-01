@@ -2045,7 +2045,7 @@ http://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8
 
 ✔️ 70-80 TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CH7080tv.png" group-title="🎵​ Musica",70-80 TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CH7080tv.png" group-title="🎵​ Musica",70-80 TV
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 
 ✔️ AE Radio (Chile)
