@@ -1,21 +1,22 @@
-name: Extraer listas premium
+name: Actualizar codigo TecnoTV
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # cada 6 horas
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  actualizar:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-      - name: Descargar HTML como navegador real
+      - name: Descargar página como navegador real
         run: |
           curl -L \
           -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36" \
@@ -23,14 +24,25 @@ jobs:
           https://spinoff.link/listas-premium/ \
           -o pagina.html
 
-      - name: Extraer values
+      - name: Extraer URL TecnoTV
         run: |
-          grep -oP 'class="caja-texto-copiar"[^>]*value="\K[^"]+' pagina.html > listas-premium.txt
+          grep -oP 'http://tecnotv\.club/[A-Za-z0-9]+' pagina.html | head -n 1 > nueva_url.txt
 
-      - name: Commit y push
+      - name: Obtener código nuevo
+        run: |
+          URL=$(cat nueva_url.txt)
+          CODIGO=$(echo $URL | awk -F'/' '{print $4}')
+          echo "Código detectado: $CODIGO"
+          echo "CODIGO=$CODIGO" >> $GITHUB_ENV
+
+      - name: Reemplazar código en principal.m3u
+        run: |
+          sed -i "s|http://tecnotv.club/[^/]*/|http://tecnotv.club/${CODIGO}/|g" principal.m3u
+
+      - name: Commit y push si hay cambios
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add listas-premium.txt
-          git commit -m "Actualiza listas premium automático" || echo "Sin cambios"
+          git add principal.m3u
+          git commit -m "Actualiza codigo TecnoTV automáticamente" || echo "Sin cambios"
           git push
