@@ -1,0 +1,29 @@
+name: Sync M3U Files
+
+on:
+  push:
+    paths:
+      - 'principal.m3u'
+
+jobs:
+  copy-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Copy file to other M3U names
+        run: |
+          cp principal.m3u Alicia.m3u
+          cp principal.m3u gabriela.m3u
+          cp principal.m3u juanpablo.m3u
+          cp principal.m3u mariano.m3u
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Auto-sync M3U files" || echo "No changes to commit"
+          git push
