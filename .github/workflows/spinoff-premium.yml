@@ -1,0 +1,58 @@
+name: Extraer listas premium
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # cada 6 horas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Instalar Playwright
+        run: |
+          pip install playwright
+          playwright install chromium
+
+      - name: Extraer valores dinámicos
+        run: |
+          python <<EOF
+          from playwright.sync_api import sync_playwright
+
+          url = "https://spinoff.link/listas-premium/"
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch(headless=True)
+              page = browser.new_page()
+              page.goto(url, wait_until="networkidle")
+
+              inputs = page.locator("input.caja-texto-copiar")
+              count = inputs.count()
+
+              valores = []
+              for i in range(count):
+                  valor = inputs.nth(i).input_value()
+                  if valor.strip():
+                      valores.append(valor.strip())
+
+              with open("listas-premium.txt", "w") as f:
+                  for v in valores:
+                      f.write(v + "\n")
+
+              browser.close()
+          EOF
+
+      - name: Commit y push si hay cambios
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add listas-premium.txt
+          git commit -m "Actualiza listas premium automático" || echo "Sin cambios"
+          git push
