@@ -2,8 +2,11 @@ name: Sync M3U Files
 
 on:
   push:
-    paths:
-      - 'principal.m3u'
+    branches:
+      - cinecity.net   # ← tu branch real
+
+permissions:
+  contents: write   # ← ESTO SOLUCIONA EL 403
 
 jobs:
   copy-file:
@@ -12,18 +15,20 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Copy file to other M3U names
+      - name: Copy file
         run: |
           cp principal.m3u Alicia.m3u
           cp principal.m3u gabriela.m3u
           cp principal.m3u juanpablo.m3u
           cp principal.m3u mariano.m3u
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add .
-          git commit -m "Auto-sync M3U files" || echo "No changes to commit"
+          git commit -m "Auto sync M3U" || echo "No changes to commit"
           git push
