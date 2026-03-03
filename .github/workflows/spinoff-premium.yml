@@ -1,4 +1,4 @@
-name: Actualizar codigo TecnoTV
+name: Actualizar codigo TecnoTV en todos los M3U
 
 on:
   schedule:
@@ -35,14 +35,17 @@ jobs:
           echo "Código detectado: $CODIGO"
           echo "CODIGO=$CODIGO" >> $GITHUB_ENV
 
-      - name: Reemplazar código en principal.m3u
+      - name: Reemplazar código en TODOS los M3U
         run: |
-          sed -i "s|http://tecnotv.club/[^/]*/|http://tecnotv.club/${CODIGO}/|g" principal.m3u
+          for archivo in *.m3u; do
+            echo "Actualizando $archivo"
+            sed -i "s|http://tecnotv.club/[^/]*/|http://tecnotv.club/${CODIGO}/|g" "$archivo"
+          done
 
       - name: Commit y push si hay cambios
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add principal.m3u
-          git commit -m "Actualiza codigo TecnoTV automáticamente" || echo "Sin cambios"
+          git add *.m3u
+          git commit -m "Actualiza codigo TecnoTV automáticamente en todos los M3U" || echo "Sin cambios"
           git push
