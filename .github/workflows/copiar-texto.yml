@@ -1,8 +1,8 @@
-name: Copiar texto desde web
+name: Extraer value dinámico
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # cada 10 minutos
+    - cron: "0 */6 * * *"   # cada 6 horas (puedes cambiarlo)
   workflow_dispatch:
 
 permissions:
@@ -13,13 +13,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Descargar página y extraer texto
+      - name: Instalar Python y Playwright
         run: |
-          curl -s https://spinoff.link/listas-premium > pagina.html
-          grep "<input type="text" readonly class="caja-texto-copiar" id="textoParaCopiar1" value="">" pagina.html > resultado.txt
+          pip install playwright
+          playwright install chromium
+
+      - name: Extraer value del input
+        run: |
+          python <<EOF
+          from playwright.sync_api import sync_playwright
+
+          url = "https://spinoff.link/listas-premium/"
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch()
+              page = browser.new_page()
+              page.goto(url, wait_until="networkidle")
+
+              value = page.locator("#textoParaCopiar1").input_value()
+
+              with open("resultado.txt", "w") as f:
+                  f.write(value)
+
+              browser.close()
+          EOF
 
       - name: Commit y push
         run: |
