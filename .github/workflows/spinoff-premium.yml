@@ -31,7 +31,12 @@ jobs:
           with sync_playwright() as p:
               browser = p.chromium.launch(headless=True)
               page = browser.new_page()
-              page.goto(url, wait_until="networkidle")
+
+              # Cargar página con más timeout
+              page.goto(url, timeout=60000)
+
+              # Esperar 5 segundos para que cargue JS
+              page.wait_for_timeout(5000)
 
               inputs = page.locator("input.caja-texto-copiar")
               count = inputs.count()
