@@ -1,0 +1,30 @@
+name: Copiar texto desde web
+
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # cada 10 minutos
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Descargar página y extraer texto
+        run: |
+          curl -s https://spinoff.link/listas-premium > pagina.html
+          grep "<input type="text" readonly class="caja-texto-copiar" id="textoParaCopiar1" value="">" pagina.html > resultado.txt
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add resultado.txt
+          git commit -m "Actualiza texto automáticamente" || echo "Sin cambios"
+          git push
