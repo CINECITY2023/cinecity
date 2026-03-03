@@ -2,7 +2,7 @@ name: Extraer listas premium
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # cada 6 horas
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,48 +13,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Instalar Playwright
+      - name: Descargar HTML como navegador real
         run: |
-          pip install playwright
-          playwright install chromium
+          curl -L \
+          -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36" \
+          -H "Accept-Language: es-ES,es;q=0.9" \
+          https://spinoff.link/listas-premium/ \
+          -o pagina.html
 
-      - name: Extraer valores dinámicos
+      - name: Extraer values
         run: |
-          python <<EOF
-          from playwright.sync_api import sync_playwright
+          grep -oP 'class="caja-texto-copiar"[^>]*value="\K[^"]+' pagina.html > listas-premium.txt
 
-          url = "https://spinoff.link/listas-premium/"
-
-          with sync_playwright() as p:
-              browser = p.chromium.launch(headless=True)
-              page = browser.new_page()
-
-              # Cargar página con más timeout
-              page.goto(url, timeout=60000)
-
-              # Esperar 5 segundos para que cargue JS
-              page.wait_for_timeout(5000)
-
-              inputs = page.locator("input.caja-texto-copiar")
-              count = inputs.count()
-
-              valores = []
-              for i in range(count):
-                  valor = inputs.nth(i).input_value()
-                  if valor.strip():
-                      valores.append(valor.strip())
-
-              with open("listas-premium.txt", "w") as f:
-                  for v in valores:
-                      f.write(v + "\n")
-
-              browser.close()
-          EOF
-
-      - name: Commit y push si hay cambios
+      - name: Commit y push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
