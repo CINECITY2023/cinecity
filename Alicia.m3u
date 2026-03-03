@@ -674,8 +674,8 @@ http://38.44.109.41:8003/play/a01a/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHrakutentvpelistop.png" group-title="🎬 Cine",✔️ RakutenTV Pelis Top
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1f8e6c44-30c8-4797-a406-b3fa0ef5fa89&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
 
-✔️ Runtime Accion 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHruntimeaccion.png" group-title="🎬 Cine",✔️ Runtime Accion 
+✔️ Runtime Accion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHruntimeaccion.png" group-title="🎬 Cine",✔️ Runtime Accion
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 ✔️ Sony Channel 📱
@@ -803,7 +803,7 @@ http://45.5.117.57:8999/play/a02u/index.m3u8
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
 ✔️ AYM Sports
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/aymsports.png" group-title="⚽ Deportes",✔️ AYM Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHaymsports.png" group-title="⚽ Deportes",✔️ AYM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 
 ✔️ Bein Sports Xtra ñ
@@ -815,7 +815,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 ✔️ DAZN Fast 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/daznfast.png" group-title="⚽ Deportes",✔️ DAZN Fast 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdaznfast.png" group-title="⚽ Deportes",✔️ DAZN Fast 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
@@ -922,22 +922,18 @@ https://cdn.cvattv.com.ar/live/c6eds/El_Garage/SA_Live_dash_enc_C/El_Garage.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="⚽ Deportes",✔️ Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8
 
-✔️ Gol Caracol
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgolcaracol.png" group-title="⚽ Deportes",✔️ Gol Caracol
-http://107.152.39.199:8030/hls/canal19.m3u8
-
 ✔️ Golf Channel 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/Golfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgolfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=38d6226b7cd2cfa86b4b9cdaa455e7d7:24f0ef2bf787647cc02df870417eed2b
 https://cdn.cvattv.com.ar/live/c6eds/Golf_Channel/SA_Live_dash_enc_C/Golf_Channel.mpd
 
 ✔️ InterneTV Deportes
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/itvdeportes.png" group-title="⚽ Deportes",✔️ InterneTV Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHinternettvdeportes.png" group-title="⚽ Deportes",✔️ InterneTV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
 ✔️ MotorVision HD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/motorvision.png" group-title="⚽ Deportes",✔️ MotorVision HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmotorvision.png" group-title="⚽ Deportes",✔️ MotorVision HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 
 ✔️ NBA TV 📱
@@ -947,13 +943,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342
 https://cdn.cvattv.com.ar/live/c6eds/NBA_TV/SA_Live_dash_enc_C/NBA_TV.mpd
 
 ✔️ PX Sports 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/pxsports.png" group-title="⚽ Deportes",✔️ PX Sports 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHpxsports.png" group-title="⚽ Deportes",✔️ PX Sports 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9393321daef1463fc7e2e060298db852:be6bc91e17816f67e62596bed463c5ad
 https://cdn.cvattv.com.ar/live/c7eds/PX_Sports/SA_Live_dash_enc_C/PX_Sports.mpd
 
 ✔️ Red Bull TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/redbulltv.png" group-title="⚽ Deportes",✔️ Red Bull TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHredbulltv.png" group-title="⚽ Deportes",✔️ Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 ✔️ TNT Sports Premium 📱
@@ -977,7 +973,7 @@ https://cdn.cvattv.com.ar/live/c3eds/TyC_Internacional/SA_Live_dash_enc_C/TyC_In
 http://38.44.109.41:8003/play/a02l/index.m3u8
 
 ✔️ Xtrema TV Cna Deportes 2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/xtremacnadeportes.png" group-title="⚽ Deportes",✔️ Xtrema TV Cna Deportes 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHxtremadeportes.png" group-title="⚽ Deportes",✔️ Xtrema TV Cna Deportes 2
 https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
 
 ✔️ Ziggo Sport 2
@@ -999,7 +995,7 @@ https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3
 https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw865586829_-819821292/PLTV/86/224/3221241610/3221241610.mpd?accountinfo=~~V2.0~LNS2PBO5tyhp5z1Pe6ObBA6cd7a4ec35c4492167b9376e6dff2932~BZw2dESHw-I1PQCFh9gGxCMvrIIzgMdYAe900qj8l6aoXUX9ahyR6I9EUIu7nDR4f4887615c83ea7a8cee6dd33137c4ebe:UTC,
 
 ✔️ Ziggo Sport 6
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport6.png" group-title="⚽ Deportes",✔️ Ziggo Sport 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport6.png" group-title="⚽ Deportes",✔️ Ziggo Sport 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a0ffa532aa2498490826e2f6a37f7c9:a8cec27bc7d47909c5b0d8f473b43e8d
 https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3221241521/3221241521.mpd?accountinfo=~~V2.0~URnD_afuosWHfY5OEqRXOwfa01c8ac56cf4511de39c2c4a3cab278~iVxKjbtf2gx_dYFqI-vt5C4Cu3COYDjZaw6C_kO2T2wm30fwo1ctD1gr_e2PrgTh48867c3177f3c34842031623cb2e06c9:UTC,
