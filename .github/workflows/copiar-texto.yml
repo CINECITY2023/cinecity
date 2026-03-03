@@ -1,8 +1,8 @@
-name: Extraer value dinámico
+name: Extraer value automático
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # cada 6 horas (puedes cambiarlo)
+    - cron: "0 4 * * *"   # una vez al día (04:00 UTC)
   workflow_dispatch:
 
 permissions:
@@ -15,35 +15,15 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Instalar Python y Playwright
+      - name: Descargar y extraer value
         run: |
-          pip install playwright
-          playwright install chromium
+          curl -s https://spinoff.link/listas-premium/ | \
+          grep -oP 'id="textoParaCopiar1"[^>]*value="\K[^"]+' > resultado.txt
 
-      - name: Extraer value del input
-        run: |
-          python <<EOF
-          from playwright.sync_api import sync_playwright
-
-          url = "https://spinoff.link/listas-premium/"
-
-          with sync_playwright() as p:
-              browser = p.chromium.launch()
-              page = browser.new_page()
-              page.goto(url, wait_until="networkidle")
-
-              value = page.locator("#textoParaCopiar1").input_value()
-
-              with open("resultado.txt", "w") as f:
-                  f.write(value)
-
-              browser.close()
-          EOF
-
-      - name: Commit y push
+      - name: Commit y push si cambió
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add resultado.txt
-          git commit -m "Actualiza texto automáticamente" || echo "Sin cambios"
+          git commit -m "Actualiza value automático" || echo "Sin cambios"
           git push
