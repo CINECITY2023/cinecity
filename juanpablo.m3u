@@ -557,7 +557,7 @@ https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd
 
 ✔️ AXN
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
 http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch29&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ CineAr 📱
