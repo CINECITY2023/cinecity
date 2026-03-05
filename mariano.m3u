@@ -5,7 +5,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️EVENTOS⚽ 2
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
 http://tecnotv.club/0203F/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ America TV 📱
