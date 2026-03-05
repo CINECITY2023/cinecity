@@ -40,6 +40,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "Update Pluto: New Regions and Improved Session IPs"
-            git pull --rebase origin main
+            git pull --rebase origin cinecity.net
             git push origin cinecity.net
           fi
