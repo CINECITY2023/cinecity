@@ -1,0 +1,48 @@
+name: reemplazar_pluto_urls
+
+files:
+  source: pluto_ar.m3u
+  target: principal.m3u
+  output: principal_actualizado.m3u
+
+process:
+  - step: extraer_canales
+    description: Obtener channel ID y URL desde pluto_ar.m3u
+
+  - step: reemplazar_urls
+    description: Buscar /channel/{id}/ en principal.m3u y reemplazar la URL completa
+
+script: |
+  import re
+
+  source_file = "pluto_ar.m3u"
+  target_file = "principal.m3u"
+  output_file = "principal_actualizado.m3u"
+
+  # guardar urls por channel id
+  channel_urls = {}
+
+  with open(source_file, "r", encoding="utf-8") as f:
+      for line in f:
+          if "pluto.tv" in line and "/channel/" in line:
+              m = re.search(r'/channel/([^/]+)/', line)
+              if m:
+                  channel_id = m.group(1)
+                  channel_urls[channel_id] = line.strip()
+
+  new_lines = []
+
+  with open(target_file, "r", encoding="utf-8") as f:
+      for line in f:
+          if "/channel/" in line:
+              m = re.search(r'/channel/([^/]+)/', line)
+              if m:
+                  cid = m.group(1)
+                  if cid in channel_urls:
+                      line = channel_urls[cid] + "\n"
+          new_lines.append(line)
+
+  with open(output_file, "w", encoding="utf-8") as f:
+      f.writelines(new_lines)
+
+  print("Archivo generado:", output_file)
