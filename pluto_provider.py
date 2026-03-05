@@ -119,7 +119,7 @@ class PlutoProvider(BaseProvider):
 
     def generate_m3u(self, channels):
         # Uses the specific regional EPG URL in the header as requested
-        m3u = f'#EXTM3U url-tvg=""\n'
+        m3u = f'#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"\n'
         for ch in channels:
             m3u += f'#EXTINF:-1 tvg-id="{ch["id"]}" tvg-logo="{ch["logo"]}" group-title="{ch["group"]}",{ch["name"]}\n'
             m3u += f'{ch["stream_url"]}\n'
