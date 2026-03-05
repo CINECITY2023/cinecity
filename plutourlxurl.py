@@ -1,12 +1,19 @@
 import re
 
 source_file = "pluto_ar.m3u"
-target_file = "principal.m3u"
-output_file = "principal.m3u"
+
+# todos los m3u que quieres actualizar
+target_files = [
+    "principal.m3u",
+    "Alicia.m3u",
+    "gabriela.m3u",
+    "juanpablo.m3u"
+    "mariano.m3u"
+]
 
 channel_urls = {}
 
-# leer lista de pluto
+# leer pluto_ar
 with open(source_file, "r", encoding="utf-8") as f:
     for line in f:
         if "pluto.tv" in line and "/channel/" in line:
@@ -15,21 +22,22 @@ with open(source_file, "r", encoding="utf-8") as f:
                 channel_id = m.group(1)
                 channel_urls[channel_id] = line.strip()
 
-new_lines = []
+# actualizar cada lista
+for target_file in target_files:
 
-# leer lista principal
-with open(target_file, "r", encoding="utf-8") as f:
-    for line in f:
-        if "/channel/" in line:
-            m = re.search(r'/channel/([^/]+)/', line)
-            if m:
-                cid = m.group(1)
-                if cid in channel_urls:
-                    line = channel_urls[cid] + "\n"
-        new_lines.append(line)
+    new_lines = []
 
-# guardar archivo actualizado
-with open(output_file, "w", encoding="utf-8") as f:
-    f.writelines(new_lines)
+    with open(target_file, "r", encoding="utf-8") as f:
+        for line in f:
+            if "/channel/" in line:
+                m = re.search(r'/channel/([^/]+)/', line)
+                if m:
+                    cid = m.group(1)
+                    if cid in channel_urls:
+                        line = channel_urls[cid] + "\n"
+            new_lines.append(line)
 
-print("principal.m3u actualizado")
+    with open(target_file, "w", encoding="utf-8") as f:
+        f.writelines(new_lines)
+
+    print(f"{target_file} actualizado")
