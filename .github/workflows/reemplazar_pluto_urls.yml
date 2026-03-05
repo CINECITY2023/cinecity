@@ -1,48 +1,30 @@
-name: reemplazar_pluto_urls
+name: actualizar_m3u
 
-files:
-  source: pluto_ar.m3u
-  target: principal.m3u
-  output: principal_actualizado.m3u
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
-process:
-  - step: extraer_canales
-    description: Obtener channel ID y URL desde pluto_ar.m3u
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
 
-  - step: reemplazar_urls
-    description: Buscar /channel/{id}/ en principal.m3u y reemplazar la URL completa
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v4
 
-script: |
-  import re
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
-  source_file = "pluto_ar.m3u"
-  target_file = "principal.m3u"
-  output_file = "principal_actualizado.m3u"
+      - name: Ejecutar script
+        run: python plutourlxurl.py
 
-  # guardar urls por channel id
-  channel_urls = {}
-
-  with open(source_file, "r", encoding="utf-8") as f:
-      for line in f:
-          if "pluto.tv" in line and "/channel/" in line:
-              m = re.search(r'/channel/([^/]+)/', line)
-              if m:
-                  channel_id = m.group(1)
-                  channel_urls[channel_id] = line.strip()
-
-  new_lines = []
-
-  with open(target_file, "r", encoding="utf-8") as f:
-      for line in f:
-          if "/channel/" in line:
-              m = re.search(r'/channel/([^/]+)/', line)
-              if m:
-                  cid = m.group(1)
-                  if cid in channel_urls:
-                      line = channel_urls[cid] + "\n"
-          new_lines.append(line)
-
-  with open(output_file, "w", encoding="utf-8") as f:
-      f.writelines(new_lines)
-
-  print("Archivo generado:", output_file)
+      - name: Subir cambios
+        run: |
+          git config --global user.name "iptv-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+          git add principal.m3u
+          git commit -m "Actualizacion automatica Pluto"
+          git push
