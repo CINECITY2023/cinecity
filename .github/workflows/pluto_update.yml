@@ -1,0 +1,45 @@
+name: Update Pluto Playlists
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update Regional Playlists
+        run: |
+          for region in us ca gb fr de es it mx br ar cl no se dk; do
+            export PLUTO_REGION=$region
+            python pluto_provider.py
+          done
+
+      - name: Generate Master Playlist
+        run: python pluto_provider.py --merge
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.m3u
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Pluto: New Regions and Improved Session IPs"
+            git pull --rebase origin main
+            git push origin main
+          fi
