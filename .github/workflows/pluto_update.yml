@@ -41,5 +41,5 @@ jobs:
           else
             git commit -m "Update Pluto: New Regions and Improved Session IPs"
             git pull --rebase origin main
-            git push origin main
+            git push origin cinecity.net
           fi
