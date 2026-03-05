@@ -128,21 +128,11 @@ class PlutoProvider(BaseProvider):
 def merge_master_playlist():
     """Combines regional files and Replaces Pluto categories with Country Names for the ALL file"""
     sort_config = {
-        "us": {"priority": 1, "label": "United States"},
-        "ca": {"priority": 2, "label": "Canada"},
-        "gb": {"priority": 3, "label": "United Kingdom"},
-        "fr": {"priority": 4, "label": "France"},
-        "de": {"priority": 5, "label": "Germany"},
-        "es": {"priority": 6, "label": "Spain"},
-        "it": {"priority": 7, "label": "Italy"},
-        "mx": {"priority": 8, "label": "Mexico"},
-        "br": {"priority": 9, "label": "Brazil"},
-        "ar": {"priority": 10, "label": "Argentina"},
-        "cl": {"priority": 11, "label": "Chile"},
-        "no": {"priority": 12, "label": "Norway"},
-        "se": {"priority": 13, "label": "Sweden"},
-        "dk": {"priority": 14, "label": "Denmark"},
-    }
+    "es": {"priority": 1, "label": "Spain"},
+    "mx": {"priority": 2, "label": "Mexico"},
+    "ar": {"priority": 3, "label": "Argentina"},
+    "cl": {"priority": 4, "label": "Chile"},
+}
 
     files = [f for f in glob.glob("pluto_*.m3u") if "all.m3u" not in f and "master.m3u" not in f]
     sorted_files = sorted(files, key=lambda x: sort_config.get(x.replace("pluto_", "").replace(".m3u", ""), {}).get("priority", 99))
