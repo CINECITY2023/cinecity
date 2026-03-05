@@ -7,7 +7,7 @@ target_files = [
     "principal.m3u",
     "Alicia.m3u",
     "gabriela.m3u",
-    "juanpablo.m3u"
+    "juanpablo.m3u",
     "mariano.m3u"
 ]
 
