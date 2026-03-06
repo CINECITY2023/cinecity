@@ -1,12 +1,22 @@
 #EXTM3U
 
-✔️EVENTOS⚽ 1
+✔️EVENTOS⚽ 1 espn premium
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9549
 
-✔️EVENTOS⚽ 2
+✔️EVENTOS⚽ 2 espn premium
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
 http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
+
+✔️EVENTOS⚽ 3 TNT Sports Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 3
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157585
+
+✔️EVENTOS⚽ 4 TNT Sports Premium
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 4
+http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
+
+
 
 ✔️ America TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV 📱
@@ -1249,6 +1259,10 @@ https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports
 ✔️ TNT Sports Premium
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
 http://tecnotv.club/0503M/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
+
+✔️ TNT Sports Premium
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157585
 
 ✔️ TUDN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png" group-title="⚽ Deportes",✔️ TUDN
