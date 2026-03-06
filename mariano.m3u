@@ -1555,7 +1555,7 @@ http://38.44.109.41:8003/play/a00j/index.m3u8
 http://tecnotv.club/0503M/phpcode/lista01.php?c=279037&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Universal Comedy 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
