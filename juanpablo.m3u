@@ -1116,6 +1116,10 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/179509
 #KODIPROP:inputstream.adaptive.license_key=24f2b3e741f0d9e9a8d516faff38bddc:bbd3fd02fb104e1463ac528a13f67e4a
 https://cdn.cvattv.com.ar/live/c7eds/ESPN4/SA_Live_dash_enc_C/ESPN4.mpd
 
+✔️ ESPN 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png" group-title="⚽ Deportes",✔️ ESPN 5
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9539
+
 ✔️ ESPN 6 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png" group-title="⚽ Deportes",✔️ ESPN 6 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
