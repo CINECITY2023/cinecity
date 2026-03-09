@@ -73,6 +73,11 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157589
 
+✔️ Telefe Internacional 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional 📱
+#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
+https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
+
 ✔️ Telefe Internacional
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional
 http://107.152.39.199:8030/hls/canal13.m3u8
@@ -86,6 +91,12 @@ https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 ✔️ El Trece
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
 http://107.152.39.199:8030/hls/canal21.m3u8
+
+✔️ El Trece Internacional 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
+https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc_C/Artear_Internacional.mpd
 
 ✔️ Argentinisima Satelital 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital 📱
@@ -157,6 +168,11 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (Villa Maza)
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
+✔️ Canal de la Ciudad 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png" group-title="🏙️ Buenos Aires",✔️ Canal de la Ciudad 📱
+#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
+https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd
+
 ✔️ Canal de la Ciudad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png" group-title="🏙️ Buenos Aires",✔️ Canal de la Ciudad
 #EXTVLCOPT:http-user-agent=Android 8.0.0
@@ -195,6 +211,18 @@ https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
 https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd
+
+✔️ Metro TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png" group-title="🏙️ Buenos Aires",✔️ Metro TV 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae7b0708be4edf3453c1ab9d6976974:8b31a9788f6dc12640ba69560fcb4b39
+https://cdn.sensa.com.ar/output/ARR3/sensaeventosD/output.mpd?|referer=https://player.sensa.com.ar/
+
+✔️ Mix TV 📱
+#EXTINF:-1 tvg-logo="" group-title="🏙️ Buenos Aires",✔️ Mix TV 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
+https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd
 
 ✔️ Net TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="🏙️ Buenos Aires",✔️ Net TV 📱
@@ -275,6 +303,12 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 ✔️ Canal 26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="🎙️ Noticias",✔️ Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+
+✔️ Canal E 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanale.png" group-title="🎙️ Noticias",✔️ Canal E 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1894229072ccac2d0f6a101d618d039d:9a7ea848df202bf22ac51bda4482a4c2
+http://cdn.sensa.com.ar/bpk-tv/CanalE/default/index_fk.mpd?|referer=https://player.sensa.com.ar/
 
 ✔️ Canal E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanale.png" group-title="🎙️ Noticias",✔️ Canal E
@@ -1146,6 +1180,12 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="⚽ Deportes",✔️ Bein Sports Xtra ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
+✔️ Claro Sports 📱
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png" group-title="⚽ Deportes",✔️ Claro Sports 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
+https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/
+
 ✔️ Claro Sports
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png" group-title="⚽ Deportes",✔️ Claro Sports
 https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8
@@ -1368,6 +1408,13 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHredbulltv.png" group-title="⚽ Deportes",✔️ Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+✔️ Showsports 📱
+#EXTINF:-1 tvg-logo="" group-title="⚽ Deportes",✔️ Showsports 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.mpd
+
+
 ✔️ Sky Sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysports.png" group-title="⚽ Deportes",✔️ Sky Sports
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9599
@@ -1498,6 +1545,12 @@ https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbobesponja.png" group-title="🎈 Infantil",✔️ Bob Esponja
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=f72b4d30-1b56-11f1-bc25-000d3a35cb56&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=f72b4d30-1b56-11f1-bc25-000d3a35cb56&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=f7352fd9-1b56-11f1-8f88-86b2248d7a12&sid=f7352fd9-1b56-11f1-8f88-86b2248d7a12&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjZkNzkwMjk1LTYzMzktNDc1NS1iYTk0LWE2MzBjNjA1MzRiZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmNzM1MmZkOS0xYjU2LTExZjEtOGY4OC04NmIyMjQ4ZDdhMTIiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImY3MmI0ZDMwLTFiNTYtMTFmMS1iYzI1LTAwMGQzYTM1Y2I1NiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJmNzJiNGQzMC0xYjU2LTExZjEtYmMyNS0wMDBkM2EzNWNiNTYiLCJmd1ZjSUQyQ29wcGEiOiJmNzJiNGQzMC0xYjU2LTExZjEtYmMyNS0wMDBkM2EzNWNiNTYiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImY3MmI0ZDMwLTFiNTYtMTFmMS1iYzI1LTAwMGQzYTM1Y2I1NiIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAsMTAwMDksMTAwMTMifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzMwMTk1NzUzNzksImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpaamN5WWpSa016QXRNV0kxTmkweE1XWXhMV0pqTWpVdE1EQXdaRE5oTXpWallqVTIiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzczMTA1OTc1LCJpYXQiOjE3NzMwMTk1NzUsImp0aSI6IjVkNWFkMjEwLWY1NjMtNDUxNi1iZTAwLTZlMjcxOWIxMzExMCJ9.WFHRQHA4S38g1n3fF9pE1Duu7L71H-K5fCi89-ESmBA&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 
+✔️ Canal Infantil 📱
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/quey4nnf41249gpxk2u14/canal-infantil.jpg?rlkey=nlgxwp78pqffqd6ppl8zsf2o0&dl=1" group-title="🎈 Infantil",✔️ Canal Infantil 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39673983f4ba22f0f80c0934ce0424c8:cd9f3498cb63cc72d1317b14a67ab93c
+http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd?|referer=https://player.sensa.com.ar/
+
 ✔️ Cartoonito 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png" group-title="🎈 Infantil",✔️ Cartoonito 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1553,6 +1606,12 @@ https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
 https://cdn.cvattv.com.ar/live/c7eds/Dreamworks/SA_Live_dash_enc_C/Dreamworks.mpd
+
+✔️ Kidoo 📱
+#EXTINF:-1  tvg-logo="" group-title="🎈 Infantil",✔️ Kidoo 📱
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
+http://cdn.cvattv.com.ar/live/c6eds/Kidoo/SA_Live_dash_enc_C/Kidoo.mpd
 
 ✔️ Los Padrinos Magicos
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHlospadrinosmagicos.png" group-title="🎈 Infantil",✔️ Los Padrinos Magicos
