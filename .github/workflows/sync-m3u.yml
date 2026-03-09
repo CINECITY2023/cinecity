@@ -21,7 +21,6 @@ jobs:
       - name: Copy file
         run: |
           cp principal.m3u Alicia.m3u
-          cp principal.m3u gabriela.m3u
           cp principal.m3u juanpablo.m3u
           cp principal.m3u mariano.m3u
 
