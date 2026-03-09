@@ -75,6 +75,7 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157589
 
 ✔️ Telefe Internacional 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional 📱
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
 
