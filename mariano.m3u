@@ -5,7 +5,7 @@
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9549
 
 ✔️EVENTOS⚽ 2
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
 http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ EVENTOS⚽ 3
@@ -1534,8 +1534,8 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9800
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHmarialadelbarrio.png" group-title="❤️ Novelas",✔️ María la del Barrio
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/181934
 
-✔️ Marimar 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHmarimar.png" group-title="❤️ Novelas",✔️ Marimar 
+✔️ Marimar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHmarimar.png" group-title="❤️ Novelas",✔️ Marimar
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/181940
 
 ✔️ Novelisima
@@ -1562,8 +1562,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #KODIPROP:inputstream.adaptive.license_key=49a0179b034ae899cb67d8a5834181aa:486e2c6d69adea7e17f2960e8e366612
 https://cdn.cvattv.com.ar/live/c6eds/TBS/SA_Live_dash_enc_C/TBS.mpd
 
-✔️ TNT Novelas 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png" group-title="❤️ Novelas",✔️ TNT Novelas 
+✔️ TNT Novelas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png" group-title="❤️ Novelas",✔️ TNT Novelas
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9716
 
 ✔️ TLNovelas 📱
@@ -1590,8 +1590,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
 https://cdn.cvattv.com.ar/live/c7eds/BabyTV/SA_Live_dash_enc_C/BabyTV.mpd
 
-✔️ Baby TV 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbabytv.png" group-title="🎈 Infantil",✔️ Baby TV 
+✔️ Baby TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHbabytv.png" group-title="🎈 Infantil",✔️ Baby TV
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9855
 
 ✔️ Bob Esponja
@@ -1662,8 +1662,8 @@ http://45.5.117.57:8999/play/a03u/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
 https://cdn.cvattv.com.ar/live/c7eds/DisneyJr/SA_Live_dash_enc_C/DisneyJr.mpd
 
-✔️ Disney JR 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="🎈 Infantil",✔️ Disney JR 
+✔️ Disney JR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png" group-title="🎈 Infantil",✔️ Disney JR
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9868
 
 ✔️ Dreamworks 📱
@@ -1732,8 +1732,8 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname
 #KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
 https://cdn.cvattv.com.ar/live/c6eds/Tooncast/SA_Live_dash_enc_C/Tooncast.mpd
 
-✔️ Tooncast 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png" group-title="🎈 Infantil",✔️ Tooncast 
+✔️ Tooncast
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png" group-title="🎈 Infantil",✔️ Tooncast
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9883
 
 ✔️ Rugrats
@@ -1778,8 +1778,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdeathnote.png" group-title="🤖 Animacion",✔️ Death Note
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=cff66ab8-1d47-11f1-bc25-7c1e52ec5b6a&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=cff66ab8-1d47-11f1-bc25-7c1e52ec5b6a&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=cffd4d93-1d47-11f1-9954-161cc8731a43&sid=cffd4d93-1d47-11f1-9954-161cc8731a43&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjRmZDIzMzIxLWY0Y2MtNDlhZi1hNzRiLWRhMGIwMGZhZWFkMCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJjZmZkNGQ5My0xZDQ3LTExZjEtOTk1NC0xNjFjYzg3MzFhNDMiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImNmZjY2YWI4LTFkNDctMTFmMS1iYzI1LTdjMWU1MmVjNWI2YSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiJjZmY2NmFiOC0xZDQ3LTExZjEtYmMyNS03YzFlNTJlYzViNmEiLCJmd1ZjSUQyQ29wcGEiOiJjZmY2NmFiOC0xZDQ3LTExZjEtYmMyNS03YzFlNTJlYzViNmEiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6ImNmZjY2YWI4LTFkNDctMTFmMS1iYzI1LTdjMWU1MmVjNWI2YSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDAsMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzMyMzI5Njk0NTYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpZMlptTmpaaFlqZ3RNV1EwTnkweE1XWXhMV0pqTWpVdE4yTXhaVFV5WldNMVlqWmgiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzczMzE5MzY5LCJpYXQiOjE3NzMyMzI5NjksImp0aSI6ImFiOTBiNWMyLTUxMjEtNDliNS04NTFiLTAyYjgzMzA1Y2EzMSJ9._yJZqKVOVV9tF5MSa1hyyxMgWx2S08EYI-thioqiN9k&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 
-✔️ Demon Slayer Kimetsu no Yaiba 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdemonslayerkimetsunoyaiba.png" group-title="🤖 Animacion",✔️ Demon Slayer Kimetsu no Yaiba 
+✔️ Demon Slayer Kimetsu no Yaiba
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdemonslayerkimetsunoyaiba.png" group-title="🤖 Animacion",✔️ Demon Slayer Kimetsu no Yaiba
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/181555
 
 ✔️ Dreiko TV
@@ -1860,8 +1860,8 @@ http://tecnotv.club/ma1003/phpcode/lista01.php?c=279007&token=tecnotokenplustv23
 #KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
 https://cdn.cvattv.com.ar/live/c7eds/ComedyCentral/SA_Live_dash_enc_C/ComedyCentral.mpd
 
-✔️ Comedy Central 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central 
+✔️ Comedy Central
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9637
 
 ✔️ Distrito Comedia
@@ -1882,8 +1882,8 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/174841
 #KODIPROP:inputstream.adaptive.license_key=062c5d25105a3a935b67e36923c73f28:88c2d4cec420f18d2477152c66c7870d
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Universal_Comedy.mpd
 
-✔️ Universal Comedy 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy 
+✔️ Universal Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png" group-title="🤡 Comedia",✔️ Universal Comedy
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9759
 
 ✔️ Discovery Glitz
@@ -1902,8 +1902,8 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_HD/SA_Live_dash_enc_C/MTV_HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=cedd9c1a5c2ae43f80ee3197212016d6:bf47a3c39e164a97ea6adc4c8dd57435
 https://cdn.cvattv.com.ar/live/c6eds/Universal_Reality/SA_Live_dash_enc_C/Universal_Reality.mpd
 
-✔️ Universal Reality 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png" group-title="👁️‍ Reality",✔️ Universal Reality 
+✔️ Universal Reality
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png" group-title="👁️‍ Reality",✔️ Universal Reality
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9772
 
 ✔️ Catamarca TV
@@ -2222,11 +2222,6 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
 ✔️ TVN 3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvn3.png" group-title="🌍 Canales Internacionales",✔️ TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
-https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
-45.250.252.93
 
 ✔️ Alpavisión Neiva (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Canales Internacionales",✔️ Alpavisión Neiva (Colombia)
@@ -2791,8 +2786,8 @@ https://pistream.ddns.net/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=daecef5fe32f4ce083c6a0c692755d6a:d4227f24389a9ba77293214b93eb0d7d
 https://cdn.cvattv.com.ar/live/c6eds/HTV/SA_Live_dash_enc_C/HTV.mpd
 
-✔️ HTV 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png" group-title="🎵​ Musica",✔️ HTV 
+✔️ HTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/htv.png" group-title="🎵​ Musica",✔️ HTV
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/8309
 
 ✔️ MusicTop
