@@ -1198,6 +1198,10 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png" group-title="⚽ Deportes",✔️ Bein Sports Xtra ñ
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
+✔️ Canela Deportes
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcaneladeportes.png" group-title="⚽ Deportes",✔️ Canela Deportes
+https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
+
 ✔️ Claro Sports 📱
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png" group-title="⚽ Deportes",✔️ Claro Sports 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2214,6 +2218,15 @@ https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d0d76e24844235988f9265619e5fec:446b71a6deb806c6f129e25de999d07c
 https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
+
+✔️ TVN 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvn3.png" group-title="🌍 Canales Internacionales",✔️ TVN 3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8
+45.250.252.93
 
 ✔️ Alpavisión Neiva (Colombia)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Canales Internacionales",✔️ Alpavisión Neiva (Colombia)
