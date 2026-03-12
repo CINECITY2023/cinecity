@@ -690,10 +690,6 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9629
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinelatino.png" group-title="🎬 Cine",✔️ Cine Latino
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9626
 
-✔️ Bonanza
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHbonanza.png" group-title="🎬 Serie Retro",✔️ Bonanza
-http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/174839
-
 ✔️  Cinema Dinamita
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemadinamita.png" group-title="🎬 Cine",✔️  Cinema Dinamita
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9632
@@ -729,10 +725,6 @@ https://cdn.cvattv.com.ar/live/c7eds/DHE/SA_Live_dash_enc_C/DHE.mpd
 ✔️ DHE
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdhe.png" group-title="🎬 Cine",✔️ DHE
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9643
-
-✔️ Doctor House
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdoctorhouse.png" group-title="🎬 Series",✔️ Doctor House
-http://tecnotv.club/ma1003/phpcode/lista01.php?c=279022&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Euro Channel 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeurochannel.png" group-title="🎬 Cine",✔️ Euro Channel 📱
@@ -940,10 +932,6 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9698
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHimagenuniversaltv.png" group-title="🎬 Cine",✔️ Imagen Universal TV
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8?DVR0
 
-✔️ Marvel Cinema
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagamarvel.png" group-title="🎬 Sagas de Peliculas",✔️ Marvel Cinema
-http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165067
-
 ✔️ Mega Cine TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmegacinetv.png" group-title="🎬 Cine",✔️ Mega Cine TV
 https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
@@ -952,16 +940,8 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="🎬 Cine",✔️ MyTime Movie Network
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
-✔️ Oromar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🎬 Cine",✔️ Oromar TV
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-
-✔️ Oromar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="Ecuador",✔️ Oromar TV
-http://38.44.109.41:8003/play/a01a/index.m3u8
-
 ✔️ Paramount +
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHparamount+.png" group-title="Ecuador",✔️ Paramount +
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHparamount+.png" group-title="🎬 Cine",✔️ Paramount +
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9705
 
 ✔️ Pluto TV Cine Accion
@@ -987,10 +967,6 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 ✔️ RakutenTV Pelis Top
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHrakutentvpelistop.png" group-title="🎬 Cine",✔️ RakutenTV Pelis Top
 https://top-movies-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.content_url=rakuten.tv&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_year=&ads.did=&ads.env=prod&ads.extra_eids=&ads.gam_correlator=&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=&ads.inv_partner_domain=rakuten.tv&ads.ip=185.214.97.75&ads.market=es&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.prodq=1&ads.rating=16&ads.rtv_channel_id=5983&ads.rtv_channel_name=top-movies-rakuten-tv_es&ads.rtv_content_id=5983&ads.rtv_content_language=es&ads.rtv_language=es&ads.rtvid=271859&ads.streaming_id=1f8e6c44-30c8-4797-a406-b3fa0ef5fa89&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=5983&publishing_platform_id=5&tenant_identifier=rtv
-
-✔️ Rápido y Furioso Cinema
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagafast.png" group-title="🎬 Sagas de Peliculas",✔️ Rápido y Furioso Cinema
-http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/164800
 
 ✔️ Retro Plus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretroplus.png" group-title="🎬 Cine",✔️ Retro Plus
@@ -1075,10 +1051,6 @@ http://45.5.117.57:8999/play/a02h/index.m3u8
 ✔️ TCM
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="🎬 Cine",✔️ TCM
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9740
-
-✔️ The Matrix Cinema
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagamatrix.png" group-title="🎬 Sagas de Peliculas",✔️ The Matrix Cinema
-http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165064
 
 ✔️ TNT 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="🎬 Cine",✔️ TNT 📱
@@ -1185,6 +1157,26 @@ http://tecnotv.club/ma1003/phpcode/lista01.php?c=165455&token=tecnotokenplustv23
 ✔️ Xtrema TV Cine Accion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHextremacinedeaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+✔️ Marvel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagamarvel.png" group-title="🎬 Sagas de Peliculas",✔️ Marvel
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165067
+
+✔️ Rápido y Furioso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagafast.png" group-title="🎬 Sagas de Peliculas",✔️ Rápido y Furioso
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/164800
+
+✔️ The Matrix
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagamatrix.png" group-title="🎬 Sagas de Peliculas",✔️ The Matrix
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165064
+
+✔️ Doctor House
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdoctorhouse.png" group-title="🎬 Series",✔️ Doctor House
+http://tecnotv.club/ma1003/phpcode/lista01.php?c=279022&token=tecnotokenplustv230516F&f=.m3u8
+
+✔️ Bonanza
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHbonanza.png" group-title="🎬 Serie Retro",✔️ Bonanza
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/174839
 
 ✔️ AYM Sports
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHaymsports.png" group-title="⚽ Deportes",✔️ AYM Sports
@@ -2209,8 +2201,8 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Chile",✔️ Canal 2 Quellón (Chile)
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-✔️ Canal 9 Bio Bio Television 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="🌍 Chile",✔️ Canal 9 Bio Bio Television 
+✔️ Canal 9 Bio Bio Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="🌍 Chile",✔️ Canal 9 Bio Bio Television
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 ✔️ TV Chile 📱
@@ -2243,8 +2235,8 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Colombia",✔️ Caracol TV
 http://107.152.39.199:8030/hls/canal1.m3u8
 
-✔️ Caracol TV 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Colombia",✔️ Caracol TV 
+✔️ Caracol TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CaracolTVColombia.png" group-title="🌍 Colombia",✔️ Caracol TV
 http://205.235.6.29:8000/play/a0vf/index.m3u8
 
 ✔️ Caracol TV
@@ -2287,8 +2279,8 @@ https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Costa Rica",✔️ Tele Uno
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 
-✔️ Austral TV (Ecuador)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Ecuador",✔️ Austral TV (Ecuador)
+✔️ Austral TV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Ecuador",✔️ Austral TV 
 http://205.235.6.29:8000/play/a0vn/index.m3u8
 
 ✔️ Ecuador TV
@@ -2306,6 +2298,14 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 ✔️ Ecuavisa
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Ecuador",✔️ Ecuavisa
 http://38.44.109.41:8003/play/a019/index.m3u8
+
+✔️ Oromar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ Oromar TV
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+✔️ Oromar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ Oromar TV
+http://38.44.109.41:8003/play/a01a/index.m3u8
 
 ✔️ Teleamazonas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleamazonasEcuador.png" group-title="🌍 Ecuador",✔️ Teleamazonas
@@ -2375,8 +2375,8 @@ https://azt-mun.otteravision.com/azt/mun/mun_360p.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Mexico",✔️ Azteca Internacional
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5397
 
-✔️ Azteca Internacional 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Mexico",✔️ Azteca Internacional 
+✔️ Azteca Internacional
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AztecaInternacional.png" group-title="🌍 Mexico",✔️ Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 ✔️ Azteca Internacional
@@ -2601,8 +2601,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd
 
-✔️ Telemundo Internacional 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Puerto Rico",✔️ Telemundo Internacional 
+✔️ Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Puerto Rico",✔️ Telemundo Internacional
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/62101
 
 ✔️ Telemundo
