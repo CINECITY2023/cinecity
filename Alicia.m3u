@@ -2189,6 +2189,10 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/TeleSUR.png" group-title="🎙️ Noticias Internacional",✔️ 🇻🇪 Telesur
 http://38.44.109.41:8003/play/a01q/index.m3u8
 
+✔️ Bolivision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHbolivision.png" group-title="🌍 Bolivia",✔️ Bolivision
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+
 ✔️ ADN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adnchile.png" group-title="🌍 Chile",✔️ ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/.m3u8
@@ -2197,8 +2201,8 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png" group-title="🌍 Chile",✔️ Canal 1 Ñuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-✔️ Canal 2 Quellón (Chile)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Chile",✔️ Canal 2 Quellón (Chile)
+✔️ Canal 2 Quellón
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Chile",✔️ Canal 2 Quellón
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
 ✔️ Canal 9 Bio Bio Television
@@ -2215,8 +2219,8 @@ https://cdn.cvattv.com.ar/live/c6eds/Tv_Chile/SA_Live_dash_enc_C/Tv_Chile.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvn3.png" group-title="🌍 Chile",✔️ TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
-✔️ Alpavisión Neiva (Colombia)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Colombia",✔️ Alpavisión Neiva (Colombia)
+✔️ Alpavisión Neiva
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/alpavisionneivacolombia.png" group-title="🌍 Colombia",✔️ Alpavisión Neiva
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 
 ✔️ Bum Televisión
@@ -2271,8 +2275,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telepacificocolombia.png" group-title="🌍 Colombia",✔️ Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-✔️ Extra TV (Costa Rica)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Costa Rica",✔️ Extra TV (Costa Rica)
+✔️ Extra TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Costa Rica",✔️ Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 
 ✔️ Tele Uno
@@ -2349,8 +2353,8 @@ https://cdn.streamhispanatv.net:3390/live/sastvgtlive.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/visiontvguatemala.png" group-title="🌍 Guatemala",✔️ Vision TV
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
 
-✔️ VTV (Honduras)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vtvhonduras.png" group-title="🌍 Honduras",✔️ VTV (Honduras)
+✔️ VTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/vtvhonduras.png" group-title="🌍 Honduras",✔️ VTV
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 ✔️ RAI Italia 📱
@@ -2359,8 +2363,8 @@ https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=d214547d7d9a4011a39a899ce6e70071:16c2ed0617cf1e123f3af6ea8875a82d
 https://cdn.cvattv.com.ar/live/c6eds/RAI/SA_Live_dash_enc_C/RAI.mpd
 
-✔️ ADN40 (Mexico)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adn40.png" group-title="🌍 Mexico",✔️ ADN40 (Mexico)
+✔️ ADN40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adn40.png" group-title="🌍 Mexico",✔️ ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 ✔️ Azteca Clic
