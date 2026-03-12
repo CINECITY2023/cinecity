@@ -2279,8 +2279,8 @@ https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Costa Rica",✔️ Tele Uno
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 
-✔️ Austral TV 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Ecuador",✔️ Austral TV 
+✔️ Austral TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Ecuador",✔️ Austral TV
 http://205.235.6.29:8000/play/a0vn/index.m3u8
 
 ✔️ Ecuador TV
@@ -2624,27 +2624,27 @@ https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World
 https://acentotv01.streamprolive.com/hls/live.m3u8
 
 ✔️ 10 Microvision
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Rep. dominicana",✔️ 10 Microvision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 10 Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 ✔️ Canal 4 RTVD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png" group-title="🌍 Rep. dominicana",✔️ Canal 4 RTVD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png" group-title="🌍 Rep. Dominicana",✔️ Canal 4 RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
 ✔️ Canal Catorce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="🌍 Rep. dominicana",✔️ Canal Catorce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ Canal Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
 ✔️ Faro Vision
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/FaroVisionRepDominicana.png" group-title="🌍 Rep. dominicana",✔️ Faro Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/FaroVisionRepDominicana.png" group-title="🌍 Rep. Dominicana",✔️ Faro Vision
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
 ✔️ ReadyHD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png" group-title="🌍 Rep. dominicana",✔️ ReadyHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ ReadyHD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
 ✔️ Teleunion
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Rep. dominicana",✔️ Teleunion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Rep. Dominicana",✔️ Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 ✔️  Canal 5 📱 (Uruguay)
