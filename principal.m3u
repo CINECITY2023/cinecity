@@ -1774,6 +1774,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdemonslayerkimetsunoyaiba.png" group-title="🤖 Animacion",✔️ Demon Slayer Kimetsu no Yaiba
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/181555
 
+✔️ Dragon Ball
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdragonball.png" group-title="🤖 Animacion",✔️ Dragon Ball
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
 ✔️ Dreiko TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdreikotv.png" group-title="🤖 Animacion",✔️ Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
@@ -1851,7 +1855,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://tecnotv.club/ma1003/phpcode/lista01.php?c=279007&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Chapulín Colorado
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHchapulincolorado.png" group-title="🤡 Comedia",✔️ Chapulín Colorado
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHchapulincolorado.png" group-title="🤡 Comedia",✔️ Chapulín Colorado
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165887
 
 ✔️ Comedy Central 📱
