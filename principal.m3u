@@ -1,11 +1,11 @@
 #EXTM3U
 
 ✔️EVENTOS⚽ 1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/179511
 
 ✔️EVENTOS⚽ 2
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9550
 
 ✔️ EVENTOS⚽ 3
