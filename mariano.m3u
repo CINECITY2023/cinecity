@@ -1786,6 +1786,10 @@ https://cdn.energeek.cl/hls/energeekretro.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHenergeekfan.png" group-title="🤖 Animacion",✔️ EnerGeek Fan
 https://cdn.energeek.cl/hls/energeekfan.m3u8
 
+✔️ ETC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHetc.png" group-title="🤖 Animacion",✔️ ETC
+http://45.181.122.46:8090/play/a00t
+
 ✔️ La Familia del Barrio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlafamiliadelbarrio.png" group-title="🤖 Animacion",✔️ La Familia del Barrio
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=578ede1e-1e43-11f1-bc25-7ced8d540db5&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=578ede1e-1e43-11f1-bc25-7ced8d540db5&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=579d425b-1e43-11f1-846a-e294066bf0d3&sid=579d425b-1e43-11f1-846a-e294066bf0d3&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUxNWEyNTI4LTA3OTItNDc2Zi1iMWY3LWYyMzNmYTU2MTZhMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI1NzlkNDI1Yi0xZTQzLTExZjEtODQ2YS1lMjk0MDY2YmYwZDMiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjU3OGVkZTFlLTFlNDMtMTFmMS1iYzI1LTdjZWQ4ZDU0MGRiNSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImppdCJ9fSwiZm1zUGFyYW1zIjp7ImZ3VmNJRDIiOiI1NzhlZGUxZS0xZTQzLTExZjEtYmMyNS03Y2VkOGQ1NDBkYjUiLCJmd1ZjSUQyQ29wcGEiOiI1NzhlZGUxZS0xZTQzLTExZjEtYmMyNS03Y2VkOGQ1NDBkYjUiLCJjdXN0b21QYXJhbXMiOnsiZm1zX2xpdmVyYW1wX2lkbCI6IiIsImZtc19lbWFpbGhhc2giOiIiLCJmbXNfc3Vic2NyaWJlcmlkIjoiIiwiZm1zX2lmYSI6IiIsImZtc19pZGZ2IjoiIiwiZm1zX3VzZXJpZCI6IjU3OGVkZTFlLTFlNDMtMTFmMS1iYzI1LTdjZWQ4ZDU0MGRiNSIsImZtc192Y2lkMnR5cGUiOiJ1c2VyaWQiLCJmbXNfcmFtcF9pZCI6IiIsImZtc19oaF9yYW1wX2lkIjoiIiwiZm1zX2JpZGlkdHlwZSI6IiIsIl9md18zUF9VSUQiOiIiLCJmbXNfcnVsZWlkIjoiMTAwMDksMTAwMTMsMTAwMTQsMTAwMTYsMTAwMTUsMTAwMjAsMTAwMjEsMTAwMDAifX0sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sInNlc3Npb25TdGFydFRpbWUiOjE3NzMzNDEwMDA2NzYsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE6cGx1dG86ZGV2aWNlczpWRTpOVGM0WldSbE1XVXRNV1UwTXkweE1XWXhMV0pqTWpVdE4yTmxaRGhrTlRRd1pHSTEiLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzczNDI3NDAwLCJpYXQiOjE3NzMzNDEwMDAsImp0aSI6ImZhMDg5NTYwLWUwMTEtNDU4OC1hY2EyLWY5Zjg0MzhjODU0YSJ9.1W1iS14g3whwCRyk39aoK4e46G5KevkstdnM6ZQQlEs&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
@@ -1845,6 +1849,10 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 ✔️ Chavo del Ocho
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
 http://tecnotv.club/ma1003/phpcode/lista01.php?c=279007&token=tecnotokenplustv230516F&f=.m3u8
+
+✔️ Chapulín Colorado
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHchapulincolorado.png" group-title="🤡 Comedia",✔️ Chapulín Colorado
+http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/165887
 
 ✔️ Comedy Central 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central 📱
