@@ -1802,8 +1802,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlocomotion.png" group-title="🤖 Animacion",✔️ Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-✔️ Los Simpsons
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpsons.png" group-title="🤖 Animacion",✔️ Los Simpsons
+✔️ Los Simpson
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="🤖 Animacion",✔️ Los Simpson
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/178834
 
 ✔️ Max Anime
