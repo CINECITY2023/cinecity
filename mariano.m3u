@@ -1977,15 +1977,15 @@ http://arcast.net:1935/mp/mp/playlist.m3u8
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
 
 ✔️ Canal 2 (Misiones)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal2Misiones.png" group-title="🏡 Provincia",✔️ Canal 2 (Misiones)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal2misiones.png" group-title="🏡 Provincia",✔️ Canal 2 (Misiones)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8?PlaylistM3UCL
 
 ✔️ Canal 4 (Misiones)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal4PosadasMisiones.png" group-title="🏡 Provincia",✔️ Canal 4 (Misiones)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal4misiones.png" group-title="🏡 Provincia",✔️ Canal 4 (Misiones)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 
  ✔️ Canal 6 (Misiones)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal6PosadasMisiones.png" group-title="🏡 Provincia", ✔️ Canal 6 (Misiones)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal6misiones.png" group-title="🏡 Provincia", ✔️ Canal 6 (Misiones)
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 
 ✔️ Canal 21 (Misiones)
