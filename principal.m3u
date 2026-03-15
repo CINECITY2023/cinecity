@@ -1140,6 +1140,10 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/87614
 #KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 
+✔️ Volver
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png" group-title="🎬 Cine",✔️ Volver
+http://dplatino.net:80//live/credito3geotv/car26octtv/421649.ts
+
 ✔️ Warner TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="🎬 Cine",✔️ Warner TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
