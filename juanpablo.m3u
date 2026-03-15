@@ -16,6 +16,10 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/157585
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 4
 http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
 
+✔️ EVENTOS👁️‍ 5
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosreality.png" group-title="👁️‍ Reality",✔️ EVENTOS👁️‍ 5
+http://dplatino.net:80//live/credito3geotv/car26octtv/454926.ts
+
 ✔️ America TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1855,8 +1859,8 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13012&live=1&hls_marker=1&position=preroll&pod_duration=120&min_ad_duration=6&max_ad_duration=120&did=[DID]&ip=[IP]&ua=[UA]&player_height=[HEIGHT]&player_width=[WIDTH]&is_lat=[LIMITED_AD_TRACKING]&us_privacy=[US_PRIVACY]&consent=[CONSENT]&lat=[LAT]&lon=[LON]&device_type=[DEVICE_TYPE]&gdpr=[GDPR]&ifa_type=[IFA_TYPE&schain=[SCHAIN]
 
 ✔️ Chavo del Ocho
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
-http://tecnotv.club/ma1003/phpcode/lista01.php?c=279007&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
+http://dplatino.net:80//live/credito3geotv/car26octtv/316936.ts
 
 ✔️ Chapulín Colorado
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHchapulincolorado.png" group-title="🤡 Comedia",✔️ Chapulín Colorado
@@ -1877,8 +1881,8 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9637
 http://38.44.109.41:8003/play/a00j/index.m3u8
 
 ✔️ Los Tres Chiflados
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHlostreschiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
-http://tecnotv.club/ma1003/phpcode/lista01.php?c=279037&token=tecnotokenplustv230516F&f=.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHlostreschiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
+http://dplatino.net:80//live/credito3geotv/car26octtv/403686.ts
 
 ✔️ Super Agente 86
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHsuperagente86.png" group-title="🤡 Comedia",✔️ Super Agente 86
