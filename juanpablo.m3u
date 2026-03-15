@@ -17,7 +17,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://tecnotv.club/ma1003/phpcode/ssiptv.php?c=ch26&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ EVENTOS👁️‍ 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosreality.png" group-title="👁️‍ Reality",✔️ EVENTOS👁️‍ 5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ EVENTOS👁️‍ 5
 http://dplatino.net:80//live/credito3geotv/car26octtv/454926.ts
 
 ✔️ America TV 📱
@@ -1901,6 +1901,26 @@ http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9759
 ✔️ Discovery Glitz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHdiscoveryglitz.png" group-title="👁️‍ Reality",✔️ Discovery Glitz
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/9794
+
+✔️ Gran Hermano
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano
+http://dplatino.net:80//live/credito3geotv/car26octtv/454926.ts
+
+✔️ Gran Hermano cam 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 1
+http://dplatino.net:80//live/credito3geotv/car26octtv/454927.ts
+
+✔️ Gran Hermano cam 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 2
+http://dplatino.net:80//live/credito3geotv/car26octtv/454928.ts
+
+✔️ Gran Hermano cam 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 3
+http://dplatino.net:80//live/credito3geotv/car26octtv/454929.ts
+
+✔️ Gran Hermano multicam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano multicam
+http://dplatino.net:80//live/credito3geotv/car26octtv/454930.ts
 
 ✔️ MTV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHmtv.png" group-title="👁️‍ Reality",✔️ MTV 📱
