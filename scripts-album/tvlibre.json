@@ -3,14 +3,14 @@
     "nombre": "America TV",
     "grupo": "🏙️ Buenos Aires",
     "icono": "🏙️",
-    "logo": "https://...",
-    "url": "http://..."
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
+    "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWw3"
   },
   {
-    "nombre": "Telefe",
+    "nombre": "TV Publica",
     "grupo": "🏙️ Buenos Aires",
     "icono": "🏙️",
-    "logo": "https://...",
-    "url": "https://..."
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+    "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWw3&lang=1"
   }
 ]
