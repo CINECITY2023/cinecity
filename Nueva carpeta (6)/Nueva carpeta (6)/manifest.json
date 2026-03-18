@@ -1,0 +1,33 @@
+{
+   "action": {
+      "default_icon": "play-on.png",
+      "default_popup": "pages/options.html",
+      "default_title": "__MSG_extension_name__"
+   },
+   "author": "Sharkiller",
+   "background": {
+      "service_worker": "background.js"
+   },
+   "default_locale": "en",
+   "description": "__MSG_extension_description__",
+   "host_permissions": [ "*://*/*.m3u*", "*://*/*.mpd*", "file:///*/*.m3u" ],
+   "icons": {
+      "128": "play-on.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg5uoR2Nc2Mnho8gnRaf1u9boJ7vAVYRPbJj3GKK/nUUGoS0TqQvkX02E+TAE3Qv2tNuwyxyIXTKly1U+YgLremC6+PSrzwwjK7Gzx1cQyeKYaaNoneDQpozzlQsGSNwOpmdy6eiR7+IjsFXz45SmxPYjCFlNMtnKu3UhxqDmxpGG76I7uDUOAlBTK6TJF4GjL1murkQFuf5Wc0leEvCLYAEmGxpKYCjd+/LDlDWdtWPVeb3mySEbj4OUg+3xUC2p6MqnxDfIINoWSQIxhIruRiqJOQ0Wli9dnS9pjHfc+RNxxtInZ0FkoFryOBNG9u8eVbgynwyRQKRJfZjolIwnHwIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "100",
+   "name": "__MSG_extension_name__",
+   "optional_permissions": [ "notifications" ],
+   "options_ui": {
+      "page": "pages/settings.html"
+   },
+   "permissions": [ "declarativeNetRequest", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "26.1.6.8388",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pages/player.html", "iptv/player.html", "play-on.png" ]
+   } ]
+}
