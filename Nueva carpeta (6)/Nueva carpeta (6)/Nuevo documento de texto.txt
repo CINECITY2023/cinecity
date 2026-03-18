@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        .jw-state-idle .jw-display-controls .jw-display-icon-container {
+            background: 0 0;
+            margin-bottom: 0;
+            border-radius: 50%;
+            animation-name: scaling;
+            -webkit-animation-name: scaling;
+            animation-duration: 0.6s;
+            -webkit-animation-duration: 0.6s;
+            animation-timing-function: linear;
+            -webkit-animation-timing-function: linear;
+            animation-iteration-count: infinite;
+            -webkit-animation-iteration-count: infinite;
+            animation-direction: alternate;
+            -webkit-animation-direction: alternate;
+            background-color: rgba(0, 0, 0, 0.4);
+            border: solid 0.125rem #f7f7f7;
+            height: 75px;
+            width: 75px;
+        }
+
+        .jw-state-idle .jw-display-controls .jw-display-icon-container .jw-icon {
+            color: #f7f7f7 !important;
+            height: 50px;
+            width: 50px;
+            padding: 12px;
+        }
+
+        @keyframes scaling {
+            from {
+                transform: scale(1);
+                -webkit-transform: scale(1);
+            }
+
+            to {
+                transform: scale(1.1);
+                -webkit-transform: scale(1.1);
+            }
+        }
+
+        @-webkit-keyframes scaling {
+            from {
+                transform: scale(1);
+                -webkit-transform: scale(1);
+            }
+
+            to {
+                transform: scale(1.1);
+                -webkit-transform: scale(1.1);
+            }
+        }
+    </style>
+    <head>
+        <title>Video Player</title>
+        <meta content="noindex, nofollow, noarchive" name="robots"/>
+        <meta name="referrer" content="no-referrer"/>
+        <script src="//ssl.p.jwpcdn.com/player/v/8.26.0/jwplayer.js"></script>
+        <script>
+            jwplayer.key = "XSuP4qMl+9tK17QNb+4+th2Pm9AWgMO/cYH8CI0HGGr7bdjo";
+        </script>
+        <script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+        <script type="text/javascript">
+            aclib.runPop({
+                zoneId: '8819190',
+            });
+        </script>
+        <style>
+            body {
+                margin: 0px;
+            }
+
+            .ViostreamIframe {
+                overflow: hidden;
+                padding-top: 56.25%;
+                position: relative;
+            }
+
+            .ViostreamIframe iframe {
+                border: 0;
+                height: 100%;
+                left: 0;
+                position: absolute;
+                top: 0;
+                width: 100%;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="player" class="ViostreamIframe"></div>
+        <script>
+            function getParameterByName(name) {
+                name = name.replace(/[\[\]]/g, "\\$&");
+                var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)")
+                  , results = regex.exec(window.location.href);
+                if (!results)
+                    return null;
+                if (!results[2])
+                    return '';
+                return decodeURIComponent(results[2].replace(/\+/g, " "));
+            }
+
+            var ConfiguracionCanales = {
+
+                "MTV_HITS_OP": {
+                    url: "//ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd",
+                    k1: "f2975a79fd099430a195212b04b4dd1e",
+                    k2: "7f8f21c0b12be72690510d92b893b5ac"
+                },
+                "MTV_HITS_OP2": {
+                    url: "https://edge7-ccast-sl.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd",
+                    k1: "61008dfc867544cd872de99b1f2b82cf",
+                    k2: "716449756316b91c54803aaa22a2fbf0"
+                },
+                "MTV_00_OP2": {
+                    url: "//smcdn01.trimi.com.ar/live/sm-live/MTV_00s/sa_live_dash/MTV_00s.mpd",
+                    k1: "8e3af97131a54c4b916e2fb74b09ae53",
+                    k2: "e9181b84a5d0122ad24fba7596f3fc20"
+                },
+                "TNT_SPORTS_CL_OP2": {
+                    url: "https://dtvott-abc.akamaized.net/dash_live_1232/manifest.mpd",
+                    k1: "1b9984dc66b259fe8ae597cb4fc1f4c3",
+                    k2: "ffb53a94f48f499546869c1f9e877187"
+                },
+                "TVN_CL": {
+                    url: "https://clbpktstvdash-3.clarovideo.com/bpk-tv/TVNHD/dash_fk/index.mpd",
+                    k1: "bec4ebe66a8431f12668f7123b3e1273",
+                    k2: "90737e6fa88e3783c17cbaa3d09d351d"
+                },
+                "ESPN_PRE": {
+                    url: "https://cdn.trimi.com.ar/live/sm-live/ESPN_PREMIUM/sa_live_dash/ESPN_PREMIUM.mpd",
+                    k1: "ff574a5aa8684d3c830b9f92fa7e1c6f",
+                    k2: "e750d338eb3aebf7e8092db3cd27af03"
+                },
+                "TNT_SPORTS_OP2": {
+                    url: "https://cdn.trimi.com.ar/live/sm-live/TNT_SPORTS/sa_live_dash/TNT_SPORTS.mpd",
+                    k1: "b25cd3d390a4490098a5b89d44de930e",
+                    k2: "c449fb6b0535ecf1db129f827f818ccf"
+                },
+                "NAT_GEO": {
+                    url: "//1279247418.rsc.cdn77.org/bpk-tv/QNATGEOTV/dash/manifest.mpd",
+                    k1: "4060f095513ce2938d5090153f31f1a5",
+                    k2: "59de62f9a07234ac17c57eabfb1ff625"
+                },
+                "TELEMUNDO_USA": {
+                    url: "//fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s-v2/Live/channel(wscv)/master.mpd",
+                    k1: "ed5aac3691b33a02ac86d84f886a8a06",
+                    k2: "6b2cf6dd150416b758d228fc38980473"
+                },
+                "LATELE_PE": {
+                    url: "//1279247418.rsc.cdn77.org/bpk-tv/QLAT3LEE/dash/manifest.mpd",
+                    k1: "4b16c50cd7d343e585f27bdc294056d6",
+                    k2: "0c12fd40fec2d3b69c0d3d8c8cb8801f"
+                },
+
+                "LATINA_PE": {
+                    url: "//redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8"
+                },
+                "LATINA_PE_OP2": {
+                    url: "//jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?dpssid=b46007406726669f596abea1&sid=ba5t1l1xb44645946726669f596abe9e&ndvc=1"
+                },
+                "LATELE_PE_OP2": {
+                    url: "//live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
+                },
+                "AMERICATV_PE": {
+                    url: "//live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8"
+                },
+                "PANAMERICANA_PE_OP2": {
+                    url: "//live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/playlist.m3u8"
+                },
+                "ATV_PE": {
+                    url: "//live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/playlist.m3u8"
+                },
+                "ATV_MAS_PE": {
+                    url: "//live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/playlist.m3u8"
+                },
+                "GLOBALTV_PE": {
+                    url: "//live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8"
+                },
+                "EXITOSA_PE": {
+                    url: "//luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/index.fmp4.m3u8"
+                },
+                "WILLAX_PE_OP2": {
+                    url: "//live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8"
+                },
+                "TELEAMAZONAS_EC": {
+                    url: "//val04.ride.com.ar/tvmia/an747/playlist.m3u8"
+                },
+                "TVN_CL2": {
+                    url: "//marine2.miplay.cl/tvnchile/playlist.m3u8"
+                },
+                "TVN_CL3": {
+                    url: "//jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10316.m3u8"
+                },
+                "MEGA_CL": {
+                    url: "//marine2.miplay.cl/megacl/playlist.m3u8"
+                },
+                "MEGA_CL_OP02": {
+                    url: "//live1.cl.cdn.lla.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+                },
+                "CINE_AR": {
+                    url: "//dsr.ride.com.ar/tvmia/an16/playlist.m3u8"
+                },
+                "TELESUR": {
+                    url: "//mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8"
+                },
+                "TOP_LATINO": {
+                    url: "//live-evg13.tv360.bitel.com.pe/hls/tltv.m3u8"
+                },
+                "LOVE_NATURE": {
+                    url: "https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8"
+                },
+                "PAKA_PAKA": {
+                    url: "//dsr.ride.com.ar/tvmia/an03/playlist.m3u8"
+                },
+                "LAS_ESTRELLAS": {
+                    url: "//channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8"
+                },
+                "FORO_TV": {
+                    url: "//notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&redirect=true"
+                },
+                "RETRO_PLUS": {
+                    url: "https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8"
+                },
+                "CANAL13_CL": {
+                    url: "//marine2.miplay.cl/c13/playlist.m3u8"
+                },
+                "CANAL13_CL2": {
+                    url: "//jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8"
+                },
+                "24HORAS_CL": {
+                    url: "//marine2.miplay.cl/24horas/playlist.m3u8"
+                },
+
+                "VIVOPLAY": {
+                    url: "https://linear-260.frequency.stream/mt/studio/260/hls/master/playlist.m3u8"
+                },
+                "D_PELICULA_OP2": {
+                    url: "https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10291.m3u8"
+                },
+                "TUDN": {
+                    url: "https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8"
+                },
+                "AFIZZIONADOS": {
+                    url: "https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8"
+                },
+                "NUEVE": {
+                    url: "https://linear-403.frequency.stream/mt/studio/403/hls/master/playlist.m3u8"
+                },
+                "D_PELICULA_PLUS_OP2": {
+                    url: "https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+                },
+                "DISTRITO_COMEDIA": {
+                    url: "//gtechtecnologia.com/telelatino/play/47.m3u8"
+                },
+                "DISTRITOCOMEDIA_OP2": {
+                    url: "https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10294.m3u8"
+                },
+                "GOLDEN": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/60.m3u8"
+                },
+                "GOLDEN_EDGE": {
+                    url: "https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10278.m3u8"
+                },
+                "GOLDEN_OP2": {
+                    url: "https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8"
+                },
+                "GOLDEN_MULTIPLEX": {
+                    url: "https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8"
+                },
+                "GOLDEN_PLUS": {
+                    url: "https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8"
+                },
+                "GOLDEN_PLUS_OP2": {
+                    url: "https://linear-410.frequency.stream/mt/studio/410/hls/master/playlist.m3u8"
+                },
+                "GOLDEN_PREMIER": {
+                    url: "//gtechtecnologia.com/telelatino/play/75.m3u8"
+                },
+                "GOLDEN_PREMIER_OP2": {
+                    url: "https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8"
+                },
+                "LAS_ESTRELLAS_VIX": {
+                    url: "https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8"
+                },
+                "BANDAMAX": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/17.m3u8"
+                },
+                "BITME_OP2": {
+                    url: "https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8"
+                },
+                "TELEHITVX": {
+                    url: "https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8"
+                },
+                "TELEHIT_MUSICAVX": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/TELEHIT/index.m3u8"
+                },
+                "TELEHIT_MUSICA_PLUSVX": {
+                    url: "https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8"
+                },
+                "TLN_TELENOVELAS": {
+                    url: "https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8"
+                },
+                "UNICABLE": {
+                    url: "https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8"
+                },
+                "UNIVISION": {
+                    url: "https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8"
+                },
+                "POKER_GO": {
+                    url: "https://linear-426.frequency.stream/mt/studio/426/hls/master/playlist.m3u8"
+                },
+                "WILD_EARTH": {
+                    url: "https://wildearth-roku.amagi.tv:443/masterR1080p.m3u8"
+                },
+                "CANAL_5_MX": {
+                    url: "https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8"
+                },
+                "BEIN_SPORT_EXTRA": {
+                    url: "https://bein-esp-xumo.amagi.tv/playlist.m3u8"
+                },
+                "TUDN_ZONA": {
+                    url: "https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8"
+                },
+                "ESPN_USA": {
+                    url: "https://tv4.live/api/stream/jsk.choi@gmail.com/394165/livetv.epg/espn.us.m3u8"
+                },
+                "MUSIC_TOP": {
+                    url: "//stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8"
+                },
+
+                "CHV": {
+                    url: "//live1.cl.cdn.lla.vtrplay.com/chvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+                },
+
+                "LA_RED_CL": {
+                    url: "//unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8"
+                },
+
+                "PASIONES_OP2": {
+                    url: "//live-manifest.production-public.tubi.io/live/820271ee-6f31-4557-b429-b82f0dbbd0cf/playlist.m3u8"
+                },
+
+                "DEPORTV": {
+                    url: "//dsr.ride.com.ar/tvmia/an09/playlist.m3u8"
+                },
+                "TELEMUNDO_PR": {
+                    url: "//nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+                },
+                "TNT_SERIES": {
+                    url: "//jactvpro.xyz/s0l32line/RRzkDRt6w8/10271.m3u8"
+                },
+                "LIGA1MAX_SD": {
+                    url: "//ssh101-fl.bozztv.com/ssh101/drako1/index.m3u8"
+                },
+                "PARAMOUNT_OP2": {
+                    url: "https://jactvpro.xyz:443/Upb93ECM5B/RRzkDRt6w8/10276.m3u8"
+                },
+                "TCM_OP2": {
+                    url: "https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10290.m3u8"
+                },
+                "CINEMA_OP2": {
+                    url: "//byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8"
+                },
+                "COMEDY_CENTRALOP2": {
+                    url: "//gtechtecnologia.com/telelatino/play/91.m3u8"
+                },
+                "UNIVERSAL_CINEMAOP2": {
+                    url: "https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8"
+                },
+                "AE_OP2": {
+                    url: "//cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AE/40-hls/live-media.m3u8"
+                },
+                "DISCOVERY_TURBO_OP2": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/33.m3u8"
+                },
+                "E_ENTERTAINMENT_OP2": {
+                    url: "//gtechtecnologia.com/telelatino/play/103.m3u8"
+                },
+                "FX_OP2": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/57.m3u8"
+                },
+                "GOURMET_OP2": {
+                    url: "//gtechtecnologia.com/telelatino/play/106.m3u8"
+                },
+                "LIFETIME_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/tracks-v1a2/mono.m3u8"
+                },
+                "MTV_OP2": {
+                    url: "https://streamer1.nexgen.bz/MTV/playlist.m3u8"
+                },
+                "NATIVA_PE": {
+                    url: "//cors-proxy.cooks.fyi/https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8"
+                },
+                "SONYMOVIE_OP2": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/92.m3u8"
+                },
+                "STUDIO_UNIVERSAL_OP2": {
+                    url: "//cors-proxy.php?url=https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8"
+                },
+                "UNIVISION_OP2": {
+                    url: "//tv.h-p.store/webfull/n4vZvwVjrs/105.m3u8"
+                },
+                "TELEMUNDOUSA_OP2": {
+                    url: "//nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8"
+                },
+                "SYFY_OP2": {
+                    url: "//gtechtecnologia.com/telelatino/play/58.m3u8"
+                },
+                "HBO_OP2": {
+                    url: "//"
+                },
+                "HBO2_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO2/index.m3u8"
+                },
+                "HBO_PLUS_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8"
+                },
+                "HBO_FAMILY_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/index.m3u8"
+                },
+                "HBO_XTREME_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_XTREME/index.m3u8"
+                },
+                "HBO_POP_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_POP/index.m3u8"
+                },
+                "HBO_SIG_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_SIG/index.m3u8"
+                },
+                "HBO_MUNDI_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_MUNDI/index.m3u8"
+                },
+                "VOLVER_AR": {
+                    url: "//dsr.ride.com.ar/tvmia/an18/playlist.m3u8"
+                },
+                "CINECANAL_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+                },
+                "HISTORY_CH_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8"
+                },
+                "HISTORY_CH2_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+                },
+                "NATGEO_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+                },
+                "DISCOVERY_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8"
+                },
+                "DISCOVERY_SCIENCIE_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/DISCOVERY_SCIENCE/index.m3u8"
+                },
+                "HTV_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8"
+                },
+                "BOXINGTV_OP2": {
+                    url: "//cors-proxy.cooks.fyi/https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v4.m3u8"
+                },
+                "CNN_ES_OP2": {
+                    url: "//amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8"
+                },
+                "RT_ES_OP2": {
+                    url: "//rt-esp.rttv.com/dvr/rtesp/playlist.m3u8"
+                },
+                "ABC_PY": {
+                    url: "//cdn.jwplayer.com/live/broadcast/GQagSggs.m3u8"
+                },
+                "ABC_OP2": {
+                    url: "//content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+                },
+                "MILENIO_TV_OP2": {
+                    url: "//stream.ads.ottera.tv/playlist.m3u8?network_id=6403"
+                },
+                "TELEFE_AR_OP2": {
+                    url: "//telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master.m3u8"
+                },
+                "TN_OP2": {
+                    url: "//val02.ride.com.ar/tvmia/an65/playlist.m3u8"
+                },
+                "RCN_OP2": {
+                    url: "//val02.ride.com.ar/tvmia/an64/playlist.m3u8"
+                },
+                "RCN_MAS_OP2": {
+                    url: "//rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+                },
+
+                // CANALES LATINO
+
+                "NEXT_HD": {
+                    url: "//live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+                },
+
+            };
+
+            var id = getParameterByName('id');
+            var config = ConfiguracionCanales[id];
+
+            if (config) {
+                var sources = [];
+
+                if (config.url.includes('.m3u8')) {
+                    sources.push({
+                        file: config.url
+                    });
+                }
+
+                if (config.url.includes('.mpd') && config.k1 && config.k2) {
+                    sources.push({
+                        file: config.url,
+                        drm: {
+                            "clearkey": {
+                                "keyId": config.k1,
+                                "key": config.k2
+                            }
+                        }
+                    });
+                }
+
+                // JWWWWWW
+                jwplayer("player").setup({
+                    playlist: [{
+                        "title": "OFICIAL PLAYER TV",
+                        "description": "== tvspacehd & apretontv ==",
+                        sources: sources
+                    }],
+                    autostart: false,
+                    width: "100%",
+                    height: "100%",
+                    stretching: "exactfit",
+                    aspectratio: "16:9",
+                    cast: {},
+                    sharing: {}
+                });
+
+            } else if (id === "ESPN_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espnmx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN2_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn2mx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN3_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn3mx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV_00") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/mtv_00s.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV_80s") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/mtv_80s.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV_90s") {
+                document.getElementById("player").innerHTML = '<iframe src="//apretontvplus.live/player/mtv_90s.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CLUB_MTV") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/mtv_club.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_CO") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvRVNQTjJIRC9kYXNoX2ZrL2luZGV4Lm1wZA==&k1=Nzc4YzNhYWQzMDBhZDc4MzYyY2I3OGI1MjNjMTdjM2Q=&k2=ZmM1MDY4MzIyYzYyODk5Y2MzMjg3ZDI0ZDdmMDg3ZTI=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN2_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn2" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN2_CO") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn2" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN2_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvRVNQTjIvZGFzaF9may9pbmRleC5tcGQ=&k1=OTBkNTNjZjYwZDg4MDk5ZmM3YzE2YjMxYzMyNjM2YWY=&k2=YjFjNjUzYzQ1MGI1NzM1ZGVmNTE4OTI4NmRmN2YwMzI=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN3_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn3" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN3_CO") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn3" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN3_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvRVNQTjNIRC9kYXNoX2ZrL2luZGV4Lm1wZA==&k1=MWRlNTQwM2U0ZWQ4OWEzNzFkOGY0ZmVkZjY1NTY5NGI=&k2=YjExY2RmZWQ1MjA5ZmI4NzY4OTQxMTRhMjA3OTlkZmY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN4_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN4_CO") {
+                document.getElementById("player").innerHTML = '<iframe src="//xdtga.directory/channel/co/espn4_co.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN4_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNy5jbGFyb3ZpZGVvLmNvbS9icGstdHYvRVNQTjNIRC9kYXNoX2ZrL2luZGV4Lm1wZA==&k1=MWRlNTQwM2U0ZWQ4OWEzNzFkOGY0ZmVkZjY1NTY5NGI=&k2=YjExY2RmZWQ1MjA5ZmI4NzY4OTQxMTRhMjA3OTlkZmY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_XTRA_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn5" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_PREMIUM_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espnpremium" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPN_DEPORTES_USA") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=espn_deportes" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT1_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=fox1ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT1_AR2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=fox1ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT2_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=fox2ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT2_AR2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com//global1.php?stream=fox2ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT3_AR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=fox3ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT3_AR2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=fox3ar" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=foxsportsmx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT2_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=foxsports2mx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT3_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=foxsports3mx" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DSPORTS1") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=dsports" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DSPORTS2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=dsports2" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DSPORTS_PLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=dsportsplus" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_SPORTS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=tntsports" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_SPORTS_CL") {
+                document.getElementById("player").innerHTML = '<iframe src="//thedaddy.to/embed/stream-642.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TYC_SPORTS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=tycsports" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TUDN_US") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=tudn_usa" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "WINSPORTS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=winsports" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "WINSPORTS_PLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=winplus" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TV_PUBLICA") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/tvpublica.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "EUROSPORTS_1") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=eurosports1_es" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "EUROSPORTS_2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=eurosports2_es" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MOVISTAR_LALIGA") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=movistarlaliga" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MOVISTAR_LALIGA_OP2") {
+                document.getElementById("player").innerHTML = '<iframe src="/streamtpcloud.com/global1.php?stream=movistarligadecampeones" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLTV_EC") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=goltv" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "VTV") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=goltv" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "VTVPLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=vtvplus" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PREMIERE_BR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=premiere1" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORT_PREMIUMHD") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=foxsportspremium" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SPORTTV_BR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=sporttvbr1" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SPORTTV2_BR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=sporttvbr2" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SPORTTV3_BR") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamtpcloud.com/global1.php?stream=sporttvbr3" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "BOXINGTV") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/hls-clappr.php?file=https://cors-proxy.cooks.fyi/https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/a284a19d-b274-4338-b80b-19e24adaf367/4.m3u8" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+
+            } else if (id === "ESPNCO") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fSEQpL21hbmlmZXN0Lm1wZA==&k1=MGY4NWE0ZTFmYzU5MzdhODI3MzEzNTk3ZDA0ZjhlMjc=&k2=Y2MxZDgyMTliZTAxMzBkYTg1ZTRjNGNlNzNhNzVhYmI=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPNCO2") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fMl9IRCkvbWFuaWZlc3QubXBk&k1=OGQ3Y2I4ZmJjODFjZjNlZGRmOGViYjVkYjVlMTEyODI=&k2=YjdhOTg4MTJhYjhkODk3NDY0OWE2ZWM0MjBjMDEzZTE=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPNCO3") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fM19IRCkvbWFuaWZlc3QubXBk&k1=ZWIwNGU0ZWM3MDQ5YzA3MTJlMDljNTdhZWE5YzFjYjc=&k2=NDA0NjM2ZWM3OGRmYWYzNjMzMzM4MDVjOWEyYzNmNjY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPNCO4") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEVTUE5fUExVU19IRCkvbWFuaWZlc3QubXBk&k1=MWVkZWUxZWY2ODNlOTUxOGExNzJhZjgyNGIwNzY0MmE=&k2=MzkzNzFiYWNhMDk2ZTNjMWM4OTZlNTViYWI4OGI1NjQ=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "ESPNCO5") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWF9TUE9SVFNfSEQpL21hbmlmZXN0Lm1wZA==&k1=NDUwOWNjMTI4ODdmNWQ4NDAyY2M5YzAwMjVlY2RkNTI=&k2=MjM0NDc2NjkwMTQxMGVkNjMwNmU0NDVhOWM0MzI0OWU=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORTS_PRE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQT1JUU19QUkVNSVVNX0hEKS9tYW5pZmVzdC5tcGQ=&k1=Y2Y0Yzc4ZTIxZmUyMTlhZDRhYTU0MjlhZTkzZDQzYmU=&k2=MjZkYjM4YTk2OGExYjY1ZDcyNzBlZTkyNjMyYTdjZTE=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORTS1_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQMU1YSEQpL21hbmlmZXN0Lm1wZA==&k1=NTExMjQzZTIzYmJmNGZjNDJlOGJlMzhlYjA2ZmQ0YmQ=&k2=NDRmNWQ3Nzk3ODFmYjY3ZGMwYTliZGFkYjgyMTQzNmM=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORTS2_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQMk1YSEQpL21hbmlmZXN0Lm1wZA==&k1=YjVjYzhiNTQ1YzJjMTY3ZjA0YTFkOTg0OTRlMTJjMjE=&k2=YWRmYzljZDAzYzFiYmFmY2UxNjY4MDVlOGRhODQwMWM=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FOXSPORTS3_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQM01YSEQpL21hbmlmZXN0Lm1wZA==&k1=OGUzNWIxMDRmYzk5MTA1NWVjNjgyYzQ2NTNlOWExODg=&k2=OWQ3NjNkYzFjOTIyZmJlNzE4MmY0YWMzMTkwZDdjYmE=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CLAROSPORTS") {
+                document.getElementById("player").innerHTML = '<iframe src="//miztv.top/total/stream-933.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO2") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo2.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_PLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/hbo-plus.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_SIG") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo-signature.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_XTR") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo-xtreme.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_POP") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo-pop.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_MUNDI") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo-mundi.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HBO_FAM") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/hbo-family.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISNEY_J") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/disney-jr.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISNEY_CH") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/disney-channel.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_KIDS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-kids.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CNETWOK") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/cartoon-net.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "NICKELODEON") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/nickelodeon.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "WILLAX_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtMS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvV0lMTEFYSEQvZGFzaF9may9pbmRleC5tcGQ=&k1=MjM0YjRiMjJlMGVmZjlhOGRhNmFlZmEzNzljODc4ZGQ=&k2=M2EzZTZhY2JiNzc1NmYyZWU5ZDlkN2FiMTUxNGRjNjc=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-tv.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_CRIME") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-crime.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_REALITY") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-reality.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_COMEDY") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-comedy.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_PREMIERE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-premiere.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TLN_TELENOVELAS_OP2") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/tlnovelas.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PASIONES_TV") {
+                document.getElementById("player").innerHTML = '<iframe src="https://embed.sdfgnksbounce.com/embed2/pasiones.html" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "E_ENTERTAINMENT") {
+                document.getElementById("player").innerHTML = '<iframe src="https:///clarovideo.playsito3.boutique/embed/e-entertainment.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "COMEDY_CENTRAL") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/comedy-central.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CARTOONITO") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/cartoonito.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "BABY_TV") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/baby-tv.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TOONCAST") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/tooncast.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT_OP2") {
+                document.getElementById("player").innerHTML = '<iframe src="//telegratuita.com/repro/?r=L3Byby90ZWxlaGl0aGQucGhw" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV_LIVE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/mtv_live.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV_HITS") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/mtv_hits.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "MTV") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/mtv.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HTV") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9zbWNkbjAyLnRyaW1pLmNvbS5hci9saXZlL3NtLWxpdmUvSFRWL3NhX2xpdmVfZGFzaC9IVFYubXBk&k1=MzMyZmU1ZDMzNzZmNDk1OTk5YWI5ZmNjM2EwOWQ2ZTY=&k2=ZWZiZjVjNWM5NGYyNzc3ZDkzODVhYTBiY2IyODU3ODM=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HISTORY_CH") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/history-ch.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HISTORY_CH2") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/history-ch2.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "STAR_CHANNEL") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/star-channel.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly96YXAtbGl2ZTEtb3R0Lml6emlnby50di8xNS9vdXQvdS9kYXNoL1RFTEVISVQtU0QvZGVmYXVsdC5tcGQ=&k1=NmVkMzZjNWY3ZDA3NzVlMjFmMDc0OGRkMTc1MjBiYzk=&k2=NjU0MjU2Y2M1OTM5ZjZkNTAyOTY5YjRmYmJjNDcyODY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT_MUSICA") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/telehit-musica.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT_MUSICA_ZSSZSSSS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly96YXAtbGl2ZTEtb3R0Lml6emlnby50di8xMi9vdXQvdS9kYXNoL1RFTEVISVRNVVNJQ0FTRC9kZWZhdWx0Lm1wZA==&k1=YWU3ZDgxMGJkNGI4OWQzMTQ4NzU3N2ZiZWY2Yjc0N2E=&k2=MWFiNDU5ZGIxYmFjZjYzOTE3ZGYwZDM1YTExMDdjOTQ=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT_MUSICA_PLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/telehit-musica-plus.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEHIT_MUSICA_PLUS_ZSSZSSSS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly96YXAtbGl2ZTEtb3R0Lml6emlnby50di8xMi9vdXQvdS9kYXNoL1RFTEVISVQtTVVTSUNBLVBMVVMtSEQvZGVmYXVsdC5tcGQ=&k1=Y2NiM2UwY2RhMzM0YTEyZGE3NTAzNzQ0NGQwY2NjODM=&k2=MjkxYjE0OTZlMDkwMDA0MWY2YTFkMGUyYWViMzMxNGM=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "BANDAMAX_MX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly96YXAtbGl2ZTEtb3R0Lml6emlnby50di8xMi9vdXQvdS9kYXNoL0JBTkRBTUFYLUhEL2RlZmF1bHQubXBk&k1=ZDAxNGI0YzdmMjJkNDkwZjU2ZTJkN2QzZmUxMjVjMTU=&k2=Njk4NjRhZDRiOThkMDZlOWZjZjI0MzBlZDY3YjZjMzM=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "D_PELICULA_PLUS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/de-pelicula-plus.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "D_PELICULA") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/de-pelicula.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CHV_CL") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/chv-cl.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+
+            } else if (id === "FOXSPORT_PRE_MXVPN") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9teGxpdmVjaGFubmVsc3Zvc2Rhc2guY2xhcm92aWRlby5jb20vQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWFNQT1JUU19QUkVNSVVNX0hEKS9tYW5pZmVzdC5tcGQ=&k1=Y2Y0Yzc4ZTIxZmUyMTlhZDRhYTU0MjlhZTkzZDQzYmU=&k2=MjZkYjM4YTk2OGExYjY1ZDcyNzBlZTkyNjMyYTdjZTE=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "LATINA_PEVPN") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/hls-clappr.php?file=https://cors-proxy.cooks.fyi/https://live-evg20.tv360.bitel.com.pe/bitel/latina_abr/playlist.m3u8" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AMERICA_PEADS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://telegratuita.com/repro/?r=L3Byby9hbWVyaWNhdHYucGhw" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PANAMERICANA_PEVPN") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/panamericana.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PANAMERICANA_PE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://www.dailymotion.com/embed/video/x774s7s?autoplay=1" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/tnt.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_OP2") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFROVF9IRCkvbWFuaWZlc3QubXBk&k1=YTczODgzNTBlYjU0YTk0OGZkMjIwMTYxNTE1Zjg1NDY=&k2=ZTZkMjI3NzdmZmE3YjNmYzA0OTNjODRjYWE5Y2YzZjU=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_SERIES_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/tntseries.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TNT_NOVELAS") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/tbs.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SPACE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/space.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SPACE_OP2") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/space.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "WARNER") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/warner.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "STUDIO_UNIVERSAL") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/studio-universal.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PARAMOUNT_NETWORK") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/paramount-network.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINEMAX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/cinemax.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AXN") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/axn.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINECANAL") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKENJTkVDQU5BTF9IRCkvbWFuaWZlc3QubXBk&k1=ZjY3YzJjOTM2YTQyZTQzNjVkNmE0NmVkMTNjZDM2OTA=&k2=MjVjNzFjOTI3YjEwOGUyN2JkMzRjMGI3MmVlMmNlOTY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINECANAL_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/cinecanal.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AMC") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/amc.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AMC_CRIME") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/amc-crime.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AMC_BREAK") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/amc-break.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLDEN_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/golden.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLDEN_EDGE_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/goldenedge.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLDEN_EDGEHD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEdPTERFTl9FREdFX0hEKS9tYW5pZmVzdC5tcGQ=&k1=OTBlMjk0NzE5ZjJmZmY2ZDdlOWU5NjVmNGE1NTVkNjY=&k2=ZmEyMzAzMjllOGNhM2FlMDg0Y2QxZmIzYjcwMTQyMWU=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLDEN_PLUS_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/golden-plus.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOLDEN_PREMIER_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/golden-premier.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "LIFETIME_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/lifetime.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SYFY") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/syfy.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVERSAL_CINEMA") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/universal-cinena.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SONYCHANNEL_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/sony.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "SONYMOVIE_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/sony-movie.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TCM") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/tcm.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINEMA_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/cinemaplus.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "A3CINE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEEzQ0lORSkvbWFuaWZlc3QubXBk&k1=MjE1ZWM3MzRkNzc5MDM0OTZiNmI3ZTkwYWNmZmNlOTY=&k2=NWQzNWVhOWJjNDIzZDg4OWExZDc1ZjZmZWIxZTFjZmU=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "A3SERIES") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEEzU0VSSUVTSEQpL21hbmlmZXN0Lm1wZA==&k1=ODQyYzA0ODc0NmEzNzdjOGJiZmU3M2E1Mzc5NDU3Y2M=&k2=YzE4YjRiNTQyZWM0MmQxNDM0MTQxNTE4YzYyZDU5NjY=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINELATINO") {
+                document.getElementById("player").innerHTML = '<iframe src="https://teledeportes.top/ch.php?id=cinelatino" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "NATGEO") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/natgeo.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-ch.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_HyH") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-hyh.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_ID") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-investigation.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_THEATER") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-theater.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_WORLD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-world.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_SCIENCIE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-science.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_TURBO") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-turbo.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_TLC") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/discovery-tlc.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISCOVERY_ANIMALP") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/animal-planet.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "GOURMET") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/gourmet.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "HGTV") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/hgtv.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "LOVENATURE_ES") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/love-nature.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PASIONES") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFBBU0lPTkVTX0hEKS9tYW5pZmVzdC5tcGQ=&k1=NmJiZGQ1YTZhMjFlYTNkNWJlYzM0YzUxNTA3OGUxMjQ=&k2=YTk3NTI4Mzg0NjQyN2QyNWRmMTNhMzQ1YmM0MGJkYzE=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVISION_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/univision.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "UNIVISION_HD2") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/univision.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TELEMUNDO_INT") {
+                document.getElementById("player").innerHTML = '<iframe src="//telegratuita.com/repro/?r=L3RybS90NTIucGhw" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FX") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/fx.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "FX_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/jw.html?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZYX0hEKS9tYW5pZmVzdC5tcGQ=&k1=NmU2NzdlZWQzZGNhNGI1MTY2N2M3MzhhZGRiY2IyNWE=&k2=YTg2NDMxNmIxMjRmMWI4NjZiN2NhNzQyNDZkMWU1OTA=" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "AE") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/ae.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "EUROPA_EUROPA") {
+                document.getElementById("player").innerHTML = '<iframe src="https://clarovideo.playsito3.boutique/embed/europa-europa.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DISTRITO_COMEDIA_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/distrito-comedia.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "CINEAR_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/cinear.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "PAKAPAKA_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/pakapaka.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DREAMWORKS") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/dreamworks.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "BITME") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/bitme.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "BOING") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/boing.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DEPORTV_HD") {
+                document.getElementById("player").innerHTML = '<iframe src="//clarovideo.playsito3.boutique/embed/deportv.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DZAN_F1") {
+                document.getElementById("player").innerHTML = '<iframe src="//rereyano.ru/player/2/60" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DZAN_F1_ADS") {
+                document.getElementById("player").innerHTML = '<iframe src="//thedaddy.click/embed/stream-537.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "DZAN_F1_ADS2") {
+                document.getElementById("player").innerHTML = '<iframe src="//streamdp2.xyz/global.php?channel=daznf1  //miztv.top/total/stream-537.php" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+
+            } else if (id === "TEMP2_CAP1") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep1_sustento_y_azar.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP2") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep2_fiesta_de_hall.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP3") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep3_001.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP4") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep4_seispiernas.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP5") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep5_otra_ronda.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP6") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep6_epx.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            } else if (id === "TEMP2_CAP7") {
+                document.getElementById("player").innerHTML = '<iframe src="https://streamtpcloud.com/movies.php?id=ep7_amigos_o_oenemigos.mp4" width="100%" height="100%" scrolling="no" allow="encrypted-media" allowfullscreen="true" frameborder="0" style="position:absolute; top:0; left: 0"></iframe>';
+            }
+        </script>
+    </body>
+</html>
