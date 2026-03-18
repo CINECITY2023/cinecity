@@ -1,0 +1,394 @@
+{
+   "chrome_extension_settings": {
+      "message": "Chrome拡張機能の設定"
+   },
+   "converter_button_add_header": {
+      "message": "別のヘッダーを追加する"
+   },
+   "converter_button_clear_input": {
+      "message": "入力をクリア"
+   },
+   "converter_button_remove_header": {
+      "message": "ヘッダーを削除する"
+   },
+   "converter_button_reset_all": {
+      "message": "すべての入力をリセットします"
+   },
+   "converter_channelinfo": {
+      "message": "チャンネルの詳細"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_1": {
+      "message": "サポートされている形式はこちら："
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "複数のキーもサポートされています："
+   },
+   "converter_drm_tooltip_clearkey_3": {
+      "message": "上記のいずれかの形式を返す URL："
+   },
+   "converter_drm_tooltip_clearkey_4": {
+      "message": "有効な形式が URL によって返されない場合、EME 仕様の要求形式のキー ID データを使用して同じ URL に POST を実行します。"
+   },
+   "converter_drm_tooltip_widevine_cert": {
+      "message": "プロバイダーによってサポートされていないため、\u003Cbr>Widevine 証明書に別の URL を指定する必要がある場合があります。"
+   },
+   "converter_header": {
+      "message": "ヘッダー"
+   },
+   "converter_label_channel_group": {
+      "message": "チャンネルのグループ"
+   },
+   "converter_label_channel_logo": {
+      "message": "チャンネルロゴのURL"
+   },
+   "converter_label_channel_name": {
+      "message": "チャンネルの名前"
+   },
+   "converter_label_channel_tvg_id": {
+      "message": "電子番組表ID"
+   },
+   "converter_label_channel_type": {
+      "message": "チャンネルのタイプ"
+   },
+   "converter_label_channel_url": {
+      "message": "チャンネルのURL"
+   },
+   "converter_label_drm_clearkey": {
+      "message": "クリアキーデータ"
+   },
+   "converter_label_drm_widevine": {
+      "message": "ワイドバイン URL"
+   },
+   "converter_label_drm_widevine_cert": {
+      "message": "Widevine 証明書の URL"
+   },
+   "converter_label_header_name": {
+      "message": "名前"
+   },
+   "converter_label_header_value": {
+      "message": "価値"
+   },
+   "converter_placeholder_channel_group": {
+      "message": "ニュース"
+   },
+   "converter_placeholder_channel_name": {
+      "message": "チャンネル 1"
+   },
+   "converter_placeholder_channel_tvg_id": {
+      "message": "1チャンネル.英語"
+   },
+   "converter_result": {
+      "message": "結果"
+   },
+   "converter_result_button_copy": {
+      "message": "クリップボードにコピーする！"
+   },
+   "converter_result_button_open": {
+      "message": "新しいタブでリンクを開く！"
+   },
+   "converter_result_clearkey_base": {
+      "message": "クリアキーBASE64"
+   },
+   "converter_result_clearkey_hex": {
+      "message": "クリアキーHEX"
+   },
+   "converter_result_direct_link": {
+      "message": "ダイレクトリンク"
+   },
+   "converter_result_m3u": {
+      "message": "M3Uチャンネル"
+   },
+   "converter_title": {
+      "message": "クリアキーコンバーターとリンクジェネレーター"
+   },
+   "extension_description": {
+      "message": "DASH (mpd)、HLS (m3u8) 形式、および EPG をサポートする M3U リストのビデオまたはライブ ストリーム用のネイティブ ビデオ プレーヤーです。"
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_channels": {
+      "message": "チャンネル"
+   },
+   "iptv_deep_search_channels": {
+      "message": "検索にプログラムタイトルを含める"
+   },
+   "iptv_epg_duration": {
+      "message": "放送時間"
+   },
+   "iptv_epg_error": {
+      "message": "エラー"
+   },
+   "iptv_epg_loaded": {
+      "message": "読み込み完了"
+   },
+   "iptv_epg_loading": {
+      "message": "読み込み中..."
+   },
+   "iptv_epg_loading_title": {
+      "message": "EPGを読み込み中"
+   },
+   "iptv_epg_no_data": {
+      "message": "情報が見つかりませんでした"
+   },
+   "iptv_epg_schedule": {
+      "message": "スケジュール"
+   },
+   "iptv_search_channels": {
+      "message": "チャンネル検索"
+   },
+   "license_invalid": {
+      "message": "無効なドナーライセンスキーです!"
+   },
+   "license_request_failed": {
+      "message": "ライセンス検証に失敗しました"
+   },
+   "license_thank_you": {
+      "message": "拡張機能のサポートありがとうございます。すべての機能がロック解除されました。"
+   },
+   "player_compressor_turn_off": {
+      "message": "圧縮を無効化"
+   },
+   "player_compressor_turn_on": {
+      "message": "コンプレッサーをオンにする"
+   },
+   "player_drop_local_playlists": {
+      "message": "または、1つまたは複数のM3Uプレイリストをここにドロップしてロードします"
+   },
+   "player_error_no_file_access": {
+      "message": "\u003Cspan>file:///\u003C/span> プレイリストを直接読み込むには、\u003Cbr>\u003Cspan>ファイルURLへのアクセスを許可する\u003C/span>をオンにする必要があります"
+   },
+   "player_invalid_playlist": {
+      "message": "無効のプレイリスト"
+   },
+   "player_open_local_playlists": {
+      "message": "ローカルのプレイリストを開く"
+   },
+   "settings_access_filesystem": {
+      "message": "file:/// プレイリストを直接読み込むか、.m3u ファイルのドラッグ＆ドロップを許可するには、Chrome の拡張機能の設定で「ファイル URL へのアクセスを許可する」を有効にしてください。"
+   },
+   "settings_access_incognito": {
+      "message": "ダイレクトプレーヤーまたはIPTVプレーヤーをシークレットモードで使用するには、 Chromeの拡張機能の設定で「シークレットモードで許可」を有効にしてください。"
+   },
+   "settings_advanced_settings_title": {
+      "message": "詳細設定"
+   },
+   "settings_changelog_button": {
+      "message": "変更履歴"
+   },
+   "settings_changelog_title": {
+      "message": "何が変更または追加されたかを確認するには、拡張機能の変更ログを参照してください。"
+   },
+   "settings_clearkey_button": {
+      "message": "Clearkeyのコンバーター"
+   },
+   "settings_clearkey_title": {
+      "message": "Clearkeyのフォーマットを変換し、拡張機能で利用可能なurlもしくはm3u list を生成するツール。"
+   },
+   "settings_discord_button": {
+      "message": "Discord で質問する"
+   },
+   "settings_discord_title": {
+      "message": "不具合を報告したりするには、DiscordのPrivate ticket でお問い合わせください。"
+   },
+   "settings_donor_license": {
+      "message": "ドナーライセンスキー"
+   },
+   "settings_donor_license_donate_link": {
+      "description": "Part of the message 'Donate on' PayPal or MercadoPago",
+      "message": "寄付する"
+   },
+   "settings_donor_license_placeholder": {
+      "message": "ライセンスキーをここに貼り付けてください"
+   },
+   "settings_donor_license_title": {
+      "message": "ドナーライセンスキーを追加して、すべての拡張機能のロックを解除します"
+   },
+   "settings_drm_title": {
+      "message": "DRMオプション"
+   },
+   "settings_edit_button": {
+      "message": "M3U list の編集"
+   },
+   "settings_edit_title": {
+      "message": "Self hosted M3U playlist を再生"
+   },
+   "settings_epg_title": {
+      "message": "EPG設定"
+   },
+   "settings_extension_title": {
+      "message": "拡張機能の設定"
+   },
+   "settings_github_button": {
+      "message": "Contact on GitHub"
+   },
+   "settings_github_title": {
+      "message": "報告や質問は GitHub へ"
+   },
+   "settings_help_button": {
+      "message": "使い方"
+   },
+   "settings_help_title": {
+      "message": "拡張機能の使い方や設定に関する質問は、Wikiを参照してください。"
+   },
+   "settings_license_clearkey": {
+      "message": "Custom ClearKeys listを有効化"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "このKeyID $key$ は有効ではありません。",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "無効な KeyID: "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "無効な Key: "
+   },
+   "settings_license_clearkey_title": {
+      "message": "Custom ClearKeys listを強制的に有効化"
+   },
+   "settings_license_widevine": {
+      "message": "Custom Widevine Serversを有効化"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "無効なline: "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "無効な正規表現: "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "無効なURL: "
+   },
+   "settings_license_widevine_title": {
+      "message": "Custom Widevine Serversを強制的に有効化"
+   },
+   "settings_options_active": {
+      "message": "ビデオリンクの自動再生"
+   },
+   "settings_options_active_title": {
+      "message": ".mpd, .m3u8 または m3u リンクを自動的にこのビデオプレーヤーで再生する"
+   },
+   "settings_options_ck_cache": {
+      "message": "ClearKey POSTリクエストを数秒でキャッシュする"
+   },
+   "settings_options_ck_cache_title": {
+      "message": "ClearKey POSTリクエストを一定時間キャッシュし、重複リクエストを防止します。 \n無効にするには0に設定します。"
+   },
+   "settings_options_ck_get_bypass": {
+      "message": "POSTのみClearKeyサーバーへのGETリクエストを無効にします。"
+   },
+   "settings_options_ck_get_bypass_title": {
+      "message": "POSTリクエストのみを実行する場合は、ClearKeyライセンスサーバーへのGETリクエストをグローバルに無効にします。 \nデフォルト: 有効"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "Audio GainとCompressorを標準で有効にする"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "Audio GainとCompressorは、オーディオの正規化により、より大きな音量での再生を可能にします"
+   },
+   "settings_options_defaultaudio": {
+      "message": "デフォルトの音声言語"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "オーディオトラックのデフォルト言語。\n\nオーディオ言語が適切に設定された場合のみ"
+   },
+   "settings_options_epg_days": {
+      "message": "EPG番組を表示する日数"
+   },
+   "settings_options_epg_days_title": {
+      "message": "ご注意ください。日数を増やすと、低スペックデバイスのパフォーマンスが低下する可能性があります。\nデフォルト: 1日"
+   },
+   "settings_options_epg_enabled": {
+      "message": "IPTV PlayerでEPG parserを標準で有効化"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "IPTV PlayerでEPG parserを標準で有効化\nパフォーマンスが低下した場合、または使用しない場合は無効にできます。"
+   },
+   "settings_options_epg_keypress": {
+      "message": "Xキーを押している間EPGを表示する"
+   },
+   "settings_options_epg_keypress_title": {
+      "message": "Xキーを押しながらのみEPG番組を表示します。 これを有効にすると、マウスオーバー時にチャンネル名のみが表示されます。"
+   },
+   "settings_options_lowlatency": {
+      "message": "低遅延ストリームを検出"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "自動低レイテンシーストリーム検出を有効化\n\nバッファリングに問題がある場合は、無効にすることも可能"
+   },
+   "settings_paypal_title": {
+      "message": "PayPalで寄付はこちらで"
+   },
+   "settings_play_button": {
+      "message": "M3U listを再生"
+   },
+   "settings_play_local_button": {
+      "message": "ローカルのM3U listを再生"
+   },
+   "settings_play_local_title": {
+      "message": "ローカルドライブからM3U playlists を再生"
+   },
+   "settings_play_title": {
+      "message": "Self hosted M3U playlist を再生"
+   },
+   "settings_players_title": {
+      "message": "再生設定"
+   },
+   "settings_review_button": {
+      "message": "拡張機能を評価"
+   },
+   "settings_review_title": {
+      "message": "拡張機能が役に立つと思われる場合は、レビューにご協力ください。"
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "保存"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "保存されました"
+   },
+   "settings_settings_button": {
+      "message": "設定"
+   },
+   "settings_settings_title": {
+      "message": "拡張機能の詳細設定を開きます。"
+   },
+   "settings_translate_button": {
+      "message": "翻訳を手伝ってください"
+   },
+   "settings_translate_title": {
+      "message": "拡張機能をあなたの言語に翻訳するのを手伝ってください。"
+   },
+   "welcome_autoplay": {
+      "message": "メディアリンクの自動再生"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "拡張機能は .mpd、.m3u8 または .m3u で終わるリンクを埋め込みプレーヤーで自動的に再生します。"
+   },
+   "welcome_message": {
+      "message": "拡張機能をインストールしていただきありがとうございます！"
+   },
+   "welcome_pin_1": {
+      "message": "Chromeの右上にあるパズルメニューで拡張機能のショートカットを作成可能です"
+   },
+   "welcome_pin_2": {
+      "message": "設定完了後、ワンクリックで設定にアクセス可能です"
+   },
+   "welcome_pin_title": {
+      "message": "拡張機能を固定することで設定に簡単にアクセスできます"
+   },
+   "welcome_start_using": {
+      "message": "拡張機能の使用を開始"
+   },
+   "welcome_useful_links": {
+      "message": "関連リンク"
+   }
+}

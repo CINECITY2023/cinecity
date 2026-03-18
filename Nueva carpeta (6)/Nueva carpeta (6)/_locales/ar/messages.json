@@ -1,0 +1,504 @@
+{
+   "chrome_extension_settings": {
+      "message": "إعدادات إضافة متصفح كروم"
+   },
+   "converter_button_add_header": {
+      "message": "إضافة ترويسة اخرى"
+   },
+   "converter_button_clear_input": {
+      "message": "مسح الإدخال"
+   },
+   "converter_button_remove_header": {
+      "message": "حذف الترويسة"
+   },
+   "converter_button_reset_all": {
+      "message": "إعادة تعيين جميع المدخلات"
+   },
+   "converter_channelinfo": {
+      "message": "معلومات القناة"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_1": {
+      "message": "الصيغ المدعومة:"
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "دعم استخدام أكثر من مفتاح واحد:"
+   },
+   "converter_drm_tooltip_clearkey_3": {
+      "message": "‫عنوان URL الذي يعيد أيا من الصيغ المذكورة أعلاه:‬"
+   },
+   "converter_drm_tooltip_clearkey_4": {
+      "message": "‫في حال لم يُرجع الرابط صيغة صحيحة، يتم إرسال طلب POST إلى نفس الرابط يحتوي على بيانات Key IDs بصيغة EME.‬"
+   },
+   "converter_drm_tooltip_widevine_cert": {
+      "message": "‫أحيانًا يجب إدخال رابط مستقل لشهادة Widevine\u003Cbr> لأن المزود لا يدعم ذلك مباشرة.‬"
+   },
+   "converter_header": {
+      "message": "الترويسات"
+   },
+   "converter_label_channel_group": {
+      "message": "مجموعة القنوات"
+   },
+   "converter_label_channel_logo": {
+      "message": "رابط شعار القناة"
+   },
+   "converter_label_channel_name": {
+      "message": "اسم القناة"
+   },
+   "converter_label_channel_tvg_id": {
+      "message": "معرّف القناة (TVG ID) في دليل البرامج الإلكتروني (EPG)"
+   },
+   "converter_label_channel_type": {
+      "message": "نوع القناة"
+   },
+   "converter_label_channel_url": {
+      "message": "رابط القناة"
+   },
+   "converter_label_drm_clearkey": {
+      "message": "‫بيانات ClearKey‬"
+   },
+   "converter_label_drm_widevine": {
+      "message": "‫رابط Widevine‬"
+   },
+   "converter_label_drm_widevine_cert": {
+      "message": "‫رابط URL لشهادة Widevine‬"
+   },
+   "converter_label_header_name": {
+      "message": "الاسم"
+   },
+   "converter_label_header_value": {
+      "message": "القيمة"
+   },
+   "converter_placeholder_channel_group": {
+      "message": "الأخبار"
+   },
+   "converter_placeholder_channel_name": {
+      "message": "القناة 1"
+   },
+   "converter_placeholder_channel_tvg_id": {
+      "message": "Channel1.us"
+   },
+   "converter_result": {
+      "message": "النتيجة"
+   },
+   "converter_result_button_copy": {
+      "message": "نسخ إلى الحافظة!"
+   },
+   "converter_result_button_open": {
+      "message": "فتح الرابط في علامة تبويب جديدة!"
+   },
+   "converter_result_clearkey_base": {
+      "message": "مفتاح ClearKey بصيغة BASE64"
+   },
+   "converter_result_clearkey_hex": {
+      "message": "مفتاح ClearKey بصيغة HEX"
+   },
+   "converter_result_direct_link": {
+      "message": "رابط مباشر"
+   },
+   "converter_result_m3u": {
+      "message": "قناة M3U"
+   },
+   "converter_title": {
+      "message": "‫أداة تحويل ClearKey وإنشاء الروابط‬"
+   },
+   "extension_description": {
+      "message": "مشغل فيديو أصلي لتشغيل الفيديوهات أو البث المباشر بصيغ DASH (.mpd) وHLS (.m3u8) وقوائم M3U مع دعم دليل البرامج الإلكتروني (EPG)."
+   },
+   "extension_name": {
+      "message": "مشغل الفيديو MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_channels": {
+      "message": "القنوات"
+   },
+   "iptv_deep_search_channels": {
+      "message": "تضمين عناوين البرنامج في البحث"
+   },
+   "iptv_epg_duration": {
+      "message": "المدة الزمنية"
+   },
+   "iptv_epg_error": {
+      "message": "خطأ"
+   },
+   "iptv_epg_error_empty": {
+      "message": "‫دليل البرامج (EPG) فارغ‬"
+   },
+   "iptv_epg_error_http": {
+      "message": "‫خطأ HTTP.‬"
+   },
+   "iptv_epg_error_parse": {
+      "message": "‫فشل تحليل دليل البرامج (EPG)‬"
+   },
+   "iptv_epg_error_request": {
+      "message": "فشل الطلب"
+   },
+   "iptv_epg_error_size": {
+      "message": "الملف كبير للغاية."
+   },
+   "iptv_epg_loaded": {
+      "message": "تم التحميل"
+   },
+   "iptv_epg_loading": {
+      "message": "جارٍ التحميل"
+   },
+   "iptv_epg_loading_title": {
+      "message": "جارٍ تحميل دليل البرامج الإلكتروني (EPG)"
+   },
+   "iptv_epg_no_data": {
+      "message": "لا توجد معلومات"
+   },
+   "iptv_epg_reminder_cancel": {
+      "message": "إلغاء"
+   },
+   "iptv_epg_reminder_play": {
+      "message": "التشغيل الان"
+   },
+   "iptv_epg_reminder_soon": {
+      "message": "ستبدأ قريباً"
+   },
+   "iptv_epg_reminder_title": {
+      "message": "‫انقر بزر الفأرة الأيمن لفتح القناة عند بدء البرنامج‬"
+   },
+   "iptv_epg_schedule": {
+      "message": "الجدول"
+   },
+   "iptv_search_channels": {
+      "message": "البحث عن قنوات"
+   },
+   "license_channels": {
+      "message": "افتح عددًا غير محدود من القنوات باستخدام مفتاح ترخيص المساهم"
+   },
+   "license_invalid": {
+      "message": "مفتاح ترخيص المساهمين غير صالح!"
+   },
+   "license_request_failed": {
+      "message": "فشل التحقق من الترخيص"
+   },
+   "license_request_timeout": {
+      "message": "انتهت مهلة طلب التحقق من الترخيص"
+   },
+   "license_thank_you": {
+      "message": "شكرا لك على دعم الإضافة. تم فتح جميع الميزات."
+   },
+   "license_unlock_features": {
+      "message": "كن مساهمًا وافتح مميزات اضافية وساعد في تطوير الإضافة."
+   },
+   "player_buffer_health": {
+      "message": "حالة التخزين المؤقت (Buffer Health)"
+   },
+   "player_close_multistream_channel": {
+      "message": "حذف قناة من بث متعدد‬"
+   },
+   "player_compressor_turn_off": {
+      "message": "تعطيل ميزة مضخم الصوت"
+   },
+   "player_compressor_turn_on": {
+      "message": "تفعيل ميزة المضخم للصوت"
+   },
+   "player_drop_local_playlists": {
+      "message": "أو اسحب قائمة M3U واحدة أو عدة قوائم هنا للتحميل."
+   },
+   "player_error_no_file_access": {
+      "message": "لتحميل \u003Cspan>ملف /\u003C/span> قوائم التشغيل مباشرة تحتاج إلى تبديل \u003Cbr>\u003Cspan>السماح بالوصول إلى عناوين URL للملف\u003C/span> في"
+   },
+   "player_fullscreen_with_channels": {
+      "message": "ملء الشاشة\u003Cbr>مع القنوات"
+   },
+   "player_invalid_playlist": {
+      "message": "قائمة تشغيل غير صالحة"
+   },
+   "player_mobile_local_playlists": {
+      "message": "بعض المتصفحات تتعامل مع ملفات .m3u كصوت وقد تطلب أذونات الميكروفون. يمكنك رفض الإذن دون أي مشاكل."
+   },
+   "player_open_channel_newtab": {
+      "message": "فتح القناة في علامة تبويب جديدة"
+   },
+   "player_open_local_playlists": {
+      "message": "فتح قوائم التشغيل المحلية"
+   },
+   "player_open_multistream_channel": {
+      "message": "‫إضافة قناة إلى بث متعدد‬"
+   },
+   "player_paste_playlist": {
+      "message": "‫أو الصق رابط قائمة تشغيل M3U هنا للتحميل‬"
+   },
+   "player_playback_rate": {
+      "message": "سرعة التشغيل"
+   },
+   "player_reload_multistream_channel": {
+      "message": "إعادة تحميل القناة"
+   },
+   "player_shortcuts": {
+      "message": "الاختصارات"
+   },
+   "player_unknown_language": {
+      "description": "Unknown language for audio or subtitle tracks",
+      "message": "غير معروف"
+   },
+   "settings_access_incognito": {
+      "message": "‫لاستخدام المشغّل المباشر أو مشغّل IPTV في وضع التصفح الخفي،‬\n‫قم بتفعيل خيار 'السماح في التصفح الخفي' في إعدادات الإضافة على متصفح كروم.‬"
+   },
+   "settings_advanced_settings_title": {
+      "message": "إعدادات متقدمة"
+   },
+   "settings_changelog_button": {
+      "message": "سجل التغييرات"
+   },
+   "settings_changelog_title": {
+      "message": "اطّلع على سجل التغييرات للإضافة لمعرفة ما تم تغييره أو إضافته."
+   },
+   "settings_clearkey_button": {
+      "message": "‫محول ClearKey‬"
+   },
+   "settings_clearkey_title": {
+      "message": "‫أداة لتحويل صيغ ClearKey وإنشاء روابط الوسائط وقوائم M3U لاستخدامها مع الإضافة.‬"
+   },
+   "settings_discord_button": {
+      "message": "‫التواصل عبر الـDiscord‬"
+   },
+   "settings_discord_title": {
+      "message": "‫الإبلاغ عن مشكلة أو طلب المساعدة من خلال تذكرة خاصة على Discord.‬"
+   },
+   "settings_donor_license": {
+      "message": "مفتاح ترخيص المساهمين"
+   },
+   "settings_donor_license_donate_link": {
+      "description": "Part of the message 'Donate on' PayPal or MercadoPago",
+      "message": "تبرع على"
+   },
+   "settings_donor_license_placeholder": {
+      "message": "‫قم بلصق مفتاح ترخيص هنا‬"
+   },
+   "settings_donor_license_title": {
+      "message": "أضف مفتاح ترخيص المساهمين لفتح جميع ميزات الإضافة"
+   },
+   "settings_drm_title": {
+      "message": "‫خيارات الـ (DRM)‬"
+   },
+   "settings_edit_button": {
+      "message": "‫تحرير قائمة M3U‬"
+   },
+   "settings_edit_title": {
+      "message": "تحرير قائمة M3U الخاصة بك والمستضافة محليًا"
+   },
+   "settings_epg_title": {
+      "message": "‫إعدادات دليل البرامج (EPG)‬"
+   },
+   "settings_extension_title": {
+      "message": "إعدادات الإضافة"
+   },
+   "settings_github_button": {
+      "message": "‫التواصل عبر GitHub‬"
+   },
+   "settings_github_title": {
+      "message": "‫الإبلاغ عن مشكلة أو طلب المساعدة على GitHub.‬"
+   },
+   "settings_help_button": {
+      "message": "طريقة الاستخدام"
+   },
+   "settings_help_title": {
+      "message": "إذا كانت لديك أسئلة حول كيفية استخدام الإضافة وتكوينها، يمكنك قراءة صفحة (Wiki)."
+   },
+   "settings_license_clearkey": {
+      "message": "‫استخدام قائمة ClearKeys مخصصة‬"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "يحتوي معرف المفاتيح $key$ على مفتاح غير صالح.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "معرّف المفتاح غير صالح (Invalid KeyID): "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "المفتاح غير صالح (Invalid Key): "
+   },
+   "settings_license_clearkey_title": {
+      "message": "‫استخدام قائمة ClearKeys مخصصة بشكل إجباري.‬"
+   },
+   "settings_license_widevine": {
+      "message": "‫استخدام خوادم Widevine مخصصة‬"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "سطر غير صالح: "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "‫صيغة RegEx غير صحيحة: "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "رابط غير صالح: "
+   },
+   "settings_license_widevine_title": {
+      "message": "‫استخدام خادم ترخيص Widevine مخصص بشكل إجباري.‬"
+   },
+   "settings_options_active": {
+      "message": "تشغيل روابط الوسائط تلقائيًا"
+   },
+   "settings_options_active_title": {
+      "message": "تشغيل روابط ‎.mpd‎ و‎.m3u8‎ و‎.m3u‎ مباشرة في مشغل الفيديو عند الضغط عليها."
+   },
+   "settings_options_ck_cache": {
+      "message": "‫تخزين مؤقت لطلبات ClearKey من نوع POST بثواني‬"
+   },
+   "settings_options_ck_get_bypass": {
+      "message": "‫تعطيل طلبات الـ GET إلى خادم ClearKey. استخدام POST فقط.‬"
+   },
+   "settings_options_ck_get_bypass_title": {
+      "message": "‫تعطيل طلب GET إلى خادم ترخيص ClearKey على مستوى النظام إذا كنت ترغب في استخدام طلبات POST فقط.‬\n‫الوضع الافتراضي: مفعّل‬"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "تفعيل تعزيز الصوت والمضخم (Compressor) بشكل افتراضي."
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "تساعد ميزة تعزيز الصوت والمضخم (Compressor) على توحيد مستوى الصوت بين القنوات والوصول إلى مستوى صوت أعلى من الأصلي."
+   },
+   "settings_options_defaultaudio": {
+      "message": "اللغة الافتراضية للصوت"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "اللغة الافتراضية لمسارات الصوت.\n\nتنطبق فقط على الفيديوهات التي تم إعداد لغات صوتها بشكل صحيح."
+   },
+   "settings_options_epg_days": {
+      "message": "‫عدد الأيام لعرض دليل البرامج (EPG)‬"
+   },
+   "settings_options_epg_days_title": {
+      "message": "ملاحظة، إضافة المزيد من الأيام قد يؤثر على الأداء في الأجهزة منخفضة المواصفات.‬\n‫الافتراضي: يوم واحد.‬"
+   },
+   "settings_options_epg_enabled": {
+      "message": "تمكين ميزة تحليل دليل البرامج الإلكتروني (EPG) في مشغل الـIPTV تلقائيًا."
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "تمكين ميزة تحليل دليل البرامج الإلكتروني (EPG) تلقائيًا في مشغل الـIPTV. يمكن تعطيلها لزيادة الأداء أو إذا كنت لا تستخدمها."
+   },
+   "settings_options_epg_keypress": {
+      "message": "إظهار دليل البرامج الإلكتروني (EPG) فقط أثناء الضغط على حرف الـ[X]"
+   },
+   "settings_options_epg_keypress_title": {
+      "message": "‫إظهار برامج EPG فقط أثناء الضغط على حرف [X]‬\n‫عند تمكينه، يتم عرض أسماء القنوات فقط عند المرور بالماوس.‬"
+   },
+   "settings_options_lowlatency": {
+      "message": "‫اكتشاف البث منخفض التأخير (Low Latency)‬"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "تمكين الكشف التلقائي عن البث منخفض التأخير\nيمكن تعطيله إذا كانت هناك مشاكل في التخزين المؤقت."
+   },
+   "settings_paypal_title": {
+      "message": "‫تبرع بواسطة PayPal‬"
+   },
+   "settings_play_button": {
+      "message": "تشغيل قائمة بصيغة M3U"
+   },
+   "settings_play_local_button": {
+      "message": "تشغيل قوائم M3U المحلية"
+   },
+   "settings_play_local_title": {
+      "message": "تشغيل قوائم M3U مباشرة من القرص المحلي."
+   },
+   "settings_play_title": {
+      "message": "تشغيل قائمة M3U الخاصة بك والمستضافة محليًا"
+   },
+   "settings_players_title": {
+      "message": "إعدادات المشغل"
+   },
+   "settings_review_button": {
+      "message": "تقييم الإضافة"
+   },
+   "settings_review_title": {
+      "message": "إذا وجدت الإضافة مفيدة، يرجى المساعدة بتقييمها."
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "حفظ"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "تم الحفظ"
+   },
+   "settings_settings_button": {
+      "message": "الإعدادات"
+   },
+   "settings_settings_title": {
+      "message": "افتح إعدادات الإضافة المتقدمة."
+   },
+   "settings_translate_button": {
+      "message": "ساهم في الترجمة"
+   },
+   "settings_translate_title": {
+      "message": "ساهم في ترجمة الإضافة إلى لغتك."
+   },
+   "shortcut_fullscreen": {
+      "message": "ملء الشاشة / الخروج من ملء الشاشة"
+   },
+   "shortcut_last_channel": {
+      "message": "‫IPTV: القناة الاخيرة‬"
+   },
+   "shortcut_mute": {
+      "message": "كتم الصوت / إلغاء الكتم"
+   },
+   "shortcut_next_channel": {
+      "message": "‫IPTV: القناة التالية‬"
+   },
+   "shortcut_play_pause": {
+      "message": "تشغيل / إيقاف مؤقت"
+   },
+   "shortcut_play_pause_key": {
+      "description": "Space bar key",
+      "message": "مسافة"
+   },
+   "shortcut_playrate_down": {
+      "message": "تقليل سرعة التشغيل"
+   },
+   "shortcut_playrate_up": {
+      "message": "زيادة سرعة التشغيل"
+   },
+   "shortcut_previous_channel": {
+      "message": "‫IPTV: القناة السابقة‬"
+   },
+   "shortcut_shortcuts_key": {
+      "message": "/ أو ؟"
+   },
+   "shortcut_subtitles": {
+      "message": "الترجمات تشغيل / إيقاف"
+   },
+   "shortcut_subtitles_decrease": {
+      "message": "تقليل حجم الترجمة"
+   },
+   "shortcut_subtitles_increase": {
+      "message": "زيادة حجم الترجمة"
+   },
+   "shortcut_volume_down": {
+      "message": "خفض مستوى الصوت"
+   },
+   "shortcut_volume_up": {
+      "message": "زيادة مستوى الصوت"
+   },
+   "welcome_autoplay": {
+      "message": "تشغيل روابط الوسائط تلقائيًا"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "ستقوم الإضافة بتشغيل أي رابط ينتهي بـ ‎.mpd‎ أو ‎.m3u8‎ أو ‎.m3u‎ تلقائيًا في المشغل المدمج."
+   },
+   "welcome_message": {
+      "message": "شكرا لتثبيت الإضافة!"
+   },
+   "welcome_pin_1": {
+      "message": "استخدم زر علامة (اللغز) في أعلى يمين متصفح كروم لتثبيت الإضافة"
+   },
+   "welcome_pin_2": {
+      "message": "بعد ذلك، اضغط على أيقونة الإضافة للوصول إلى إعداداتها بسهولة"
+   },
+   "welcome_pin_title": {
+      "message": "تذكر تثبيت الإضافة لتسهيل الوصول إلى الإعدادات"
+   },
+   "welcome_start_using": {
+      "message": "ابدأ باستخدام الإضافة"
+   },
+   "welcome_useful_links": {
+      "message": "روابط مفيدة"
+   }
+}

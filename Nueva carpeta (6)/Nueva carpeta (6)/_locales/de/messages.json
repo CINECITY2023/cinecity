@@ -1,0 +1,26 @@
+{
+   "extension_description": {
+      "message": "Nativer Video-Player für Videos oder Livestreams im DASH (mpd), HLS (m3u8) Format und M3U Liste mit EPG Unterstützung."
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_epg_duration": {
+      "message": "Dauer"
+   },
+   "iptv_epg_error": {
+      "message": "Fehler"
+   },
+   "iptv_epg_loaded": {
+      "message": "Geladen"
+   },
+   "iptv_epg_loading": {
+      "message": "Laden"
+   },
+   "iptv_epg_no_data": {
+      "message": "Keine Informationen"
+   },
+   "iptv_epg_schedule": {
+      "message": "Zeitplan"
+   }
+}

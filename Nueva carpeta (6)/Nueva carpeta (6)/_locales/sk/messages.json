@@ -1,0 +1,20 @@
+{
+   "chrome_extension_settings": {
+      "message": "Nastavenia rozšírenia Chrome"
+   },
+   "extension_description": {
+      "message": "Natívny prehrávač videí alebo živých prenosov vo formáte DASH (mpd), HLS (m3u8) a zoznam M3U s podporou EPG."
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "welcome_message": {
+      "message": "Ďakujeme za inštaláciu rozšírenia!"
+   },
+   "welcome_pin_1": {
+      "message": "Použite ponuku hádanky v pravom hornom rohu prehliadača Chrome, aby ste predĺžili rozšírenie"
+   },
+   "welcome_pin_title": {
+      "message": "Nezabudnite pripnúť rozšírenie pre ľahký prístup k nastaveniam"
+   }
+}

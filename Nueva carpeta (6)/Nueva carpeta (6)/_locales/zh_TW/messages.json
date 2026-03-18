@@ -1,0 +1,41 @@
+{
+   "chrome_extension_settings": {
+      "message": "Chrome 擴充設定"
+   },
+   "extension_description": {
+      "message": "原生視訊播放器，用於播放 DASH（mpd）、HLS（m3u8）格式和 M3U 清單的影片或直播，並支援 EPG。"
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "settings_license_widevine": {
+      "message": "使用自訂Widevine伺服器"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "無效行 "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "無效的正規表示式： "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "無效的連結： "
+   },
+   "settings_license_widevine_title": {
+      "message": "強制一個自訂Widevine許可伺服器。"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "預設啟用音訊增益和規格化"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "音頻增益和規格化有助於規範化通道音頻，使其可以達到比原始音頻更大的音量。"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "在IPTV 播放器中默认启用EPG 解析器。您可以禁用或不使用它以提高性能。"
+   },
+   "welcome_message": {
+      "message": "感謝安裝擴充！"
+   },
+   "welcome_pin_title": {
+      "message": "記得固定擴充功能以便輕鬆存取設置"
+   }
+}

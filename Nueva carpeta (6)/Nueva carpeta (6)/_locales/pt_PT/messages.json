@@ -1,0 +1,85 @@
+{
+   "chrome_extension_settings": {
+      "message": "Configurações de extensão do Chrome"
+   },
+   "converter_channelinfo": {
+      "message": "Informação do Canal"
+   },
+   "converter_label_channel_name": {
+      "message": "Nome do canal"
+   },
+   "extension_description": {
+      "message": "Reprodutor de vídeo nativo para vídeos ou transmissão ao vivo no formato DASH (mpd), HLS (m3u8) e lista M3U com suporte EPG."
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_epg_error": {
+      "message": "Erro"
+   },
+   "settings_license_widevine": {
+      "message": "Usar servidores Widevine personalizados"
+   },
+   "settings_options_active": {
+      "message": "Reproduzir links de mídia automaticamente"
+   },
+   "settings_options_active_title": {
+      "message": "Abra links .mpd, .m3u8 ou m3u automaticamente\nno reprodutor de vídeo quando clicado"
+   },
+   "settings_options_defaultaudio": {
+      "message": "Idioma de áudio padrão"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "Trilha de áudio padrão.\nSomente em vídeos com trilhas configuradas."
+   },
+   "settings_options_epg_enabled": {
+      "message": "Habilitar o analisador EPG no Player IPTV por padrão"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "Habilite o analisador EPG por padrão no tocador de IPTV. Você pode desativar para obter desempenho ou se você não usá-lo."
+   },
+   "settings_options_epg_keypress": {
+      "message": "Mostrar apenas EPG enquanto segura a tecla [X]"
+   },
+   "settings_options_lowlatency": {
+      "message": "Detectar transmissões de baixa latência"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "Ativar a detecção automática de transmissão de baixa latência."
+   },
+   "settings_play_button": {
+      "message": "Carregar lista M3U"
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "Salvar"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "Salvo"
+   },
+   "welcome_autoplay": {
+      "message": "Reproduzir links de mídia automaticamente"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "A extensão irá automaticamente reproduzir qualquer link que termine com .mpd, .m3u8 ou .m3u no jogador embed."
+   },
+   "welcome_message": {
+      "message": "Obrigado por instalar a extensão!"
+   },
+   "welcome_pin_1": {
+      "message": "Use o guia suspenso no canto superior direito do Chrome para fixar a extensão"
+   },
+   "welcome_pin_2": {
+      "message": "Uma vez feito isso, pode acessar as configurações da extensão com um clique no ícone da extensão"
+   },
+   "welcome_pin_title": {
+      "message": "Lembre-se de fixar a extensão para facilitar o acesso às configurações"
+   },
+   "welcome_start_using": {
+      "message": "Comece a usar a extensão"
+   },
+   "welcome_useful_links": {
+      "message": "Links Úteis"
+   }
+}

@@ -1,0 +1,156 @@
+{
+   "chrome_extension_settings": {
+      "message": "Ustawienia rozszerzeń Chrome"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "Obsługiwane są również wiele kluczy:"
+   },
+   "extension_description": {
+      "message": "Natywny odtwarzacz wideo dla filmów lub transmisji na żywo w formacie DASH (mpd), HLS (m3u8) i listy M3U z obsługą EPG."
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_search_channels": {
+      "message": "Wyszukaj kanały"
+   },
+   "player_invalid_playlist": {
+      "message": "Nieprawidłowa playlista"
+   },
+   "settings_clearkey_button": {
+      "message": "Konwerter Clearkey"
+   },
+   "settings_clearkey_title": {
+      "message": "Narzędzie do konwersji formatów clearkey i generowania adresów Url mediów i list m3u do użycia z rozszerzeniem."
+   },
+   "settings_edit_button": {
+      "message": "Edytuj listę M3U"
+   },
+   "settings_edit_title": {
+      "message": "Edytuj samodzielnie hostowaną listę odtwarzania M3U."
+   },
+   "settings_help_button": {
+      "message": "Jak używać"
+   },
+   "settings_help_title": {
+      "message": "Jeśli masz pytania, jak używać i skonfigurować rozszerzenie, możesz przeczytać Wiki."
+   },
+   "settings_license_clearkey": {
+      "message": "Użyj niestandardowej listy ClearKeys"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "Identyfikator KeyID $key$ ma nieprawidłowy klucz.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "Nieprawidłowy identyfikator KeyID: "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "Błędny klucz: "
+   },
+   "settings_license_clearkey_title": {
+      "message": "Wymuś listę niestandardowych ClearKeys."
+   },
+   "settings_license_widevine": {
+      "message": "Korzystanie z niestandardowych serwerów Widevine"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "Nieprawidłowa linia: "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "Nieprawidłowy RegEx: "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "Nieprawidłowy adres URL: "
+   },
+   "settings_license_widevine_title": {
+      "message": "Wymuś niestandardowy serwer licencji Widevine."
+   },
+   "settings_options_active": {
+      "message": "Automatycznie odtwarzane łącza wideo"
+   },
+   "settings_options_active_title": {
+      "message": "Automatyczne otwieranie linków .mpd, .m3u8 lub m3u\nw odtwarzaczu wideo po kliknięciu"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "Domyślnie włącz wzmocnienie dźwięku i kompresor"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "Wzmocnienie audio i kompresor pomagają znormalizować kanały audio i uzyskać dostęp do większej głośności niż oryginał."
+   },
+   "settings_options_defaultaudio": {
+      "message": "Domyślny język audio"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "Domyślny język ścieżek audio.\n\nDziała tylko w przypadku filmów z prawidłowo skonfigurowanymi językami audio."
+   },
+   "settings_options_epg_enabled": {
+      "message": "Domyślne włączenie parsera EPG w odtwarzaczu IPTV"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "Domyślnie włącz parser EPG w odtwarzaczu IPTV. Możesz go wyłączyć, aby zwiększyć wydajność lub jeśli go nie używasz."
+   },
+   "settings_options_lowlatency": {
+      "message": "Wykrywanie strumieni o niskim opóźnieniu"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "Włącz automatyczne wykrywanie strumieni o niskim opóźnieniu.\n\nMożna ją wyłączyć, jeśli występują problemy z buforowaniem."
+   },
+   "settings_play_button": {
+      "message": "Odtwórz listę M3U"
+   },
+   "settings_play_local_button": {
+      "message": "Odtwarzanie lokalnych list M3U"
+   },
+   "settings_play_local_title": {
+      "message": "Odtwarzanie list odtwarzania M3U bezpośrednio z dysku lokalnego."
+   },
+   "settings_play_title": {
+      "message": "Odtwórz samodzielnie hostowaną listę odtwarzania M3U."
+   },
+   "settings_review_button": {
+      "message": "Oceń rozszerzenie"
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "Zapisz"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "Zapisano"
+   },
+   "settings_translate_button": {
+      "message": "Pomóż tłumaczyć"
+   },
+   "welcome_autoplay": {
+      "message": "Automatycznie odtwarzane łącza multimedialne"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "Rozszerzenie automatycznie odtworzy w odtwarzaczu embed każdy link, który kończy się na .mpd, .m3u8 lub .m3u."
+   },
+   "welcome_message": {
+      "message": "Dziękujemy za zainstalowanie rozszerzenia!"
+   },
+   "welcome_pin_1": {
+      "message": "Użyj menu puzzli w prawym górnym rogu Chrome, aby przypiąć rozszerzenie"
+   },
+   "welcome_pin_2": {
+      "message": "Po zakończeniu można uzyskać dostęp do ustawień rozszerzenia za pomocą jednego kliknięcia ikony rozszerzenia"
+   },
+   "welcome_pin_title": {
+      "message": "Pamiętaj, aby przypiąć rozszerzenie w celu łatwego dostępu do ustawień"
+   },
+   "welcome_start_using": {
+      "message": "Rozpoczęcie korzystania z rozszerzenia"
+   },
+   "welcome_useful_links": {
+      "message": "Przydatne linki"
+   }
+}

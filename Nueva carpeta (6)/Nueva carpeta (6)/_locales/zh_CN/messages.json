@@ -1,0 +1,321 @@
+{
+   "chrome_extension_settings": {
+      "message": "Chrome 扩展设置"
+   },
+   "converter_button_add_header": {
+      "message": "添加另一个头信息"
+   },
+   "converter_button_clear_input": {
+      "message": "清空输入"
+   },
+   "converter_button_remove_header": {
+      "message": "删除头信息"
+   },
+   "converter_button_reset_all": {
+      "message": "重置所有输入"
+   },
+   "converter_channelinfo": {
+      "message": "频道信息"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_1": {
+      "message": "支持的格式："
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "支持多个密钥："
+   },
+   "converter_drm_tooltip_clearkey_3": {
+      "message": "返回上述任何格式的URL。"
+   },
+   "converter_drm_tooltip_clearkey_4": {
+      "message": "如果URL未返回有效的格式，那么它将使用EME规范请求格式在相同的URL上进行POST，带有密钥ID数据。"
+   },
+   "converter_drm_tooltip_widevine_cert": {
+      "message": "有时您需要为Widevine证书提供一个单独的链接\u003Cbr>因为提供商不支持。"
+   },
+   "converter_header": {
+      "message": "头信息"
+   },
+   "converter_label_channel_group": {
+      "message": "频道组"
+   },
+   "converter_label_channel_logo": {
+      "message": "频道图标链接"
+   },
+   "converter_label_channel_name": {
+      "message": "频道名称"
+   },
+   "converter_label_channel_tvg_id": {
+      "message": "EPG TVG ID"
+   },
+   "converter_label_channel_type": {
+      "message": "频道类型"
+   },
+   "converter_label_channel_url": {
+      "message": "频道链接"
+   },
+   "converter_label_drm_clearkey": {
+      "message": "Clearkey数据"
+   },
+   "converter_label_drm_widevine": {
+      "message": "Widevine网址"
+   },
+   "converter_label_drm_widevine_cert": {
+      "message": "Widevine证书链接"
+   },
+   "converter_label_header_name": {
+      "message": "名称"
+   },
+   "converter_label_header_value": {
+      "message": "值"
+   },
+   "converter_placeholder_channel_group": {
+      "message": "新消息"
+   },
+   "converter_placeholder_channel_name": {
+      "message": "频道 1"
+   },
+   "converter_placeholder_channel_tvg_id": {
+      "message": "频道1.us"
+   },
+   "converter_result": {
+      "message": "结果"
+   },
+   "converter_result_button_copy": {
+      "message": "复制到剪贴板"
+   },
+   "converter_result_button_open": {
+      "message": "在新建标签页打开链接"
+   },
+   "converter_result_clearkey_base": {
+      "message": "Clearkey BASE64"
+   },
+   "converter_result_clearkey_hex": {
+      "message": "Clearkey HEX"
+   },
+   "converter_result_direct_link": {
+      "message": "直接访问"
+   },
+   "converter_result_m3u": {
+      "message": "M3U频道"
+   },
+   "converter_title": {
+      "message": "Clearkey 转换器和链接生成器"
+   },
+   "extension_description": {
+      "message": "使用 DASH (mpd)、HLS (m3u8) 格式和 M3U 列表的视频播放器提供支持"
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_channels": {
+      "message": "频道"
+   },
+   "iptv_deep_search_channels": {
+      "message": "在搜索中包含程序标题"
+   },
+   "iptv_epg_duration": {
+      "message": "时长"
+   },
+   "iptv_epg_error": {
+      "message": "错误"
+   },
+   "iptv_epg_loaded": {
+      "message": "已加载"
+   },
+   "iptv_epg_loading": {
+      "message": "正在加载"
+   },
+   "iptv_epg_loading_title": {
+      "message": "加载 EPG"
+   },
+   "iptv_epg_no_data": {
+      "message": "无信息"
+   },
+   "iptv_epg_schedule": {
+      "message": "时间表"
+   },
+   "iptv_search_channels": {
+      "message": "搜索频道"
+   },
+   "player_compressor_turn_off": {
+      "message": "关闭规格化"
+   },
+   "player_compressor_turn_on": {
+      "message": "打开规格化"
+   },
+   "player_drop_local_playlists": {
+      "message": "或拖放一个或多个M3U播放列表来加载"
+   },
+   "player_error_no_file_access": {
+      "message": "要直接加载 \u003Cspan>file:///\u003C/span> 格式的播放列表，您需要切换\u003Cbr>\u003Cspan>允许访问文件链接\u003C/span>。"
+   },
+   "player_invalid_playlist": {
+      "message": "无效播放列表"
+   },
+   "player_open_local_playlists": {
+      "message": "打开本地播放列表"
+   },
+   "settings_changelog_button": {
+      "message": "更新日志"
+   },
+   "settings_changelog_title": {
+      "message": "查看扩展的更新日志以了解被更改或添加的内容。"
+   },
+   "settings_clearkey_button": {
+      "message": "Clearkey 转换器"
+   },
+   "settings_clearkey_title": {
+      "message": "将ClearKey格式转换并生成扩展可使用的媒体URL和M3U列表。"
+   },
+   "settings_discord_button": {
+      "message": "在Discord上联系"
+   },
+   "settings_discord_title": {
+      "message": "在Discord上的私人工单中报告一个问题或寻求帮助。"
+   },
+   "settings_edit_button": {
+      "message": "编辑 M3U列表"
+   },
+   "settings_edit_title": {
+      "message": "编辑自己托管的M3U播放列表。"
+   },
+   "settings_github_button": {
+      "message": "在 GitHub 上联系"
+   },
+   "settings_github_title": {
+      "message": "在 GitHub 上报告问题或寻求帮助。"
+   },
+   "settings_help_button": {
+      "message": "配置帮助"
+   },
+   "settings_help_title": {
+      "message": "如果你对如何使用和配置扩展有疑问，你可以阅读Wiki。"
+   },
+   "settings_license_clearkey": {
+      "message": "使用自定义ClearKeys列表"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "$key$ 是无效KeyID 。",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "无效的KeyID: "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "无效的Key: "
+   },
+   "settings_license_clearkey_title": {
+      "message": "强制自定义ClearKeys列表。"
+   },
+   "settings_license_widevine": {
+      "message": "使用自定义Widevine服务器"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "无效行： "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "无效的正则表达式： "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "无效的链接： "
+   },
+   "settings_license_widevine_title": {
+      "message": "强制一个自定义Widevine许可服务器。"
+   },
+   "settings_options_active": {
+      "message": "自动播放视频链接"
+   },
+   "settings_options_active_title": {
+      "message": "自动播放 .mpd、.m3u8 或 m3u 链接"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "默认启用音频增益和规格化"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "音频增益和规格化有助于规范化通道音频，使其可以达到比原始音频更大的音量。"
+   },
+   "settings_options_defaultaudio": {
+      "message": "默认音频语言"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "默认的音轨语言。\n\n只适用于配置正确的音频语言的视频。"
+   },
+   "settings_options_epg_enabled": {
+      "message": "默认在 IPTV 播放器中启用 EPG 解析器"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "在IPTV 播放器中默认启用EPG 解析器。您可以禁用或不使用它以提高性能。"
+   },
+   "settings_options_lowlatency": {
+      "message": "检测低延迟流"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "启用自动低延迟流检测。\n\n如果出现缓冲问题，可以禁用。"
+   },
+   "settings_paypal_title": {
+      "message": "使用 PayPal 捐赠"
+   },
+   "settings_play_button": {
+      "message": "播放 M3U 列表"
+   },
+   "settings_play_local_button": {
+      "message": "播放本地M3U列表"
+   },
+   "settings_play_local_title": {
+      "message": "直接从本地选择M3U列表播放。"
+   },
+   "settings_play_title": {
+      "message": "播放自己托管的M3U播放列表。"
+   },
+   "settings_review_button": {
+      "message": "评价扩展"
+   },
+   "settings_review_title": {
+      "message": "如果您发现这个扩展程序有用，请帮忙进行评价。"
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "保存"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "已保存"
+   },
+   "settings_translate_button": {
+      "message": "协助翻译"
+   },
+   "settings_translate_title": {
+      "message": "帮助将扩展翻译成你的语言。"
+   },
+   "welcome_autoplay": {
+      "message": "自动播放媒体链接"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "扩展将自动播放内嵌播放器中.mpd、.m3u8或.m3u结尾的任何链接。"
+   },
+   "welcome_message": {
+      "message": "感谢安装扩展！"
+   },
+   "welcome_pin_1": {
+      "message": "使用 Chrome 右上角的拼图菜单来固定扩展"
+   },
+   "welcome_pin_2": {
+      "message": "完成后，您可以通过单击扩展图标访问扩展设置"
+   },
+   "welcome_pin_title": {
+      "message": "记住要固定扩展以方便访问设置"
+   },
+   "welcome_start_using": {
+      "message": "开始使用扩展"
+   },
+   "welcome_useful_links": {
+      "message": "相关链接"
+   }
+}

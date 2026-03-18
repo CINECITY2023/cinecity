@@ -1,0 +1,321 @@
+{
+   "chrome_extension_settings": {
+      "message": "Настройки расширения Chrome"
+   },
+   "converter_button_add_header": {
+      "message": "Добавить заголовок"
+   },
+   "converter_button_clear_input": {
+      "message": "Очистить поле"
+   },
+   "converter_button_remove_header": {
+      "message": "Удалить заголовок"
+   },
+   "converter_button_reset_all": {
+      "message": "Сбросить все поля"
+   },
+   "converter_channelinfo": {
+      "message": "Информация о канале"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_1": {
+      "message": "Поддерживаемые форматы:"
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "Также поддерживаются несколько ключей:"
+   },
+   "converter_drm_tooltip_clearkey_3": {
+      "message": "URL, возвращающий любой из указанных форматов:"
+   },
+   "converter_drm_tooltip_clearkey_4": {
+      "message": "Если URL не возвращает действительный формат, будет отправлен POST-запрос с ключами в формате EME-спецификации."
+   },
+   "converter_drm_tooltip_widevine_cert": {
+      "message": "Иногда требуется указать отдельный URL для сертификата Widevine,\u003Cbr>если провайдер не поддерживает его."
+   },
+   "converter_header": {
+      "message": "Заголовки"
+   },
+   "converter_label_channel_group": {
+      "message": "Группа каналов"
+   },
+   "converter_label_channel_logo": {
+      "message": "URL логотипа канала"
+   },
+   "converter_label_channel_name": {
+      "message": "Название канала"
+   },
+   "converter_label_channel_tvg_id": {
+      "message": "EPG TVG ID"
+   },
+   "converter_label_channel_type": {
+      "message": "Тип канала"
+   },
+   "converter_label_channel_url": {
+      "message": "URL канала"
+   },
+   "converter_label_drm_clearkey": {
+      "message": "Данные Clearkey"
+   },
+   "converter_label_drm_widevine": {
+      "message": "Widevine URL"
+   },
+   "converter_label_drm_widevine_cert": {
+      "message": "URL сертификата Widevine"
+   },
+   "converter_label_header_name": {
+      "message": "Название"
+   },
+   "converter_label_header_value": {
+      "message": "Значение"
+   },
+   "converter_placeholder_channel_group": {
+      "message": "Новости"
+   },
+   "converter_placeholder_channel_name": {
+      "message": "Channel 1"
+   },
+   "converter_placeholder_channel_tvg_id": {
+      "message": "Channel1.us"
+   },
+   "converter_result": {
+      "message": "Результат"
+   },
+   "converter_result_button_copy": {
+      "message": "Скопировать в буфер!"
+   },
+   "converter_result_button_open": {
+      "message": "Открыть ссылку в новой вкладке!"
+   },
+   "converter_result_clearkey_base": {
+      "message": "Clearkey BASE64"
+   },
+   "converter_result_clearkey_hex": {
+      "message": "Clearkey HEX"
+   },
+   "converter_result_direct_link": {
+      "message": "Прямая ссылка"
+   },
+   "converter_result_m3u": {
+      "message": "Канал M3U"
+   },
+   "converter_title": {
+      "message": "Конвертер Clearkey и генератор ссылок"
+   },
+   "extension_description": {
+      "message": "Встроенный плеер для видео и трансляций в форматах DASH (mpd), HLS (m3u8) и M3U-списков с EPG."
+   },
+   "extension_name": {
+      "message": "VideoPlayer MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_channels": {
+      "message": "Каналы"
+   },
+   "iptv_deep_search_channels": {
+      "message": "Искать по названиям программ"
+   },
+   "iptv_epg_duration": {
+      "message": "Длительность"
+   },
+   "iptv_epg_error": {
+      "message": "Ошибка"
+   },
+   "iptv_epg_loaded": {
+      "message": "Загружено"
+   },
+   "iptv_epg_loading": {
+      "message": "Загрузка"
+   },
+   "iptv_epg_loading_title": {
+      "message": "Загрузка EPG"
+   },
+   "iptv_epg_no_data": {
+      "message": "Нет информации"
+   },
+   "iptv_epg_schedule": {
+      "message": "Расписание"
+   },
+   "iptv_search_channels": {
+      "message": "Поиск каналов"
+   },
+   "player_compressor_turn_off": {
+      "message": "Выключить компрессор"
+   },
+   "player_compressor_turn_on": {
+      "message": "Включить компрессор"
+   },
+   "player_drop_local_playlists": {
+      "message": "Или перетащите сюда плейлист(ы) M3U для загрузки"
+   },
+   "player_error_no_file_access": {
+      "message": "Чтобы загрузить \u003Cspan>file:///\u003C/span> плейлисты вам нужно переключить \u003Cbr>\u003Cspan>Разрешить доступ к файлам URL-адресов\u003C/span> в"
+   },
+   "player_invalid_playlist": {
+      "message": "Некорректный плейлист"
+   },
+   "player_open_local_playlists": {
+      "message": "Открыть локальные плейлисты"
+   },
+   "settings_changelog_button": {
+      "message": "Список изменений"
+   },
+   "settings_changelog_title": {
+      "message": "Список изменений и новых функций расширения."
+   },
+   "settings_clearkey_button": {
+      "message": "Конвертер Clearkey"
+   },
+   "settings_clearkey_title": {
+      "message": "Утилита для конвертации форматов Clearkey и генерации медиа-ссылок/M3U-списков для расширения."
+   },
+   "settings_discord_button": {
+      "message": "Связаться через Discord"
+   },
+   "settings_discord_title": {
+      "message": "Сообщить о проблеме или запросить помощь через приватный тикет в Discord."
+   },
+   "settings_edit_button": {
+      "message": "Редактировать M3U-список"
+   },
+   "settings_edit_title": {
+      "message": "Редактировать локально размещённый M3U-плейлист."
+   },
+   "settings_github_button": {
+      "message": "Связаться через GitHub"
+   },
+   "settings_github_title": {
+      "message": "Сообщить о проблеме или запросить помощь на GitHub."
+   },
+   "settings_help_button": {
+      "message": "Как использовать"
+   },
+   "settings_help_title": {
+      "message": "Если у вас есть вопросы по настройке, ознакомьтесь с Wiki."
+   },
+   "settings_license_clearkey": {
+      "message": "Использовать пользовательский список ClearKeys"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "KeyID $key$ содержит недопустимый ключ.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "Некорректный KeyID: "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "Некорректный ключ: "
+   },
+   "settings_license_clearkey_title": {
+      "message": "Принудительно использовать пользовательский список ClearKeys."
+   },
+   "settings_license_widevine": {
+      "message": "Использовать пользовательские серверы Widevine"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "Некорректная строка: "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "Некорректное регулярное выражение: "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "Некорректный URL: "
+   },
+   "settings_license_widevine_title": {
+      "message": "Принудительно использовать пользовательский сервер лицензий Widevine."
+   },
+   "settings_options_active": {
+      "message": "Автовоспроизведение видео"
+   },
+   "settings_options_active_title": {
+      "message": "Автоматически открывать ссылки .mpd, .m3u8 или .m3u в плеере при нажатии"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "Включить усиление и компрессор аудио по умолчанию"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "Усиление и компрессия аудио, что позволяет нормализовать звуковые каналы и увеличить громкость выше оригинальной."
+   },
+   "settings_options_defaultaudio": {
+      "message": "Язык аудио по умолчанию"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "Язык аудиодорожек по умолчанию\n\nРаботает только с видео, где языки аудио корректно настроены."
+   },
+   "settings_options_epg_enabled": {
+      "message": "Включить парсер EPG в IPTV-плеере по умолчанию"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "Включить парсер EPG по умолчанию в IPTV-плеере. Можно отключить для повышения производительности или если не используется."
+   },
+   "settings_options_lowlatency": {
+      "message": "Обнаружение потоков с низкой задержкой"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "Включить автоматическое обнаружение потоков с низкой задержкой\n\nМожно отключить при проблемах с буферизацией."
+   },
+   "settings_paypal_title": {
+      "message": "Поддержать через PayPal"
+   },
+   "settings_play_button": {
+      "message": "Воспроизвести M3U-список"
+   },
+   "settings_play_local_button": {
+      "message": "Воспроизвести локальные M3U-списки"
+   },
+   "settings_play_local_title": {
+      "message": "Воспроизвести M3U-плейлисты напрямую с локального диска."
+   },
+   "settings_play_title": {
+      "message": "Воспроизвести локально размещённый M3U-плейлист."
+   },
+   "settings_review_button": {
+      "message": "Оценить расширение"
+   },
+   "settings_review_title": {
+      "message": "Если расширение полезно, помогите, оставив отзыв."
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "Сохранить"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "Сохранено"
+   },
+   "settings_translate_button": {
+      "message": "Помочь с переводом"
+   },
+   "settings_translate_title": {
+      "message": "Помогите перевести расширение на ваш язык."
+   },
+   "welcome_autoplay": {
+      "message": "Автовоспроизведение медиассылок"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "Расширение будет автоматически воспроизводить ссылки, оканчивающиеся на .mpd, .m3u8 или .m3u, во встроенном плеере."
+   },
+   "welcome_message": {
+      "message": "Спасибо, что установили расширение!"
+   },
+   "welcome_pin_1": {
+      "message": "Нажмите на значок пазла в правом верхнем углу Chrome, чтобы закрепить расширение"
+   },
+   "welcome_pin_2": {
+      "message": "После этого настройки будут доступны по клику на значок расширения"
+   },
+   "welcome_pin_title": {
+      "message": "Не забудьте закрепить расширение для быстрого доступа к настройкам"
+   },
+   "welcome_start_using": {
+      "message": "Начать использовать расширение"
+   },
+   "welcome_useful_links": {
+      "message": "Полезные ссылки"
+   }
+}

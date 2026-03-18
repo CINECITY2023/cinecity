@@ -1,0 +1,592 @@
+{
+   "chrome_extension_settings": {
+      "message": "Configuración de la extensión en Chrome"
+   },
+   "converter_button_add_header": {
+      "message": "Agregar otro encabezado"
+   },
+   "converter_button_clear_input": {
+      "message": "Borrar entrada"
+   },
+   "converter_button_remove_header": {
+      "message": "Eliminar encabezado"
+   },
+   "converter_button_reset_all": {
+      "message": "Restablecer formulario"
+   },
+   "converter_channelinfo": {
+      "message": "Información del Canal"
+   },
+   "converter_drm": {
+      "message": "DRM"
+   },
+   "converter_drm_tooltip_clearkey_1": {
+      "message": "Formatos admitidos:"
+   },
+   "converter_drm_tooltip_clearkey_2": {
+      "message": "También se soporta llaves múltiples:"
+   },
+   "converter_drm_tooltip_clearkey_3": {
+      "message": "URL que devuelve cualquiera de los formatos anteriores:"
+   },
+   "converter_drm_tooltip_clearkey_4": {
+      "message": "Si la URL no devuelve un formato válido, entonces se realiza un POST a la misma URL con las KeyID en formato de petición de acuerdo especificación EME."
+   },
+   "converter_drm_tooltip_widevine_cert": {
+      "message": "A veces necesitas proporcionar una URL separada para el certificado Widevine\u003Cbr>porque no es admitido por el proveedor."
+   },
+   "converter_header": {
+      "message": "Encabezados"
+   },
+   "converter_label_channel_group": {
+      "message": "Grupo del Canal"
+   },
+   "converter_label_channel_logo": {
+      "message": "URL del Logo del Canal"
+   },
+   "converter_label_channel_name": {
+      "message": "Nombre del Canal"
+   },
+   "converter_label_channel_tvg_id": {
+      "message": "EPG TVG ID"
+   },
+   "converter_label_channel_type": {
+      "message": "Tipo de Canal"
+   },
+   "converter_label_channel_url": {
+      "message": "URL del Canal"
+   },
+   "converter_label_drm_clearkey": {
+      "message": "Datos clearkey"
+   },
+   "converter_label_drm_widevine": {
+      "message": "URL Widevine"
+   },
+   "converter_label_drm_widevine_cert": {
+      "message": "URL Certificado de Widevine"
+   },
+   "converter_label_header_name": {
+      "message": "Nombre"
+   },
+   "converter_label_header_value": {
+      "message": "Valor"
+   },
+   "converter_placeholder_channel_group": {
+      "message": "Noticias"
+   },
+   "converter_placeholder_channel_name": {
+      "message": "Canal 1"
+   },
+   "converter_placeholder_channel_tvg_id": {
+      "message": "Canal1.ar"
+   },
+   "converter_result": {
+      "message": "Resultado"
+   },
+   "converter_result_button_copy": {
+      "message": "Copiar al portapapeles"
+   },
+   "converter_result_button_open": {
+      "message": "Abrir enlace en una nueva pestaña"
+   },
+   "converter_result_clearkey_base": {
+      "message": "Clearkey BASE64"
+   },
+   "converter_result_clearkey_hex": {
+      "message": "Clearkey HEX"
+   },
+   "converter_result_direct_link": {
+      "message": "Enlace directo"
+   },
+   "converter_result_m3u": {
+      "message": "Canal M3U"
+   },
+   "converter_title": {
+      "message": "Convertidor Clearkey y Generador de Enlaces"
+   },
+   "extension_description": {
+      "message": "Reproductor nativo para videos y vivos DASH (mpd), HLS (m3u8) y listas M3U con soporte para EPG."
+   },
+   "extension_name": {
+      "message": "Reproductor MPD/M3U8/IPTV/EPG"
+   },
+   "iptv_channels": {
+      "message": "Canales"
+   },
+   "iptv_deep_search_channels": {
+      "message": "Incluir los títulos de los programas en la búsqueda"
+   },
+   "iptv_epg_duration": {
+      "message": "Duración"
+   },
+   "iptv_epg_error": {
+      "message": "Error"
+   },
+   "iptv_epg_error_empty": {
+      "message": "EPG Vacía"
+   },
+   "iptv_epg_error_http": {
+      "message": "Error HTTP"
+   },
+   "iptv_epg_error_parse": {
+      "message": "EPG Inválida"
+   },
+   "iptv_epg_error_request": {
+      "message": "Descarga fallida"
+   },
+   "iptv_epg_error_size": {
+      "message": "Archivo demasiado grande"
+   },
+   "iptv_epg_loaded": {
+      "message": "Cargado"
+   },
+   "iptv_epg_loaded_msg": {
+      "description": "Example: 45 channels and 1280 programs",
+      "message": "$NUM_CHANNELS$ canales y $NUM_PROGRAMS$ programas",
+      "placeholders": {
+         "num_channels": {
+            "content": "$1",
+            "example": "45"
+         },
+         "num_programs": {
+            "content": "$2",
+            "example": "1280"
+         }
+      }
+   },
+   "iptv_epg_loading": {
+      "message": "Cargando"
+   },
+   "iptv_epg_loading_title": {
+      "message": "Cargando EPGs"
+   },
+   "iptv_epg_no_data": {
+      "message": "Sin información"
+   },
+   "iptv_epg_reminder_cancel": {
+      "message": "Cancelar"
+   },
+   "iptv_epg_reminder_play": {
+      "message": "Reproducir ahora"
+   },
+   "iptv_epg_reminder_soon": {
+      "message": "Comienza en breve"
+   },
+   "iptv_epg_reminder_title": {
+      "message": "Clic derecho para abrir el canal cuando comience el programa"
+   },
+   "iptv_epg_schedule": {
+      "message": "Horarios"
+   },
+   "iptv_search_channels": {
+      "message": "Buscar Canales"
+   },
+   "iptv_search_songs": {
+      "message": "Buscar Canciones"
+   },
+   "iptv_songs": {
+      "message": "Canciones"
+   },
+   "license_channels": {
+      "message": "Desbloquear canales infinitos con una clave de donador"
+   },
+   "license_epg": {
+      "message": "Desbloquea múltiples EPGs añadiendo una clave de licencia de donador."
+   },
+   "license_invalid": {
+      "message": "¡Clave de licencia de donador inválida!"
+   },
+   "license_request_failed": {
+      "message": "Falló la verificación de la licencia"
+   },
+   "license_request_timeout": {
+      "message": "No se pudo verificar la licencia"
+   },
+   "license_thank_you": {
+      "message": "Gracias por apoyar la extensión. Todas las características desbloqueadas."
+   },
+   "license_unlock_features": {
+      "message": "Desbloquea características extra siendo un donador y ayuda al desarrollo de extensiones."
+   },
+   "player_buffer_health": {
+      "message": "Salud del Buffer"
+   },
+   "player_close_multistream_channel": {
+      "message": "Eliminar canal del multistream"
+   },
+   "player_compressor_turn_off": {
+      "message": "Desactivar el compresor"
+   },
+   "player_compressor_turn_on": {
+      "message": "Activar el compresor"
+   },
+   "player_drop_local_playlists": {
+      "message": "O suelte aquí una o varias listas M3U para cargarlas"
+   },
+   "player_error_no_file_access": {
+      "message": "Para cargar listas \u003Cspan>file:///\u003C/span> directamente necesitas activar \u003Cbr>\u003Cspan>Permitir el acceso a las URL del archivo\u003C/span> en"
+   },
+   "player_fullscreen_with_channels": {
+      "message": "Pantalla Completa\u003Cbr>con Canales"
+   },
+   "player_invalid_playlist": {
+      "message": "Lista de reproducción inválida"
+   },
+   "player_mobile_local_playlists": {
+      "message": "Algunos navegadores manejan archivos .m3u como audio y pueden solicitar permisos de micrófono. Puede denegar el permiso sin ningún problema."
+   },
+   "player_open_channel_newtab": {
+      "message": "Abre canal en una nueva pestaña"
+   },
+   "player_open_local_playlists": {
+      "message": "Abrir listas M3U locales"
+   },
+   "player_open_multistream_channel": {
+      "message": "Agregar canal al multistream"
+   },
+   "player_paste_playlist": {
+      "message": "O pega aquí la URL de tu lista M3U para cargar"
+   },
+   "player_playback_rate": {
+      "message": "Velocidad de reproducción"
+   },
+   "player_reload_multistream_channel": {
+      "message": "Recargar canal"
+   },
+   "player_shortcuts": {
+      "message": "Atajos de Teclado"
+   },
+   "player_shuffle_turn_off": {
+      "message": "Desactivar Reproducción Aleatoria"
+   },
+   "player_shuffle_turn_on": {
+      "message": "Activar Reproducción Aleatoria"
+   },
+   "player_unknown_language": {
+      "description": "Unknown language for audio or subtitle tracks",
+      "message": "Desconocido"
+   },
+   "settings_access_filesystem": {
+      "message": "Para cargar listas file:/// directamente o permitir arrastrar y soltar archivos .m3u,\nhabilite “Permitir el acceso a las URL de archivos” en la configuración de la extensión en Chrome"
+   },
+   "settings_access_incognito": {
+      "message": "Para usar el reproductor directo o el reproductor IPTV en modo Incógnito,\nhabilite “Permitir en modo Incógnito” en la configuración de la extensión en Chrome"
+   },
+   "settings_advanced_settings_title": {
+      "message": "Configuración Avanzada"
+   },
+   "settings_changelog_button": {
+      "message": "Historial de cambios"
+   },
+   "settings_changelog_title": {
+      "message": "Vea el historial de cambios de la extensión para saber qué se ha cambiado o añadido."
+   },
+   "settings_clearkey_button": {
+      "message": "Convertidor Clearkey"
+   },
+   "settings_clearkey_title": {
+      "message": "Utilidad para convertir formatos de clearkey y generar enlaces directos para usar con la extensión."
+   },
+   "settings_discord_button": {
+      "message": "Contactar en Discord"
+   },
+   "settings_discord_title": {
+      "message": "Reporta un problema o pide ayuda en un ticket privado en Discord."
+   },
+   "settings_donor_license": {
+      "message": "Clave de Licencia de Donador"
+   },
+   "settings_donor_license_donate_desc": {
+      "message": "Para desbloquear todas las características de la extensión puedes obtener una clave de licencia de donador para ayudar al desarrollo de la extensión."
+   },
+   "settings_donor_license_donate_desc_extra": {
+      "message": "Si tienes algún problema con tu clave de licencia puedes contactarme en Discord o Telegram"
+   },
+   "settings_donor_license_donate_link": {
+      "description": "Part of the message 'Donate on' PayPal or MercadoPago",
+      "message": "Donar en"
+   },
+   "settings_donor_license_placeholder": {
+      "message": "Pegue su clave de licencia aquí"
+   },
+   "settings_donor_license_title": {
+      "message": "Añada una clave de licencia de donador para desbloquear todas las características de la extensión"
+   },
+   "settings_drm_title": {
+      "message": "Configuración de DRM"
+   },
+   "settings_edit_button": {
+      "message": "Editar lista M3U"
+   },
+   "settings_edit_title": {
+      "message": "Editar la lista M3U autoalojada en la extensión."
+   },
+   "settings_epg_title": {
+      "message": "Configuración de EPG"
+   },
+   "settings_export": {
+      "message": "Exportar Configuración"
+   },
+   "settings_extension_title": {
+      "message": "Configuración de la Extensión"
+   },
+   "settings_github_button": {
+      "message": "Contactar en GitHub"
+   },
+   "settings_github_title": {
+      "message": "Reportar un problema o pedir ayuda en GitHub."
+   },
+   "settings_help_button": {
+      "message": "Instrucciones de uso"
+   },
+   "settings_help_title": {
+      "message": "Si tienes dudas de como usar y configurar la extensión puedes leer la Wiki."
+   },
+   "settings_ignore_domains": {
+      "message": "Lista de dominios a ignorar de la reproducción automática"
+   },
+   "settings_ignore_domains_placeholder": {
+      "message": "Agregar un dominio (Ejemplo: github.com)..."
+   },
+   "settings_import": {
+      "message": "Importar Configuración"
+   },
+   "settings_import_error": {
+      "message": "Error importando configuración"
+   },
+   "settings_import_error_file": {
+      "message": "Ningún archivo seleccionado"
+   },
+   "settings_import_error_json": {
+      "message": "Archivo JSON inválido"
+   },
+   "settings_import_success": {
+      "message": "¡Configuración importada con éxito!"
+   },
+   "settings_license_clearkey": {
+      "message": "Usar lista de ClearKeys personalizadas"
+   },
+   "settings_license_clearkey_error_key": {
+      "message": "La KeyID $key$ tiene una key inválida.",
+      "placeholders": {
+         "key": {
+            "content": "$1"
+         }
+      }
+   },
+   "settings_license_clearkey_error_keyid": {
+      "message": "KeyID inválida: "
+   },
+   "settings_license_clearkey_error_value": {
+      "message": "Key inválida: "
+   },
+   "settings_license_clearkey_title": {
+      "message": "Forzar una lista de ClearKeys personalizadas."
+   },
+   "settings_license_widevine": {
+      "message": "Usar servidores Widevine personalizados"
+   },
+   "settings_license_widevine_error_line": {
+      "message": "Línea inválida: "
+   },
+   "settings_license_widevine_error_regex": {
+      "message": "RegEx inválido: "
+   },
+   "settings_license_widevine_error_url": {
+      "message": "URL inválida: "
+   },
+   "settings_license_widevine_title": {
+      "message": "Forzar un servidor de licencias Widevine personalizado."
+   },
+   "settings_options_active": {
+      "message": "Reproducir enlaces automáticamente"
+   },
+   "settings_options_active_title": {
+      "message": "Abrir enlaces .mpd, .m3u8 o .m3u automáticamente\nen el reproductor al cliquearlos"
+   },
+   "settings_options_ck_cache": {
+      "message": "Caché de solicitudes POST de ClearKey en segundos"
+   },
+   "settings_options_ck_cache_title": {
+      "message": "Caché de solicitudes POST de ClearKey durante una cantidad de segundos para evitar solicitudes repetidas.\nEstablecer en 0 para desactivar"
+   },
+   "settings_options_ck_get_bypass": {
+      "message": "Desactivar solicitudes GET al servidor de ClearKey. Solo POST"
+   },
+   "settings_options_ck_get_bypass_title": {
+      "message": "Desactivar solicitudes GET al servidor de licencias de ClearKey globalmente si solamente se desea hacer solicitudes POST.\nPredeterminado: Activado"
+   },
+   "settings_options_compressor_enabled": {
+      "message": "Activar compresor y ganancia de audio por defecto"
+   },
+   "settings_options_compressor_enabled_title": {
+      "message": "El compresor y ganancia de audio ayuda a normalizar los canales de audio y obtener más volumen que el original."
+   },
+   "settings_options_defaultaudio": {
+      "message": "Lenguaje predeterminado de audio"
+   },
+   "settings_options_defaultaudio_title": {
+      "message": "Lenguaje predeterminado de las pistas de audio.\n\nSolo funciona en videos con lenguajes de audios configurados correctamente."
+   },
+   "settings_options_epg_days": {
+      "message": "Número de días para mostrar programación EPG"
+   },
+   "settings_options_epg_days_title": {
+      "message": "Cuidado, añadir más días podría afectar al rendimiento en dispositivos de gama baja.\nPredeterminado: 1 día"
+   },
+   "settings_options_epg_enabled": {
+      "message": "Activar EPG en el reproductor IPTV por defecto"
+   },
+   "settings_options_epg_enabled_title": {
+      "message": "Activar la carga de EPG en el reproductor IPTV por defecto. Puedes desactivarlo para ganar rendimiento o si no lo utilizas."
+   },
+   "settings_options_epg_keypress": {
+      "message": "Mostrar EPG solo mientras se pulsa la tecla [X]"
+   },
+   "settings_options_epg_keypress_title": {
+      "message": "Solo mostrar programas EPG mientras se mantiene pulsada la tecla [X].\nCon esto activado, solo los nombres de los canales se muestran al pasar el cursor sobre los canales."
+   },
+   "settings_options_lowlatency": {
+      "message": "Detectar streams de baja latencia"
+   },
+   "settings_options_lowlatency_title": {
+      "message": "Activar la detección automática de stream de baja latencia.\n\nSe puede desactivar si hay problemas de buffering."
+   },
+   "settings_options_smart_buffer": {
+      "message": "Habilitar SmartBuffer para prevenir cargas durante la reproducción"
+   },
+   "settings_options_smart_buffer_title": {
+      "message": "Habilitar esto haría que la velocidad de reproducción cambie a 0.9x durante 5s durante parones para obtener búfer extra y prevenir parones futuros."
+   },
+   "settings_paypal_title": {
+      "message": "Donar con PayPal"
+   },
+   "settings_play_button": {
+      "message": "Reproducir lista M3U"
+   },
+   "settings_play_local_button": {
+      "message": "Listas locales M3U"
+   },
+   "settings_play_local_title": {
+      "message": "Reproducir listas M3U almacenadas directamente desde el disco local."
+   },
+   "settings_play_title": {
+      "message": "Reproducir la lista M3U autoalojada en la extensión."
+   },
+   "settings_players_title": {
+      "message": "Configuración del Reproductor"
+   },
+   "settings_review_button": {
+      "message": "Califica la extensión"
+   },
+   "settings_review_title": {
+      "message": "Si encuentras la extensión útil por favor ayuda con una calificación para que más gente la encuentre."
+   },
+   "settings_save_button": {
+      "description": "Save button under custom ClearKey and Widevine textareas.",
+      "message": "Guardar"
+   },
+   "settings_saved": {
+      "description": "Message to be displayed when the custom setting is saved.",
+      "message": "Guardado"
+   },
+   "settings_settings_button": {
+      "message": "Configuración"
+   },
+   "settings_settings_title": {
+      "message": "Abre la configuración avanzada de la extensión."
+   },
+   "settings_telegram_button": {
+      "message": "Únete al grupo de Telegram"
+   },
+   "settings_telegram_title": {
+      "message": "Reporte un problema o pida ayuda en el grupo de Telegram."
+   },
+   "settings_translate_button": {
+      "message": "Ayudar a traducir"
+   },
+   "settings_translate_title": {
+      "message": "Ayuda traduciendo la extensión en tu lenguaje."
+   },
+   "shortcut_fast_forward": {
+      "description": "Fast forward   +5s",
+      "message": "Adelantar &nbsp; +5s"
+   },
+   "shortcut_fullscreen": {
+      "message": "Alternar Pantalla Completa"
+   },
+   "shortcut_last_channel": {
+      "message": "IPTV: Último Canal"
+   },
+   "shortcut_mute": {
+      "message": "Alternar Silencio"
+   },
+   "shortcut_next_channel": {
+      "message": "IPTV: Canal Siguiente"
+   },
+   "shortcut_play_pause": {
+      "message": "Reproducir / Pausar"
+   },
+   "shortcut_play_pause_key": {
+      "description": "Space bar key",
+      "message": "Espacio"
+   },
+   "shortcut_playrate_down": {
+      "message": "Disminuir la Velocidad"
+   },
+   "shortcut_playrate_up": {
+      "message": "Aumentar la Velocidad"
+   },
+   "shortcut_previous_channel": {
+      "message": "IPTV: Canal Anterior"
+   },
+   "shortcut_rewind": {
+      "description": "Rewind   -5s",
+      "message": "Rebobinar &nbsp; -5s"
+   },
+   "shortcut_shortcuts": {
+      "message": "Abrir Atajos de Teclado"
+   },
+   "shortcut_shortcuts_key": {
+      "message": "/ ó ?"
+   },
+   "shortcut_subtitles": {
+      "message": "Alternar Subtítulos"
+   },
+   "shortcut_subtitles_decrease": {
+      "message": "Disminuir el tamaño de los Subtítulos"
+   },
+   "shortcut_subtitles_increase": {
+      "message": "Aumentar el tamaño de los Subtítulos"
+   },
+   "shortcut_volume_down": {
+      "message": "Bajar Volumen"
+   },
+   "shortcut_volume_up": {
+      "message": "Subir Volumen"
+   },
+   "welcome_autoplay": {
+      "message": "Reproducir enlaces automáticamente"
+   },
+   "welcome_autoplay_subtext": {
+      "message": "La extensión reproducirá automáticamente cualquier enlace que se abra que termine con .mpd, .m3u8 o .m3u en el reproductor interno."
+   },
+   "welcome_message": {
+      "message": "¡Gracias por instalar la extensión!"
+   },
+   "welcome_pin_1": {
+      "message": "Usa el menú de rompecabezas en la parte superior derecha de Chrome para fijar la extensión"
+   },
+   "welcome_pin_2": {
+      "message": "Una vez hecho, puedes acceder a la configuración de la extensión con un solo clic en el icono de la extensión"
+   },
+   "welcome_pin_title": {
+      "message": "Recuerda fijar la extensión para acceso rápido a las opciones del reproductor"
+   },
+   "welcome_start_using": {
+      "message": "Empezar a usar la extensión"
+   },
+   "welcome_useful_links": {
+      "message": "Enlaces útiles"
+   }
+}
