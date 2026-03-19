@@ -1,12 +1,27 @@
 
 [
 
+  
   {
-       "nombre": "TNT Sports Premium Chile",
+       "nombre": "ESPN",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html"
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html"
+      },
+  {
+       "nombre": "ESPN 🇦🇷",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnar.html"
+      },
+  {
+       "nombre": "ESPN 🇨🇴",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espncol.html"
       },
   {
        "nombre": "ESPN Premium",
@@ -51,25 +66,11 @@
         "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html"
       },
   {
-       "nombre": "ESPN",
+       "nombre": "TNT Sports Premium Chile",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html"
-      },
-  {
-       "nombre": "ESPN 🇦🇷",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espnar.html"
-      },
-  {
-       "nombre": "ESPN 🇨🇴",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espncol.html"
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html"
       }
 
 ]
