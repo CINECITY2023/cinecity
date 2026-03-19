@@ -2031,29 +2031,29 @@ https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 ✔️ Aire de Santa Fe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/AiredeSantaFe.png" group-title="🏡 Provincia",✔️ Aire de Santa Fe
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHairedesantafe.png" group-title="🏡 Provincia",✔️ Aire de Santa Fe
 https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
 
 ✔️ El Tres 📱 (Sante Fe)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/eltresrosariosantafe.png" group-title="🏡 Provincia",✔️ El Tres 📱 (Sante Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHeltressantefe.png" group-title="🏡 Provincia",✔️ El Tres 📱 (Sante Fe)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
 https://cdn.cvattv.com.ar/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc_C/Canal_3_Rosario.mpd
 
 ✔️ Canal 5 (Santa Fe)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal5SantaFe.png" group-title="🏡 Provincia",✔️ Canal 5 (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal5santafe.png" group-title="🏡 Provincia",✔️ Canal 5 (Santa Fe)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 ✔️ Canal Veo (Santa Fe)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canalveosantafe.png" group-title="🏡 Provincia",✔️ Canal Veo (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanalveosantafe.png" group-title="🏡 Provincia",✔️ Canal Veo (Santa Fe)
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
 ✔️ Cable Imagen Armstrong (Santa Fe)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CableImagenArmstrongSantaFe.png" group-title="🏡 Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcableimagenarmstrongsantafe.png" group-title="🏡 Provincia",✔️ Cable Imagen Armstrong (Santa Fe)
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 ✔️ Canal 7 (Santiago del Estero)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/Canal7SantiagodelEstero.png" group-title="🏡 Provincia",✔️ Canal 7 (Santiago del Estero)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal7santiagodelestero.png" group-title="🏡 Provincia",✔️ Canal 7 (Santiago del Estero)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 
 ✔️ Canal 2 de Ushuaia (Tierra Del Fuego)
@@ -2061,23 +2061,23 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8
 
 ✔️ Canal 8 📱 (Tucuman)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal8tucuman.png" group-title="🏡 Provincia",✔️ Canal 8 📱 (Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal8tucuman.png" group-title="🏡 Provincia",✔️ Canal 8 📱 (Tucuman)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7760caa058b51b7cce151c0539fa4a8f:edd086c1011ed2c54cbe869d0e8d9289
 https://cdn.cvattv.com.ar/live/c7eds/Canal_8_Tucuman/SA_Live_dash_enc_C/Canal_8_Tucuman.mpd
 
 ✔️ Canal 10 📱 (Tucuman)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal10tucuman.png" group-title="🏡 Provincia",✔️ Canal 10 📱 (Tucuman)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal10tucuman.png" group-title="🏡 Provincia",✔️ Canal 10 📱 (Tucuman)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a53740aa52d8b50ccb218aab5e9d50e:e772fa4a4997b50a0ff04e2ef286a864
 https://cdn.cvattv.com.ar/live/c7eds/Ch10_Tucuman/SA_Live_dash_enc_C/Ch10_Tucuman.mpd
 
 ✔️ Canal 12 Metro TV (Tucumán)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/canal12metrotvtucuman.png" group-title="🏡 Provincia",✔️ Canal 12 Metro TV (Tucumán)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal12metrotvtucuman.png" group-title="🏡 Provincia",✔️ Canal 12 Metro TV (Tucumán)
 https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
 
 ✔️ 🇨🇱 Pura Noticia
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/puranoticia.png" group-title="🎙️ Noticias Internacional",✔️ 🇨🇱 Pura Noticia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHpuranoticiachile.png" group-title="🎙️ Noticias Internacional",✔️ 🇨🇱 Pura Noticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 ✔️ 🇨🇳 CGTN
