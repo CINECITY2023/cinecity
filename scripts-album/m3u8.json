@@ -5,6 +5,63 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
         "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
-      }
+      },
+  {
+       "nombre": "TV Publica",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+        "url": "https://g4.proy-hor.transport.edge-access.net:443/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8"
+      },
+  {
+       "nombre": "El Nueve",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
+        "url": "http://107.152.39.199:8030/hls/canal7.m3u8"
+      },
+  {
+       "nombre": "Telefe",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+        "url": "http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/157589.m3u8"
+      },
+  {
+       "nombre": "Telefe Internacional",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png",
+        "url": "http://107.152.39.199:8030/hls/canal13.m3u8"
+      },
+  {
+       "nombre": "El Trece",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
+        "url": "http://107.152.39.199:8030/hls/canal21.m3u8"
+      },
+  {
+       "nombre": "America TV",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
+        "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
+      },
+  {
+       "nombre": "Argentinisima Satelital",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png",
+        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8"
+      },
+  {
+       "nombre": "Bravo TV",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8"
+      },
+  
 
 ]
