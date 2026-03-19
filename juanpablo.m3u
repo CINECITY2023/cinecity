@@ -17,7 +17,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://tv.proyectox.vip:8080/ELLtdmaiz204fj/ScMZEQzYga/179511
 
 ✔️ EVENTOS👁️‍ 5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Eventos",✔️ EVENTOS👁️‍ 5
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Eventos",✔️ EVENTOS👁️‍ 5
 http://dplatino.net:80//live/credito3geotv/car26octtv/454926.ts
 
 ✔️ America TV 📱
@@ -439,7 +439,7 @@ http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9785.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
 
 ✔️ Discovery Science
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="🚜 Cultura",✔️ Discovery Science
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="🚜 Cultura",✔️ Discovery Science
 http://dplatino.net:80//live/credito3geotv/car26octtv/53464.ts
 
 ✔️ E! 📱
@@ -495,7 +495,7 @@ http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9821.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_Live_dash_enc_C/Home_and_Garden.mpd
 
 ✔️ HGTV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhgtv.png" group-title="🚜 Cultura",✔️ HGTV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhgtv.png" group-title="🚜 Cultura",✔️ HGTV
 http://dplatino.net:80//live/credito3geotv/car26octtv/126561.ts
 
 ✔️ History 📱
@@ -1111,7 +1111,7 @@ http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9753.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/USA_Network/SA_Live_dash_enc_C/USA_Network.mpd
 
 ✔️ Usa TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHusatv.png" group-title="🎬 Cine",✔️ Usa TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHusatv.png" group-title="🎬 Cine",✔️ Usa TV
 http://dplatino.net:80//live/credito3geotv/car26octtv/317566.ts
 
 ✔️ Volver 📱
@@ -1121,7 +1121,7 @@ http://dplatino.net:80//live/credito3geotv/car26octtv/317566.ts
 https://cdn.cvattv.com.ar/live/c6eds/Volver/SA_Live_dash_enc_C/Volver.mpd
 
 ✔️ Volver
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png" group-title="🎬 Cine",✔️ Volver
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png" group-title="🎬 Cine",✔️ Volver
 http://dplatino.net:80//live/credito3geotv/car26octtv/421649.ts
 
 ✔️ Warner TV 📱
@@ -1423,7 +1423,7 @@ http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9599.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_C/TNT_Sports_HD.mpd
 
 ✔️ TNT Sports Premium
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium
 http://dplatino.net:80//live/credito3geotv/car26octtv/81251.ts
 
 ✔️ TNT Sports Premium
@@ -1765,7 +1765,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/181555.m3u8
 
 ✔️ Dragon Ball Z
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdragonballz.png" group-title="🤖 Animacion",✔️ Dragon Ball Z
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdragonballz.png" group-title="🤖 Animacion",✔️ Dragon Ball Z
 http://dplatino.net:80//live/credito3geotv/car26octtv/316973.ts
 
 ✔️ Dreiko TV
@@ -1841,7 +1841,7 @@ https://giatv.bozztv.com/giatv/giatv-TALTALTVANIMACION/TALTALTVANIMACION/chunks.
 https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_id=13012&live=1&hls_marker=1&position=preroll&pod_duration=120&min_ad_duration=6&max_ad_duration=120&did=[DID]&ip=[IP]&ua=[UA]&player_height=[HEIGHT]&player_width=[WIDTH]&is_lat=[LIMITED_AD_TRACKING]&us_privacy=[US_PRIVACY]&consent=[CONSENT]&lat=[LAT]&lon=[LON]&device_type=[DEVICE_TYPE]&gdpr=[GDPR]&ifa_type=[IFA_TYPE&schain=[SCHAIN]
 
 ✔️ Chavo del Ocho
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
 http://dplatino.net:80//live/credito3geotv/car26octtv/316936.ts
 
 ✔️ Chapulín Colorado
@@ -1863,7 +1863,7 @@ http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9637.m3u8
 http://38.44.109.41:8003/play/a00j/index.m3u8
 
 ✔️ Los Tres Chiflados
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHlostreschiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHlostreschiflados.png" group-title="🤡 Comedia",✔️ Los Tres Chiflados
 http://dplatino.net:80//live/credito3geotv/car26octtv/403686.ts
 
 ✔️ Super Agente 86
@@ -1881,7 +1881,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Universal_Comedy/SA_Live_dash_enc_C/Univers
 http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9759.m3u8
 
 ✔️ Caso Cerrado
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHcasocerrado.png" group-title="👁️‍ Reality",✔️ Caso Cerrado
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHcasocerrado.png" group-title="👁️‍ Reality",✔️ Caso Cerrado
 http://dplatino.net:80//live/credito3geotv/car26octtv/316965.ts
 
 ✔️ Discovery Glitz
@@ -1889,23 +1889,23 @@ http://dplatino.net:80//live/credito3geotv/car26octtv/316965.ts
 http://tv.proyectox.vip:8080/live/ELLtdmaiz204fj/ScMZEQzYga/9794.m3u8
 
 ✔️ Gran Hermano
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano
 http://dplatino.net:80//live/credito3geotv/car26octtv/454926.ts
 
 ✔️ Gran Hermano cam 1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 1
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 1
 http://dplatino.net:80//live/credito3geotv/car26octtv/454927.ts
 
 ✔️ Gran Hermano cam 2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 2
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 2
 http://dplatino.net:80//live/credito3geotv/car26octtv/454928.ts
 
 ✔️ Gran Hermano cam 3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 3
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano cam 3
 http://dplatino.net:80//live/credito3geotv/car26octtv/454929.ts
 
 ✔️ Gran Hermano multicam
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano multicam
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHgranhermano.png" group-title="👁️‍ Reality",✔️ Gran Hermano multicam
 http://dplatino.net:80//live/credito3geotv/car26octtv/454930.ts
 
 ✔️ MTV 📱
