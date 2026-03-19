@@ -9,11 +9,67 @@
         "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html"
       },
   {
-       "nombre": "TUDN",
+       "nombre": "ESPN Premium",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/tudn.html"
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html"
+      },
+  {
+       "nombre": "ESPN Premium 🇦🇷",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumargentina.html"
+      },
+  {
+       "nombre": "TyC Sports",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.html"
+      },
+  {
+       "nombre": "FOX SPORTS",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports.html"
+      },
+  {
+       "nombre": "FOX SPORTS 2",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports2.html"
+      },
+  {
+       "nombre": "FOX SPORTS 3",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html"
+      },
+  {
+       "nombre": "ESPN",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html"
+      },
+  {
+       "nombre": "ESPN 🇦🇷",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnar.html"
+      },
+  {
+       "nombre": "ESPN 🇨🇴",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espncol.html"
       }
 
 ]
