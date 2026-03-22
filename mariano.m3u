@@ -2202,24 +2202,24 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtelesur.png" group-title="🎙️ Noticias Internacional",✔️ 🇻🇪 Telesur
 http://38.44.109.41:8003/play/a01q/index.m3u8
 
-✔️ Bolivision
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHbolivision.png" group-title="🌍 Bolivia",✔️ Bolivision
+✔️ 🇧🇴 Bolivision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHbolivisionbolivia.png" group-title="🌍 Bolivia",✔️ 🇧🇴 Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
-✔️ ADN
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/adnchile.png" group-title="🌍 Chile",✔️ ADN
+✔️ 🇨🇱 ADN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHadnchile.png" group-title="🌍 Chile",✔️ 🇨🇱 ADN
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/.m3u8
 
-✔️ Canal 1 Ñuble
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal1%C3%91ubleChile.png" group-title="🌍 Chile",✔️ Canal 1 Ñuble
+✔️ 🇨🇱 Canal 1 Ñuble
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal1ñublechile.png" group-title="🌍 Chile",✔️ 🇨🇱 Canal 1 Ñuble
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 
-✔️ Canal 2 Quellón
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal2Quell%C3%B3nChile.png" group-title="🌍 Chile",✔️ Canal 2 Quellón
+✔️ 🇨🇱 Canal 2 Quellón
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal2quellon.png" group-title="🌍 Chile",✔️ 🇨🇱 Canal 2 Quellón
 https://unlimited1-us.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8
 
-✔️ Canal 9 Bio Bio Television
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal9biobiochile.png" group-title="🌍 Chile",✔️ Canal 9 Bio Bio Television
+✔️ 🇨🇱 Canal 9 Bio Bio Television
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal9biobiotelevisionchile.png" group-title="🌍 Chile",✔️ 🇨🇱 Canal 9 Bio Bio Television
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
 
 ✔️ TV Chile 📱
