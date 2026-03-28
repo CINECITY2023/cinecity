@@ -7,6 +7,13 @@
         "url": "https://clarovideo.playsito3.boutique/embed/hbo-plus.php"
       },
        {
+       "nombre": "HBO Mundi",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png",
+        "url": " clarovideo.playsito3.boutique/embed/hbo-mundi.php"
+      },
+       {
        "nombre": "HBO Signature",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
