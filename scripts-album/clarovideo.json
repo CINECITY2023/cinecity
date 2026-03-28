@@ -1,5 +1,12 @@
 [
 
+       {
+       "nombre": "ESPN",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://streamtpnew.com/global1.php?stream=espnpremium"
+      },
 {
        "nombre": "AMC",
                   "grupo": "🎬 Cine",
