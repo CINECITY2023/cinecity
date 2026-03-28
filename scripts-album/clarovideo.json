@@ -14,6 +14,13 @@
         "url": "https://clarovideo.playsito3.boutique/embed/hbo-signature.php"
       },
        {
+       "nombre": "HBO Xtreme",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png",
+        "url": " https://clarovideo.playsito3.boutique/embed/hbo-xtreme.php"
+      },
+       {
        "nombre": "Studio Universal",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
