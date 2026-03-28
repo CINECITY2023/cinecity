@@ -1,9 +1,17 @@
 [
+
 {
        "nombre": "TNT Series",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
         "url": "https://clarovideo.playsito3.boutique/embed/tntseries.php"
+      },
+       {
+       "nombre": "HBO",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png",
+        "url": "https://www.ontve.click/player/vdo/?id=HBO"
       }
 ]
