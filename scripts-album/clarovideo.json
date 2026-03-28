@@ -1,10 +1,95 @@
 [
-       {
+
+{
+       "nombre": "AMC",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/amc.php"
+      },
+{
+       "nombre": "AXN",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/axn.php"
+      },
+{
+       "nombre": "Cinecanal",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/cinecanal.php"
+      },
+{
+       "nombre": "Cinemax",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/cinemax.php"
+      },
+{
+       "nombre": "De Pelicula",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/de-pelicula.php"
+      },
+{
+       "nombre": "De Pelicula Plus",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepeliculaplus.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/de-pelicula-plus.php"
+      },
+{
+       "nombre": "Europa Europa",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/europa-europa.php"
+      },
+{
+       "nombre": "Golden",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/golden.php"
+      },
+{
+       "nombre": "Golden Edge",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenedge.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/goldenedge.php"
+      },
+{
+       "nombre": "Golden Plus",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/golden-plus.php"
+      },
+{
+       "nombre": "Golden Premier",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremier.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/golden-premier.php"
+      },
+{
        "nombre": "HBO+",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png",
         "url": "https://clarovideo.playsito3.boutique/embed/hbo-plus.php"
+      },
+{
+       "nombre": "HBO Family",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/hbo-family.php"
       },
        {
        "nombre": "HBO Mundi",
@@ -27,7 +112,28 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png",
         "url": " https://clarovideo.playsito3.boutique/embed/hbo-xtreme.php"
       },
-       {
+{
+       "nombre": "Sony Channel",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
+        "url": " https://clarovideo.playsito3.boutique/embed/sony.php"
+      },
+{
+       "nombre": "Sony Movies",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png",
+        "url": " https://clarovideo.playsito3.boutique/embed/sony-movie.php"
+      },
+{
+       "nombre": "Space",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png",
+        "url": " https://clarovideo.playsito3.boutique/embed/space.php"
+      },
+{
        "nombre": "Studio Universal",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
@@ -41,11 +147,26 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
         "url": "https://clarovideo.playsito3.boutique/embed/tntseries.php"
       },
+{
+       "nombre": "Universal Cinema",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcinema.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/universal-cinena.php"
+      },
        {
        "nombre": "Warner TV",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png",
         "url": "https://clarovideo.playsito3.boutique/embed/warner.php"
+      },
+{
+       "nombre": "Lifetime",
+                  "grupo": "❤️ Novelas",
+                  "icono": "❤️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlifetime.png",
+        "url": "https://clarovideo.playsito3.boutique/embed/lifetime.php"
       }
+
 ]
