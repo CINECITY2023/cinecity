@@ -789,6 +789,13 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
         "url": "https://tv-libre.net/html/fl/?get=VGVsZW11bmRvX0hE"
       },
+     {
+       "nombre": "Televen - Venezuela",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelevenvenezuela.png",
+        "url": "https://tv-libre.net/eventos/?r=aHR0cHM6Ly9zdHJlYW10cG5ldy5jb20vZ2xvYmFsMS5waHA/c3RyZWFtPWV2ZW50b3Mz"
+      },
       {
        "nombre": "TVE - España",
 		"grupo": "🌍 Internacionales",
