@@ -5,328 +5,238 @@
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/amc.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/amc.php"
       },
 {
        "nombre": "AXN",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/axn.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/axn.php"
       },
 {
        "nombre": "Cinecanal",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/cinecanal.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/cinecanal.php"
       },
 {
        "nombre": "Cinemax",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/cinemax.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/cinemax.php"
       },
 {
        "nombre": "De Pelicula",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/de-pelicula.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/de-pelicula.php"
       },
 {
        "nombre": "De Pelicula Plus",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepeliculaplus.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/de-pelicula-plus.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/de-pelicula-plus.php"
       },
 {
        "nombre": "Europa Europa",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/europa-europa.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/europa-europa.php"
       },
 {
        "nombre": "Golden",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/golden.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/golden.php"
       },
 {
        "nombre": "Golden Edge",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenedge.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/goldenedge.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/goldenedge.php"
       },
 {
        "nombre": "Golden Plus",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/golden-plus.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/golden-plus.php"
       },
 {
        "nombre": "Golden Premier",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremier.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/golden-premier.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/golden-premier.php"
       },
 {
        "nombre": "HBO+",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/hbo-plus.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/hbo-plus.php"
       },
 {
        "nombre": "HBO Family",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/hbo-family.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/hbo-family.php"
       },
        {
        "nombre": "HBO Mundi",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png",
-        "url": " clarovideo.playsito3.boutique/embed/hbo-mundi.php",
-        "activo": true
+        "url": " clarovideo.playsito.boutique/embed/hbo-mundi.php"
       },
        {
        "nombre": "HBO Signature",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/hbo-signature.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/hbo-signature.php"
       },
        {
        "nombre": "HBO Xtreme",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png",
-        "url": " https://clarovideo.playsito3.boutique/embed/hbo-xtreme.php",
-        "activo": true
+        "url": " https://clarovideo.playsito.boutique/embed/hbo-xtreme.php"
       },
 {
        "nombre": "Sony Channel",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
-        "url": " https://clarovideo.playsito3.boutique/embed/sony.php",
-        "activo": true
+        "url": " https://clarovideo.playsito.boutique/embed/sony.php"
       },
 {
        "nombre": "Sony Movies",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonymovies.png",
-        "url": " https://clarovideo.playsito3.boutique/embed/sony-movie.php",
-        "activo": true
+        "url": " https://clarovideo.playsito.boutique/embed/sony-movie.php"
       },
 {
        "nombre": "Space",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png",
-        "url": " https://clarovideo.playsito3.boutique/embed/space.php",
-        "activo": true
+        "url": " https://clarovideo.playsito.boutique/embed/space.php"
       },
 {
        "nombre": "Star Channel",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png",
-        "url": " https://clarovideo.playsito.boutique/embed/star-channel.php",
-        "activo": true
+        "url": " https://clarovideo.playsito.boutique/embed/star-channel.php"
       },
 {
        "nombre": "Studio Universal",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/studio-universal.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/studio-universal.php"
       },
 {
        "nombre": "TNT Series",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/tntseries.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/tntseries.php"
       },
 {
        "nombre": "Universal Cinema",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcinema.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/universal-cinena.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/universal-cinena.php"
       },
 {
        "nombre": "Universal Crime",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcrime.png",
-        "url": "https://clarovideo.playsito.boutique/embed/universal-crime.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/universal-crime.php"
       },
 {
        "nombre": "Universal Premiere",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png",
-        "url": "https://clarovideo.playsito.boutique/embed/universal-premiere.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/universal-premiere.php"
       },
        {
        "nombre": "Warner TV",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/warner.php",
-        "activo": true
-      },
-{
-       "nombre": "Discovery Science",
-                  "grupo": "🚜 Cultura",
-                  "icono": "🚜",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png",
-        "url": "https://clarovideo.playsito.boutique/embed/discovery-science.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/warner.php"
       },
 {
        "nombre": "E!",
                   "grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHe!.png",
-        "url": "https://clarovideo.playsito.boutique/embed/e-entertainment.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/e-entertainment.php"
       },
 {
        "nombre": "Comedy Central",
                   "grupo": "🤡 Comedia",
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png",
-        "url": "https://clarovideo.playsito.boutique/embed/comedy-central.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/comedy-central.php"
       },
 {
        "nombre": "Distrito Comedia",
                   "grupo": "🤡 Comedia",
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHdistritocomedia.png",
-        "url": "https://clarovideo.playsito.boutique/embed/distrito-comedia.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/distrito-comedia.php"
       },
 {
        "nombre": "Universal Comedy",
                   "grupo": "🤡 Comedia",
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png",
-        "url": "https://clarovideo.playsito.boutique/embed/universal-comedy.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/universal-comedy.php"
       },
      {
        "nombre": "Lifetime",
                   "grupo": "❤️ Novelas",
                   "icono": "❤️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlifetime.png",
-        "url": "https://clarovideo.playsito3.boutique/embed/lifetime.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/lifetime.php"
       },
      {
        "nombre": "TLNovelas",
                   "grupo": "❤️ Novelas",
                   "icono": "❤️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png",
-        "url": "https://clarovideo.playsito.boutique/embed/tlnovelas.php",
-        "activo": true
-      },
-{
-       "nombre": "Cartoonito",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png",
-        "url": "https://clarovideo.playsito.boutique/embed/cartoonito.php",
-        "activo": true
-      },
-{
-       "nombre": "Cartoon Network",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png",
-        "url": "https://clarovideo.playsito.boutique/embed/cartoon-net.php",
-        "activo": true
-      },
-{
-       "nombre": "Discovery kids",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdiscoverykids.png",
-        "url": "https://clarovideo.playsito.boutique/embed/discovery-kids.php",
-        "activo": true
-      },
-{
-       "nombre": "Disney Channel",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
-        "url": "https://clarovideo.playsito.boutique/embed/disney-channel.php",
-        "activo": true
-      },
-{
-       "nombre": "Disney JR.",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png",
-        "url": "https://clarovideo.playsito.boutique/embed/disney-jr.php",
-        "activo": true
-      },
-{
-       "nombre": "Nickelodeon",
-                  "grupo": "🎈 Infantil",
-                  "icono": "🎈",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png",
-        "url": "https://clarovideo.playsito.boutique/embed/nickelodeon.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/tlnovelas.php"
       },
 {
        "nombre": "MTV",
                   "grupo": "👁️‍ Reality",
                   "icono": "👁️‍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHmtv.png",
-        "url": "https://clarovideo.playsito.boutique/embed/mtv.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/mtv.php"
       },
 {
        "nombre": "Universal reality",
                   "grupo": "👁️‍ Reality",
                   "icono": "👁️‍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png",
-        "url": "https://clarovideo.playsito.boutique/embed/universal-reality.php",
-        "activo": true
+        "url": "https://clarovideo.playsito.boutique/embed/universal-reality.php"
       }
 
 ]
