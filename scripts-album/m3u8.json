@@ -4,7 +4,8 @@
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
-        "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8"
+        "url": "https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8",
+        "activo": false
       },
   {
        "nombre": "TV Publica",
