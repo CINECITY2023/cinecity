@@ -44,8 +44,8 @@
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
-        "url": "http://107.152.39.199:8030/hls/canal21.m3u8",
-        "activo": false
+        "url": "https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8",
+        "activo": true
       },
   {
        "nombre": "Argentinisima Satelital",
