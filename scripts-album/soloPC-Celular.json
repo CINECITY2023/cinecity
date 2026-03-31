@@ -137,14 +137,6 @@
         "activo": true
       },
 {
-       "nombre": "ESPN 🇲🇽",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espnmexico.html",
-        "activo": true
-      },
-{
        "nombre": "ESPN 2 🇲🇽",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
