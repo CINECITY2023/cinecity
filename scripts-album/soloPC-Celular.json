@@ -10,6 +10,62 @@
         "activo": true
       },
 {
+       "nombre": "ESPN 🇨🇴",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espncol.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 2",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn2.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 3",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn3.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 4",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn4.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 5",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn5.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 6",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn6.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN 7",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn7.html",
+        "activo": true
+      },
+{
        "nombre": "ESPN Latam",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
