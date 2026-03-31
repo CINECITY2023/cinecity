@@ -1,28 +1,6 @@
 
 [
 
-  
-  {
-       "nombre": "ESPN",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://bolaloca.my/player/3/1"
-      },
-  {
-       "nombre": "ESPN 🇦🇷",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://tele-libre.fans/en-vivo/el-trece/embed2.php"
-      },
-  {
-       "nombre": "ESPN 🇨🇴",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://tele-libre.fans/html/cvatt2.html?get=QXJ0ZWFySEQ"
-      },
   {
        "nombre": "ESPN Premium",
                "grupo": "⚽ Deportes",
