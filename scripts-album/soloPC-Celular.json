@@ -1,8 +1,24 @@
 
 [
 
+{
+       "nombre": "ESPN 🇦🇷",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnar.html",
+        "activo": true
+      },
+{
+       "nombre": "ESPN Latam",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espn.html",
+        "activo": true
+      },
   {
-       "nombre": "ESPN Premium",
+       "nombre": "ESPN Premium Latam",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
@@ -17,15 +33,7 @@
         "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumargentina.html",
         "activo": true
       },
-  {
-       "nombre": "TyC Sports",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.html",
-        "activo": true
-      },
-  {
+{
        "nombre": "FOX SPORTS",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -47,6 +55,14 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
         "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html",
+        "activo": true
+      },
+  {
+       "nombre": "TyC Sports",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.html",
         "activo": true
       },
   {
