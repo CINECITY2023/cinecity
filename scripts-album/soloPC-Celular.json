@@ -6,49 +6,56 @@
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremium.html",
+        "activo": true
       },
   {
        "nombre": "ESPN Premium 🇦🇷",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumargentina.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/espnpremiumargentina.html",
+        "activo": true
       },
   {
        "nombre": "TyC Sports",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tycsports.html",
+        "activo": true
       },
   {
        "nombre": "FOX SPORTS",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports.html",
+        "activo": true
       },
   {
        "nombre": "FOX SPORTS 2",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports2.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports2.html",
+        "activo": true
       },
   {
        "nombre": "FOX SPORTS 3",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsports3.html",
+        "activo": true
       },
   {
        "nombre": "TNT Sports Premium Chile",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html"
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html",
+        "activo": true
       }
 
 ]
