@@ -1,1 +1,12 @@
 
+[
+
+  {
+       "nombre": "ECDF",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHecdf.png",
+        "url": "http://miotv.cc:8080/live/Tino/Tino/e319b9ad-9248-46ad-93d0-eeff0ff813df.m3u",
+        "activo": true
+      }
+]
