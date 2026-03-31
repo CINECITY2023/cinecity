@@ -1,6 +1,37 @@
 
 [
-
+{
+       "nombre": "Azteca Deportes",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHaztecadeportes.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/aztecadeportes.html",
+        "activo": true
+      },
+{
+       "nombre": "Bein Sports Xtra Ñ",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/beinsportsxtra.html",
+        "activo": true
+      },
+{
+       "nombre": "DAZN F1",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdaznf1.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/daznf1.html",
+        "activo": true
+      },
+{
+       "nombre": "DAZN La Liga",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdaznlaliga.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/daznlaliga.html",
+        "activo": true
+      },
 {
        "nombre": "DSports",
                "grupo": "⚽ Deportes",
@@ -146,22 +177,6 @@
         "activo": true
       },
 {
-       "nombre": "ESPN 6 🇲🇽",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espn6mexico.html",
-        "activo": true
-      },
-{
-       "nombre": "ESPN 7 🇲🇽",
-               "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
-        "url": "https://embed.ksdjugfsddeports.com/embed2/espn7mexico.html",
-        "activo": true
-      },
-{
        "nombre": "ESPN Premium Latam",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -226,6 +241,70 @@
         "activo": true
       },
 {
+       "nombre": "FOX SPORTS Premium 🇲🇽",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsportspremium.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/foxsportspremium.html",
+        "activo": true
+      },
+{
+       "nombre": "L1",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHl1.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/liga1.html",
+        "activo": true
+      },
+{
+       "nombre": "L1MAX",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHl1max.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/liga1max.html",
+        "activo": true
+      },
+{
+       "nombre": "Movistar Deportes",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmovistardeportes.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/movistardeportes.html",
+        "activo": false
+      },
+{
+       "nombre": "Movistar La Liga",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmovistarlaliga.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/movistarlaliga.html",
+        "activo": true
+      },
+{
+       "nombre": "Movistar Liga de Campeones",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmovistarligadecampeones.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/movistarligadecampeones.html",
+        "activo": true
+      },
+{
+       "nombre": "Sky Sports 🇲🇽",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/skysportsmexico.html",
+        "activo": false
+      },
+{
+       "nombre": "Sky Sports La Liga 🇲🇽",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/skysportsbundesliga.html",
+        "activo": true
+      },
+{
        "nombre": "TyC Sports",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -234,12 +313,37 @@
         "activo": true
       },
 {
-       "nombre": "TNT Sports Premium Chile",
+       "nombre": "TNT Sports 🇨🇱",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/tntsportschile.html",
+        "activo": true
+      },
+{
+       "nombre": "TNT Sports 🇨🇱",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
         "url": "https://embed.ksdjugfsddeports.com/embed2/tntsports.html",
         "activo": true
+      },
+{
+       "nombre": "Win Sports",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed2/winsports.html",
+        "activo": false
+      },
+{
+       "nombre": "Win Sports +",
+               "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports+.png",
+        "url": "https://embed.ksdjugfsddeports.com/embed/winsportsplus.html",
+        "activo": true
       }
+
 
 ]
