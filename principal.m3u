@@ -2279,48 +2279,48 @@ http://38.44.109.41:8003/play/a018/index.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-✔️ Telepacifico
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telepacificocolombia.png" group-title="🌍 Colombia",✔️ Telepacifico
+✔️ 🇨🇴 Telepacifico
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telepacificocolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
-✔️ Extra TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Costa Rica",✔️ Extra TV
+✔️ 🇨🇷 Extra TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 
-✔️ Tele Uno
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleUnoCostaRica.png" group-title="🌍 Costa Rica",✔️ Tele Uno
+✔️ 🇨🇷 Tele Uno
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleUnocostarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Tele Uno
 https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1246775036.m3u8
 
-✔️ Austral TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/australecuador.png" group-title="🌍 Ecuador",✔️ Austral TV
+✔️ 🇪🇨 Austral TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaustraltvecuador.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Austral TV
 http://205.235.6.29:8000/play/a0vn/index.m3u8
 
-✔️ Ecuador TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Ecuador",✔️ Ecuador TV
+✔️ 🇪🇨 Ecuador TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuadortv.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Ecuador TV
 https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 
-✔️ Ecuador TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuadorTVEcuador.png" group-title="🌍 Ecuador",✔️ Ecuador TV
+✔️ 🇪🇨 Ecuador TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuadortv.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Ecuador TV
 http://38.44.109.41:8003/play/a02b/index.m3u8
 
-✔️ Ecuavisa
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Ecuador",✔️ Ecuavisa
+✔️ 🇪🇨 Ecuavisa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuavisaecuador.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Ecuavisa
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist_dvr.m3u8?did=b2163355050067fdfde47773e
 
-✔️ Ecuavisa
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EcuavisaEcuador.png" group-title="🌍 Ecuador",✔️ Ecuavisa
+✔️ 🇪🇨 Ecuavisa
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHecuavisaecuador.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Ecuavisa
 http://38.44.109.41:8003/play/a019/index.m3u8
 
-✔️ Oromar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ Oromar TV
+✔️ 🇪🇨 Oromar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Oromar TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 
-✔️ Oromar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ Oromar TV
+✔️ 🇪🇨 Oromar TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHoromartv.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Oromar TV
 http://38.44.109.41:8003/play/a01a/index.m3u8
 
-✔️ Teleamazonas
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TeleamazonasEcuador.png" group-title="🌍 Ecuador",✔️ Teleamazonas
+✔️ 🇪🇨 Teleamazonas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleamazonasecuador.png" group-title="🌍 Ecuador",✔️ 🇪🇨 Teleamazonas
 http://38.44.109.41:8003/play/a01d/index.m3u8
 
 ✔️ Wuan+
