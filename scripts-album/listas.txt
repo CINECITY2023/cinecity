@@ -3,7 +3,6 @@ https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/Canales_m3u8.json
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/clarovideo.json
 https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/Futbol-PC-Celular.json
-https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/PlutoTV.json
 
 
 
