@@ -1098,7 +1098,7 @@
     {
         "nombre":  "Pura Noticia",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHpuranoticiachile.png",
         "url":  "https://pnt.janusmedia.tv/hls/pnt.m3u8",
         "activo":  true
@@ -1106,7 +1106,7 @@
     {
         "nombre":  "CGTN",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcgtnespañol.png",
         "url":  "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
         "activo":  true
@@ -1114,7 +1114,7 @@
     {
         "nombre":  "CGTN",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcgtnespañol.png",
         "url":  "http://38.44.109.41:8003/play/a021/index.m3u8",
         "activo":  true
@@ -1122,7 +1122,7 @@
     {
         "nombre":  "DW En Español",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHdw.png",
         "url":  "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
         "activo":  true
@@ -1130,7 +1130,7 @@
     {
         "nombre":  "DW En Español",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHdw.png",
         "url":  "http://38.44.109.41:8003/play/a01b/index.m3u8",
         "activo":  true
@@ -1138,7 +1138,7 @@
     {
         "nombre":  "Canal 24 Horas",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcanal24horas.png",
         "url":  "https://ztnr.rtve.es/ztnr/1694255.m3u8",
         "activo":  true
@@ -1146,7 +1146,7 @@
     {
         "nombre":  "HispanTV",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHhispantv.png",
         "url":  "https://live.presstv.ir/hls/hispantv.m3u8",
         "activo":  true
@@ -1154,7 +1154,7 @@
     {
         "nombre":  "HispanTV",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/HispanTVIran.png",
         "url":  "http://38.44.109.41:8003/play/a024/index.m3u8",
         "activo":  true
@@ -1162,7 +1162,7 @@
     {
         "nombre":  "AMX Noticias",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHamxnoticias.png",
         "url":  "https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8?PlaylistM3UCL",
         "activo":  true
@@ -1170,7 +1170,7 @@
     {
         "nombre":  "C4 en Alerta",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHc4enalerta.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7420",
         "activo":  true
@@ -1178,7 +1178,7 @@
     {
         "nombre":  "Canal 44",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcanal44.png",
         "url":  "https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724.m3u8",
         "activo":  true
@@ -1186,7 +1186,7 @@
     {
         "nombre":  "Estrella News",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHestrellanews.png",
         "url":  "https://estrellanews-roku.amagi.tv/playlist.m3u8",
         "activo":  true
@@ -1194,7 +1194,7 @@
     {
         "nombre":  "Milenio",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHmilenio.png",
         "url":  "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8",
         "activo":  true
@@ -1202,7 +1202,7 @@
     {
         "nombre":  "Milenio",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHmilenio.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401",
         "activo":  true
@@ -1210,7 +1210,7 @@
     {
         "nombre":  "N+",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHn+.png",
         "url":  "https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8",
         "activo":  true
@@ -1218,7 +1218,7 @@
     {
         "nombre":  "N+ Foro",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHn+foro.png",
         "url":  "https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8\u0026redirect=true",
         "activo":  true
@@ -1226,7 +1226,7 @@
     {
         "nombre":  "TeleDiario Now",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtelediarionow.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014",
         "activo":  true
@@ -1234,7 +1234,7 @@
     {
         "nombre":  "TeleFormula",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHteleformula.png",
         "url":  "https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8",
         "activo":  true
@@ -1242,7 +1242,7 @@
     {
         "nombre":  "Univision 24|7",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/Univision247Mexico.png",
         "url":  "https://d2c043ja5c3fzo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbmx2rye8x0uq/server/distrib/0d5L5aFqyXYNTJbA/zuvPJYoOOdEMDNF2j2mvmg.XD-5XW7bmDpD5yWfV328oU9NWPX1Y7dhiYqJY3ymkerRKjKvBm9YaKmRu09CS8ak3vKkgVwPUO3_k0fGhRTEqm9C52Akmi0bMrtkdFN-ApwGS5bzMeefjZWDmajrGpA-z7QefASsKjTkWAe3BlRJ_vz3lQhvxyaR-gTRDOtaBmPVj7kcBaZplJ2o86Rm6t4OZaOmdnH6WiW1GoB__4qhQJvpE8uBN8i_t4EJLrXsgpMTqttdcsGYmhH3W1nRYhFZ7tHSwWnrpfbk73-fLrtWcw/manifest.m3u8",
         "activo":  true
@@ -1250,7 +1250,7 @@
     {
         "nombre":  "Latina Noticias",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHlatinanoticias.png",
         "url":  "https://jireh-1-hls-video-ar-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream2/chunks.m3u8",
         "activo":  true
@@ -1258,7 +1258,7 @@
     {
         "nombre":  "RT en Español",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHrtenespañol.png",
         "url":  "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
         "activo":  true
@@ -1266,7 +1266,7 @@
     {
         "nombre":  "RT en Español",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHrtenespañol.png",
         "url":  "http://38.44.109.41:8003/play/a00a/index.m3u8",
         "activo":  true
@@ -1274,7 +1274,7 @@
     {
         "nombre":  "TV BRICS",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtvbrics.png",
         "url":  "https://espbrics.mediacdn.ru/cdn/brics/spanish/playlist.m3u8",
         "activo":  true
@@ -1282,7 +1282,7 @@
     {
         "nombre":  "CNN en Español",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHcnnenespa%C3%B1ol.png",
         "url":  "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8",
         "activo":  true
@@ -1290,7 +1290,7 @@
     {
         "nombre":  "Telesur",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtelesur.png",
         "url":  "https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8",
         "activo":  true
@@ -1298,7 +1298,7 @@
     {
         "nombre":  "Telesur",
         "grupo":  "🎙️ Noticias Internacional",
-        "icono":  "🏙️",
+        "icono":  "🎙️🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHtelesur.png",
         "url":  "http://38.44.109.41:8003/play/a01q/index.m3u8",
         "activo":  true
@@ -1306,7 +1306,7 @@
     {
         "nombre":  "Bolivision",
         "grupo":  "Bolivia",
-        "icono":  "🌍",
+        "icono":  "🌍🇧🇴",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHbolivisionbolivia.png",
         "url":  "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL",
         "activo":  true
@@ -1536,7 +1536,7 @@
         "activo":  true
     },
     {
-        "nombre":  "Andalucia Television (España)",
+        "nombre":  "Andalucia Television",
         "grupo":  "España",
         "icono":  "🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AndaluciaTelevisionEspaña.png",
@@ -1568,7 +1568,7 @@
         "activo":  true
     },
     {
-        "nombre":  "Canal 7 (Guatemala)",
+        "nombre":  "Canal 7",
         "grupo":  "Guatemala",
         "icono":  "🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Canal7Guatemala.png",
@@ -1649,8 +1649,8 @@
     },
     {
         "nombre":  "Azteca Uno",
-        "grupo":  "ðŸŒ Mexico",
-        "icono":  "🏙️",
+        "grupo":  "Mexico",
+        "icono":  "🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/Azteca_Uno.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396",
         "activo":  true
@@ -1880,7 +1880,7 @@
         "activo":  true
     },
     {
-        "nombre":  "Acento (Rep. Dominicana)",
+        "nombre":  "Acento",
         "grupo":  "Rep. Dominicana",
         "icono":  "🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/acentotvrepdominicana.png",
@@ -1905,7 +1905,7 @@
     },
     {
         "nombre":  "Canal Catorce",
-        "grupo":  "ðŸŒ Rep. Dominicana",
+        "grupo":  "Rep. Dominicana",
         "icono":  "🏙️",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png",
         "url":  "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8",
@@ -1936,7 +1936,7 @@
         "activo":  true
     },
     {
-        "nombre":  "Alcance TV (Venezuela)",
+        "nombre":  "Alcance TV",
         "grupo":  "Venezuela",
         "icono":  "🌍",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AlcanceTVVenezuela.png",
@@ -2080,7 +2080,7 @@
         "activo":  true
     },
     {
-        "nombre":  "AE Radio (Chile)",
+        "nombre":  "AE Radio",
         "grupo":  "🎵​ Musica",
         "icono":  "🎵",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/aeradiochile.png",
