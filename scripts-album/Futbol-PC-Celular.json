@@ -1,6 +1,254 @@
 
 [
 {
+  "nombre": "Telefe",
+  "grupo": "🏙️ Buenos Aires",
+  "icono": "🏙️",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/telefe.html",
+  "activo": true
+},
+{
+  "nombre": "El Trece",
+  "grupo": "🏙️ Buenos Aires",
+  "icono": "🏙️",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/eltrece.html",
+  "activo": true
+},
+{
+  "nombre": "Animal Planet",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/animalplanet.html",
+  "activo": true
+},
+{
+  "nombre": "Discovery Channel",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoverychannel.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/discoverychannel.html",
+  "activo": true
+},
+{
+  "nombre": "Discovery ID",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/idinvestigation.html",
+  "activo": true
+},
+{
+  "nombre": "H&H Discovery",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/discoveryhyh.html",
+  "activo": true
+},
+{
+  "nombre": "History",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/history.html",
+  "activo": true
+},
+{
+  "nombre": "History 2",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory2.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/history2.html",
+  "activo": true
+},
+{
+  "nombre": "Natgeo",
+  "grupo": "🚜 Cultura",
+  "icono": "🚜",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/natgeo.html",
+  "activo": true
+},
+{
+  "nombre": "AMC",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/amc.html",
+  "activo": true
+},
+{
+  "nombre": "A&E",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa&e.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/discoveryaye.html",
+  "activo": true
+},
+{
+  "nombre": "AXN",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/axn.html",
+  "activo": true
+},
+{
+  "nombre": "Cinecanal",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/cinecanal.html",
+  "activo": true
+},
+{
+  "nombre": "Cinemax",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/cinemax.html",
+  "activo": true
+},
+{
+  "nombre": "FX",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/fx.html",
+  "activo": true
+},
+{
+  "nombre": "Golden Edge",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenedge.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/goldenedge.html",
+  "activo": true
+},
+{
+  "nombre": "Golden Plus",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/goldenplus.html",
+  "activo": true
+},
+{
+  "nombre": "Multipremier",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmultipremier.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/multipremier.html",
+  "activo": true
+},
+{
+  "nombre": "Sony Channel",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/sony.html",
+  "activo": true
+},
+{
+  "nombre": "Space",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/space.html",
+  "activo": true
+},
+{
+  "nombre": "Star Channel",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/starchannel.html",
+  "activo": true
+},
+{
+  "nombre": "Studio Universal",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/studiouniversal.html",
+  "activo": true
+},
+{
+  "nombre": "TNT",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/tnt.html",
+  "activo": true
+},
+{
+  "nombre": "TNT Series",
+  "grupo": "🎬 Cine",
+  "icono": "",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/tntseries.html",
+  "activo": true
+},
+{
+  "nombre": "Universal TV",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversaltv.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/universalchannel.html",
+  "activo": true
+},
+{
+  "nombre": "USA",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHusa.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/syfy.html",
+  "activo": true
+},
+{
+  "nombre": "WarnerTV",
+  "grupo": "🎬 Cine",
+  "icono": "🎬",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/warnerchannel.html",
+  "activo": true
+},
+{
+  "nombre": "Distrito Comedia",
+  "grupo": "🤡 Comedia",
+  "icono": "🤡",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHdistritocomedia.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/distritocomedia.html",
+  "activo": true
+},
+{
+  "nombre": "Pasiones",
+  "grupo": "❤️ Novelas",
+  "icono": "❤️",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHpasiones.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/pasiones.html",
+  "activo": true
+},
+{
+  "nombre": "TLNovelas",
+  "grupo": "❤️ Novelas",
+  "icono": "❤️",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtlnovelas.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/tlnovelas.html",
+  "activo": true
+},
+{
+  "nombre": "TNT Novelas",
+  "grupo": "❤️ Novelas",
+  "icono": "❤️",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/tntnovelas.html",
+  "activo": true
+},
+{
        "nombre": "Azteca Deportes",
                "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -343,7 +591,143 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports+.png",
         "url": "https://embed.ksdjugfsddeports.com/embed/winsportsplus.html",
         "activo": true
-      }
+      },
+{
+  "nombre": "Cartoon Network",
+  "grupo": "🎈 Infantil",
+  "icono": "🎈",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/cartoonnetwork.html",
+  "activo": true
+},
+{
+  "nombre": "Disney Channel",
+  "grupo": "🎈 Infantil",
+  "icono": "🎈",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/disneychannel.html",
+  "activo": true
+},
+{
+  "nombre": "FMH Kids",
+  "grupo": "🎈 Infantil",
+  "icono": "🎈",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHfmhotkids.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/fmhotkids.html",
+  "activo": true
+},
+{
+  "nombre": "Tooncast",
+  "grupo": "🎈 Infantil",
+  "icono": "🎈",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/tooncast.html",
+  "activo": true
+},
+{
+  "nombre": "🇨🇴 Caracol",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcaracolcolombia.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/caracol.html",
+  "activo": true
+},
+{
+  "nombre": "🇨🇴 RCN",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHrcncolombia.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/rcn.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Azteca 7",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHazteca7mexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/azteca7.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Azteca Uno",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecaunomexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/aztecauno.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Canal 5",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5mexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/canal5.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Las Estrellas",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlasestrellasmexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/lasestrellas.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Unicable",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHunicablemexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/unicable.html",
+  "activo": true
+},
+{
+  "nombre": "🇲🇽 Univision",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHunivisionmexico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/univision.html",
+  "activo": true
+},
+{
+  "nombre": "🇵🇪 America",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHamericaperu.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/americatv.html",
+  "activo": true
+},
+{
+  "nombre": "🇵🇪 ATV",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHatvperu.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/atv.html",
+  "activo": true
+},
+{
+  "nombre": "🇵🇪 Latina",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlatinaperu.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/latina.html",
+  "activo": true
+},
+{
+  "nombre": "🇵🇷 Telemundo",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/telemundo51.html",
+  "activo": true
+},
+{
+  "nombre": "🇵🇷 Telemundo",
+  "grupo": "🌍 Internacional",
+  "icono": "🌍",
+  "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundointernacionalpuertorico.png",
+  "url": "https://embed.ksdjugfsddeports.com/embed2/telemundopuertorico.html",
+  "activo": true
+}
 
 
 ]
