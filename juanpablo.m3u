@@ -2431,46 +2431,46 @@ https://mdstrm.com/live-stream-playlist/5d5d51a4e9a40e25f4a0332c.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanaloncemexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Canal Once
 https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/.m3u8
 
-✔️ Estrella TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Mexico",✔️ Estrella TV
+✔️ 🇲🇽 Estrella TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-✔️ Estrella TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Mexico",✔️ Estrella TV
+✔️ 🇲🇽 Estrella TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Estrella TV
 https://estrellatv-roku.amagi.tv/playlist.m3u8
 
-✔️ Estrella TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/EstrellaTVMexico.png" group-title="🌍 Mexico",✔️ Estrella TV
+✔️ 🇲🇽 Estrella TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHestrellatvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Estrella TV
 https://estrellatv-oando.amagi.tv/playlistR720P.m3u8
 
-✔️ Imagen TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ImagenTVmexico.png" group-title="🌍 Mexico",✔️ Imagen TV
+✔️ 🇲🇽 Imagen TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHimagentvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Imagen TV
 https://igd-it-runtime.otteravision.com/igd/it/it_360.m3u8
 
-✔️ JusticiaTV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/JusticiaTVMexico.png" group-title="🌍 Mexico",✔️ JusticiaTV
-https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
-
-✔️ Las Estrellas
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LasEstrellas.png" group-title="🌍 Mexico",✔️ Las Estrellas
+✔️ 🇲🇽 Las Estrellas
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlasestrellasmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-✔️ Las Estrellas 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LasEstrellas.png" group-title="🌍 Mexico",✔️ Las Estrellas 📱
+✔️ 🇲🇽 Las Estrellas 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlasestrellasmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Las Estrellas 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b37d85be9d2b4b619f945beff713fda3:917309c98f072b0bd484dd6560c6d166
 https://cdn.cvattv.com.ar/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_C/Canal_de_las_estrellas.mpd
 
-✔️ Mexiquense
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/MexiquenseMexico.png" group-title="🌍 Mexico",✔️ Mexiquense
+✔️ 🇲🇽 Mexiquense
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHmexiquensemexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Mexiquense
 https://5fe2654d6127d.streamlock.net/mexiquense/videomexiquense/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6MTg6MjcgQU0maGFzaF92YWx1ZT1CRVNhbDJmY1N4SSsxbDBDcEpaNWtnPT0mdmFsaWRtaW51dGVzPTUmaWQ9
 
-✔️ RCG Media
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/RCGMediaMexico.png" group-title="🌍 Mexico",✔️ RCG Media
+✔️ 🇲🇽 PluralTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHpluraltvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 PluralTV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
+
+✔️ 🇲🇽 RCG Media
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHrcgmediamexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 RCG Media
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-✔️ Teleplay
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleplaymexico.png" group-title="🌍 Mexico",✔️ Teleplay
+✔️ 🇲🇽 Teleplay
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleplaymexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
 ✔️ TV Migrante
