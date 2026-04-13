@@ -67,10 +67,6 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 ✔️ Telefe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/telefe.playlist.m3u8
-
-✔️ Telefe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
 http://canal-pro.xyz:8080/662601893/283YRd35DxE2/53225
 
 ✔️ Telefe Internacional 📱
@@ -78,6 +74,10 @@ http://canal-pro.xyz:8080/662601893/283YRd35DxE2/53225
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
 https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
+
+✔️ Telefe Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional
+http://107.152.39.199:8030/hls/canal13.m3u8
 
 ✔️ El Trece 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece 📱
@@ -2472,36 +2472,36 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleplaymexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Teleplay
 https://player.tvstream.mx/livestream/teleplay/livesd/playlist.m3u8
 
-✔️ TV Migrante
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVMigranteMexico.png" group-title="🌍 Mexico",✔️ TV Migrante
+✔️ 🇲🇽 TV Migrante
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvmigrantemexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 TV Migrante
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 
-✔️ TVOAI Channel
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TVOAIChannelMexico.png" group-title="🌍 Mexico",✔️ TVOAI Channel
+✔️ 🇲🇽 TVOAI Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvoaimexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 TVOAI Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7392
 
-✔️ TV Unam
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/tvunammexico.png" group-title="🌍 Mexico",✔️ TV Unam
+✔️ 🇲🇽 TV Unam
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvunammexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 TV Unam
 https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DVR.m3u8
 
-✔️ Vibe TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/VibeTVMexico.png" group-title="🌍 Mexico",✔️ Vibe TV
+✔️ 🇲🇽 Vibe TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHvibetvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Vibe TV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
 
-✔️ 5 Dias 📱 (Paraguay)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/5diasparaguay.png" group-title="🌍 Paraguay",✔️ 5 Dias 📱 (Paraguay)
+✔️ 🇵🇾 5 Dias 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CH5diasparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 5 Dias 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=746091c502edcf1e9d003535ce01f3e4:29081b5f92d1a37c88fbbd0ece55c839
 https://cdn.cvattv.com.ar/live/c4eds/5_Dias_PY/SA_Live_dash_enc_C/5_Dias_PY.mpd
 
-✔️ ABC TV 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/abctvparaguay.png" group-title="🌍 Paraguay",✔️ ABC TV 📱
+✔️ 🇵🇾 ABC TV 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHabctvparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 ABC TV 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0bef75733b2645452432bd4e76f36f5:ea16243367d814c1d53f1eaf21f005ff
 https://cdn.cvattv.com.ar/live/c5eds/ABC_TV_C4/SA_Live_dash_enc_C/ABC_TV_C4.mpd
 
-✔️ C9N 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/c9nparaguay1.png" group-title="🌍 Paraguay",✔️ C9N 📱
+✔️ 🇵🇾 C9N 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHc9nparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 C9N 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=646700eeb14cadfa0543a20cf413d37e:4fc037c462023764624d8446442cbbca
 https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc_C/C9N_C4.mpd
