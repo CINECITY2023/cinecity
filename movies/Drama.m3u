@@ -9,7 +9,10 @@ http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280081.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rey del ring (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMyEsGXWP3XjS3D4VAMY794NPx.jpg" group-title=" → VOD ESTRENOS 2025 ←",Rey del ring (2025)
 http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280035.mp4
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/51AP5MY2B5L._AC_UF894,1000_QL80_.jpg" group-titlt="Drama", Rocky (1976)
+#EXTINF:-1 tvg-id="" tvg-name="Kicks (2016)" tvg-logo="https://play-lh.googleusercontent.com/3_gZegvB41DYZYrJq_R01_Ydx5cz0SE3U726OolnruPxds4EIBUxekVfxECwprGQ6yWP" group-title=" → VOD ESTRENOS 2025 ←",Kicks (2016)
+https://archive.org/download/Kicks/Kicks.MP4
+
+#EXTINF:-1 tvg-id="" tvg-name="Rocky (1976)" tvg-logo="https://m.media-amazon.com/images/I/51AP5MY2B5L._AC_UF894,1000_QL80_.jpg" group-titlt="Drama",Rocky (1976)
 https://nupload.me/watch/6lXWqXS5UMQbAM3jz3zHoyEdKnSeRZPuWR5HK7kz7SeFx0QAI
 
 
