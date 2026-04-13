@@ -1,8 +1,8 @@
 #EXTM3U
 
 ✔️EVENTOS⚽ 1
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 1
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/542
 
 ✔️EVENTOS⚽ 2
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
