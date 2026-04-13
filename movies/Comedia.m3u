@@ -2,3 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="Outcome (2026)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9uriReigJBf5zVBNaHj5C9kDDTe.jpg" group-title="→ VOD ESTRENOS 2026 ←",Outcome (2026)
 http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280731.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="Más vivo que muerto (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="→ VOD CLÁSICAS ←",Más vivo que muerto (1954)
+http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280552.mp4
