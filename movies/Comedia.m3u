@@ -12,5 +12,8 @@ http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280040.mp4
 #EXTINF:-1 tvg-name="Tammy (2014)" tvg-logo="https://es.web.img3.acsta.net/pictures/14/02/13/14/00/474194.jpg" ,Tammy (2014)
 https://archive.org/download/tammy_202507/Tammy.MP4
 
-#EXTINF:-1 tvg-id="" tvg-name="Más vivo que muerto (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="→ VOD CLÁSICAS ←",Más vivo que muerto (1954)
+#EXTINF:-1 tvg-name="Chicas Armadas y Peligrosas (2013)" tvg-logo="https://play-lh.googleusercontent.com/IG1QC6p7AfujbBvWIszVQ1N60PKaDujQOaCUgi9MtqDDchLNLezpAWp97ELTA4Rp3yaa=w240-h480-rw" ,Chicas Armadas y Peligrosas (2013)
+https://archive.org/download/chicas-armadas-y-peligrosas/Chicas%20armadas%20y%20peligrosas%20.MP4
+
+#EXTINF:-1 tvg-name="Más vivo que muerto (1954)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/68mtOrrMkv3ijguFg2p9M92CDHy.jpg" group-title="→ VOD CLÁSICAS ←",Más vivo que muerto (1954)
 http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280552.mp4
