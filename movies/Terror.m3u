@@ -3,8 +3,10 @@
 #EXTINF:-1 tvg-logo="https://s.pelisflix200.net/p/v2/w0/6kFAGp3HySKAUTpKhDgGlN4ujK4AwFusP0TlfNTEwu.webp" group-title="Terror", Embestida (2026)
 https://nupload.me/watch/hdcecoiC7kz7jlka78filFI5d7kz793jz3mOcGn1O9PTlAaNY8d4
 
+#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="→ VOD CAM 2026 ←",Scream 7 (2026) CAM
+http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280299.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="The Gates " tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zGrVrokVCP6nvSnJeI905aw1nWz.jpg" group-title=" → VOD ESTRENOS 2024 ←",La Maldición de la Prisión (2022)
 http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280662.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="Scream 7 (2026) CAM" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5XhV5Sk7w4h2tCNvXovkFfTNRli.jpg" group-title="→ VOD CAM 2026 ←",Scream 7 (2026) CAM
-http://canal-pro.xyz:8080/movie/662601893/283YRd35DxE2/280299.mp4
+
