@@ -1,5 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s.pelisflix200.net/p/v2/w0/34aIkxAOuoDpScEb.webp" group-title="superheroes", Deadpool & Wolverine (2024)
+#EXTINF:-1 tvg-name="Deadpool & Wolverine (2024)" tvg-logo="https://s.pelisflix200.net/p/v2/w0/34aIkxAOuoDpScEb.webp" group-title="superheroes" ,Deadpool & Wolverine (2024)
 https://nupload.me/watch/5XEbK7kz7hpw6vhToE5t4t72s4mQrMA1IkS3jz3Bgk6dzP5DE
+
+#EXTINF:-1 tvg-name="Ghost Rider (2007)" tvg-logo="https://static.wikia.nocookie.net/marveldatabase/images/e/e1/Ghost_Rider_%28film%29.jpg/revision/latest?cb=20070126114133" ,Ghost Rider (2007)
+https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
 
