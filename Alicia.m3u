@@ -5,8 +5,8 @@
 http://canal-pro.xyz:8080/662601893/283YRd35DxE2/542
 
 ✔️EVENTOS⚽ 2
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/459
 
 ✔️ EVENTOS⚽ 3
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 3
@@ -66,8 +66,8 @@ http://107.152.39.199:8030/hls/canal7.m3u8
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 ✔️ Telefe
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/53225
 
 ✔️ Telefe Internacional 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional 📱
@@ -86,9 +86,8 @@ http://107.152.39.199:8030/hls/canal13.m3u8
 https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
 
 ✔️ El Trece
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-http://107.152.39.199:8030/hls/canal21.m3u8
-https://livetrx01.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/61560
 
 ✔️ El Trece Internacional 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltreceinternacional.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional 📱
@@ -1764,8 +1763,8 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 
 ✔️ Dragon Ball Z
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdragonballz.png" group-title="🤖 Animacion",✔️ Dragon Ball Z
-http://dplatino.net:80//live/credito3geotv/car26octtv/316973.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdragonballz.png" group-title="🤖 Animacion",✔️ Dragon Ball Z
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/697
 
 ✔️ Dreiko TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHdreikotv.png" group-title="🤖 Animacion",✔️ Dreiko TV
@@ -1880,8 +1879,8 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 
 ✔️ Caso Cerrado
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHcasocerrado.png" group-title="👁️‍ Reality",✔️ Caso Cerrado
-http://dplatino.net:80//live/credito3geotv/car26octtv/316965.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHcasocerrado.png" group-title="👁️‍ Reality",✔️ Caso Cerrado
+http://canal-pro.xyz:8080/662601893/283YRd35DxE2/54956
 
 ✔️ Discovery Glitz
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHdiscoveryglitz.png" group-title="👁️‍ Reality",✔️ Discovery Glitz
