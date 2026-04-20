@@ -702,7 +702,7 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-77.playl
 
 ✔️ Box Cinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHboxcinema.png" group-title="🎬 Cine",✔️ Box Cinema
-http://tecnotv.club//phpcode/distro.php?c=box-cinema
+http://tecnotv.club/abr07/phpcode/distro.php?c=box-cinema
 
 ✔️ CineAr 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinear.png" group-title="🎬 Cine",✔️ CineAr 📱
@@ -780,7 +780,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Eurochannel/SA_Live_dash_enc_C/Eurochannel.
 
 ✔️ Euro Channel
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeurochannel.png" group-title="🎬 Cine",✔️ Euro Channel
-http://tecnotv.club//phpcode/lista01.php?c=278423&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/abr07/phpcode/lista01.php?c=278423&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Europa Europa 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png" group-title="🎬 Cine",✔️ Europa Europa 📱
@@ -1174,7 +1174,7 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-73.playl
 
 ✔️ Warner TV
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png" group-title="🎬 Cine",✔️ Warner TV
-http://tecnotv.club//phpcode/lista01.php?c=165455&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/abr07/phpcode/lista01.php?c=165455&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Xtrema TV Cine Accion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHextremacinedeaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
@@ -1194,7 +1194,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 ✔️ Doctor House
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdoctorhouse.png" group-title="🎬 Series",✔️ Doctor House
-http://tecnotv.club//phpcode/lista01.php?c=279022&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/abr07/phpcode/lista01.php?c=279022&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Bonanza
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHbonanza.png" group-title="🎬 Serie Retro",✔️ Bonanza
@@ -1888,7 +1888,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 
 ✔️ Pokemon
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHpokemon.png" group-title="🤖 Animacion",✔️ Pokemon
-http://tecnotv.club//phpcode/lista01.php?c=168751&token=tecnotokenplustv230516F&f=.m3u8
+http://tecnotv.club/abr07/phpcode/lista01.php?c=168751&token=tecnotokenplustv230516F&f=.m3u8
 
 ✔️ Pokemon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHpokemon.png" group-title="🤖 Animacion",✔️ Pokemon
