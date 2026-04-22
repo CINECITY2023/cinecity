@@ -1,10 +1,11 @@
+
 [
   {
        "nombre": "America TV",
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
-        "url": "https://tv-libre.net/html/fl/?get=QW1lcmljYVRW",
+        "url": "https://tvlibr3.com/html/fl/?get=QW1lcmljYVRW",
         "activo": true
       },
       {
@@ -12,7 +13,7 @@
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWw3&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWw3&lang=1",
         "activo": true
       },
       {
@@ -20,7 +21,7 @@
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWw5&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWw5&lang=1",
         "activo": true
       },
       {
@@ -28,7 +29,7 @@
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-        "url": "https://tv-libre.net/html/fl/?get=VGVsZWZlSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VGVsZWZlSEQ=&lang=1",
         "activo": true
       },
 	  {
@@ -36,7 +37,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
-        "url": "https://tv-libre.net/html/fl/?get=QXJ0ZWFySEQ",
+        "url": "https://tvlibr3.com/html/fl/?get=QXJ0ZWFySEQ",
         "activo": true
       },
       {
@@ -44,7 +45,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png",
-        "url": "https://tv-libre.net/html/fl/?get=QXJnZW50aW5pc2ltYQ",
+        "url": "https://tvlibr3.com/html/fl/?get=QXJnZW50aW5pc2ltYQ",
         "activo": true
       },
       {
@@ -52,7 +53,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
-        "url": "https://tv-libre.net/html/fl/?get=QnJhdm9UVg==",
+        "url": "https://tvlibr3.com/html/fl/?get=QnJhdm9UVg==",
         "activo": true
       },
       {
@@ -60,7 +61,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWxfZGVfbGFfY2l1ZGFk",
         "activo": true
       },
       {
@@ -68,7 +69,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHciudadmagazine.png",
-        "url": "https://tv-libre.net/html/fl/?get=TWFnYXppbmU=",
+        "url": "https://tvlibr3.com/html/fl/?get=TWFnYXppbmU=",
         "activo": true
       },
       {
@@ -76,7 +77,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TWV0cm8",
+        "url": "https://tvlibr3.com/html/fl/?get=TWV0cm8",
         "activo": true
       },
       {
@@ -84,7 +85,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TmV0X1RW",
+        "url": "https://tvlibr3.com/html/fl/?get=TmV0X1RW",
         "activo": true
       },
       {
@@ -92,7 +93,7 @@
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png",
-        "url": "https://tv-libre.net/html/fl/?get=VGVsZW1heA",
+        "url": "https://tvlibr3.com/html/fl/?get=VGVsZW1heA",
         "activo": true
       },
       {
@@ -100,7 +101,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
-        "url": "https://tv-libre.net/html/fl/?get=QW1lcmljYTI0",
+        "url": "https://tvlibr3.com/html/fl/?get=QW1lcmljYTI0",
         "activo": true
       },
       {
@@ -108,7 +109,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
-        "url": "https://tv-libre.net/html/fl/?get=QzVO",
+        "url": "https://tvlibr3.com/html/fl/?get=QzVO",
         "activo": true
       },
       {
@@ -116,7 +117,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png",
-        "url": "https://tv-libre.net/html/fl/?get=MjZfVFZfSEQ",
+        "url": "https://tvlibr3.com/html/fl/?get=MjZfVFZfSEQ",
         "activo": true
       },
       {
@@ -124,7 +125,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q3JvbmljYVRW",
+        "url": "https://tvlibr3.com/html/fl/?get=Q3JvbmljYVRW",
         "activo": true
       },
       {
@@ -132,7 +133,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHdiputadostv.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlwdXRhZG9zX1RW",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlwdXRhZG9zX1RW",
         "activo": true
       },
       {
@@ -140,7 +141,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png",
-        "url": "https://tv-libre.net/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
+        "url": "https://tvlibr3.com/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
         "activo": true
       },
       {
@@ -148,7 +149,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png",
-        "url": "https://tv-libre.net/html/fl/?get=TGFfTmFjaW9u",
+        "url": "https://tvlibr3.com/html/fl/?get=TGFfTmFjaW9u",
         "activo": true
       },
       {
@@ -156,7 +157,7 @@
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
-        "url": "https://tv-libre.net/html/fl/?get=VG9kb05vdGljaWFz",
+        "url": "https://tvlibr3.com/html/fl/?get=VG9kb05vdGljaWFz",
         "activo": true
       },
       {
@@ -164,7 +165,7 @@
 		"grupo": "🏡 Provincia",
                   "icono": "🏡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal12cordoba.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWxfMTJfQ0JB",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWxfMTJfQ0JB",
         "activo": true
       },
      {
@@ -180,7 +181,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportv.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGVwb3JUVkhE",
+        "url": "https://tvlibr3.com/html/fl/?get=RGVwb3JUVkhE",
         "activo": true
       },
       {
@@ -188,7 +189,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-        "url": "https://tv-libre.net/html/fl/?get=RVNQTjJIRA",
+        "url": "https://tvlibr3.com/html/fl/?get=RVNQTjJIRA",
         "activo": true
       },
       {
@@ -196,7 +197,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
-        "url": "https://tv-libre.net/html/fl/?get=RVNQTjJfQXJn",
+        "url": "https://tvlibr3.com/html/fl/?get=RVNQTjJfQXJn",
         "activo": true
       },
       {
@@ -204,7 +205,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
-        "url": "https://tv-libre.net/html/fl/?get=RVNQTjM",
+        "url": "https://tvlibr3.com/html/fl/?get=RVNQTjM",
         "activo": true
       },
       {
@@ -212,7 +213,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
-        "url": "https://tv-libre.net/html/fl/?get=RVNQTkhE",
+        "url": "https://tvlibr3.com/html/fl/?get=RVNQTkhE",
         "activo": true
       },
       {
@@ -220,7 +221,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png",
-        "url": "https://tv-libre.net/html/fl/?get=RVNQTjQ=",
+        "url": "https://tvlibr3.com/html/fl/?get=RVNQTjQ=",
         "activo": true
       },
       {
@@ -228,7 +229,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94U3BvcnRzM19VWQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94U3BvcnRzM19VWQ==",
         "activo": true
       },
       {
@@ -236,7 +237,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94U3BvcnRzMl9VWQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94U3BvcnRzMl9VWQ==",
         "activo": true
       },
       {
@@ -244,7 +245,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
         "activo": true
       },
       {
@@ -252,7 +253,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94U3BvcnRz",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94U3BvcnRz",
         "activo": true
       },
       {
@@ -260,7 +261,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94U3BvcnRzMkhE",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94U3BvcnRzMkhE",
         "activo": true
       },
       {
@@ -268,7 +269,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm94U3BvcnRzM0hE",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm94U3BvcnRzM0hE",
         "activo": true
       },
 	  {
@@ -276,7 +277,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png",
-        "url": "https://tv-libre.net/html/fl/?get=RWxfR2FyYWdl",
+        "url": "https://tvlibr3.com/html/fl/?get=RWxfR2FyYWdl",
         "activo": true
       },
       {
@@ -284,7 +285,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHnbatv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TkJBX1RW",
+        "url": "https://tvlibr3.com/html/fl/?get=TkJBX1RW",
         "activo": true
       },
       {
@@ -292,7 +293,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
-        "url": "https://tv-libre.net/html/fl/?get=VE5UX1Nwb3J0c19IRA",
+        "url": "https://tvlibr3.com/html/fl/?get=VE5UX1Nwb3J0c19IRA",
         "activo": true
       },
       {
@@ -300,7 +301,7 @@
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-        "url": "https://tv-libre.net/html/fl/?get=VHlDU3BvcnQ",
+        "url": "https://tvlibr3.com/html/fl/?get=VHlDU3BvcnQ",
         "activo": true
       },
       {
@@ -308,7 +309,7 @@
 		"grupo": "🤖 Animacion",
                   "icono": "🤖",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHadultswim.png",
-        "url": "https://tv-libre.net/html/fl/?get=QWR1bHRfU3dpbQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=QWR1bHRfU3dpbQ==",
         "activo": true
       },
       {
@@ -316,7 +317,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonito.png",
-        "url": "https://tv-libre.net/html/fl/?get=Qm9vbWVyYW5n",
+        "url": "https://tvlibr3.com/html/fl/?get=Qm9vbWVyYW5n",
         "activo": true
       },
       {
@@ -324,7 +325,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FydG9vbk5ldHdvcms=",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FydG9vbk5ldHdvcms=",
         "activo": true
       },
       {
@@ -332,7 +333,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdiscoverykids.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5X0tpZHM=",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5X0tpZHM=",
         "activo": true
       },
       {
@@ -340,7 +341,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzbmV5Q2hhbm5lbEhE",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzbmV5Q2hhbm5lbEhE",
         "activo": true
       },
       {
@@ -348,7 +349,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzbmV5SnI=",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzbmV5SnI=",
         "activo": true
       },
       {
@@ -356,7 +357,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdreamworks.png",
-        "url": "https://tv-libre.net/html/fl/?get=RHJlYW13b3Jrcw==",
+        "url": "https://tvlibr3.com/html/fl/?get=RHJlYW13b3Jrcw==",
         "activo": true
       },
       {
@@ -364,7 +365,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickelodeon.png",
-        "url": "https://tv-libre.net/html/fl/?get=Tmlja2Vsb2Rlb24=",
+        "url": "https://tvlibr3.com/html/fl/?get=Tmlja2Vsb2Rlb24=",
         "activo": true
       },
       {
@@ -372,7 +373,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHnickjr.png",
-        "url": "https://tv-libre.net/html/fl/?get=Tmlja19Kcg==",
+        "url": "https://tvlibr3.com/html/fl/?get=Tmlja19Kcg==",
         "activo": true
       },
       {
@@ -380,7 +381,7 @@
 		"grupo": "🎈 Infantil",
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHpakapaka.png",
-        "url": "https://tv-libre.net/html/fl/?get=UEFLQV9QQUtB",
+        "url": "https://tvlibr3.com/html/fl/?get=UEFLQV9QQUtB",
         "activo": true
       },
       {
@@ -388,7 +389,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
-        "url": "https://tv-libre.net/html/fl/?get=QW5pbWFsUGxhbmV0&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=QW5pbWFsUGxhbmV0&lang=1",
         "activo": true
       },
       {
@@ -396,7 +397,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHcanalrural.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWxfUnVyYWw=",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWxfUnVyYWw=",
         "activo": true
       },
       {
@@ -404,7 +405,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5SEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5SEQ=&lang=1",
         "activo": true
       },
       {
@@ -412,7 +413,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png",
-        "url": "https://tv-libre.net/html/fl/?get=SUQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SUQ=&lang=1",
         "activo": true
       },
       {
@@ -420,7 +421,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5X1NjaWVuY2U=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5X1NjaWVuY2U=&lang=1",
         "activo": true
       },
       {
@@ -428,7 +429,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png",
-        "url": "https://tv-libre.net/html/fl/?get=R291cm1ldA==",
+        "url": "https://tvlibr3.com/html/fl/?get=R291cm1ldA==",
         "activo": true
       },
 	  {
@@ -436,7 +437,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHencuentro.png",
-        "url": "https://tv-libre.net/html/fl/?get=RW5jdWVudHJv",
+        "url": "https://tvlibr3.com/html/fl/?get=RW5jdWVudHJv",
         "activo": true
       },
       {
@@ -444,7 +445,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHfoodnetwork.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rm9vZF9OZXR3b3Jr",
+        "url": "https://tvlibr3.com/html/fl/?get=Rm9vZF9OZXR3b3Jr",
         "activo": true
       },
 	  {
@@ -452,7 +453,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh&hdiscovery.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5SG9tZUhlYWx0aEhE",
         "activo": true
       },
       {
@@ -460,7 +461,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhistory.png",
-        "url": "https://tv-libre.net/html/fl/?get=SGlzdG9yeUhE&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SGlzdG9yeUhE&lang=1",
         "activo": true
       },
       {
@@ -468,7 +469,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHh2history.png",
-        "url": "https://tv-libre.net/html/fl/?get=SGlzdG9yeV8y&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SGlzdG9yeV8y&lang=1",
         "activo": true
       },
       {
@@ -476,7 +477,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHnatgeo.png",
-        "url": "https://tv-libre.net/html/fl/?get=TmF0R2VvSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=TmF0R2VvSEQ=&lang=1",
         "activo": true
       },
       {
@@ -484,7 +485,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHsunchannel.png",
-        "url": "https://tv-libre.net/html/fl/?get=U3VuX0NoYW5uZWw=",
+        "url": "https://tvlibr3.com/html/fl/?get=U3VuX0NoYW5uZWw=",
         "activo": true
       },
       {
@@ -492,7 +493,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtheaterdiscovery.png",
-        "url": "https://tv-libre.net/html/fl/?get=VGhlYXRlcl9IRA==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VGhlYXRlcl9IRA==&lang=1",
         "activo": true
       },
       {
@@ -500,7 +501,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtlc.png",
-        "url": "https://tv-libre.net/html/fl/?get=VExD&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VExD&lang=1",
         "activo": true
       },
       {
@@ -508,7 +509,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5VHVyYm8=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5VHVyYm8=&lang=1",
         "activo": true
       },
 	  {
@@ -516,7 +517,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcrime.png",
-        "url": "https://tv-libre.net/html/fl/?get=dW5pdmVyc2FsX0NyaW1l&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=dW5pdmVyc2FsX0NyaW1l&lang=1",
         "activo": true
       },
       {
@@ -524,7 +525,7 @@
 		"grupo": "🚜 Cultura",
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RGlzY292ZXJ5X1dvcmxkX0hE&lang=1",
         "activo": true
       },
 	  {
@@ -532,7 +533,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa3cine.png",
-        "url": "https://tv-libre.net/html/fl/?get=QTNfQ2luZQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=QTNfQ2luZQ==",
         "activo": true
       },
       {
@@ -540,7 +541,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa&e.png",
-        "url": "https://tv-libre.net/html/fl/?get=QUVIRA==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=QUVIRA==&lang=1",
         "activo": true
       },
       {
@@ -548,7 +549,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
-        "url": "https://tv-libre.net/html/fl/?get=QU1D&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=QU1D&lang=1",
         "activo": true
       },
       {
@@ -556,7 +557,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png",
-        "url": "https://tv-libre.net/html/fl/?get=QVhOSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=QVhOSEQ=&lang=1",
         "activo": true
       },
 	  {
@@ -564,7 +565,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinear.png",
-        "url": "https://tv-libre.net/html/fl/?get=SU5DQUFfVHY=",
+        "url": "https://tvlibr3.com/html/fl/?get=SU5DQUFfVHY=",
         "activo": true
       },
       {
@@ -572,7 +573,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinecanal.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2luZWNhbmFsSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2luZWNhbmFsSEQ=&lang=1",
         "activo": true
       },
       {
@@ -580,7 +581,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2luZW1heA==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2luZW1heA==&lang=1",
         "activo": true
       },
 	  {
@@ -588,7 +589,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeurochannel.png",
-        "url": "https://tv-libre.net/html/fl/?get=RXVyb2NoYW5uZWw=",
+        "url": "https://tvlibr3.com/html/fl/?get=RXVyb2NoYW5uZWw=",
         "activo": true
       },
 	  {
@@ -596,7 +597,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHeuropaeuropa.png",
-        "url": "https://tv-libre.net/html/fl/?get=RXVyb3BhX0V1cm9wYQ",
+        "url": "https://tvlibr3.com/html/fl/?get=RXVyb3BhX0V1cm9wYQ",
         "activo": true
       },
       {
@@ -604,7 +605,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfilm&arts.png",
-        "url": "https://tv-libre.net/html/fl/?get=RmlsbV9BcnRz",
+        "url": "https://tvlibr3.com/html/fl/?get=RmlsbV9BcnRz",
         "activo": true
       },
       {
@@ -612,7 +613,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png",
-        "url": "https://tv-libre.net/html/fl/?get=RlhIRA==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RlhIRA==&lang=1",
         "activo": true
       },
 	  {
@@ -620,7 +621,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPSEQ=&lang=1",
         "activo": true
       },
 	  {
@@ -628,7 +629,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo2.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPXzI=",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPXzI=",
         "activo": true
       },
 	  {
@@ -636,7 +637,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo+.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX1BsdXM=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX1BsdXM=&lang=1",
         "activo": true
       },
 	  {
@@ -644,7 +645,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbofamily.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX0ZhbWlseQ==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX0ZhbWlseQ==&lang=1",
         "activo": true
       },
 	  {
@@ -652,7 +653,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbomundi.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX011bmRp&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX011bmRp&lang=1",
         "activo": true
       },
 	  {
@@ -660,7 +661,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX1BPUA==",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX1BPUA==",
         "activo": true
       },
 	  {
@@ -668,7 +669,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbosignature.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX1NpZ25hdHVyZQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX1NpZ25hdHVyZQ==",
         "activo": true
       },
 	  {
@@ -676,7 +677,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png",
-        "url": "https://tv-libre.net/html/fl/?get=SEJPX0V4dHJlbWU=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=SEJPX0V4dHJlbWU=&lang=1",
         "activo": true
       },
       {
@@ -684,7 +685,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
-        "url": "https://tv-libre.net/html/fl/?get=U29ueUhE&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=U29ueUhE&lang=1",
         "activo": true
       },
       {
@@ -692,7 +693,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHspace.png",
-        "url": "https://tv-libre.net/html/fl/?get=U3BhY2U=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=U3BhY2U=&lang=1",
         "activo": true
       },
       {
@@ -700,7 +701,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rk9YSEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=Rk9YSEQ=&lang=1",
         "activo": true
       },
       {
@@ -708,7 +709,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstudiouniversal.png",
-        "url": "https://tv-libre.net/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=U3R1ZGlvX1VuaXZlcnNhbA==&lang=1",
         "activo": true
       },
       {
@@ -716,7 +717,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png",
-        "url": "https://tv-libre.net/html/fl/?get=VENN",
+        "url": "https://tvlibr3.com/html/fl/?get=VENN",
         "activo": true
       },
       {
@@ -724,7 +725,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png",
-        "url": "https://tv-libre.net/html/fl/?get=VE5UX0hEX0FyZw==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VE5UX0hEX0FyZw==&lang=1",
         "activo": true
       },
       {
@@ -732,7 +733,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntseries.png",
-        "url": "https://tv-libre.net/html/fl/?get=VE5UU2VyaWVz&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VE5UU2VyaWVz&lang=1",
         "activo": true
       },
 	  {
@@ -740,7 +741,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalcinema.png",
-        "url": "https://tv-libre.net/html/fl/?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VW5pdmVyc2FsX0NpbmVtYQ==&lang=1",
         "activo": true
       },
 	  {
@@ -748,7 +749,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png",
-        "url": "https://tv-libre.net/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VW5pdmVyc2FsX1ByZW1pZXJl&lang=1",
         "activo": true
       },
 	  {
@@ -756,7 +757,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHvolver.png",
-        "url": "https://tv-libre.net/html/fl/?get=Vm9sdmVy",
+        "url": "https://tvlibr3.com/html/fl/?get=Vm9sdmVy",
         "activo": true
       },
       {
@@ -764,7 +765,7 @@
 		"grupo": "🎬 Cine",
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHwarnertv.png",
-        "url": "https://tv-libre.net/html/fl/?get=V2FybmVySEQ=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=V2FybmVySEQ=&lang=1",
         "activo": true
       },
       {
@@ -772,7 +773,7 @@
 		"grupo": "🤡 Comedia",
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q29tZWR5Q2VudHJhbA",
+        "url": "https://tvlibr3.com/html/fl/?get=Q29tZWR5Q2VudHJhbA",
         "activo": true
       },
       {
@@ -780,7 +781,7 @@
 		"grupo": "🤡 Comedia",
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png",
-        "url": "https://tv-libre.net/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1",
         "activo": true
       },
       {
@@ -788,7 +789,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHantena3.png",
-        "url": "https://tv-libre.net/html/fl/?get=QW50ZW5hXzM=",
+        "url": "https://tvlibr3.com/html/fl/?get=QW50ZW5hXzM=",
         "activo": true
       },
       {
@@ -796,7 +797,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHc9nparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=QzlOX0M0",
+        "url": "https://tvlibr3.com/html/fl/?get=QzlOX0M0",
         "activo": true
       },
       {
@@ -804,7 +805,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4urguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWw0X1VSVQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWw0X1VSVQ==",
         "activo": true
       },
       {
@@ -812,7 +813,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal10uruguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWwxMF9VUlU=",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWwxMF9VUlU=",
         "activo": true
       },
       {
@@ -820,7 +821,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHeuronewsfrancia.png",
-        "url": "https://tv-libre.net/html/fl/?get=RXVyb25ld3M=",
+        "url": "https://tvlibr3.com/html/fl/?get=RXVyb25ld3M=",
         "activo": true
       },
       {
@@ -828,7 +829,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHgenparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=R0VOX1RW",
+        "url": "https://tvlibr3.com/html/fl/?get=R0VOX1RW",
         "activo": true
       },
       {
@@ -836,7 +837,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlasestrellas.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWxfZGVfbGFzX2VzdHJlbGxhcw==",
         "activo": true
       },
       {
@@ -844,7 +845,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlateleparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=TEFfVEVMRV9DNA==",
+        "url": "https://tvlibr3.com/html/fl/?get=TEFfVEVMRV9DNA==",
         "activo": true
       },
       {
@@ -852,7 +853,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHnpyparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=Tk9USUNJQVNfUFlfQzQ=",
+        "url": "https://tvlibr3.com/html/fl/?get=Tk9USUNJQVNfUFlfQzQ=",
         "activo": true
       },
       {
@@ -860,7 +861,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHparaguaytv.png",
-        "url": "https://tv-libre.net/html/fl/?get=UGFyYWd1YXlfVFY=",
+        "url": "https://tvlibr3.com/html/fl/?get=UGFyYWd1YXlfVFY=",
         "activo": true
       },
       {
@@ -868,14 +869,14 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHparavisionparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=UEFSQVZJU0lPTl9DNA==",
+        "url": "https://tvlibr3.com/html/fl/?get=UEFSQVZJU0lPTl9DNA==",
         "activo": true
       },
       {
        "nombre": "SNT - Paraguay",
 		"grupo": "🌍 Internacionales",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHsntparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=U05UX0M0",
+        "url": "https://tvlibr3.com/html/fl/?get=U05UX0M0",
         "activo": true
       },
       {
@@ -883,7 +884,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteledoceuruguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWwxMlVSVQ==",
+        "url": "https://tvlibr3.com/html/fl/?get=Q2FuYWwxMlVSVQ==",
         "activo": true
       },
       {
@@ -891,7 +892,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelefuturoparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=VEVMRUZVVFVST19DNA==",
+        "url": "https://tvlibr3.com/html/fl/?get=VEVMRUZVVFVST19DNA==",
         "activo": true
       },
       {
@@ -899,7 +900,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
-        "url": "https://tv-libre.net/html/fl/?get=VGVsZW11bmRvX0hE",
+        "url": "https://tvlibr3.com/html/fl/?get=VGVsZW11bmRvX0hE",
         "activo": true
       },
       {
@@ -907,7 +908,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtveespaña.png",
-        "url": "https://tv-libre.net/html/fl/?get=VFZfRXNwYW5h",
+        "url": "https://tvlibr3.com/html/fl/?get=VFZfRXNwYW5h",
         "activo": true
       },
       {
@@ -915,7 +916,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtreceparaguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=UlBDX0M0",
+        "url": "https://tvlibr3.com/html/fl/?get=UlBDX0M0",
         "activo": true
       },
       {
@@ -923,7 +924,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtv5mondefrancia.png",
-        "url": "https://tv-libre.net/html/fl/?get=VFY1X01vbmRl",
+        "url": "https://tvlibr3.com/html/fl/?get=VFY1X01vbmRl",
         "activo": true
       },
       {
@@ -931,7 +932,7 @@
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvciudaduruguay.png",
-        "url": "https://tv-libre.net/html/fl/?get=VGV2ZV9DaXVkYWQ=",
+        "url": "https://tvlibr3.com/html/fl/?get=VGV2ZV9DaXVkYWQ=",
         "activo": true
       },
       {
@@ -939,7 +940,7 @@
 		"grupo": "❤️ Novelas",
                   "icono": "❤️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlifetime.png",
-        "url": "https://tv-libre.net/html/fl/?get=TGlmZXRpbWU=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=TGlmZXRpbWU=&lang=1",
         "activo": true
       },
       {
@@ -947,7 +948,7 @@
 		"grupo": "❤️ Novelas",
                   "icono": "❤️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
-        "url": "https://tv-libre.net/html/fl/?get=VEJT",
+        "url": "https://tvlibr3.com/html/fl/?get=VEJT",
         "activo": true
       },
       {
@@ -955,7 +956,7 @@
 		"grupo": "👁️‍ Reality",
                   "icono": "👁️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHe!.png",
-        "url": "https://tv-libre.net/html/fl/?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=RV9FbnRlcnRhaW5tZW50X1RlbGV2aXNpb24=&lang=1",
         "activo": true
       },
       {
@@ -963,7 +964,7 @@
 		"grupo": "👁️‍ Reality",
                   "icono": "👁️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHholatv.png",
-        "url": "https://tv-libre.net/html/fl/?get=SG9sYV9UVg==",
+        "url": "https://tvlibr3.com/html/fl/?get=SG9sYV9UVg==",
         "activo": true
       },
       {
@@ -971,7 +972,7 @@
 		"grupo": "👁️‍ Reality",
                   "icono": "👁️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHmtv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TVRWX0hE&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=TVRWX0hE&lang=1",
         "activo": true
       },
       {
@@ -979,7 +980,7 @@
 		"grupo": "👁️‍ Reality",
                   "icono": "👁️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png",
-        "url": "https://tv-libre.net/html/fl/?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1",
+        "url": "https://tvlibr3.com/html/fl/?get=VW5pdmVyc2FsX1JlYWxpdHk=&lang=1",
         "activo": true
       },
       {
@@ -987,7 +988,7 @@
 		"grupo": "🎵​ Musica",
                   "icono": "🎵​",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHcm.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q00=",
+        "url": "https://tvlibr3.com/html/fl/?get=Q00=",
         "activo": true
       },
       {
@@ -995,7 +996,7 @@
 		"grupo": "🎵​ Musica",
                   "icono": "🎵​",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHflowmusic.png",
-        "url": "https://tv-libre.net/html/fl/?get=Rmxvd19NdXNpY19YUA==",
+        "url": "https://tvlibr3.com/html/fl/?get=Rmxvd19NdXNpY19YUA==",
         "activo": true
       },
       {
@@ -1003,7 +1004,7 @@
 		"grupo": "🎵​ Musica",
                   "icono": "🎵​",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHhtv.png",
-        "url": "https://tv-libre.net/html/fl/?get=SFRW",
+        "url": "https://tvlibr3.com/html/fl/?get=SFRW",
         "activo": true
       },
       {
@@ -1011,7 +1012,7 @@
 		"grupo": "🎵​ Musica",
                   "icono": "🎵​",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHquieromusica.png",
-        "url": "https://tv-libre.net/html/fl/?get=UXVpZXJvX0hE",
+        "url": "https://tvlibr3.com/html/fl/?get=UXVpZXJvX0hE",
         "activo": true
       },
 	  {
@@ -1019,7 +1020,7 @@
 		"grupo": "🔞 Adultos",
                   "icono": "🔞​",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/CHsextreme.png",
-        "url": "https://tv-libre.net/html/fl/?get=U2V4dHJlbWU",
+        "url": "https://tvlibr3.com/html/fl/?get=U2V4dHJlbWU",
         "activo": true
       },
       {
@@ -1027,7 +1028,7 @@
 		"grupo": "🔞 Adultos",
                   "icono": "🔞",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/CHvenus.png",
-        "url": "https://tv-libre.net/html/fl/?get=VmVudXM=",
+        "url": "https://tvlibr3.com/html/fl/?get=VmVudXM=",
         "activo": true
       }
 ]
