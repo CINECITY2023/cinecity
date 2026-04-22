@@ -1,6 +1,13 @@
 [
 
 {
+       "nombre": "Fox sports",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
+        "url": "https://streamtpnew.com/global1.php?stream=fox2ar"
+      },
+{
        "nombre": "AMC",
                   "grupo": "🎬 Cine",
                   "icono": "🎬",
@@ -223,6 +230,20 @@
                   "icono": "❤️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png",
         "url": "https://clarovideo.playsito.boutique/embed/tlnovelas.php"
+      },
+     {
+       "nombre": "Dreamworks",
+                  "grupo": "🎈 Infantil",
+                  "icono": "🎈",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdreamworks.png",
+        "url": "https://clarovideo.playsito.boutique/embed/dreamworks.php"
+      },
+     {
+       "nombre": "Boing",
+                  "grupo": "🎈 Infantil",
+                  "icono": "🎈",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHboing.png",
+        "url": "https://clarovideo.playsito.boutique/embed/boing.php"
       },
 {
        "nombre": "MTV",
