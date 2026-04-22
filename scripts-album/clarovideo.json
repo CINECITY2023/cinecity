@@ -1,12 +1,4 @@
 [
-
-{
-       "nombre": "Fox sports",
-                  "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
-        "url": "https://streamtpnew.com/global1.php?stream=fox2ar"
-      },
 {
        "nombre": "AMC",
                   "grupo": "🎬 Cine",
@@ -244,6 +236,13 @@
                   "icono": "🎈",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHboing.png",
         "url": "https://clarovideo.playsito.boutique/embed/boing.php"
+      },
+     {
+       "nombre": "Disney JR",
+                  "grupo": "🎈 Infantil",
+                  "icono": "🎈",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneyjr.png",
+        "url": "https://clarovideo.playsito.boutique/embed/disney-jr.php"
       },
 {
        "nombre": "MTV",
