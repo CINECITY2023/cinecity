@@ -257,6 +257,13 @@
                   "icono": "👁️‍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/reality/CHuniversalreality.png",
         "url": "https://clarovideo.playsito.boutique/embed/universal-reality.php"
+      },
+{
+       "nombre": "El Doce TV (misiones)",
+                  "grupo": "🏡 Provincia",
+                  "icono": "🏡",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHeldocetvmisiones.png",
+        "url": "https://vmf.edge-apps.net/embed/live.php?streamname=c12_live01-100129&autoplay=true"
       }
 
 ]
