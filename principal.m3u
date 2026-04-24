@@ -2937,7 +2937,7 @@ http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 http://107.152.39.199:8030/hls/canal22.m3u8
 
 ✔️ Canal Luz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/canalluzsantafe.png" group-title="🙏 Religion",✔️ Canal Luz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHcanalluz.png" group-title="🙏 Religion",✔️ Canal Luz
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
 
