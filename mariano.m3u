@@ -1429,6 +1429,10 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="⚽ Deportes",✔️ Garage TV
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/garage.playlist.m3u8
 
+✔️ Gol Classics
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgolclassics.png" group-title="⚽ Deportes",✔️ Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+
 ✔️ Golf Channel 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgolfchannel.png" group-title="⚽ Deportes",✔️ Golf Channel 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
