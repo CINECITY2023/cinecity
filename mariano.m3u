@@ -6,7 +6,7 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-02.playl
 
 ✔️EVENTOS⚽ 2
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
-http://canal-pro.xyz:8080/662601893/283YRd35DxE2/459
+
 
 ✔️ EVENTOS⚽ 3
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 3
@@ -21,11 +21,11 @@ https://pecdl1.streameasthd.net/espnpremium/tracks-v1a1/mono.m3u8?ip=186.39.123.
 
 ✔️EVENTOS⚽ 6
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 6
-https://smarthard.click/hls/sabrouchespnpremiumarg/index.m3u8?st=L3JvKQTBwdUOXfxO_SxpQA&e=1776639107
+
 
 ✔️EVENTOS⚽ 7
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 7
-https://smarthard.click/hls/sabrouchespnpremiumarg/index.m3u8?st=7GSVS7FSKAoDb20OcjXCpQ&e=1776639176
+
 
 ✔️ America TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV 📱
@@ -81,8 +81,8 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-16.playl
 https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 ✔️ Telefe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-http://canal-pro.xyz:8080/662601893/283YRd35DxE2/53225
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
+
 
 ✔️ Telefe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
@@ -115,8 +115,8 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/eltrece.playli
 https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc_C/Artear_Internacional.mpd
 
 ✔️ El Trece Internacional
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltreceinternacional.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional
-http://canal-pro.xyz:8080/662601893/283YRd35DxE2/338
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltreceinternacional.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional
+
 
 ✔️ Argentinisima Satelital 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital 📱
