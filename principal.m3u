@@ -2687,44 +2687,44 @@ http://38.44.109.41:8003/play/a02r/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHautenticatvperu.png" group-title="🌍 Peru",✔️ 🇵🇪 Autentica TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 
-✔️ Latina
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/LatinaTVPeru.png" group-title="🌍 Peru",✔️ Latina
+✔️ 🇵🇪 Latina
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlatinatvPeru.png" group-title="🌍 Peru",✔️ 🇵🇪 Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 
-✔️ Latina Clasicos
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/latinaclasicosperu.png" group-title="🌍 Peru",✔️ Latina Clasicos
+✔️ 🇵🇪 Latina Clasicos
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlatinaclasicosperu.png" group-title="🌍 Peru",✔️ 🇵🇪 Latina Clasicos
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/plus226/latina2/latina2.smil/latina2/livestream1/chunks.m3u8
 
-✔️ Panamericana TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PanamericanaPeru.png" group-title="🌍 Peru",✔️ Panamericana TV
+✔️ 🇵🇪 Panamericana TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHpanamericanatvperu.png" group-title="🌍 Peru",✔️ 🇵🇪 Panamericana TV
 http://38.44.109.41:8003/play/a013/index.m3u8
 
-✔️ Telemundo Internacional 📱 (Puerto Rico)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Puerto Rico",✔️ Telemundo Internacional 📱 (Puerto Rico)
+✔️ 🇵🇷 Telemundo Internacional 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundointernacionalpuertorico.png" group-title="🌍 Puerto Rico",✔️ 🇵🇷 Telemundo Internacional 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53d752e4649dadd808d913985f86ee77:d1fd24db1b61d634cabfc44538ce9b0e
 https://cdn.cvattv.com.ar/live/c7eds/Telemundo_HD/SA_Live_dash_enc_C/Telemundo_HD.mpd
 
-✔️ Telemundo Internacional
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Puerto Rico",✔️ Telemundo Internacional
+✔️ 🇵🇷 Telemundo Internacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundointernacionalpuertorico.png" group-title="🌍 Puerto Rico",✔️ 🇵🇷 Telemundo Internacional
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-26.playlist.m3u8
 
-✔️ Telemundo
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/TelemundoPuerto%20Rico.png" group-title="🌍 Puerto Rico",✔️ Telemundo
+✔️ 🇵🇷 Telemundo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png" group-title="🌍 Puerto Rico",✔️ 🇵🇷 Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-✔️ BBC World News 📱 (Reino Unido)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/bbcworldnewsreinounido.png" group-title="🌍 Reino Unido",✔️ BBC World News 📱 (Reino Unido)
+✔️ 🇬🇧 BBC World News 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHbbcworldnewsreinounido.png" group-title="🌍 Reino Unido",✔️ 🇬🇧 BBC World News 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=019f72f2091d4cbea59ff8c85b117f86:a4eac51195506752f9f63ad24def9c37
 https://cdn.cvattv.com.ar/live/c6eds/BBC_World_News/SA_Live_dash_enc_C/BBC_World_News.mpd
 
-✔️ Acento (Rep. Dominicana)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/acentotvrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ Acento (Rep. Dominicana)
+✔️ 🇩🇴 Acento TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHacentotvrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Acento TV
 https://acentotv01.streamprolive.com/hls/live.m3u8
 
-✔️ 10 Microvision
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/10microvisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 10 Microvision
+✔️ 🇩🇴 10 Microvision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CH10microvisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 10 Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
 ✔️ Canal 4 RTVD
