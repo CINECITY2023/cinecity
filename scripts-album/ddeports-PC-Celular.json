@@ -1,5 +1,12 @@
 
 [
+  {
+       "nombre": "AMC",
+                  "grupo": "🎬 Cine",
+                  "icono": "🎬",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
+        "url": "https://clarovideo.playsito.boutique/embed/amc.php"
+      },
 {
   "nombre": "Telefe",
   "grupo": "🏙️ Buenos Aires",
