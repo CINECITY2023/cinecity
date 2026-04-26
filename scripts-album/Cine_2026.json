@@ -87,5 +87,14 @@
         "logo":  "https://cliver.mom/uploads/mini/poster/8f/8b1ac3596acbb6708718a57911571e.jpg",
         "url":  "https://gscdn.cam/video/embed/gv3fpwym3lrm",
         "activo":  true
+    },   
+    {
+        "nombre":  "Halloween la noche de los espantapajaros",
+        "grupo":  "👻 Terror",
+        "icono":  "👻",
+        "logo":  "https://image.tmdb.org/t/p/w500/sYDbxAPS7pD5S1HBvwvhvh80fxr.jpg",
+        "url":  "https://minochinos.com/embed/42esxqahg8hr",
+        "activo":  true
     }
+    
 ]
