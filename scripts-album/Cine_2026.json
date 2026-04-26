@@ -2,8 +2,8 @@
 [ 
     {
         "nombre":  "Michael",
-        "grupo":  "🎬 Drama",
-        "icono":  "🎬",
+        "grupo":  "😭 Drama",
+        "icono":  "😭",
         "logo":  "https://cliver.mom/uploads/mini/poster/cf/612838acde0da002478dfd54a36a82.jpg",
         "url":  "https://gscdn.cam/video/embed/3v5hrn2yxm3z",
         "activo":  true
@@ -18,10 +18,18 @@
     },
     {
         "nombre":  "Peaky Blinders: El hombre inmortal",
-        "grupo":  "🎬 Drama",
-        "icono":  "🎬",
+        "grupo":  "😭 Drama",
+        "icono":  "😭",
         "logo":  "https://cliver.mom/uploads/mini/poster/4d/d6608e2e489b5c9e38346a13debb39.jpg",
         "url":  "https://gscdn.cam/video/embed/zdy0y6ylu3i8",
+        "activo":  true
+    },
+    {
+        "nombre":  "Scream 7",
+        "grupo":  "👻 Terror",
+        "icono":  "👻",
+        "logo":  "https://cliver.mom/uploads/mini/poster/62/351a852f1be71b6fbfb13e0b8d4f47.jpg",
+        "url":  "https://gscdn.cam/video/embed/stk2pzag691l",
         "activo":  true
     }
 ]
