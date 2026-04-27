@@ -2727,56 +2727,56 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CH10microvisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 10 Microvision
 https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
 
-✔️ Canal 4 RTVD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/rtvdrepublicadominicana.png" group-title="🌍 Rep. Dominicana",✔️ Canal 4 RTVD
+✔️ 🇩🇴 Canal 4 RTVD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4rtvdrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Canal 4 RTVD
 https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
 
-✔️ Canal Catorce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/canal14repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ Canal Catorce
+✔️ 🇩🇴 Canal Catorce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal14repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Canal Catorce
 https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8
 
-✔️ Faro Vision
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/FaroVisionRepDominicana.png" group-title="🌍 Rep. Dominicana",✔️ Faro Vision
+✔️ 🇩🇴 Faro Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHfarovisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Faro Vision
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 
-✔️ ReadyHD
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/readyhdrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ ReadyHD
+✔️ 🇩🇴 ReadyHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHreadyhdrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 ReadyHD
 https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
-✔️ Teleunion
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/teleunionrepublicadominicana.png" group-title="🌍 Rep. Dominicana",✔️ Teleunion
+✔️ 🇩🇴 Teleunion
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleunionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Teleunion
 http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
-✔️  Canal 5 📱 (Uruguay)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5uruguay.png" group-title="🌍 Uruguay",✔️  Canal 5 📱 (Uruguay)
+✔️ 🇺🇾 Canal 5 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5uruguay.png" group-title="🌍 Uruguay",✔️ 🇺🇾 Canal 5 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c50518d7f59f4c0aa9a3079fe2b014fd:96038f76a2ba33866ea54eb4b260573f
 https://cdn.cvattv.com.ar/live/c3eds/TV_Nacional_Uy/SA_Live_dash_enc_C/TV_Nacional_Uy.mpd
 
-✔️  TV Ciudad 📱
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvciudaduruguay.png" group-title="🌍 Uruguay",✔️  TV Ciudad 📱
+✔️ 🇺🇾 TV Ciudad 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtvciudaduruguay.png" group-title="🌍 Uruguay",✔️ 🇺🇾 TV Ciudad 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b536cd1716647ee94c45fa4836d29d6
 https://cdn.cvattv.com.ar/live/c3eds/Teve_Ciudad/SA_Live_dash_enc_C/Teve_Ciudad.mpd
 
-✔️ Alcance TV (Venezuela)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AlcanceTVVenezuela.png" group-title="🌍 Venezuela",✔️ Alcance TV (Venezuela)
+✔️ 🇻🇪 Alcance TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHalcancetvvenezuela.png" group-title="🌍 Venezuela",✔️ 🇻🇪 Alcance TV
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
 
-✔️ Anzoategui TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/AnzoateguiTVVenezuela.png" group-title="🌍 Venezuela",✔️ Anzoategui TV
+✔️ 🇻🇪 Anzoategui TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHanzoateguitvvenezuela.png" group-title="🌍 Venezuela",✔️ 🇻🇪 Anzoategui TV
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-✔️ Net Channel
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/netchannelvenezuela.png" group-title="🌍 Venezuela",✔️ Net Channel
+✔️ 🇻🇪 Net Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHnetchannelvenezuela.png" group-title="🌍 Venezuela",✔️ 🇻🇪 Net Channel
 https://media.streambrothers.com:19360/8158/8158.m3u8
 
-✔️ Promar TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/PromarTVVenezuela.png" group-title="🌍 Venezuela",✔️ Promar TV
+✔️ 🇻🇪 Promar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHpromartvvenezuela.png" group-title="🌍 Venezuela",✔️ 🇻🇪 Promar TV
 https://vcp.myplaytv.com/promar/promar/playlist.m3u8
 
-✔️ Reforma TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ReformaTVVenezuela.png" group-title="🌍 Venezuela",✔️ Reforma TV
+✔️ 🇻🇪 Reforma TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHreformatvvenezuela.png" group-title="🌍 Venezuela",✔️ 🇻🇪 Reforma TV
 https://5bf8041cb3fed.streamlock.net:443/ReformaTV/ReformaTV/playlist.m3u8
 
 ✔️ Telearagua
