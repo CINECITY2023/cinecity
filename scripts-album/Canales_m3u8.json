@@ -139,7 +139,7 @@
         "nombre":  "Canal 79 (La Costa)",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal79mardelplata.png",
         "url":  "https://streamconex.com:19360/lacosta/lacosta.m3u8",
         "activo":  true
     },
@@ -155,7 +155,7 @@
         "nombre":  "Canal 79 (Puan)",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal79mardelplata.png",
         "url":  "https://streamconex.com:19360/puan/puan.m3u8",
         "activo":  true
     },
@@ -163,7 +163,7 @@
         "nombre":  "Canal 79 (Santa Clara del Mar)",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal79mardelplata.png",
         "url":  "https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8",
         "activo":  true
     },
@@ -171,7 +171,7 @@
         "nombre":  "Canal 79 (Villa Maza)",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal79mardelplata.png",
         "url":  "https://streamconex.com:19360/villamaza/villamaza.m3u8",
         "activo":  true
     },
@@ -1651,7 +1651,7 @@
         "nombre":  "Azteca Internacional",
         "grupo":  "Mexico",
         "icono":  "🇲🇽",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecalnternacionalmexico",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecalnternacionalmexico.png",
         "url":  "https://azt-mun.otteravision.com/azt/mun/mun.m3u8",
         "activo":  true
     },
