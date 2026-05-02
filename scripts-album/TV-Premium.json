@@ -8,10 +8,10 @@
         "activo": false
       },
       {
-       "nombre": "TV Pública",
-                  "grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png",
+       "nombre": "Fubo Sports",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfubosports.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9ZnVib3Nwb3J0cw==",
         "activo": true
       },
