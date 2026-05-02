@@ -88,6 +88,14 @@
         "activo": true
       },
       {
+       "nombre": "ESPN 2",
+		"grupo": "🎙️ Noticias",
+                  "icono": "🎙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5fbmwy",
+        "activo": true
+      },
+      {
        "nombre": "Fubo Sports",
                   "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -126,14 +134,6 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw",
         "activo": true
-      },
-      {
-       "nombre": "Canal 26",
-		"grupo": "🎙️ Noticias",
-                  "icono": "🎙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png",
-        "url": "https://tv-libre.net/html/fl/?get=MjZfVFZfSEQ",
-        "activo": false
       },
       {
        "nombre": "Cronica TV",
