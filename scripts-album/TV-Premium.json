@@ -16,12 +16,12 @@
         "activo": true
       },
       {
-       "nombre": "El Nueve",
-                  "grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
+       "nombre": "Evento 2",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
-        "url": "https://tv-libre.net/html/fl/?get=Q2FuYWw5&lang=1",
-        "activo": false
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czE=",
+        "activo": true
       },
       {
        "nombre": "Telefe",
