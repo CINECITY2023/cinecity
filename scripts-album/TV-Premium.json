@@ -23,6 +23,14 @@
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
         "activo": true
       },
+	{
+       "nombre": "Evento 4",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0ZnV0Ym9s",
+        "activo": true
+      },
 	  {
        "nombre": "ESPN 🇲🇽",
 		          "grupo": "⚽ Deportes",
