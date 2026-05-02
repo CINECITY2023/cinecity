@@ -112,6 +112,14 @@
         "activo": true
       },
       {
+       "nombre": "Win Sports+",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports+.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXM=",
+        "activo": true
+      },
+      {
        "nombre": "Ziggo sport",
 		"grupo": "⚽ Deportes",
                   "icono": "⚽",
