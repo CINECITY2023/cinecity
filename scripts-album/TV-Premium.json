@@ -96,6 +96,14 @@
         "activo": true
       },
       {
+       "nombre": "ESPN 3",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG4z",
+        "activo": true
+      },
+      {
        "nombre": "Fubo Sports",
                   "grupo": "⚽ Deportes",
                   "icono": "⚽",
@@ -143,15 +151,7 @@
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw",
         "activo": true
       },
-      {
-       "nombre": "DTV",
-		"grupo": "🎙️ Noticias",
-                  "icono": "🎙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHdiputadostv.png",
-        "url": "https://tv-libre.net/html/fl/?get=RGlwdXRhZG9zX1RW",
-        "activo": false
-      },
-      {
+	}
        "nombre": "Argentina 12",
 		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
