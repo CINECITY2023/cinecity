@@ -45,7 +45,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports2.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMy",
-        "activo": false
+        "activo": true
       },
 	  {
        "nombre": "ESPN 🇲🇽",
@@ -53,6 +53,22 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5teA==",
+        "activo": true
+      },
+      {
+       "nombre": "ESPN",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWVzcG5wbHVzMw==",
+        "activo": true
+      },
+      {
+       "nombre": "ESPN Deportes",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespndeportes.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYTE0aGQuY29tL3Zpdm8vY2FuYWwucGhwP3N0cmVhbT1lc3BuZGVwb3J0ZXM=",
         "activo": true
       },
 	{
@@ -78,22 +94,6 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw",
         "activo": true
-      },
-      {
-       "nombre": "Metro TV",
-		"grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TWV0cm8",
-        "activo": false
-      },
-      {
-       "nombre": "Net TV",
-		"grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png",
-        "url": "https://tv-libre.net/html/fl/?get=TmV0X1RW",
-        "activo": false
       },
       {
        "nombre": "Telemax",
