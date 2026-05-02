@@ -1,11 +1,11 @@
 [
   {
-       "nombre": "America TV",
-                  "grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
+       "nombre": "Evento 1",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
-        "url": "http://canal-pro.xyz:8080/662601893/283YRd35DxE2/61551",
-        "activo": false
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
+        "activo": true
       },
       {
        "nombre": "Fubo Sports",
