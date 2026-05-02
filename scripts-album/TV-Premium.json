@@ -101,7 +101,15 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnNwb3J0cw==",
-        "activo": false
+        "activo": true
+      },
+      {
+       "nombre": "Win Sports+",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports+.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPXdpbnBsdXMy",
+        "activo": true
       },
       {
        "nombre": "Ziggo sport",
@@ -110,14 +118,6 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw",
         "activo": true
-      },
-      {
-       "nombre": "C5N",
-		"grupo": "🎙️ Noticias",
-                  "icono": "🎙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
-        "url": "https://tv-libre.net/html/fl/?get=QzVO",
-        "activo": false
       },
       {
        "nombre": "Canal 26",
