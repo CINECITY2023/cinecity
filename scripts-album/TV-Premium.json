@@ -47,6 +47,14 @@
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMy",
         "activo": true
       },
+	{
+       "nombre": "ESPN",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://futbol-libre.su/espn-1/",
+        "activo": true
+      },
 	  {
        "nombre": "ESPN 🇲🇽",
 		          "grupo": "⚽ Deportes",
@@ -150,14 +158,6 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHziggosport.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3ppZ2dvczEucGhw",
         "activo": true
-      },
-	}
-       "nombre": "Argentina 12",
-		"grupo": "🎙️ Noticias",
-                  "icono": "🎙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png",
-        "url": "https://tv-libre.net/html/fl/?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
-        "activo": false
       },
       {
        "nombre": "LN+",
