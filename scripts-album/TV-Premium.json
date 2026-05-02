@@ -3,8 +3,16 @@
        "nombre": "Evento 1",
                   "grupo": "⚽ Deportes",
                   "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTE=",
+        "activo": true
+      },
+	 {
+       "nombre": "Evento 2",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czE=",
         "activo": true
       },
       {
@@ -13,14 +21,6 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfubosports.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9ZnVib3Nwb3J0cw==",
-        "activo": true
-      },
-      {
-       "nombre": "Evento 2",
-                  "grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
-        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czE=",
         "activo": true
       },
       {
