@@ -15,6 +15,14 @@
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL3Byby5waHA/aWQ9dHY0czE=",
         "activo": true
       },
+	{
+       "nombre": "Evento 3",
+                  "grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png",
+        "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9sYXRhbXZpZHoxLmNvbS9jYW5hbC5waHA/c3RyZWFtPWRpc25leTI=",
+        "activo": true
+      },
       {
        "nombre": "Fubo Sports",
                   "grupo": "⚽ Deportes",
@@ -22,14 +30,6 @@
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfubosports.png",
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9ZnVib3Nwb3J0cw==",
         "activo": true
-      },
-      {
-       "nombre": "Telefe",
-                  "grupo": "🏙️ Buenos Aires",
-                  "icono": "🏙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-        "url": "http://canal-pro.xyz:8080/662601893/283YRd35DxE2/53225",
-        "activo": false
       },
 	  {
        "nombre": "El Trece",
