@@ -178,34 +178,34 @@
     "activo": true
   },
   {
-    "nombre": "canal 23",
+    "nombre": "Automoto 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH23png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHautomoto.png",
     "url": "https://bolaloca.my/player/3/23",
     "activo": true
   },
   {
-    "nombre": "canal 24",
+    "nombre": "TF1 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH24png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtf1.png",
     "url": "https://bolaloca.my/player/3/24",
     "activo": true
   },
   {
-    "nombre": "canal 25",
+    "nombre": "TMC 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH25png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtmc.png",
     "url": "https://bolaloca.my/player/3/25",
     "activo": true
   },
   {
-    "nombre": "canal 26",
+    "nombre": "M6 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH26png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHm6.png",
     "url": "https://bolaloca.my/player/3/26",
     "activo": true
   },
@@ -218,18 +218,18 @@
     "activo": true
   },
   {
-    "nombre": "canal 28",
+    "nombre": "France TV 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH28png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/28",
     "activo": true
   },
   {
-    "nombre": "canal 29",
+    "nombre": "France TV 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH29png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/29",
     "activo": true
   },
