@@ -5,8 +5,10 @@
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-02.playlist.m3u8
 
 ✔️EVENTOS⚽ 2
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 ✔️ EVENTOS⚽ 3
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️ EVENTOS⚽ 3
