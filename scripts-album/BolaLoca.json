@@ -3,7 +3,7 @@
     "nombre": "Bein Sports 1 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports1png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports1.png",
     "url": "https://bolaloca.my/player/3/1",
     "activo": true
   },
@@ -11,7 +11,7 @@
     "nombre": "Bein Sports 2 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports2png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports2.png",
     "url": "https://bolaloca.my/player/3/2",
     "activo": true
   },
@@ -19,7 +19,7 @@
     "nombre": "Bein Sports 3 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports3png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports3.png",
     "url": "https://bolaloca.my/player/3/3",
     "activo": true
   },
@@ -27,7 +27,7 @@
     "nombre": "Bein Sports 4 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports4png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports4.png",
     "url": "https://bolaloca.my/player/3/4",
     "activo": true
   },
@@ -35,7 +35,7 @@
     "nombre": "Bein sports 5 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports5png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports5.png",
     "url": "https://bolaloca.my/player/3/5",
     "activo": true
   },
@@ -43,7 +43,7 @@
     "nombre": "Bein Sports 6 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports6png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports6.png",
     "url": "https://bolaloca.my/player/3/6",
     "activo": true
   },
@@ -51,7 +51,7 @@
     "nombre": "Bein Sports 7 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports7png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports7.png",
     "url": "https://bolaloca.my/player/3/7",
     "activo": true
   },
@@ -59,7 +59,7 @@
     "nombre": "Bein Sports 8 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports8png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports8.png",
     "url": "https://bolaloca.my/player/3/8",
     "activo": true
   },
@@ -67,7 +67,7 @@
     "nombre": "Bein Sports 9 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports9png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports9.png",
     "url": "https://bolaloca.my/player/3/9",
     "activo": true
   },
@@ -75,89 +75,89 @@
     "nombre": "Bein Sports 10 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports10png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports10.png",
     "url": "https://bolaloca.my/player/3/10",
     "activo": true
   },
 
   {
-    "nombre": "canal 11",
+    "nombre": "TV5MONDE+ 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH11png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtv5monde+.png",
     "url": "https://bolaloca.my/player/3/11",
     "activo": true
   },
   {
-    "nombre": "canal 12",
+    "nombre": "+Foot 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH12png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+foot.png",
     "url": "https://bolaloca.my/player/3/12",
     "activo": true
   },
   {
-    "nombre": "canal 13",
+    "nombre": "+Sport 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH13png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+Sport.png",
     "url": "https://bolaloca.my/player/3/13",
     "activo": true
   },
   {
-    "nombre": "canal 14",
+    "nombre": "+Sport 360 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH14png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+sport360.png",
     "url": "https://bolaloca.my/player/3/14",
     "activo": true
   },
   {
-    "nombre": "canal 15",
+    "nombre": "EuroSport 1 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH15png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHeurosport1.png",
     "url": "https://bolaloca.my/player/3/15",
     "activo": true
   },
 
   {
-    "nombre": "canal 16",
+    "nombre": "EuroSport 2 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH16png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHeurosport2.png",
     "url": "https://bolaloca.my/player/3/16",
     "activo": true
   },
   {
-    "nombre": "canal 17",
+    "nombre": "RMC Sport 1 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH17png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHrmcsport1.png",
     "url": "https://bolaloca.my/player/3/17",
     "activo": true
   },
   {
-    "nombre": "canal 18",
+    "nombre": "Ligue 1+ 6 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH18png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHligue1+6.png",
     "url": "https://bolaloca.my/player/3/18",
     "activo": true
   },
   {
-    "nombre": "canal 19",
+    "nombre": "L'equipe 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH19png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHlequipe.png",
     "url": "https://bolaloca.my/player/3/19",
     "activo": true
   },
   {
-    "nombre": "canal 20",
+    "nombre": "Ligue 1+ 🇫🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH20png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHligue1+.png",
     "url": "https://bolaloca.my/player/3/20",
     "activo": true
   },
