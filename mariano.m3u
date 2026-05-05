@@ -1416,6 +1416,11 @@ http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-92.playl
 ✔️ FOX Sports Premium
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsportspremium.png" group-title="⚽ Deportes",✔️ FOX Sports Premium
 
+✔️ Fubo Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfubosports.png" group-title="⚽ Deportes",✔️ Fubo Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
 
 ✔️ Garage TV 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png" group-title="⚽ Deportes",✔️ Garage TV 📱
@@ -1482,6 +1487,11 @@ https://cdn.cvattv.com.ar/live/c4eds/Show_Sports/SA_Live_dash_enc_C/Show_Sports.
 ✔️ Sky Sports
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysports.png" group-title="⚽ Deportes",✔️ Sky Sports
 
+✔️ Sport Digital
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHsportdigital.png" group-title="⚽ Deportes",✔️ Sport Digital
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+https://otte.bia-cf.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
 ✔️ TNT Sports Premium 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png" group-title="⚽ Deportes",✔️ TNT Sports Premium 📱
