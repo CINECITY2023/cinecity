@@ -168,12 +168,12 @@
         "activo": true
       },
       {
-       "nombre": "TN",
-		"grupo": "🎙️ Noticias",
-                  "icono": "🎙️",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
-        "url": "https://tv-libre.net/html/fl/?get=VG9kb05vdGljaWFz",
-        "activo": false
+       "nombre": "TNT Sports Premium",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtntsportspremium.png",
+        "url": "https://deepcathink.com/deportivo.php?player=embedded&live=tntarg",
+        "activo": true
       },
       {
        "nombre": "Canal 12 Cordoba",
