@@ -566,82 +566,82 @@
   },
 
   {
-    "nombre": "canal 71",
+    "nombre": "ESPN Deportes",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH71png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespndeportes.png",
     "url": "https://bolaloca.my/player/3/71",
     "activo": true
   },
   {
-    "nombre": "canal 72",
+    "nombre": "Universo",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH72png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHuniverso.png",
     "url": "https://bolaloca.my/player/3/72",
     "activo": true
   },
   {
-    "nombre": "canal 73",
+    "nombre": "Telemundo Noticias",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH73png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtelemundonoticias.png",
     "url": "https://bolaloca.my/player/3/73",
     "activo": true
   },
   {
-    "nombre": "canal 74",
+    "nombre": "IAS",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH74png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHias.png",
     "url": "https://bolaloca.my/player/3/74",
     "activo": true
   },
   {
-    "nombre": "canal 75",
+    "nombre": "TNT Sports Premium 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH75png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://bolaloca.my/player/3/75",
     "activo": true
   },
   {
-    "nombre": "canal 76",
+    "nombre": "ESPN Premium 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH76png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
     "url": "https://bolaloca.my/player/3/76",
     "activo": true
   },
   {
-    "nombre": "canal 77",
+    "nombre": "TyC Sports",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH77png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
     "activo": true
   },
   {
-    "nombre": "canal 78",
+    "nombre": "FOX Sports 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH78png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
     "url": "https://bolaloca.my/player/3/78",
     "activo": true
   },
   {
-    "nombre": "canal 79",
+    "nombre": "FOX Sports 2 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH79png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
     "url": "https://bolaloca.my/player/3/79",
     "activo": true
   },
   {
-    "nombre": "canal 80",
+    "nombre": "FOX Sports 3 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH80png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
     "url": "https://bolaloca.my/player/3/80",
     "activo": true
   },
