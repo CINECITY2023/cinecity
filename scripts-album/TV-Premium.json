@@ -47,14 +47,6 @@
         "url": "https://futbol-libre.su/eventos.html?r=aHR0cHM6Ly9lc3ZpZGVvZnkuY29tL290ZS5waHA/aWQ9YnMy",
         "activo": true
       },
-      {
-       "nombre": "DSports+",
-		"grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-        "url": "https://bolaloca.my/player/3/96",
-        "activo": true
-      },
 	{
        "nombre": "ESPN",
 		"grupo": "⚽ Deportes",
