@@ -827,31 +827,31 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 ✔️ FreeTV Accion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvaccion.png" group-title="🎬 Cine",✔️ FreeTV Accion
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t7257cceukat1hv3t0/1920x1080_4716800_1_f.m3u8?i=475_16200
 
 ✔️ FreeTV Drama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvdrama.png" group-title="🎬 Cine",✔️ FreeTV Drama
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t72n07n0ci898sttug/1920x1080_4787200_1_f.m3u8?i=475_16198
 
 ✔️ FreeTV Estelar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvestelar.png" group-title="🎬 Cine",✔️ FreeTV Estelar
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t72cveq1qjl2ra47bg/1920x1080_4716800_1_f.m3u8?i=475_16197
 
 ✔️ FreeTV Familia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvfamilia.png" group-title="🎬 Cine",✔️ FreeTV Familia
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t732ua797t6h4iv8pg/1920x1080_4787200_1_f.m3u8?i=475_16196
 
 ✔️ FreeTV Live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvlive.png" group-title="🎬 Cine",✔️ FreeTV Live
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t73jropc32btrmuq2g/1280x720_3071200_0_f.m3u8?i=475_16195
 
 ✔️ FreeTV Sureño
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvsureño.png" group-title="🎬 Cine",✔️ FreeTV Sureño
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1NNN&delivery_type=fast&did=&ifa_type=sessionid&app_bundle=&app_store_url=&app_domain=freetv.com&app_name=FreeTV&custom_targeting=web&delivery_partner=internal&custom_4=internal&player_height=720&player_width=1280&content_channel=FreeTV&content_network=FreeTV&content_language=es&content_cat=IAB1-5%2CIAB1-7&partner_domain=freetv.com&content_dist_name=internal&device_make=&device_model=&device_os=web&device_language=es&preferred_language=EN&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=ar&country_region=buenos%20aires&postal_code=1888&gender=not_specified&yob=0&site_page=https%253A%252F%252Fwww.freetv.com%252F%253Fsection%253Depgsectionespanol&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
+https://stream.ads.ottera.tv/cl/260505d7t70ommshdlkc5d4j1g/1920x1080_4715744_1_f.m3u8?i=475_16201
 
 ✔️ FreeTV Terror
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvterror.png" group-title="🎬 Cine",✔️ FreeTV Terror
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8
+https://stream.ads.ottera.tv/cl/260505d7t751jucj6bvlvou4ag/1920x1080_4787200_1_f.m3u8?i=475_16194
 
 ✔️ FX 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="🎬 Cine",✔️ FX 📱
