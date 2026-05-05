@@ -647,34 +647,34 @@
   },
 
   {
-    "nombre": "canal 81",
+    "nombre": "Win Sports",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH81png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
     "url": "https://bolaloca.my/player/3/81",
     "activo": true
   },
   {
-    "nombre": "canal 82",
+    "nombre": "Win Sports",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH82png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
     "url": "https://bolaloca.my/player/3/82",
     "activo": true
   },
   {
-    "nombre": "canal 83",
+    "nombre": "TNT Sports Premium",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH83png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://bolaloca.my/player/3/83",
     "activo": true
   },
   {
-    "nombre": "canal 84",
+    "nombre": "L1Max",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH84png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHl1max.png",
     "url": "https://bolaloca.my/player/3/84",
     "activo": true
   },
@@ -684,45 +684,45 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH85png",
     "url": "https://bolaloca.my/player/3/85",
-    "activo": true
+    "activo": false
   },
   {
-    "nombre": "canal 86",
+    "nombre": "TeleAmazonas",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH86png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHteleamazonas.png",
     "url": "https://bolaloca.my/player/3/86",
     "activo": true
   },
   {
-    "nombre": "canal 87",
+    "nombre": "ESPN 🇲🇽",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH87png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
     "url": "https://bolaloca.my/player/3/87",
     "activo": true
   },
   {
-    "nombre": "canal 88",
+    "nombre": "ESPN 2",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH88png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
     "url": "https://bolaloca.my/player/3/88",
     "activo": true
   },
   {
-    "nombre": "canal 89",
+    "nombre": "ESPN 3",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH89png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
     "url": "https://bolaloca.my/player/3/89",
     "activo": true
   },
   {
-    "nombre": "canal 90",
+    "nombre": "ESPN 4",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH90png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
     "url": "https://bolaloca.my/player/3/90",
     "activo": true
   },
