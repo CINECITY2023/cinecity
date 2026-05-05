@@ -167,7 +167,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH21png",
     "url": "https://bolaloca.my/player/3/21",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 22",
@@ -175,7 +175,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH22png",
     "url": "https://bolaloca.my/player/3/22",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "Automoto 🇫🇷",
@@ -215,7 +215,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH27png",
     "url": "https://bolaloca.my/player/3/27",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "France TV 🇫🇷",
@@ -239,7 +239,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH30png",
     "url": "https://bolaloca.my/player/3/30",
-    "activo": true
+    "activo": false
   },
 
   {
@@ -248,7 +248,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH31png",
     "url": "https://bolaloca.my/player/3/31",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 32",
@@ -256,7 +256,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH32png",
     "url": "https://bolaloca.my/player/3/32",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 33",
@@ -264,7 +264,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH33png",
     "url": "https://bolaloca.my/player/3/33",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 34",
@@ -272,7 +272,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH34png",
     "url": "https://bolaloca.my/player/3/34",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 35",
@@ -280,7 +280,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH35png",
     "url": "https://bolaloca.my/player/3/35",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 36",
@@ -288,7 +288,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH36png",
     "url": "https://bolaloca.my/player/3/36",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 37",
@@ -296,7 +296,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH37png",
     "url": "https://bolaloca.my/player/3/37",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 38",
@@ -304,7 +304,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH38png",
     "url": "https://bolaloca.my/player/3/38",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 39",
@@ -312,7 +312,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH39png",
     "url": "https://bolaloca.my/player/3/39",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 40",
@@ -320,7 +320,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH40png",
     "url": "https://bolaloca.my/player/3/40",
-    "activo": true
+    "activo": false
   },
 
   {
@@ -329,7 +329,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH41png",
     "url": "https://bolaloca.my/player/3/41",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 42",
@@ -337,7 +337,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH42png",
     "url": "https://bolaloca.my/player/3/42",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 43",
@@ -345,7 +345,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH43png",
     "url": "https://bolaloca.my/player/3/43",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 44",
@@ -353,7 +353,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH44png",
     "url": "https://bolaloca.my/player/3/44",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 45",
@@ -361,7 +361,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH45png",
     "url": "https://bolaloca.my/player/3/45",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 46",
@@ -369,7 +369,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH46png",
     "url": "https://bolaloca.my/player/3/46",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 47",
@@ -377,7 +377,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH47png",
     "url": "https://bolaloca.my/player/3/47",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 48",
@@ -385,7 +385,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH48png",
     "url": "https://bolaloca.my/player/3/48",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 49",
@@ -393,7 +393,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH49png",
     "url": "https://bolaloca.my/player/3/49",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 50",
@@ -401,7 +401,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH50png",
     "url": "https://bolaloca.my/player/3/50",
-    "activo": true
+    "activo": false
   },
 {
     "nombre": "canal 51",
@@ -409,7 +409,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH51png",
     "url": "https://bolaloca.my/player/3/51",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 52",
@@ -417,7 +417,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH52png",
     "url": "https://bolaloca.my/player/3/52",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 53",
@@ -425,7 +425,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH53png",
     "url": "https://bolaloca.my/player/3/53",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 54",
@@ -433,7 +433,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH54png",
     "url": "https://bolaloca.my/player/3/54",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 55",
@@ -441,7 +441,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH55png",
     "url": "https://bolaloca.my/player/3/55",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 56",
@@ -449,7 +449,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH56png",
     "url": "https://bolaloca.my/player/3/56",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 57",
@@ -457,7 +457,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH57png",
     "url": "https://bolaloca.my/player/3/57",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 58",
@@ -465,7 +465,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH58png",
     "url": "https://bolaloca.my/player/3/58",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 59",
@@ -473,7 +473,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH59png",
     "url": "https://bolaloca.my/player/3/59",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 60",
@@ -481,7 +481,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH60png",
     "url": "https://bolaloca.my/player/3/60",
-    "activo": true
+    "activo": false
   },
 
   {
@@ -490,13 +490,13 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH61png",
     "url": "https://bolaloca.my/player/3/61",
-    "activo": true
+    "activo": false
   },
   {
-    "nombre": "canal 62",
+    "nombre": "Deportes por M+",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH62png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportesporm+.png",
     "url": "https://bolaloca.my/player/3/62",
     "activo": true
   },
@@ -506,7 +506,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH63png",
     "url": "https://bolaloca.my/player/3/63",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 64",
@@ -514,7 +514,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH64png",
     "url": "https://bolaloca.my/player/3/64",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 65",
@@ -522,7 +522,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH65png",
     "url": "https://bolaloca.my/player/3/65",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 66",
@@ -530,7 +530,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH66png",
     "url": "https://bolaloca.my/player/3/66",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 67",
@@ -538,29 +538,29 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH67png",
     "url": "https://bolaloca.my/player/3/67",
-    "activo": true
+    "activo": false
   },
   {
-    "nombre": "canal 68",
+    "nombre": "TUDN",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH68png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
     "activo": true
   },
   {
-    "nombre": "canal 69",
+    "nombre": "Bein Sport Ñ",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH69png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsñ.png",
     "url": "https://bolaloca.my/player/3/69",
     "activo": true
   },
   {
-    "nombre": "canal 70",
+    "nombre": "Fox Deportes",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH70png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxdeportes.png",
     "url": "https://bolaloca.my/player/3/70",
     "activo": true
   },
