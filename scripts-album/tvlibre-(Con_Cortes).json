@@ -1015,6 +1015,14 @@
         "url": "https://tvlibr3.com/html/fl/?get=UXVpZXJvX0hE",
         "activo": true
       },
+	{
+       "nombre": "Playboy TV",
+		"grupo": "🔞 Adultos",
+                  "icono": "🔞​",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/CHplayboytv.png",
+        "url": "https://tvlibr3.com/html/fl/?get=UGxheWJveQ",
+        "activo": true
+      },
 	  {
        "nombre": "Sextreme",
 		"grupo": "🔞 Adultos",
