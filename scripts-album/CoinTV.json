@@ -1,1 +1,10 @@
-https://cointv.site/canales.php?id=mega
+[
+{
+    "nombre": "Mega",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmega.png",
+    "url": "https://cointv.site/canales.php?id=mega",
+    "activo": true
+  }
+]
