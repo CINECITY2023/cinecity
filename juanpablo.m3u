@@ -2447,11 +2447,11 @@ http://107.152.39.199:8030/hls/canal3.m3u8
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 
 ✔️ 🇨🇴 Señal Colombia
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Señal Colombia
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Señal Colombia
 http://38.44.109.41:8003/play/a018/index.m3u8
 
 ✔️ 🇨🇴 Señal Colombia
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Señal Colombia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHseñalcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 ✔️ 🇨🇴 Telepacifico
