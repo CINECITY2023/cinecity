@@ -306,17 +306,17 @@ https://panel.host-live.com:19360/cn247tv/Source.m3u8
 https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
 
 ✔️ A24
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
 ✔️ A24
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 
 ✔️ A24
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/a24.playlist.m3u8
 
 ✔️ Argentina 12 📱
