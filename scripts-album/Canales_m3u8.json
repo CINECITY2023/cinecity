@@ -552,6 +552,14 @@
         "activo":  true
     },
     {
+        "nombre":  "MyTime Movie Network",
+        "grupo":  "🎬 Cine",
+        "icono":  "🎬",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png",
+        "url":  "https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8",
+        "activo":  true
+    },
+    {
         "nombre":  "RakutenTV Pelis Top",
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
