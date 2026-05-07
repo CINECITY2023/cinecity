@@ -1461,6 +1461,14 @@
         "icono":  "🇨🇴",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelepacificocolombia.png",
         "url":  "https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8",
+        "activo":  false
+    },
+    {
+        "nombre":  "Canal 11",
+        "grupo":  "Costa Rica",
+        "icono":  "🇨🇷",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal11costarica.png",
+        "url":  "http://45.167.1.136:8000/play/a029",
         "activo":  true
     },
     {
