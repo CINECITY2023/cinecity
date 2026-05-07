@@ -1480,6 +1480,14 @@
         "activo":  true
     },
     {
+        "nombre":  "Canal 13",
+        "grupo":  "Costa Rica",
+        "icono":  "🇨🇷",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal13costarica.png",
+        "url":  "http://45.167.1.136:8000/play/a008",
+        "activo":  true
+    },
+    {
         "nombre":  "Extra TV",
         "grupo":  "Costa Rica",
         "icono":  "🇨🇷",
