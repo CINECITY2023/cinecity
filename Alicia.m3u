@@ -831,7 +831,7 @@ https://stream.ads.ottera.tv/cl/260505d7t7257cceukat1hv3t0/1920x1080_4716800_1_f
 
 ✔️ FreeTV Drama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvdrama.png" group-title="🎬 Cine",✔️ FreeTV Drama
-https://stream.ads.ottera.tv/cl/260505d7t72n07n0ci898sttug/1920x1080_4787200_1_f.m3u8?i=475_16198
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200
 
 ✔️ FreeTV Estelar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvestelar.png" group-title="🎬 Cine",✔️ FreeTV Estelar
