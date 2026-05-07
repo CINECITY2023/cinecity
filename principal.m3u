@@ -2458,6 +2458,10 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal11costarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
 http://45.167.1.136:8000/play/a029
 
+✔️ 🇨🇷 Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal13costarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
+http://45.167.1.136:8000/play/a008
+
 ✔️ 🇨🇷 Extra TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
