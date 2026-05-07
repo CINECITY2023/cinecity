@@ -340,7 +340,15 @@
         "grupo":  "🚜 Cultura",
         "icono":  "🚜",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
-        "url":  "https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true",
+        "url":  "http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-45.playlist.m3u8",
+        "activo":  true
+    },
+    {
+        "nombre":  "Animal Planet Discovery",
+        "grupo":  "🚜 Cultura",
+        "icono":  "🚜",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
+        "url":  "http://45.167.1.136:8000/play/a03i",
         "activo":  true
     },
     {
