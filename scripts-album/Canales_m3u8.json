@@ -392,6 +392,14 @@
         "activo":  true
     },
     {
+        "nombre":  "A&E",
+        "grupo":  "🎬 Cine",
+        "icono":  "🎬",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa\u0026e.png",
+        "url":  "http://45.167.1.136:8000/play/a03g",
+        "activo":  true
+    },
+    {
         "nombre":  "AMC",
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
@@ -1624,12 +1632,20 @@
         "activo":  true
     },
     {
+        "nombre":  "A Más Guate+",
+        "grupo":  "Guatemala",
+        "icono":  "🇬🇹",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHamasguate+guatemala.png",
+        "url":  "http://45.167.1.136:8000/play/a01r",
+        "activo":  true
+    },
+    {
         "nombre":  "Canal 7",
         "grupo":  "Guatemala",
         "icono":  "🇬🇹",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal7guatemala.png",
         "url":  "http://45.5.117.57:8999/play/a02m/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Sas TV",
