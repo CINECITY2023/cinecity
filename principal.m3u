@@ -2458,8 +2458,12 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/telepacificocolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Telepacifico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
 
+✔️ 🇨🇷 Canal 11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal11costarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
+http://45.167.1.136:8000/play/a029
+
 ✔️ 🇨🇷 Extra TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/ExtraTVCostaRica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png" group-title="🌍 Costa Rica",✔️ 🇨🇷 Extra TV
 https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8
 
 ✔️ 🇨🇷 Tele Uno
