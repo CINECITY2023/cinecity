@@ -477,7 +477,7 @@
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png",
         "url":  "http://45.5.117.57:8999/play/a02g/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Grjngo",
@@ -485,6 +485,14 @@
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgrjngo.png",
         "url":  "https://amogonetworx-grjngo-2-eu.plex.wurl.tv/2000.m3u8",
+        "activo":  true
+    },
+    {
+        "nombre":  "HBO",
+        "grupo":  "🎬 Cine",
+        "icono":  "🎬",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbo.png",
+        "url":  "http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-102.playlist.m3u8",
         "activo":  true
     },
     {
@@ -541,7 +549,7 @@
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png",
         "url":  "http://45.5.117.57:8999/play/a02t/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Sony Movies",
@@ -556,7 +564,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHstarchannel.png",
-        "url":  "http://45.5.117.57:8999/play/a03v/index.m3u8",
+        "url":  "http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-68.playlist.m3u8",
         "activo":  true
     },
     {
@@ -565,7 +573,7 @@
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png",
         "url":  "http://45.5.117.57:8999/play/a02h/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Universal Premiere",
@@ -573,7 +581,7 @@
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHuniversalpremiere.png",
         "url":  "http://45.5.117.57:8999/play/a03j/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Xtrema TV Cine Accion",
@@ -701,7 +709,7 @@
         "icono":  "⚽",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
         "url":  "http://45.5.117.57:8999/play/a04t/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "TyC Sports",
@@ -765,7 +773,7 @@
         "icono":  "🎈",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
         "url":  "http://45.5.117.57:8999/play/a03u/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Magic Kids",
@@ -845,7 +853,7 @@
         "icono":  "🤖",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlocomotion.png",
         "url":  "http://51.222.85.85:81/hls/loco/index.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "Max Anime",
@@ -868,7 +876,7 @@
         "grupo":  "🤖 Animacion",
         "icono":  "🤖",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHzaz.png",
-        "url":  "https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]\u0026network_id=13012\u0026live=1\u0026hls_marker=1\u0026position=preroll\u0026pod_duration=120\u0026min_ad_duration=6\u0026max_ad_duration=120\u0026did=[DID]\u0026ip=[IP]\u0026ua=[UA]\u0026player_height=[HEIGHT]\u0026player_width=[WIDTH]\u0026is_lat=[LIMITED_AD_TRACKING]\u0026us_privacy=[US_PRIVACY]\u0026consent=[CONSENT]\u0026lat=[LAT]\u0026lon=[LON]\u0026device_type=[DEVICE_TYPE]\u0026gdpr=[GDPR]\u0026ifa_type=[IFA_TYPE\u0026schain=[SCHAIN]",
+        "url":  "https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8",
         "activo":  true
     },
     {
@@ -1429,15 +1437,7 @@
         "icono":  "🇨🇴",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHrcncolombia.png",
         "url":  "http://107.152.39.199:8030/hls/canal3.m3u8",
-        "activo":  true
-    },
-    {
-        "nombre":  "RCN",
-        "grupo":  "Colombia",
-        "icono":  "🇨🇴",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHrcncolombia.png",
-        "url":  "http://107.152.39.199:8030/hls/canal3.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
         "nombre":  "RCN Mas",
