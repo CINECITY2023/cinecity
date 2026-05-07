@@ -336,11 +336,19 @@
         "activo":  true
     },
     {
+        "nombre":  "Animal Planet Discovery",
+        "grupo":  "🚜 Cultura",
+        "icono":  "🚜",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
+        "url":  "https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true",
+        "activo":  true
+    },
+    {
         "nombre":  "Chacra TV",
         "grupo":  "🚜 Cultura",
         "icono":  "🚜",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHchacratv.png",
-        "url":  "https://g5.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/Playlist.m3u8?sense=true",
+        "url":  "https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8",
         "activo":  true
     },
     {
@@ -380,7 +388,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa\u0026e.png",
-        "url":  "http://45.5.117.57:8999/play/a02w/index.m3u8",
+        "url":  "http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-71.playlist.m3u8",
         "activo":  true
     },
     {
@@ -412,7 +420,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvaccion.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200",
         "activo":  true
     },
     {
@@ -420,7 +428,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvdrama.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16198",
         "activo":  true
     },
     {
@@ -428,7 +436,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvestelar.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197",
         "activo":  true
     },
     {
@@ -436,7 +444,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvfamilia.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16196",
         "activo":  true
     },
     {
@@ -444,7 +452,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvlive.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16195",
         "activo":  true
     },
     {
@@ -452,7 +460,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvsureño.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16201",
         "activo":  true
     },
     {
@@ -460,7 +468,7 @@
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvterror.png",
-        "url":  "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-ono/playlist.m3u8",
+        "url":  "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194",
         "activo":  true
     },
     {
