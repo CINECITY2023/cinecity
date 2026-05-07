@@ -827,31 +827,31 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 ✔️ FreeTV Accion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvaccion.png" group-title="🎬 Cine",✔️ FreeTV Accion
-https://stream.ads.ottera.tv/cl/260505d7t7257cceukat1hv3t0/1920x1080_4716800_1_f.m3u8?i=475_16200
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200
 
 ✔️ FreeTV Drama
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvdrama.png" group-title="🎬 Cine",✔️ FreeTV Drama
-https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16200
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16198
 
 ✔️ FreeTV Estelar
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvestelar.png" group-title="🎬 Cine",✔️ FreeTV Estelar
-https://stream.ads.ottera.tv/cl/260505d7t72cveq1qjl2ra47bg/1920x1080_4716800_1_f.m3u8?i=475_16197
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16197
 
 ✔️ FreeTV Familia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvfamilia.png" group-title="🎬 Cine",✔️ FreeTV Familia
-https://stream.ads.ottera.tv/cl/260505d7t732ua797t6h4iv8pg/1920x1080_4787200_1_f.m3u8?i=475_16196
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16196
 
 ✔️ FreeTV Live
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvlive.png" group-title="🎬 Cine",✔️ FreeTV Live
-https://stream.ads.ottera.tv/cl/260505d7t73jropc32btrmuq2g/1280x720_3071200_0_f.m3u8?i=475_16195
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16195
 
 ✔️ FreeTV Sureño
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvsureño.png" group-title="🎬 Cine",✔️ FreeTV Sureño
-https://stream.ads.ottera.tv/cl/260505d7t70ommshdlkc5d4j1g/1920x1080_4715744_1_f.m3u8?i=475_16201
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16201
 
 ✔️ FreeTV Terror
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfreetvterror.png" group-title="🎬 Cine",✔️ FreeTV Terror
-https://stream.ads.ottera.tv/cl/260505d7t751jucj6bvlvou4ag/1920x1080_4787200_1_f.m3u8?i=475_16194
+https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1&network_id=16194
 
 ✔️ FX 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHfx.png" group-title="🎬 Cine",✔️ FX 📱
