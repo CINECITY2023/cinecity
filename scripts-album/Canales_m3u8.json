@@ -408,6 +408,22 @@
         "activo":  true
     },
     {
+        "nombre":  "AMC",
+        "grupo":  "🎬 Cine",
+        "icono":  "🎬",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
+        "url":  "http://45.167.1.136:8000/play/a01h",
+        "activo":  true
+    },
+    {
+        "nombre":  "AXN",
+        "grupo":  "🎬 Cine",
+        "icono":  "🎬",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png",
+        "url":  "http://45.167.1.136:8000/play/a01f",
+        "activo":  true
+    },
+    {
         "nombre":  "Cine Oro",
         "grupo":  "🎬 Cine",
         "icono":  "🎬",
@@ -821,6 +837,14 @@
         "icono":  "🎈",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHyoutubekids.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=514",
+        "activo":  true
+    },
+    {
+        "nombre":  "Adult Swim",
+        "grupo":  "🤖 Animacion",
+        "icono":  "🤖",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHadultswim.png",
+        "url":  "http://45.167.1.136:8000/play/a012",
         "activo":  true
     },
     {
@@ -1685,6 +1709,14 @@
         "icono":  "🇲🇽",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png",
         "url":  "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398",
+        "activo":  true
+    },
+    {
+        "nombre":  "Azteca Clic",
+        "grupo":  "Mexico",
+        "icono":  "🇲🇽",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png",
+        "url":  "http://45.167.1.136:8000/play/a05q",
         "activo":  true
     },
     {
