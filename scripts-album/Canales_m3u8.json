@@ -45,7 +45,7 @@
         "icono":  "🏙️",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
         "url":  "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-16.playlist.m3u8",
-        "activo":  false
+        "activo":  true
     },
     {
         "nombre":  "Telefe Internacional",
@@ -284,7 +284,7 @@
         "grupo":  "🎙️ Noticias",
         "icono":  "🏙️",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
-        "url":  "https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8",
+        "url":  "http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/a24.playlist.m3u8",
         "activo":  true
     },
     {
