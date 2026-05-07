@@ -1472,6 +1472,14 @@
         "activo":  false
     },
     {
+        "nombre":  "Canal 6",
+        "grupo":  "Costa Rica",
+        "icono":  "🇨🇷",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal6costarica.png",
+        "url":  "http://45.167.1.136:8000/play/a028",
+        "activo":  true
+    },
+    {
         "nombre":  "Canal 11",
         "grupo":  "Costa Rica",
         "icono":  "🇨🇷",
@@ -1493,6 +1501,14 @@
         "icono":  "🇨🇷",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png",
         "url":  "https://d2axu5ozwr5gk0.cloudfront.net/480p.m3u8",
+        "activo":  true
+    },
+    {
+        "nombre":  "Extra TV",
+        "grupo":  "Costa Rica",
+        "icono":  "🇨🇷",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHextratvcostarica.png",
+        "url":  "http://45.167.1.136:8000/play/a009",
         "activo":  true
     },
     {
