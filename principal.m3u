@@ -684,8 +684,8 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cdn.cvattv.com.ar/live/c7eds/AEHD/SA_Live_dash_enc_C/AEHD.mpd
 
 ✔️ A&E
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa&e.png" group-title="🎬 Cine",✔️ A&E
-http://45.5.117.57:8999/play/a02w/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa&e.png" group-title="🎬 Cine",✔️ A&E
+http://45.167.1.136:8000/play/a03g
 
 ✔️ A&E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHa&e.png" group-title="🎬 Cine",✔️ A&E
@@ -705,6 +705,10 @@ https://amc-amcespanol-1-us.plex.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="🎬 Cine",✔️ AMC
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-76.playlist.m3u8
 
+✔️ AMC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png" group-title="🎬 Cine",✔️ AMC
+http://45.167.1.136:8000/play/a01h
+
 ✔️ AXN 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -714,6 +718,10 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd
 ✔️ AXN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-77.playlist.m3u8
+
+✔️ AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
+http://45.167.1.136:8000/play/a01f
 
 ✔️ Box Cinema
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHboxcinema.png" group-title="🎬 Cine",✔️ Box Cinema
@@ -1888,6 +1896,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
 #KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
 https://cdn.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc_C/Adult_Swim.mpd
 
+✔️ Adult Swim
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHadultswim.png" group-title="🤖 Animacion",✔️ Adult Swim
+http://45.167.1.136:8000/play/a012
+
 ✔️ Attack on Titan
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHattackontitan.png" group-title="🤖 Animacion",✔️ Attack on Titan
 
@@ -2536,8 +2548,12 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?cb=[CACHEBUSTER]&network_i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHstartvespaña.png" group-title="🌍 España",✔️ 🇪🇸 Star TVE
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_720.m3u8
 
+✔️ 🇬🇹 A Mas Guate+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHamasguate+guatemala.png" group-title="🌍 Guatemala",✔️ 🇬🇹 A Mas Guate+
+http://45.167.1.136:8000/play/a01r
+
 ✔️ 🇬🇹 Canal 7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal7guatemala.png" group-title="🌍 Guatemala",✔️ 🇬🇹 Canal 7
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal7guatemala.png" group-title="🌍 Guatemala",✔️ 🇬🇹 Canal 7
 http://45.5.117.57:8999/play/a02m/index.m3u8
 
 ✔️ 🇬🇹 Sas TV
@@ -2569,6 +2585,10 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 ✔️ 🇲🇽 Azteca Clic
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Clic
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5398
+
+✔️ 🇲🇽 Azteca Clic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHclicmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Clic
+http://45.167.1.136:8000/play/a05q
 
 ✔️ 🇲🇽 Azteca Internacional
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecalnternacionalmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Internacional
