@@ -1271,8 +1271,12 @@ https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/p
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
 
+✔️ CDN Deportes
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcdndeportes.png" group-title="⚽ Deportes",✔️ CDN Deportes
+http://45.167.1.136:8000/play/a022
+
 ✔️ Claro Sports 📱
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png" group-title="⚽ Deportes",✔️ Claro Sports 📱
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png" group-title="⚽ Deportes",✔️ Claro Sports 📱
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04983282c2fa819a08fa03a13fe4fdbe:4780a24340ea957c4a27b257e2b6ec4c
 https://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd?|referer=https://player.sensa.com.ar/
@@ -1648,6 +1652,10 @@ https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw1024019879_757686866/PLTV/86/224/3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHaztecacorazon.png" group-title="❤️ Novelas",✔️ Azteca Corazon
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5399
 
+✔️ Azteca Corazon
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHaztecacorazon.png" group-title="❤️ Novelas",✔️ Azteca Corazon
+http://45.167.1.136:8000/play/a014
+
 ✔️ Novelas Turcas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHnovelasturcas.png" group-title="❤️ Novelas",✔️ Novelas Turcas
 https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
@@ -1767,6 +1775,10 @@ https://cdn.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_C/CartoonNe
 ✔️ Cartoon Network
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-31.playlist.m3u8
+
+✔️ Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network
+http://45.167.1.136:8000/play/a00g
 
 ✔️ Cut the Rope
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcuttherope.png" group-title="🎈 Infantil",✔️ Cut the Rope
@@ -2614,6 +2626,10 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecalnternacionalmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Internacional
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
+✔️ 🇲🇽 Azteca Internacional
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecalnternacionalmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Internacional
+http://45.167.1.136:8000/play/a03c
+
 ✔️ 🇲🇽 Azteca Uno
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHaztecaunomexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Azteca Uno
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5396
@@ -2703,6 +2719,10 @@ https://5e50264bd6766.streamlock.net/tvunam/videotvunam/chunklist_w1404092117_DV
 ✔️ 🇲🇽 Vibe TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHvibetvmexico.png" group-title="🌍 Mexico",✔️ 🇲🇽 Vibe TV
 https://5ca9af4645e15.streamlock.net/vibetv/videovibetv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI1IDg6NTk6MjQgQU0maGFzaF92YWx1ZT1qMmRGZWNzTHIyZGttY3dJdXRYMXF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+
+✔️ 🇳🇮 Canal 13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal13nicaragua.png" group-title="🌍 Nicaragua",✔️ 🇳🇮 Canal 13
+http://45.167.1.136:8000/play/a025
 
 ✔️ 🇵🇾 5 Dias 📱
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CH5diasparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 5 Dias 📱
