@@ -1,5 +1,13 @@
 
-[ 
+[  
+    {
+        "nombre":  "Mortal Kombat",
+        "grupo":  "🐱‍👤 Accion",
+        "icono":  "🐱‍👤",
+        "logo":  "https://image.tmdb.org/t/p/w200/4KmsPcIAKmjcNQHAqR9svK92g71.jpg",
+        "url":  "https://minochinos.com/v/qzymll2hq1zk?auto=1",
+        "activo":  true
+    },
     {
         "nombre":  "Michael",
         "grupo":  "😭 Drama",
