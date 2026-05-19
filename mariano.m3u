@@ -589,6 +589,10 @@ http://45.167.1.136:8000/play/a05z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="🚜 Cultura",✔️ Love Nature
 http://38.44.109.41:8003/play/a02d/index.m3u8
 
+✔️ Love Nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="🚜 Cultura",✔️ Love Nature
+https://live-content.xumo.com/2636/content/XM0CQBUPCGE7PE/22933816/master.m3u8
+
 ✔️ Love The Planet
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovetheplanet.png" group-title="🚜 Cultura",✔️ Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
