@@ -3253,6 +3253,12 @@ http://45.167.1.136:8000/play/a03n
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHgiktv.png" group-title="🎵​ Musica",✔️ GikTVMx
 https://pistream.ddns.net/hls/stream.m3u8
 
+✔️ Hei Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHheinow.png" group-title="🎵​ Musica",✔️ Hei Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8922522d07bc6aea96decd1c61553a6:dd9d597ceaf05fa903587ff1a657a04e
+https://cdn.cvattv.com.ar/live/c4eds/HEI_NOW/SA_Live_dash_enc_C/HEI_NOW.mpd
+
 ✔️ HTV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHhtv.png" group-title="🎵​ Musica",✔️ HTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
