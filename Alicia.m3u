@@ -2962,6 +2962,12 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #KODIPROP:inputstream.adaptive.license_key=8f66fe15735b2b1b3d5eb3646caa405e:404b93fd7b499b1061c9a714e1cdb2d0
 https://cdn.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_Live_dash_enc_C/NOTICIAS_PY_C4.mpd
 
+✔️ 🇵🇾 Paraguay TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHparaguaytv.png" group-title="🌍 Paraguay",✔️ 🇵🇾 Paraguay TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=68a5bd6c58e6c05bacfd18d3feec31f2:ae23f8357512df2dfabcb8104b078182
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc_C/Paraguay_TV.mpd
+
 ✔️ 🇵🇾 Paravision
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHparavisionparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 Paravision
 #KODIPROP:inputstream.adaptive.license_type=clearkey
