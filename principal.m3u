@@ -2275,6 +2275,10 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal34sanjuan.png" group-title="🏡 Provincia",✔️ Canal 34 (San Juan)
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
+✔️ Telesol (San Juan)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHtelesolsanjuan.png" group-title="🏡 Provincia",✔️ Telesol (San Juan)
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
+
 ✔️ Canal 3 (Santa Cruz)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal3santacruz.png" group-title="🏡 Provincia",✔️ Canal 3 (Santa Cruz)
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
