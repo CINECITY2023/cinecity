@@ -82,9 +82,7 @@ https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
 
 ✔️ Telefe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=865b35fdb4c119f3ccfd4ee392928aef:b43adf6d88b3befbf7f69a71dc273e46
-https://cdnlb.gigared.com.ar/live/eds/Telefe/sa_live_dash/Telefe.mpd
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1779590153~exp=1779597353~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=f8076b8dfbebe2d9c66be5b8ae78ee591f10d797bc6154df88061d283bd1ef35
 
 ✔️ Telefe
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
