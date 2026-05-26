@@ -45,15 +45,15 @@
         "icono":  "🏙️",
         "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
         "url":  "http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-16.playlist.m3u8",
-        "activo":  true
+        "activo":  false
     },
     {
-        "nombre":  "Telefe Internacional",
+        "nombre":  "Telefe",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png",
-        "url":  "http://107.152.39.199:8030/hls/canal13.m3u8",
-        "activo":  false
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+        "url":  "http://miotv.cc:8080/Lopez123/Lopez123/272043",
+        "activo":  true
     },
     {
         "nombre":  "El Trece",
