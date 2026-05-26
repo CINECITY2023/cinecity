@@ -1783,10 +1783,6 @@ http://38.44.109.41:8003/play/a02l/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
 http://miotv.cc:8080/Lopez123/Lopez123/187371
 
-✔️ TyC Sports
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png" group-title="⚽ Deportes",✔️ TyC Sports
-http://45.170.130.224:8000/play/a020/index.m3u8
-
 ✔️ VIX Liga MX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHvixligamx.png" group-title="⚽ Deportes",✔️ VIX Liga MX
 http://miotv.cc:8080/Lopez123/Lopez123/187387
@@ -1840,7 +1836,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 http://45.167.1.136:8000/play/a060
 
 ✔️ La rosa de Guadalupe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlarosadeguadalupe.png" group-title="❤️ Novelas",✔️ La rosa de Guadalupe
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlarosadeguadalupe.png" group-title="❤️ Novelas",✔️ La rosa de Guadalupe
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/82188
 
 ✔️ Lifetime
@@ -2425,7 +2421,7 @@ https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8
 
 ✔️ Telesol (San Juan)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHtelesolsanjuan.png" group-title="🏡 Provincia",✔️ Telesol (San Juan)
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHtelesolsanjuan.png" group-title="🏡 Provincia",✔️ Telesol (San Juan)
 https://cdn1.tvlin.net/open/telesol/playlist.m3u8
 
 ✔️ Canal 3 (Santa Cruz)
