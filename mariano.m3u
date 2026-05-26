@@ -664,6 +664,10 @@ http://45.167.1.136:8000/play/a03k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHrakutentvtodocrimen.png" group-title="🚜 Cultura",✔️ Todo Crimen
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=es&ads._fw_content_rating=tv-14&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=1&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=IndigeniusCrimenSpanish&ads.csid=zeus_es_indigeniuscrimenspanish_ssai&ads.gam_correlator=&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=&ads.rakuten_env=prod&ads.rakuten_market=es&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=3687&ads.rakuten_streaming_id=004a7a3f-6d34-4cd6-802e-3e45cb604307&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883018&ads.xumo_contentId=2192&ads.xumo_contentName=IndigeniusCrimenSpanish&ads.xumo_ifa=&ads.xumo_ifaType=ppid&ads.xumo_providerId=2192&ads.xumo_providerName=IndigeniusCrimenSpanish&ads.xumo_streamId=88883018
 
+✔️ TrueTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtruetv.png" group-title="🚜 Cultura",✔️ TrueTV
+http://miotv.cc:8080/Lopez123/Lopez123/267114
+
 ✔️ Turbo Discovery
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png" group-title="🚜 Cultura",✔️ Turbo Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -821,9 +825,13 @@ http://45.167.1.136:8000/play/a06f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHclarocinema.png" group-title="🎬 Cine",✔️ Claro Cinema
 http://45.167.1.136:8000/play/a03o
 
+✔️ CSI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcsi.png" group-title="🎬 Cine",✔️ CSI
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
+
 ✔️ CSI: Miami
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcsimiami.png" group-title="🎬 Cine",✔️ CSI: Miami
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=9f6eec1e-586e-11f1-90a1-002248c3be1b&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=9f6eec1e-586e-11f1-90a1-002248c3be1b&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=9f7bce39-586e-11f1-bf39-daa3a23fc3e1&sid=9f7bce39-586e-11f1-bf39-daa3a23fc3e1&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEzMjFkOTM0LTc1MjYtNDAwOC1hMjFlLTgyMDAwYzdiYjBkOCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5ZjdiY2UzOS01ODZlLTExZjEtYmYzOS1kYWEzYTIzZmMzZTEiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjlmNmVlYzFlLTU4NmUtMTFmMS05MGExLTAwMjI0OGMzYmUxYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjlmNmVlYzFlLTU4NmUtMTFmMS05MGExLTAwMjI0OGMzYmUxYiIsImZ3VmNJRDJDb3BwYSI6IjlmNmVlYzFlLTU4NmUtMTFmMS05MGExLTAwMjI0OGMzYmUxYiIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiOWY2ZWVjMWUtNTg2ZS0xMWYxLTkwYTEtMDAyMjQ4YzNiZTFiIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSwxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3OTczNjc1NzA1MywiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk9XWTJaV1ZqTVdVdE5UZzJaUzB4TVdZeExUa3dZVEV0TURBeU1qUTRZek5pWlRGaSIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3Nzk4MjMxNTcsImlhdCI6MTc3OTczNjc1NywianRpIjoiNDQ1YzdjMzItZDZkMC00MmU0LWE2NDUtN2YyZDliZWEzYmM0In0.05toIWEdmw2MNwXqKtFLw5hTEKGuw-Zd3vZJTpRq4Kw&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+https://jmp2.uk/plu-632b5950b515b000079e6b81.m3u8
 
 ✔️ De Pelicula
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png" group-title="🎬 Cine",✔️ De Pelicula
@@ -1091,9 +1099,9 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHmytimemovienetwork.png" group-title="🎬 Cine",✔️ MyTime Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-✔️ Paramount +
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHparamount+.png" group-title="🎬 Cine",✔️ Paramount +
-
+✔️ Paramount Network
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHparamount+.png" group-title="🎬 Cine",✔️ Paramount Network
+http://miotv.cc:8080/Lopez123/Lopez123/187224
 
 ✔️ Pluto TV Cine Accion
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcineaccion.png" group-title="🎬 Cine",✔️ Pluto TV Cine Accion
@@ -1835,6 +1843,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHkanald.png" group-title="❤️ Novelas",✔️ Kanal D
 http://45.167.1.136:8000/play/a060
 
+✔️ K Drama +
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHkdrama+.png" group-title="❤️ Novelas",✔️ K Drama +
+https://jmp2.uk/stvp-ESBD4100001DU
+
 ✔️ La rosa de Guadalupe
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHlarosadeguadalupe.png" group-title="❤️ Novelas",✔️ La rosa de Guadalupe
 http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/82188
@@ -1885,6 +1897,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channe
 ✔️ RCN Novelas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHrcnnovelas.png" group-title="❤️ Novelas",✔️ RCN Novelas
 http://45.167.1.136:8000/play/a02e
+
+✔️ Series K Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHserieskdrama.png" group-title="❤️ Novelas",✔️ Series K Drama
+https://jmp2.uk/stvp-ES200040YF
 
 ✔️ TLNovelas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png" group-title="❤️ Novelas",✔️ TLNovelas
@@ -2075,6 +2091,10 @@ https://api-ott-imps-imps.ottera.tv/loggingmediaurlpassthrough/a.m3u8?ads.dpname
 ✔️ Semillitas
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHsemillitas.png" group-title="🎈 Infantil",✔️ Semillitas
 http://45.167.1.136:8000/play/a011
+
+✔️ TeenNick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHteennick.png" group-title="🎈 Infantil",✔️ TeenNick
+http://miotv.cc:8080/Lopez123/Lopez123/1836
 
 ✔️ Tooncast
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHtooncast.png" group-title="🎈 Infantil",✔️ Tooncast
