@@ -2,11 +2,11 @@
 
 ✔️EVENTOS🎬 Cine 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 1
-https://minochinos.com/stream/WZObZ_lRB3tbln_9atUUpQ/hjkrhuihghfvu/1779819944/41413557/index-f1-v1-a1.m3u8
+https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
 
 ✔️EVENTOS🎬 Cine 2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 2
-https://archive.org/download/constantine_202507/Constantine.MP4
+https://archive.org/download/habram-casa-vampiro/HabramCasaVampiro.MP4
 
 ✔️EVENTOS⚽ Fútbol 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ Fútbol 1
@@ -3565,6 +3565,10 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-✔️ 🎬 Los Indestructibles 2
+✔️ 🎬 Constantine (2005)
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Constantine-696456521-large.jpg" group-title="🎬 Peliculas", 🎬 Constantine
+https://archive.org/download/constantine_202507/Constantine.MP4
+
+✔️ 🎬 Los Indestructibles 2 (2012)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZTIxOTctMjM2Ni00MTI2LTkwMWItZWUxNmQ2MTNhNzk0XkEyXkFqcGc@._V1_.jpg" group-title="🎬 Peliculas", 🎬 Los Indestructibles 2
 https://archive.org/download/los-indestructible-2/LosIndestructible2.MP4
