@@ -2212,7 +2212,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 
 ✔️ Max Anime
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="🤖 Animacion",✔️ Max Anime
-https://streamlov.alsolnet.com/maxanime/live/playlist.m3u8
+https://cdnlive.klicgo.net/maxanime/live/playlist_dvr.m3u8
 
 ✔️ Max Anime
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="🤖 Animacion",✔️ Max Anime
@@ -2565,7 +2565,7 @@ https://5e50264bd6766.streamlock.net/canal442/videocanal442/chunklist_w541086724
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 
 ✔️ 🇪🇸 Euro News
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHeuroews.png" group-title="🎙️ Noticias Internacional",✔️ 🇪🇸 Euro News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHeuronews.png" group-title="🎙️ Noticias Internacional",✔️ 🇪🇸 Euro News
 https://jmp2.uk/stvp-ES260000968
 
 ✔️ 🇲🇽 Milenio
@@ -2577,7 +2577,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
 
 ✔️ 🇲🇽 N+
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHn+.png" group-title="🎙️ Noticias Internacional",✔️ 🇲🇽 N+
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHn+.png" group-title="🎙️ Noticias Internacional",✔️ 🇲🇽 N+
 https://channel08-onlymex.akamaized.net/hls/live/2037034/event01/index.m3u8
 
 ✔️ 🇲🇽 N+ Foro
@@ -3253,6 +3253,7 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 
 ✔️ 🇩🇴 Antena 7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHantena7repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Antena 7
+https://cors-proxy.cooks.fyi/https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
 http://45.167.1.136:8000/play/a00s
 
 ✔️ 🇩🇴 Canal 4 RTVD
@@ -3273,6 +3274,7 @@ http://45.167.1.136:8000/play/a037
 
 ✔️ 🇩🇴 Digital 15
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHdigital15repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Digital 15
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
 http://45.167.1.136:8000/play/a021
 
 ✔️ 🇩🇴 Faro Vision
@@ -3289,10 +3291,13 @@ http://45.167.1.136:8000/play/a00r
 
 ✔️ 🇩🇴 Telecentro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelecentrorepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Telecentro
+https://live2.telemicro.com.do/live/13/playlist_dvr.m3u8
+https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
 http://45.167.1.136:8000/play/a026
 
 ✔️ 🇩🇴 Telemicro 5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemicro5repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Telemicro 5
+https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
 http://45.167.1.136:8000/play/a036
 
 ✔️ 🇩🇴 Telesistema 11
@@ -3305,6 +3310,7 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 
 ✔️ 🇩🇴 Teleuniverso
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleuniversorepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Teleuniverso
+https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
 http://45.167.1.136:8000/play/a023
 
 ✔️ 🇺🇾 Canal 5
