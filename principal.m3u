@@ -1,12 +1,12 @@
 #EXTM3U
 
-✔️EVENTOS🎬 Cine 1
+✔️EVENTOS🎬 Cine 1 Scary Movie 4 (2006)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 1
-https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
+https://archive.org/download/scary-movie-4_202508/ScaryMovie4.MP4
 
-✔️EVENTOS🎬 Cine 2
+✔️EVENTOS🎬 Cine 2 Scary Movie 4 (2013)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 2
-https://archive.org/download/habram-casa-vampiro/HabramCasaVampiro.MP4
+https://archive.org/download/scary-movie-5_202508/ScaryMovie5.MP4
 
 ✔️EVENTOS⚽ Fútbol 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ Fútbol 1
@@ -3661,6 +3661,14 @@ https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Constantine-696456521-large.jpg" group-title="🎬 Peliculas", 🎬 Constantine
 https://archive.org/download/constantine_202507/Constantine.MP4
 
+✔️ 🎬 Ghost Rider (2005)
+#EXTINF:-1 tvg-logo="https://media-cache.cinematerial.com/p/500x/tggw6ebe/ghost-rider-movie-cover.jpg?v=1456236221" group-title="🎬 Peliculas", 🎬 Ghost Rider
+https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
+
 ✔️ 🎬 Los Indestructibles 2 (2012)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZTIxOTctMjM2Ni00MTI2LTkwMWItZWUxNmQ2MTNhNzk0XkEyXkFqcGc@._V1_.jpg" group-title="🎬 Peliculas", 🎬 Los Indestructibles 2
 https://archive.org/download/los-indestructible-2/LosIndestructible2.MP4
+
+✔️ 🎬 Abraham Lincol Cazador de Vampiros (2012)
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_FMjpg_UX1000_.jpg" group-title="🎬 Peliculas", 🎬 Abraham Lincol Cazador de Vampiros
+https://archive.org/download/habram-casa-vampiro/HabramCasaVampiro.MP4
