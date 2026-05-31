@@ -1,12 +1,12 @@
 #EXTM3U
 
-✔️EVENTOS🎬 Cine 1 Scary Movie 4 (2006)
+✔️EVENTOS🎬 Cine 1 Protector (2026)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 1
-https://archive.org/download/scary-movie-4_202508/ScaryMovie4.MP4
+https://archive.org/download/2012_20260530/Ver%20Protector%20Online%20-%20PelisPop.mp4
 
-✔️EVENTOS🎬 Cine 2 Scary Movie 4 (2013)
+✔️EVENTOS🎬 Cine 2 Kickboxer (1989)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 2
-https://archive.org/download/scary-movie-5_202508/ScaryMovie5.MP4
+https://archive.org/download/kickboxer_202508/Kickboxer.MP4
 
 ✔️EVENTOS⚽ Fútbol 1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventos.png" group-title="⚽ Eventos",✔️EVENTOS⚽ Fútbol 1
@@ -3664,6 +3664,14 @@ https://archive.org/download/constantine_202507/Constantine.MP4
 ✔️ 🎬 Ghost Rider (2005)
 #EXTINF:-1 tvg-logo="https://media-cache.cinematerial.com/p/500x/tggw6ebe/ghost-rider-movie-cover.jpg?v=1456236221" group-title="🎬 Peliculas", 🎬 Ghost Rider
 https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
+
+✔️ 🎬 Scary Movie 4 (2006)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/czY9Ni-mFlq9iSMXeWapMCXGSSWiSsrbDS2kmKkHDkv5xL-U3Un4X0zJGd1MG5S8k_0a=w240-h480-rw" group-title="🎬 Peliculas", 🎬 Scary Movie 4
+https://archive.org/download/scary-movie-4_202508/ScaryMovie4.MP4
+
+✔️ 🎬 Scary Movie 5 (2013)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Scary_Movie_5.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240810190419&path-prefix=es" group-title="🎬 Peliculas", 🎬 Scary Movie 5
+https://archive.org/download/scary-movie-5_202508/ScaryMovie5.MP4
 
 ✔️ 🎬 Los Indestructibles 2 (2012)
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZTIxOTctMjM2Ni00MTI2LTkwMWItZWUxNmQ2MTNhNzk0XkEyXkFqcGc@._V1_.jpg" group-title="🎬 Peliculas", 🎬 Los Indestructibles 2
