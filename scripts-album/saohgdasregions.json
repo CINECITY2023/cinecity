@@ -9,6 +9,22 @@
     "activo": true
   },
     {
+    "nombre": "El Trece",
+    "grupo": "🏙️ Buenos Aires",
+    "icono": "🏙️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHteltrece.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
+    "activo": true
+  },
+    {
+    "nombre": "TNT Novelas",
+    "grupo": "🎬 Cine",
+    "icono": "🎬",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntnovelas.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
+    "activo": true
+  },
+    {
     "nombre": "Canal 5 🇲🇽",
     "grupo": "🌍 Mexico",
     "icono": "🌍",
