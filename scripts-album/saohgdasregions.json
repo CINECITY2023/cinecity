@@ -32,6 +32,14 @@
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=6_",
     "activo": true
   },
+     {
+    "nombre": "Telemundo 🇵🇷",
+    "grupo": "🌍 Puerto Rico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=7_",
+    "activo": true
+  },
     {
     "nombre": "Canal 5 🇲🇽",
     "grupo": "🌍 Mexico",
@@ -46,6 +54,14 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal7mexico.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_",
+    "activo": true
+  },
+    {
+    "nombre": "Univision 🇲🇽",
+    "grupo": "🌍 Mexico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHunivisionmexico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=9_",
     "activo": true
   }
 ]
