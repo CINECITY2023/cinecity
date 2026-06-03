@@ -543,6 +543,14 @@
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGSGlzdG9yeTIlMkZsaXZlX2Rhc2hfY2xkJTJGSGlzdG9yeTIubXBkJTNGY2slM0RleUkwTlRSaE5HTTFOekJtT0dJMk5qSXdOelpqWlRSbU1XRTVNekZrTTJJd05pSTZJakpsTnpJek0yVXlNamhrTjJRNFlUSXdNMlV3TjJVeVlqQTROVGcwTURFNUluMCUzRCUyNmhlYWRlcnMlM0RleUp2Y21sbmFXNGlPaUpvZEhSd2N6b3ZMM2RsWW1Oc2FXVnVkQzVoYm5ScGJtRndiR0Y1Y0d4MWN5NWpiMjB1WVhJaUxDSnlaV1psY21WeUlqb2lhSFIwY0hNNkx5OTNaV0pqYkdsbGJuUXVZVzUwYVc1aGNHeGhlWEJzZFhNdVkyOXRMbUZ5THlKOSUyNnRpdGxlJTNEVGVsZUdyYXR1aXRh",
         "activo": true
       },
+	 {
+        "nombre":  "Love Nature",
+        "grupo":  "🚜 Cultura",
+        "icono":  "🚜",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png",
+        "url":  "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZicGstdHYlMkZMb3ZlTmF0dXJlJTJGZGVmYXVsdCUyRmluZGV4Lm1wZCUzRmNrJTNEZXlKbFlUWTBNemN3T0RSbU5tTXdOVFZqTjJNNE5UWm1PRFl6TmpGbE9EWm1ZU0k2SWprM09URmpNR1UyWmpjeVlqUmhOV1ZoWTJZNFltUmtabUUxTWprd01qQTVJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SjklMjZ0aXRsZSUzRFRlbGVHcmF0dWl0YQ==",
+        "activo":  false
+    },
       {
        "nombre": "NatGeo",
 		"grupo": "🚜 Cultura",
