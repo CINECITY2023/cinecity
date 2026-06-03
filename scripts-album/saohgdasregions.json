@@ -73,6 +73,14 @@
     "activo": true
   },
     {
+    "nombre": "Las Estrellas 🇲🇽",
+    "grupo": "🌍 Mexico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlasestrellasmexico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=13_",
+    "activo": true
+  },
+    {
     "nombre": "Univision 🇲🇽",
     "grupo": "🌍 Mexico",
     "icono": "🌍",
