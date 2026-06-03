@@ -113,6 +113,14 @@
     "activo": true
   },
     {
+    "nombre": "Imagen TV 🇲🇽",
+    "grupo": "🌍 Mexico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHimagentvmexico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=25_",
+    "activo": true
+  },
+    {
     "nombre": "Las Estrellas 🇲🇽",
     "grupo": "🌍 Mexico",
     "icono": "🌍",
@@ -129,6 +137,14 @@
     "activo": true
   },
     {
+    "nombre": "Unicable 🇲🇽",
+    "grupo": "🌍 Mexico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHunicablemexico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=24_",
+    "activo": true
+  },
+    {
     "nombre": "America 🇵🇪",
     "grupo": "🌍 Peru",
     "icono": "🌍",
@@ -140,7 +156,7 @@
     "nombre": "ATV 🇵🇪",
     "grupo": "🌍 Peru",
     "icono": "🌍",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHatvperu.png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHatvhdperu",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=23_",
     "activo": true
   }
