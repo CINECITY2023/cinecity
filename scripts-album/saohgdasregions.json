@@ -119,5 +119,13 @@
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHunivisionmexico.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=9_",
     "activo": true
+  },
+    {
+    "nombre": "America 🇵🇪",
+    "grupo": "🌍 Peru",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHamericaperu.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=20_",
+    "activo": true
   }
 ]
