@@ -41,6 +41,14 @@
     "activo": true
   },
     {
+    "nombre": "DW 🇩🇪",
+    "grupo": "🎙️ Noticias Internacional",
+    "icono": "🎙️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias-internacionales/CHdw.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=15_",
+    "activo": true
+  },
+    {
     "nombre": "Telemundo 🇵🇷",
     "grupo": "🌍 Puerto Rico",
     "icono": "🌍",
