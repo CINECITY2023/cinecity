@@ -1,0 +1,10 @@
+[
+ {
+    "nombre": "Fox Sports",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
+    "url": "https://deportelibre.click/mpd2.php?id=foxsports-op2",
+    "activo": true
+  }
+]
