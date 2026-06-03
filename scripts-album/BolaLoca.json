@@ -83,7 +83,7 @@
   {
     "nombre": "TV5MONDE+ 🇫🇷",
     "grupo": "🌍 Internacional",
-    "icono": "⚽",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtv5monde+.png",
     "url": "https://bolaloca.my/player/3/11",
     "activo": true
@@ -220,7 +220,7 @@
   {
     "nombre": "France TV 🇫🇷",
     "grupo": "🌍 Internacional",
-    "icono": "⚽",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/28",
     "activo": true
@@ -228,7 +228,7 @@
   {
     "nombre": "France TV 🇫🇷",
     "grupo": "🌍 Internacional",
-    "icono": "⚽",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/29",
     "activo": true
@@ -858,7 +858,7 @@
   },
   {
     "nombre": "Canal 5 🇲🇽",
-    "grupo": 🌍 Internacional",
+    "grupo": "🌍 Internacional",
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcanal5mexico.png",
     "url": "https://bolaloca.my/player/3/107",
