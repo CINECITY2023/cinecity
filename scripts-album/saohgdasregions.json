@@ -17,19 +17,27 @@
     "activo": true
   },
     {
-    "nombre": "TNT Novelas",
-    "grupo": "❤️ Novelas",
-    "icono": "❤️",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
-    "activo": true
-  },
-    {
     "nombre": "Pasiones",
     "grupo": "❤️ Novelas",
     "icono": "❤️",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHpasiones.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=10_",
+    "activo": true
+  },
+    {
+    "nombre": "TL Novelas",
+    "grupo": "❤️ Novelas",
+    "icono": "❤️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtlnovelas.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=12_",
+    "activo": true
+  },
+    {
+    "nombre": "TNT Novelas",
+    "grupo": "❤️ Novelas",
+    "icono": "❤️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
     "activo": true
   },
     {
