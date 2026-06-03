@@ -18,10 +18,18 @@
   },
     {
     "nombre": "TNT Novelas",
-    "grupo": "🎬 Cine",
-    "icono": "🎬",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtntnovelas.png",
+    "grupo": "❤️ Novelas",
+    "icono": "❤️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
+    "activo": true
+  },
+    {
+    "nombre": "Telemundo 🇵🇷",
+    "grupo": "🌍 Puerto Rico",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=6_",
     "activo": true
   },
     {
