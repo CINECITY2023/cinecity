@@ -12,7 +12,7 @@
     "nombre": "El Trece",
     "grupo": "🏙️ Buenos Aires",
     "icono": "🏙️",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHteltrece.png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
     "activo": true
   },
@@ -28,7 +28,7 @@
     "nombre": "TL Novelas",
     "grupo": "❤️ Novelas",
     "icono": "❤️",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtlnovelas.png",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtllnovelas.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=12_",
     "activo": true
   },
@@ -54,6 +54,14 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=7_",
+    "activo": true
+  },
+    {
+    "nombre": "Antena 3 🇪🇸",
+    "grupo": "🌍 España",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHantena3.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=14_",
     "activo": true
   },
     {
