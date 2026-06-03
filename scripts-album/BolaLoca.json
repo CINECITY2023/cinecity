@@ -82,7 +82,7 @@
 
   {
     "nombre": "TV5MONDE+ 🇫🇷",
-    "grupo": "⚽ Deportes",
+    "grupo": "🌍 Internacional",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtv5monde+.png",
     "url": "https://bolaloca.my/player/3/11",
@@ -219,7 +219,7 @@
   },
   {
     "nombre": "France TV 🇫🇷",
-    "grupo": "⚽ Deportes",
+    "grupo": "🌍 Internacional",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/28",
@@ -227,7 +227,7 @@
   },
   {
     "nombre": "France TV 🇫🇷",
-    "grupo": "⚽ Deportes",
+    "grupo": "🌍 Internacional",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/29",
@@ -575,16 +575,16 @@
   },
   {
     "nombre": "Universo",
-    "grupo": "⚽ Deportes",
-    "icono": "⚽",
+    "grupo": "🌍 Internacional",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHuniverso.png",
     "url": "https://bolaloca.my/player/3/72",
     "activo": true
   },
   {
     "nombre": "Telemundo",
-    "grupo": "⚽ Deportes",
-    "icono": "⚽",
+    "grupo": "🌍 Internacional",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtelemundopuertorico.png",
     "url": "https://bolaloca.my/player/3/73",
     "activo": true
@@ -858,16 +858,16 @@
   },
   {
     "nombre": "Canal 5 🇲🇽",
-    "grupo": "⚽ Deportes",
-    "icono": "⚽",
+    "grupo": 🌍 Internacional",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcanal5mexico.png",
     "url": "https://bolaloca.my/player/3/107",
     "activo": true
   },
   {
     "nombre": "Canal 7 🇲🇽",
-    "grupo": "⚽ Deportes",
-    "icono": "⚽",
+    "grupo": "🌍 Internacional",
+    "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcanal7mexico.png",
     "url": "https://bolaloca.my/player/3/108",
     "activo": true
