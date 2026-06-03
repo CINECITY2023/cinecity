@@ -4,7 +4,7 @@
     "grupo": "⚽ Deportes",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmega.png",
-    "url": "https://zonatvlibre.com/en-vivo/telefe/embed2.php",
+    "url": "https://zonatvlibre.com/mpd2.php?id=telefe",
     "activo": true
   },
     {
