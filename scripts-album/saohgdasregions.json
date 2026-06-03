@@ -73,6 +73,14 @@
     "activo": true
   },
     {
+    "nombre": "RCN 🇨🇴",
+    "grupo": "🌍 Colombia",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHrcncolombia.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=18_",
+    "activo": true
+  },
+    {
     "nombre": "Antena 3 🇪🇸",
     "grupo": "🌍 España",
     "icono": "🌍",
