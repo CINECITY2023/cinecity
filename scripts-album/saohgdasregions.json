@@ -17,6 +17,14 @@
     "activo": true
   },
     {
+    "nombre": "HGTV",
+    "grupo": "🚜 Cultura",
+    "icono": "🚜",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHhgtv.png"",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=16_",
+    "activo": true
+  },
+    {
     "nombre": "Pasiones",
     "grupo": "❤️ Novelas",
     "icono": "❤️",
