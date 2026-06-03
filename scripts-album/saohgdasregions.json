@@ -25,6 +25,14 @@
     "activo": true
   },
     {
+    "nombre": "Golden Premiere 2",
+    "grupo": "🎬 Cine",
+    "icono": "🎬",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremiere2.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=22_",
+    "activo": true
+  },
+    {
     "nombre": "Pasiones",
     "grupo": "❤️ Novelas",
     "icono": "❤️",
