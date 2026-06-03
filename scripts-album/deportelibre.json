@@ -1,5 +1,13 @@
 [
  {
+    "nombre": "ESPN",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+    "url": " https://deportelibre.click/en-vivo-online/espn/embed2.php",
+    "activo": true
+  },
+ {
     "nombre": "Fox Sports",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
