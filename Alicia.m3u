@@ -1377,6 +1377,12 @@ http://45.167.1.136:8000/play/a02s
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="🎬 Cine",✔️ TCM
 http://38.137.192.250:8000/play/a021
 
+✔️ TCM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtcm.png" group-title="🎬 Cine",✔️ TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f667f1e6db8de6ac2ce1b710866aeff:c8ea6e60d50c6fe170e46da019d59910
+https://paz-live1-ott.izzigo.tv/15/out/u/dash/TCM-SD/default.mpd
+
 ✔️ TNT
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHtnt.png" group-title="🎬 Cine",✔️ TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
