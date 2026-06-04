@@ -1,5 +1,13 @@
 [
   {
+       "nombre": "America",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamerica.png",
+    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGQW1lcmljYSUyRmxpdmVfZGFzaF9jbGQlMkZBbWVyaWNhLm1wZCUzRmNrJTNEZXlKaU5UWTFNVGd3Tm1JME1tWXdPRGRqTlRnek16SmlNRFV5WkdVM01qZGpOU0k2SWpFeE9UQXhZak0xWTJNelpUVmhZVGN6TmpFNVpqWTBaREF5WXpNNFlUQm1JbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SXNJblZ6WlhJdFlXZGxiblFpT2lKTmIzcHBiR3hoTHpVdU1DQW9WMmx1Wkc5M2N5Qk9WQ0F4TUM0d095QlhhVzQyTkRzZ2VEWTBLU0JCY0hCc1pWZGxZa3RwZEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1V2TVRRNExqQXVNQzR3SUZOaFptRnlhUzgxTXpjdU16WWlMQ0p6WldNdFkyZ3RkV0V0Y0d4aGRHWnZjbTBpT2lKY0lsZHBibVJ2ZDNOY0lpSXNJbk5sWXkxamFDMTFZUzF0YjJKcGJHVWlPaUklMkZNQ0lzSW5ObFl5MW5jR01pT2lJeEluMCUzRCUyNnRpdGxlJTNEVGVsZUdyYXR1aXRh",
+    "activo": true
+  },
+  {
        "nombre": "Telefe",
                   "grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
