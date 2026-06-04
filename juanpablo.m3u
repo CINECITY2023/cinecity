@@ -782,6 +782,12 @@ https://cdn.cvattv.com.ar/live/c7eds/AXNHD/SA_Live_dash_enc_C/AXNHD.mpd
 
 ✔️ AXN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=976d703cb95202a808972c722544fae1:562775b170402c6e2309ff69b9e48e82
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/AXN-HD/default.mpd
+
+✔️ AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHaxn.png" group-title="🎬 Cine",✔️ AXN
 http://45.181.122.46:8090/play/a00g
 
 ✔️ AXN
