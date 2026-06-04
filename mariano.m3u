@@ -854,6 +854,12 @@ https://cdn.cvattv.com.ar/live/c6eds/Cinemax/SA_Live_dash_enc_C/Cinemax.mpd
 
 ✔️ Cinemax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="🎬 Cine",✔️ Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa6d1b52dd986d8faab9cca6adb8874b:6022259ba9edb1fe66b4507b51e1c12f
+https://zap-live1-ott.izzigo.tv/15/out/u/dash/CINEMAX-HD/default.mpd
+
+✔️ Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinemax.png" group-title="🎬 Cine",✔️ Cinemax
 http://45.5.119.43:4000/play/a0il/index.m3u8
 
 ✔️ Cinemax
