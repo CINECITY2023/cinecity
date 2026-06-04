@@ -17,6 +17,14 @@
     "activo": true
   },
     {
+    "nombre": "Food Network",
+    "grupo": "🚜 Cultura",
+    "icono": "🚜",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHfoodnetwork.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=29_",
+    "activo": true
+  },
+    {
     "nombre": "HGTV",
     "grupo": "🚜 Cultura",
     "icono": "🚜",
@@ -54,6 +62,14 @@
     "icono": "❤️",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/novelas/CHtntnovelas.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=4_",
+    "activo": true
+  },
+    {
+    "nombre": "Disney Channel",
+    "grupo": "🎈 Infantil",
+    "icono": "🎈",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHdisneychannel.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=28_",
     "activo": true
   },
     {
@@ -158,6 +174,14 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHatvhdperu",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=23_",
+    "activo": true
+  },
+    {
+    "nombre": "Playboy TV",
+    "grupo": "🔞 Adultos",
+    "icono": "🔞",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/Adultos/CHplayboytv",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=27_",
     "activo": true
   }
 ]
