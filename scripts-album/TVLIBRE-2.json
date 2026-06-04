@@ -29,6 +29,14 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
         "url": "https://bestleague.top//tok.html?get=Q2FuYWw5&lang=1",
+        "activo": false
+      },
+	{
+       "nombre": "El Nueve",
+                  "grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
+        "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGc3RhMDIlMkZDYW5hbDklMkZsaXZlX2Rhc2hfY2xkJTJGQ2FuYWw5Lm1wZCUzRmNrJTNEZXlJM1l6Rm1OVEJsTTJZMU1USXhObUprWkRGbFptTmpPVGxrTTJFeU56SXhOeUk2SWpNME5ERmpPVE13TWpjM1pEZ3lORFF3TW1GaFptVmxORFEyWW1FNFpqa3dJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SXNJblZ6WlhJdFlXZGxiblFpT2lKTmIzcHBiR3hoTHpVdU1DQW9WMmx1Wkc5M2N5Qk9WQ0F4TUM0d095QlhhVzQyTkRzZ2VEWTBLU0JCY0hCc1pWZGxZa3RwZEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1V2TVRRNExqQXVNQzR3SUZOaFptRnlhUzgxTXpjdU16WWlMQ0p6WldNdFkyZ3RkV0V0Y0d4aGRHWnZjbTBpT2lKY0lsZHBibVJ2ZDNOY0lpSXNJbk5sWXkxamFDMTFZUzF0YjJKcGJHVWlPaUklMkZNQ0lzSW5ObFl5MW5jR01pT2lJeEluMCUzRCUyNnRpdGxlJTNEVGVsZUdyYXR1aXRh",
         "activo": true
       },
       {
@@ -77,9 +85,17 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
         "url": "https://bestleague.top//tok.html?get=QnJhdm9UVg==",
-        "activo": true
+        "activo": false
       },
       {
+       "nombre": "Bravo TV",
+		"grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png",
+        "url": "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b27222636116961ddc35ab56",
+        "activo": true
+      },
+	{
        "nombre": "Canal de la Ciudad",
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
@@ -109,6 +125,14 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png",
         "url": "https://bestleague.top//tok.html?get=TmV0X1RW",
+        "activo": false
+      },
+	{
+       "nombre": "Net TV",
+		"grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png",
+        "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
         "activo": true
       },
       {
@@ -213,6 +237,14 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTjJIRA",
+        "activo": false
+      },
+	{
+       "nombre": "ESPN",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGRVNQTiUyRmxpdmVfZGFzaF9jbGQlMkZFU1BOLm1wZCUzRmNrJTNEZXlJMlpESTBNMlZpWkRkaE5UZGlaV0UwWWpSaU1EVXlZV1V4TTJZMFl6QTFNU0k2SWpWak1Ua3lOVGczT1dSbE9EY3paRFF6WWpkak1qVTVNalU1TURJMU16bGlJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SjklMjZ0aXRsZSUzRFRlbGVHcmF0dWl0YQ==",
         "activo": true
       },
       {
@@ -269,6 +301,14 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
         "url": "https://bestleague.top//tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "activo": false
+      },
+	{
+       "nombre": "ESPN Premium",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+        "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZicGstdHYlMkZFU1BOUHJlbWl1bSUyRmRlZmF1bHQlMkZpbmRleC5tcGQlM0ZjayUzRGV5Sm1PRGswTTJReE1UUmxNalV4TlRGak9HRmxOR1kyTVRJek5URmtOV0UxWmlJNklqZG1NelJqT1dFM01HTTRNell3TWpCalltTXpNamN6WXpReU4yWm1NamMzSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
         "activo": true
       },
       {
