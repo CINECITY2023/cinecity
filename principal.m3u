@@ -1284,8 +1284,10 @@ https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_Live_dash_enc_C/SonyHD.mpd
 http://45.167.1.136:8000/play/a03d
 
 ✔️ Sony Channel
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="🎬 Cine",✔️ Sony Channel
-http://45.181.122.46:8090/play/a00e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonychannel.png" group-title="🎬 Cine",✔️ Sony Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47b8d1118047c47ff9d794fca6c9997a:97af829b2dd037fb85550b85b0757685
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/SONY-HD/default.mpd
 
 ✔️ Sony Cine
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsonycine.png" group-title="🎬 Cine",✔️ Sony Cine
