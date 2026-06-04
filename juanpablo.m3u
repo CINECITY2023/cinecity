@@ -1040,6 +1040,11 @@ https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-EDGE-SD/default.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png" group-title="🎬 Cine",✔️ Golden Plus
 http://miotv.cc:8080/Lopez123/Lopez123/187227
 
+✔️ Golden Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenplus.png" group-title="🎬 Cine",✔️ Golden Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3555824ee6a09d671a2362f37f5a39b9:f240e5b5e8a27ca8550f23a553451a90
+https://zap-live1-ott.izzigo.tv/14/out/u/dash/GOLDEN-PLUS-HD/default.mpd
 
 ✔️ Golden Premier
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgoldenpremier.png" group-title="🎬 Cine",✔️ Golden Premier
