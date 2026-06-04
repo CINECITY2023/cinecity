@@ -1200,8 +1200,10 @@ https://cdn.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_Live_dash_enc_C/HBO_Extreme.
 http://45.167.1.136:8000/play/a00l
 
 ✔️ HBO Xtreme
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme
-http://45.181.122.46:8090/play/a018
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhboxtreme.png" group-title="🎬 Cine",✔️ HBO Xtreme
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+https://aca-live-ott.izzigo.tv/15/out/u/dash/HBO-XTREME-HD/default.mpd
 
 ✔️ Imagen Universal TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHimagenuniversaltv.png" group-title="🎬 Cine",✔️ Imagen Universal TV
