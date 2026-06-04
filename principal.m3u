@@ -1021,8 +1021,10 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cdn.cvattv.com.ar/live/c6eds/Golden/SA_Live_dash_enc_C/Golden.mpd
 
 ✔️ Golden
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="🎬 Cine",✔️ Golden
-http://45.181.122.46:8090/play/a019
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="🎬 Cine",✔️ Golden
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc0e4c7dfb10d483357572000180cca5:247351382fcd721f2872c4bda15c5245
+https://zap-live1-ott.izzigo.tv/13/out/u/dash/GOLDEN-SD/default.mpd
 
 ✔️ Golden
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHgolden.png" group-title="🎬 Cine",✔️ Golden
