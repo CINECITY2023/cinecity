@@ -481,8 +481,10 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_Science/SA_Live_dash_enc_C/Discovery_Science.mpd
 
 ✔️ Discovery Science
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="🚜 Cultura",✔️ Discovery Science
-http://45.181.122.46:8090/play/a00z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="🚜 Cultura",✔️ Discovery Science
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
+https://paz-live1-ott.izzigo.tv/14/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
 
 ✔️ Discovery Science
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryscience.png" group-title="🚜 Cultura",✔️ Discovery Science
@@ -671,8 +673,10 @@ https://cdn.cvattv.com.ar/live/c6eds/Theater_HD/SA_Live_dash_enc_C/Theater_HD.mp
 http://45.167.1.136:8000/play/a05x
 
 ✔️ Theater Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtheaterdiscovery.png" group-title="🚜 Cultura",✔️ Theater Discovery
-http://45.181.122.46:8090/play/a01g
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtheaterdiscovery.png" group-title="🚜 Cultura",✔️ Theater Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6fa84513dfc29251a24917125905d8b:54124304e26cb27f4d0f51b126829e30
+https://aca-live1-ott.izzigo.tv/12/out/u/dash/DISCOVERY-THEATER-HD/default.mpd
 
 ✔️ TLC
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtlc.png" group-title="🚜 Cultura",✔️ TLC 
