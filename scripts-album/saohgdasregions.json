@@ -169,6 +169,14 @@
     "activo": true
   },
     {
+    "nombre": "Latina 🇵🇪",
+    "grupo": "🌍 Peru",
+    "icono": "🌍",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlatinaperu.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=19_",
+    "activo": true
+  },
+    {
     "nombre": "ATV 🇵🇪",
     "grupo": "🌍 Peru",
     "icono": "🌍",
