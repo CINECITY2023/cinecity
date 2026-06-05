@@ -313,6 +313,14 @@
     "activo": true
   },
   {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
+    "activo": true
+  },
+  {
     "nombre": "Win+ Futbol",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
