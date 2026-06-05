@@ -273,6 +273,22 @@
     "activo": true
   },
   {
+    "nombre": "TNT Sports Premium 🇦🇷",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
+    "url": "https://la14hd.com/vivo/canal.php?stream=tntsports",
+    "activo": true
+  },
+  {
+    "nombre": "TNT Sports Premium 🇦🇷",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tntsports",
+    "activo": true
+  },
+  {
     "nombre": "TUDN",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
