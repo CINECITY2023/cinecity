@@ -85,7 +85,7 @@
     "grupo": "⚽ Deportes",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=espn",
+    "url": "https://streamtp-x-y-z.ws/global2.php?stream=espn",
     "activo": true
   },
   {
@@ -182,6 +182,22 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
     "url": "https://bolaloca.my/player/3/76",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN Premium 🇦🇷",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+    "url": "https://la14hd.com/vivo/canal.php?stream=espnpremium",
+    "activo": true
+  },
+  {
+    "nombre": "ESPN Premium 🇦🇷",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+    "url": "https://streamtp-x-y-z.ws/global2.php?stream=espnpremium",
     "activo": true
   },
   {
