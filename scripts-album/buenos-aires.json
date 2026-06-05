@@ -1,9 +1,10 @@
 [
   {
-    "nombre": "Bein Sports 1 🇫🇷",
-    "grupo": "⚽ Deportes",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports1.png",
-    "url": "https://bolaloca.my/player/3/1",
+    "nombre": "Telefe",
+    "grupo": "🏙️ Buenos Aires",
+    "icono": "🏙️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=telefe",
     "activo": true
-  },
+  }
+]
