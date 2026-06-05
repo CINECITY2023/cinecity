@@ -1,4 +1,4 @@
-Deportes|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/Deportes.json
+TV Libre|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/TVLIBRE-2.json
 
 
 
