@@ -1,1 +1,11 @@
 
+[
+  {
+    "nombre": "ESPN",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHes9n.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=espn",
+    "activo": true
+  }
+]
