@@ -86,7 +86,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtv5monde+.png",
     "url": "https://bolaloca.my/player/3/11",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "+Foot 🇫🇷",
@@ -223,7 +223,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/28",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "France TV 🇫🇷",
@@ -231,7 +231,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfrancetv.png",
     "url": "https://bolaloca.my/player/3/29",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 30",
@@ -579,7 +579,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHuniverso.png",
     "url": "https://bolaloca.my/player/3/72",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "Telemundo",
@@ -587,7 +587,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtelemundopuertorico.png",
     "url": "https://bolaloca.my/player/3/73",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "Latin American Sports",
@@ -692,7 +692,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHteleamazonas.png",
     "url": "https://bolaloca.my/player/3/86",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "ESPN 🇲🇽",
@@ -862,7 +862,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcanal5mexico.png",
     "url": "https://bolaloca.my/player/3/107",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "Canal 7 🇲🇽",
@@ -870,7 +870,7 @@
     "icono": "🌍",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcanal7mexico.png",
     "url": "https://bolaloca.my/player/3/108",
-    "activo": true
+    "activo": false
   },
   {
     "nombre": "canal 109",
