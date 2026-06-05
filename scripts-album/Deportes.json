@@ -65,11 +65,35 @@
     "activo": true
   },
   {
+    "nombre": "DSports 2",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
+    "activo": true
+  },
+  {
     "nombre": "DSports+",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
     "url": "https://bolaloca.my/player/3/96",
+    "activo": false
+  },
+  {
+    "nombre": "DSports+",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsportsplus",
+    "activo": false
+  },
+  {
+    "nombre": "DSports+",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
     "activo": false
   },
   {
