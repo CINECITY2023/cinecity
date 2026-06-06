@@ -517,7 +517,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc_C/Gourmet.mpd
 http://45.167.1.136:8000/play/a02h
 
 ✔️ El Gourmet
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png" group-title="🚜 Cultura",✔️ El Gourmet
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHelgourmet.png" group-title="🚜 Cultura",✔️ El Gourmet
 http://miotv.cc:8080/Lopez123/Lopez123/269970
 
 ✔️ Encuentro
@@ -527,7 +527,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cdn.cvattv.com.ar/live/c6eds/Encuentro/SA_Live_dash_enc_C/Encuentro.mpd
 
 ✔️ Encuentro
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHencuentro.png" group-title="🚜 Cultura",✔️ Encuentro
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHencuentro.png" group-title="🚜 Cultura",✔️ Encuentro
 http://miotv.cc:8080/Lopez123/Lopez123/272057
 
 ✔️ Estilo de Vida
@@ -610,8 +610,8 @@ https://cdn.cvattv.com.ar/live/c7eds/Hola_TV/SA_Live_dash_enc_C/Hola_TV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHholatv.png" group-title="🚜 Cultura",✔️ Hola TV
 http://45.167.1.136:8000/play/a05z
 
-✔️ Love Nature
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="🚜 Cultura",✔️ Love Nature
+✔️ Nature+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHlovenature.png" group-title="🚜 Cultura",✔️ Nature+
 http://38.44.109.41:8003/play/a02d/index.m3u8
 
 ✔️ Love Nature
@@ -657,7 +657,7 @@ https://cdn.cvattv.com.ar/live/c6eds/Sun_Channel/SA_Live_dash_enc_C/Sun_Channel.
 http://45.167.1.136:8000/play/a02i
 
 ✔️ Sun Channel
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHsunchannel.png" group-title="🚜 Cultura",✔️ Sun Channel
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHsunchannel.png" group-title="🚜 Cultura",✔️ Sun Channel
 http://38.137.192.250:8000/play/a072
 
 ✔️ Tastemade Es
@@ -729,7 +729,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 https://cdn.cvattv.com.ar/live/c6eds/Discovery_World_HD/SA_Live_dash_enc_C/Discovery_World_HD.mpd
 
 ✔️ World Discovery
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="🚜 Cultura",✔️ World Discovery
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHworlddiscovery.png" group-title="🚜 Cultura",✔️ World Discovery
 http://38.137.192.250:8000/play/a081
 
 ✔️ World Discovery
@@ -775,7 +775,7 @@ http://45.167.1.136:8000/play/a03g
 https://paz-live1-ott.izzigo.tv/13/out/u/dash/AANDE-HD/default.mpd
 
 ✔️ Adrenalina Pura TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvadrenalinapuratv.png" group-title="🎬 Cine",✔️ Adrenalina Pura TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvadrenalinapuratv.png" group-title="🎬 Cine",✔️ Adrenalina Pura TV
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=ff772ee0-6116-11f1-9fe1-6045bd47eab0&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=ff772ee0-6116-11f1-9fe1-6045bd47eab0&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=ff7de079-6116-11f1-9e8a-42a86a25bef0&sid=ff7de079-6116-11f1-9e8a-42a86a25bef0&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJhMDMwMjAxLWE3Y2UtNDhiYS1hMmI2LTRlZDQ1MDhmMmIzZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmZjdkZTA3OS02MTE2LTExZjEtOWU4YS00MmE4NmEyNWJlZjAiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6ImZmNzcyZWUwLTYxMTYtMTFmMS05ZmUxLTYwNDViZDQ3ZWFiMCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImZmNzcyZWUwLTYxMTYtMTFmMS05ZmUxLTYwNDViZDQ3ZWFiMCIsImZ3VmNJRDJDb3BwYSI6ImZmNzcyZWUwLTYxMTYtMTFmMS05ZmUxLTYwNDViZDQ3ZWFiMCIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiZmY3NzJlZTAtNjExNi0xMWYxLTlmZTEtNjA0NWJkNDdlYWIwIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MDY4ODY4Mjg4MSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOlptWTNOekpsWlRBdE5qRXhOaTB4TVdZeExUbG1aVEV0TmpBME5XSmtORGRsWVdJdyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODA3NzUwODIsImlhdCI6MTc4MDY4ODY4MiwianRpIjoiNGY5OGEzN2MtMzMyMy00YmRmLWI2YzUtZTYwMzcyMzE3MmNhIn0.n4Vjyu-Ir48e82pgYmaJTZjVnSaayqBg1lW2dm1_fwg&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
 
 ✔️ AMC
@@ -861,7 +861,7 @@ http://45.167.1.136:8000/play/a03s
 http://45.167.1.136:8000/play/a04l
 
 ✔️ Cine Latino
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinelatino.png" group-title="🎬 Cine",✔️ Cine Latino
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcinelatino.png" group-title="🎬 Cine",✔️ Cine Latino
 http://miotv.cc:8080/Lopez123/Lopez123/187229
 
 ✔️  Cinema Dinamita
@@ -902,7 +902,7 @@ http://45.167.1.136:8000/play/a03o
 
 ✔️ CSI
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHcsi.png" group-title="🎬 Cine",✔️ CSI
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=8.1.0&app_name=web&clientDeviceType=0&clientID=1076d0a8-5fc1-11f1-9fe1-7c1e5224eb9a&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=1076d0a8-5fc1-11f1-9fe1-7c1e5224eb9a&deviceLat=-34.6100&deviceLon=-58.4200&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=133.0.0&marketingRegion=VE&serverSideAds=false&sessionID=10833e46-5fc1-11f1-bcfd-c2917b459131&sid=10833e46-5fc1-11f1-bcfd-c2917b459131&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImUwM2FjZmU4LTRhZTYtNDY3NC05YmY1LTgyMzU5NzhhNWIwMSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMDgzM2U0Ni01ZmMxLTExZjEtYmNmZC1jMjkxN2I0NTkxMzEiLCJjbGllbnRJUCI6IjE2OC4yMjYuMjMyLjIyOCIsImNpdHkiOiJCdWVub3MgQWlyZXMiLCJwb3N0YWxDb2RlIjoiYzEyMDYgYWJlIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTM0LjYxMDAwMDYxMDM1MTU2LCJkZXZpY2VMb24iOi01OC40MTk5OTgxNjg5NDUzMSwicHJlZmVycmVkTGFuZ3VhZ2UiOiJlbiIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiMTMzLjAuMCIsImRldmljZU1ha2UiOiJjaHJvbWUiLCJkZXZpY2VNb2RlbCI6IndlYiIsImFwcE5hbWUiOiJ3ZWIiLCJhcHBWZXJzaW9uIjoiOC4xLjAiLCJjbGllbnRJRCI6IjEwNzZkMGE4LTVmYzEtMTFmMS05ZmUxLTdjMWU1MjI0ZWI5YSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9CdWVub3NfQWlyZXMiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckRhc2hOZyI6eyJmbGF0dGVuQmFzZVVybCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6IjEwNzZkMGE4LTVmYzEtMTFmMS05ZmUxLTdjMWU1MjI0ZWI5YSIsImZ3VmNJRDJDb3BwYSI6IjEwNzZkMGE4LTVmYzEtMTFmMS05ZmUxLTdjMWU1MjI0ZWI5YSIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiMTA3NmQwYTgtNWZjMS0xMWYxLTlmZTEtN2MxZTUyMjRlYjlhIiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAxMywxMDAxNCwxMDAxNiwxMDAxNSwxMDAyMCwxMDAyMSwxMDAwMCwxMDAwOSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc4MDU0MTgyMzU1NSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1UQTNObVF3WVRndE5XWmpNUzB4TVdZeExUbG1aVEV0TjJNeFpUVXlNalJsWWpsaCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3ODA2MjgyMjMsImlhdCI6MTc4MDU0MTgyMywianRpIjoiMzIwYmEwYzktYjdjOS00NjhkLWFiNWYtZjcyZWNjNzgxNzgzIn0.gQI8dNA7iVbHB2L-6oy1MwDuZ9zQ-Lkcixw8d7QCQaU&quality=720p&deviceMake=chrome&deviceType=web&deviceModel=web&deviceVersion=133.0.0&architecture=x86_64&buildVersion=1.0.0&includeExtendedEvents=true&masterJWTPassthrough=true
+https://jmp2.uk/plu-604928d54a4f730007ff76bc.m3u8
 
 ✔️ CSI: Miami
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHplutotvcsimiami.png" group-title="🎬 Cine",✔️ CSI: Miami
@@ -919,7 +919,7 @@ https://zap-live1-ott.izzigo.tv/12/out/u/dash/DE-PELICULA-SD/default.mpd
 http://miotv.cc:8080/Lopez123/Lopez123/200923
 
 ✔️ De Pelicula
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png" group-title="🎬 Cine",✔️ De Pelicula
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHdepelicula.png" group-title="🎬 Cine",✔️ De Pelicula
 http://38.137.192.250:8000/play/a06f
 
 ✔️ De Pelicula Clasico
@@ -1176,7 +1176,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://45.181.122.46:8090/play/a00j
 
 ✔️ HBO Pop
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="🎬 Cine",✔️ HBO Pop
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHhbopop.png" group-title="🎬 Cine",✔️ HBO Pop
 http://38.137.192.250:8000/play/a06o
 
 ✔️ HBO Signature
