@@ -6,5 +6,6 @@ Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinec
 Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/infantil.json
 Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/animacion.json
 Comedia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/comedia.json
+Realiy|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/reality.json
 
 
