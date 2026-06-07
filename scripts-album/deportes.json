@@ -6,7 +6,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHaymsports.png",
     "url": "https://bolaloca.my/player/3/105",
-    "activo": true
+    "activo": true,
+	"etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sport Ñ",
@@ -14,7 +15,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsñ.png",
     "url": "https://bolaloca.my/player/3/69",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "DAZN F1",
@@ -22,7 +24,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdaznf1.png",
     "url": "https://bolaloca.my/player/3/60",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Deportes por M+",
@@ -30,7 +33,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportesporm+.png",
     "url": "https://bolaloca.my/player/3/62",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "DeporTV",
@@ -38,7 +42,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportv.png",
         "url": "https://bestleague.top//tok.html?get=RGVwb3JUVkhE",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "DSports",
@@ -46,7 +51,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "DSports",
@@ -54,7 +60,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "DSports",
@@ -62,7 +69,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
     "nombre": "DSports 2",
@@ -70,7 +78,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png",
     "url": "https://bolaloca.my/player/3/95",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "DSports 2",
@@ -78,7 +87,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=dsports2",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "DSports+",
@@ -86,7 +96,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
     "url": "https://bolaloca.my/player/3/96",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "DSports+",
@@ -94,7 +105,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsportsplus",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
     "nombre": "DSports+",
@@ -102,7 +114,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=dsportsplus",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "ECDF",
@@ -110,7 +123,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHecdf.png",
     "url": "https://bolaloca.my/player/3/85",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN",
@@ -118,7 +132,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTjJIRA",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
        "nombre": "ESPN",
@@ -126,7 +141,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGRVNQTiUyRmxpdmVfZGFzaF9jbGQlMkZFU1BOLm1wZCUzRmNrJTNEZXlJMlpESTBNMlZpWkRkaE5UZGlaV0UwWWpSaU1EVXlZV1V4TTJZMFl6QTFNU0k2SWpWak1Ua3lOVGczT1dSbE9EY3paRFF6WWpkak1qVTVNalU1TURJMU16bGlJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SjklMjZ0aXRsZSUzRFRlbGVHcmF0dWl0YQ==",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "telegratuita.net"
       },
   {
     "nombre": "ESPN 🇲🇽",
@@ -134,7 +150,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
     "url": "https://bolaloca.my/player/3/87",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN",
@@ -142,7 +159,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
     "url": "https://bolaloca.my/player/3/97",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN",
@@ -150,7 +168,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
     "url": "https://streamtp-x-y-z.ws/global2.php?stream=espn",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
        "nombre": "ESPN 2",
@@ -158,7 +177,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTjJfQXJn",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 2",
@@ -166,7 +186,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
     "url": "https://bolaloca.my/player/3/88",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN 2",
@@ -174,7 +195,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
     "url": "https://bolaloca.my/player/3/98",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN 3",
@@ -182,7 +204,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTjM",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 3",
@@ -190,7 +213,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
     "url": "https://bolaloca.my/player/3/89",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN 3",
@@ -198,7 +222,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
     "url": "https://bolaloca.my/player/3/99",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN 4",
@@ -206,7 +231,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTkhE",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 4",
@@ -214,7 +240,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
     "url": "https://bolaloca.my/player/3/90",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN 4",
@@ -222,7 +249,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
     "url": "https://bolaloca.my/player/3/100",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN 5",
@@ -230,7 +258,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png",
         "url": "https://bestleague.top//tok.html?get=RVNQTjQ=",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 5",
@@ -238,7 +267,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png",
     "url": "https://bolaloca.my/player/3/91",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN 6",
@@ -246,7 +276,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
         "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM19VWQ==",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 6",
@@ -254,7 +285,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
     "url": "https://bolaloca.my/player/3/92",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN 7",
@@ -262,7 +294,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
         "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMl9VWQ==",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "ESPN 7",
@@ -270,7 +303,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
     "url": "https://bolaloca.my/player/3/93",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN 7 🇦🇷",
@@ -278,7 +312,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
     "url": "https://bolaloca.my/player/3/79",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN Deportes",
@@ -286,7 +321,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespndeportes.png",
     "url": "https://bolaloca.my/player/3/71",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "ESPN Premium",
@@ -294,7 +330,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
         "url": "https://bestleague.top//tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
 	{
        "nombre": "ESPN Premium",
@@ -302,7 +339,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZicGstdHYlMkZFU1BOUHJlbWl1bSUyRmRlZmF1bHQlMkZpbmRleC5tcGQlM0ZjayUzRGV5Sm1PRGswTTJReE1UUmxNalV4TlRGak9HRmxOR1kyTVRJek5URmtOV0UxWmlJNklqZG1NelJqT1dFM01HTTRNell3TWpCalltTXpNamN6WXpReU4yWm1NamMzSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-        "activo": true
+        "activo": true,
+		"etiqueta": "telegratuita.net"
       },
   {
     "nombre": "ESPN Premium 🇦🇷",
@@ -310,7 +348,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
     "url": "https://bolaloca.my/player/3/76",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "ESPN Premium 🇦🇷",
@@ -318,7 +357,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
     "url": "https://la14hd.com/vivo/canal.php?stream=espnpremium",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "ESPN Premium 🇦🇷",
@@ -326,7 +366,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
     "url": "https://streamtp-x-y-z.ws/global2.php?stream=espnpremium",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
     "nombre": "Fox Deportes",
@@ -334,7 +375,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxdeportes.png",
     "url": "https://bolaloca.my/player/3/70",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "Fox Sports",
@@ -342,7 +384,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
         "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRz",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "FOX Sports 🇦🇷",
@@ -350,7 +393,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
     "url": "https://bolaloca.my/player/3/78",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Fox Sports 🇲🇽",
@@ -358,7 +402,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
     "url": "https://bolaloca.my/player/3/101",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "Fox Sports 2",
@@ -366,7 +411,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
         "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMkhE",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "Fox Sports 2 🇲🇽",
@@ -374,7 +420,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
     "url": "https://bolaloca.my/player/3/102",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "Fox Sports 3",
@@ -382,7 +429,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
         "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM0hE",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "FOX Sports 3 🇦🇷",
@@ -390,7 +438,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
     "url": "https://bolaloca.my/player/3/80",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Fox Sports 3 🇲🇽",
@@ -398,7 +447,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
     "url": "https://bolaloca.my/player/3/103",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Fox Sports Premium 🇲🇽",
@@ -406,7 +456,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsportspremium.png",
     "url": "https://bolaloca.my/player/3/104",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "Garage TV",
@@ -414,7 +465,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png",
         "url": "https://bestleague.top//tok.html?get=RWxfR2FyYWdl",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "L1Max",
@@ -422,7 +474,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHl1max.png",
     "url": "https://bolaloca.my/player/3/84",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Latin American Sports",
@@ -430,7 +483,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHlas.png",
     "url": "https://bolaloca.my/player/3/74",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
        "nombre": "NBA TV",
@@ -438,7 +492,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHnbatv.png",
         "url": "https://bestleague.top//tok.html?get=TkJBX1RW",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
        "nombre": "TNT Sports Premium",
@@ -446,7 +501,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
         "url": "https://bestleague.top//tok.html?get=VE5UX1Nwb3J0c19IRA",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
   {
     "nombre": "TNT Sports Premium 🇦🇷",
@@ -454,7 +510,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://bolaloca.my/player/3/75",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "TNT Sports Premium",
@@ -462,7 +519,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://bolaloca.my/player/3/83",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "TNT Sports Premium 🇦🇷",
@@ -470,7 +528,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://la14hd.com/vivo/canal.php?stream=tntsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "TNT Sports Premium 🇦🇷",
@@ -478,7 +537,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tntsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
     "nombre": "TUDN",
@@ -486,7 +546,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "TUDN",
@@ -494,7 +555,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/106",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "TUDN",
@@ -502,7 +564,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "saohgdasregions.fun"
   },
   {
        "nombre": "TyC Sports",
@@ -510,7 +573,8 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
   },
   {
     "nombre": "TyC Sports",
@@ -518,7 +582,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "TyC Sports",
@@ -526,7 +591,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "TyC Sports",
@@ -534,7 +600,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
   },
   {
     "nombre": "Win+ Futbol",
@@ -542,7 +609,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
     "url": "https://bolaloca.my/player/3/81",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Win Sports",
@@ -550,7 +618,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
     "url": "https://bolaloca.my/player/3/82",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Automoto 🇫🇷",
@@ -558,7 +627,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHautomoto.png",
     "url": "https://bolaloca.my/player/3/23",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 1 🇫🇷",
@@ -566,7 +636,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports1.png",
     "url": "https://bolaloca.my/player/3/1",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 2 🇫🇷",
@@ -574,7 +645,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports2.png",
     "url": "https://bolaloca.my/player/3/2",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 3 🇫🇷",
@@ -582,7 +654,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports3.png",
     "url": "https://bolaloca.my/player/3/3",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 4 🇫🇷",
@@ -590,7 +663,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports4.png",
     "url": "https://bolaloca.my/player/3/4",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein sports 5 🇫🇷",
@@ -598,7 +672,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports5.png",
     "url": "https://bolaloca.my/player/3/5",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 6 🇫🇷",
@@ -606,7 +681,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports6.png",
     "url": "https://bolaloca.my/player/3/6",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 7 🇫🇷",
@@ -614,7 +690,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports7.png",
     "url": "https://bolaloca.my/player/3/7",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 8 🇫🇷",
@@ -622,7 +699,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports8.png",
     "url": "https://bolaloca.my/player/3/8",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 9 🇫🇷",
@@ -630,7 +708,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports9.png",
     "url": "https://bolaloca.my/player/3/9",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Bein Sports 10 🇫🇷",
@@ -638,7 +717,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsports10.png",
     "url": "https://bolaloca.my/player/3/10",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "EuroSport 1 🇫🇷",
@@ -646,7 +726,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHeurosport1.png",
     "url": "https://bolaloca.my/player/3/15",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Eurosport 1",
@@ -654,7 +735,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHeurosport1.png",
     "url": "https://bolaloca.my/player/3/66",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "EuroSport 2 🇫🇷",
@@ -662,7 +744,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHeurosport2.png",
     "url": "https://bolaloca.my/player/3/16",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "+Foot 🇫🇷",
@@ -670,7 +753,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+foot.png",
     "url": "https://bolaloca.my/player/3/12",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "L'equipe 🇫🇷",
@@ -678,7 +762,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHlequipe.png",
     "url": "https://bolaloca.my/player/3/19",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Ligue 1+ 6 🇫🇷",
@@ -686,7 +771,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHligue1+6.png",
     "url": "https://bolaloca.my/player/3/18",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Ligue 1+ 🇫🇷",
@@ -694,7 +780,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHligue1+.png",
     "url": "https://bolaloca.my/player/3/20",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "RMC Sport 1 🇫🇷",
@@ -702,7 +789,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHrmcsport1.png",
     "url": "https://bolaloca.my/player/3/17",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "+Sport 🇫🇷",
@@ -710,7 +798,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+sport.png",
     "url": "https://bolaloca.my/player/3/13",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "+Sport 360 🇫🇷",
@@ -718,7 +807,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CH+sport360.png",
     "url": "https://bolaloca.my/player/3/14",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Sky Sports Austria 1",
@@ -726,7 +816,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportsaustria1.png",
     "url": "https://bolaloca.my/player/3/111",
-    "activo": false
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
   }
     
 ]
