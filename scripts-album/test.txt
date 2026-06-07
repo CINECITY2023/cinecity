@@ -4,5 +4,6 @@ Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinec
 Cine y Series|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cine.json
 Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/novelas.json
 Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/infantil.json
+Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/animacion.json
 
 
