@@ -3,5 +3,6 @@ Noticias|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cine
 Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cultura.json
 Cine y Series|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cine.json
 Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/novelas.json
+Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/infantil.json
 
 
