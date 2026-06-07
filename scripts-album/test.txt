@@ -2,5 +2,6 @@ Buenos Aires|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/
 Noticias|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/noticias.json
 Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cultura.json
 Cine y Series|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cine.json
-Deportes|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/Deportes.json
+Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/novelas.json
+
 
