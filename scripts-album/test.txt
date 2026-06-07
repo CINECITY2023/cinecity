@@ -11,5 +11,6 @@ Provincia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cin
 Noticias Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/noticias-inter.json
 Canal Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/canal-inter.json
 Musica|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/musica.json
+Adultos|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/adultos.json
 
 
