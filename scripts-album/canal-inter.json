@@ -121,7 +121,8 @@
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4urguay.png",
         "url": "https://telegratuita.net/repro/?r=L2ZsLWV4dC5waHA/Z2V0PVEyRnVZV3cwWDFWU1ZRPT0=",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "telegratuita.net"
       },
       {
        "nombre": "Canal 10 - Uruguay",
