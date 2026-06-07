@@ -5,7 +5,8 @@
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png",
         "url": "https://bestleague.top//tok.html?get=Q29tZWR5Q2VudHJhbA",
-        "activo": true
+        "activo": true,
+	     "etiqueta": "bestleague.top"
       },
       {
        "nombre": "Universal Comedy",
@@ -13,6 +14,7 @@
                   "icono": "🤡",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHuniversalcomedy.png",
         "url": "https://bestleague.top//tok.html?get=VW5pdmVyc2FsX0NvbWVkeQ==&lang=1",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       }
 ]
