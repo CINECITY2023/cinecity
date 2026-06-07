@@ -7,5 +7,6 @@ Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cine
 Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/animacion.json
 Comedia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/comedia.json
 Realiy|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/reality.json
+Provincia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/provincia.json
 
 
