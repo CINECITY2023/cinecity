@@ -33,6 +33,14 @@
     "activo": false
   },
   {
+       "nombre": "DeporTV",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportv.png",
+        "url": "https://bestleague.top//tok.html?get=RGVwb3JUVkhE",
+        "activo": true
+      },
+  {
     "nombre": "DSports",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -105,6 +113,22 @@
     "activo": true
   },
   {
+       "nombre": "ESPN",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://bestleague.top//tok.html?get=RVNQTjJIRA",
+        "activo": true
+      },
+  {
+       "nombre": "ESPN",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn.png",
+        "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGRVNQTiUyRmxpdmVfZGFzaF9jbGQlMkZFU1BOLm1wZCUzRmNrJTNEZXlJMlpESTBNMlZpWkRkaE5UZGlaV0UwWWpSaU1EVXlZV1V4TTJZMFl6QTFNU0k2SWpWak1Ua3lOVGczT1dSbE9EY3paRFF6WWpkak1qVTVNalU1TURJMU16bGlJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SjklMjZ0aXRsZSUzRFRlbGVHcmF0dWl0YQ==",
+        "activo": true
+      },
+  {
     "nombre": "ESPN 🇲🇽",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -129,6 +153,14 @@
     "activo": true
   },
   {
+       "nombre": "ESPN 2",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn2.png",
+        "url": "https://bestleague.top//tok.html?get=RVNQTjJfQXJn",
+        "activo": true
+      },
+  {
     "nombre": "ESPN 2",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -144,6 +176,14 @@
     "url": "https://bolaloca.my/player/3/98",
     "activo": true
   },
+  {
+       "nombre": "ESPN 3",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn3.png",
+        "url": "https://bestleague.top//tok.html?get=RVNQTjM",
+        "activo": true
+      },
   {
     "nombre": "ESPN 3",
     "grupo": "⚽ Deportes",
@@ -161,6 +201,14 @@
     "activo": true
   },
   {
+       "nombre": "ESPN 4",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn4.png",
+        "url": "https://bestleague.top//tok.html?get=RVNQTkhE",
+        "activo": true
+      },
+  {
     "nombre": "ESPN 4",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -177,6 +225,14 @@
     "activo": true
   },
   {
+       "nombre": "ESPN 5",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn5.png",
+        "url": "https://bestleague.top//tok.html?get=RVNQTjQ=",
+        "activo": true
+      },
+  {
     "nombre": "ESPN 5",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -185,6 +241,14 @@
     "activo": true
   },
   {
+       "nombre": "ESPN 6",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn6.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM19VWQ==",
+        "activo": true
+      },
+  {
     "nombre": "ESPN 6",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -192,6 +256,14 @@
     "url": "https://bolaloca.my/player/3/92",
     "activo": true
   },
+  {
+       "nombre": "ESPN 7",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespn7.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMl9VWQ==",
+        "activo": true
+      },
   {
     "nombre": "ESPN 7",
     "grupo": "⚽ Deportes",
@@ -216,6 +288,22 @@
     "url": "https://bolaloca.my/player/3/71",
     "activo": true
   },
+  {
+       "nombre": "ESPN Premium",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94X1Nwb3J0c19QcmVtaXVuX0hE",
+        "activo": true
+      },
+	{
+       "nombre": "ESPN Premium",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHespnpremium.png",
+        "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZicGstdHYlMkZFU1BOUHJlbWl1bSUyRmRlZmF1bHQlMkZpbmRleC5tcGQlM0ZjayUzRGV5Sm1PRGswTTJReE1UUmxNalV4TlRGak9HRmxOR1kyTVRJek5URmtOV0UxWmlJNklqZG1NelJqT1dFM01HTTRNell3TWpCalltTXpNamN6WXpReU4yWm1NamMzSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
+        "activo": true
+      },
   {
     "nombre": "ESPN Premium 🇦🇷",
     "grupo": "⚽ Deportes",
@@ -249,6 +337,14 @@
     "activo": true
   },
   {
+       "nombre": "Fox Sports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRz",
+        "activo": true
+      },
+  {
     "nombre": "FOX Sports 🇦🇷",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -265,6 +361,14 @@
     "activo": true
   },
   {
+       "nombre": "Fox Sports 2",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzMkhE",
+        "activo": true
+      },
+  {
     "nombre": "Fox Sports 2 🇲🇽",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -272,6 +376,14 @@
     "url": "https://bolaloca.my/player/3/102",
     "activo": true
   },
+  {
+       "nombre": "Fox Sports 3",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports3.png",
+        "url": "https://bestleague.top//tok.html?get=Rm94U3BvcnRzM0hE",
+        "activo": true
+      },
   {
     "nombre": "FOX Sports 3 🇦🇷",
     "grupo": "⚽ Deportes",
@@ -297,6 +409,14 @@
     "activo": true
   },
   {
+       "nombre": "Garage TV",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHgaragetv.png",
+        "url": "https://bestleague.top//tok.html?get=RWxfR2FyYWdl",
+        "activo": true
+      },
+  {
     "nombre": "L1Max",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
@@ -312,6 +432,22 @@
     "url": "https://bolaloca.my/player/3/74",
     "activo": true
   },
+  {
+       "nombre": "NBA TV",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHnbatv.png",
+        "url": "https://bestleague.top//tok.html?get=TkJBX1RW",
+        "activo": true
+      },
+  {
+       "nombre": "TNT Sports Premium",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtntsportspremium.png",
+        "url": "https://bestleague.top//tok.html?get=VE5UX1Nwb3J0c19IRA",
+        "activo": true
+      },
   {
     "nombre": "TNT Sports Premium 🇦🇷",
     "grupo": "⚽ Deportes",
@@ -367,6 +503,14 @@
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
     "activo": true
+  },
+  {
+       "nombre": "TyC Sports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+        "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
+        "activo": true
   },
   {
     "nombre": "TyC Sports",
