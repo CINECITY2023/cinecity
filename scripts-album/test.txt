@@ -7,7 +7,7 @@ Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinec
 Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/infantil.json
 Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/animacion.json
 Comedia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/comedia.json
-Realiy|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/reality.json
+Reality|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/reality.json
 Provincia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/provincia.json
 Noticias Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/noticias-inter.json
 Canal Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/canal-inter.json
