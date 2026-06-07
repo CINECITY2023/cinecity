@@ -5,7 +5,8 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png",
         "url": "https://bestleague.top//tok.html?get=QW1lcmljYTI0",
-        "activo": true
+        "activo": true,
+	  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "C5N",
@@ -13,7 +14,8 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png",
         "url": "https://bestleague.top//tok.html?get=QzVO",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "Canal 26",
@@ -21,7 +23,8 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png",
         "url": "https://bestleague.top//tok.html?get=MjZfVFZfSEQ",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "Cronica TV",
@@ -29,7 +32,8 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png",
         "url": "https://bestleague.top//tok.html?get=Q3JvbmljYVRW",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "DTV",
@@ -37,15 +41,17 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHdiputadostv.png",
         "url": "https://bestleague.top//tok.html?get=RGlwdXRhZG9zX1RW",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "Argentina 12",
-		"grupo": "🎙️ Noticias,
+		"grupo": "🎙️ Noticias",
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png",
         "url": "https://bestleague.top//tok.html?get=SW52ZXN0aWdhY2lvbl9QZXJpb2Rpc3RpY2E=",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "LN+",
@@ -53,7 +59,8 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png",
         "url": "https://bestleague.top//tok.html?get=TGFfTmFjaW9u",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       },
       {
        "nombre": "TN",
@@ -61,6 +68,7 @@
                   "icono": "🎙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
         "url": "https://bestleague.top//tok.html?get=VG9kb05vdGljaWFz",
-        "activo": true
+        "activo": true,
+		  "etiqueta": "bestleague.top"
       }
 ]
