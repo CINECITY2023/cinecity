@@ -16,6 +16,33 @@
     "url": "https://telegratuita.net/repro/?r=L2RybS5waHA/aWQ9Y2FuYWw1",
     "activo": true,
    "etiqueta": "telegratuita.net"
+  },
+ {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://bolaloca.my/player/3/68",
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://bolaloca.my/player/3/106",
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
+    "activo": true,
+	  "etiqueta": "saohgdasregions.fun"
   }
  
 ]
