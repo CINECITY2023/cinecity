@@ -8,6 +8,33 @@
     "activo": true,
 		"etiqueta": "telegratuita.net"
   },
+	{
+    "nombre": "DSports",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://bolaloca.my/player/3/94",
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "DSports",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+    "activo": true,
+	  "etiqueta": "la14hd.com"
+  },
+  {
+    "nombre": "DSports",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
+  },
  {
     "nombre": "Canal 5 🇲🇽",
     "grupo": "⚽ Mexico - Sudafrica",
