@@ -59,7 +59,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5mexico.png",
     "url": "https://bolaloca.my/player/3/107",
-    "activo": true
+    "activo": true,
+		"etiqueta": "bolaloca.my"
   },
   {
     "nombre": "Canal 7 🇲🇽",
@@ -67,7 +68,8 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHazteca7mexico.png",
     "url": "https://bolaloca.my/player/3/108",
-    "activo": true
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
   },
  {
     "nombre": "Azteca 7 🇲🇽",
