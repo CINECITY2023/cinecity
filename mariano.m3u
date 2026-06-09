@@ -3836,6 +3836,10 @@ https://mistserver.telpin.com.ar:8443/hls/telpinlive/main_stream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHtierramiatv.png" group-title="🎵​ Musica",✔️ Tierramia TV
 http://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
 
+✔️ Total Music Dance
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHtotalmusicdance.png" group-title="🎵​ Musica",✔️ Total Music Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
 ✔️ ABN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHabn.png" group-title="🙏 Religion",✔️ ABN
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
