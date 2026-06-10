@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/TVLIBRE-2.json
+https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/canales-script/TVLIBRE-2.json
 
 
 
