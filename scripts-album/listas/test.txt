@@ -1,18 +1,16 @@
-MUNDIAL 2026|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/world-cup-2026.json
-Buenos Aires|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/buenos-aires.json
-Noticias|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/noticias.json
-Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cultura.json
-Deportes|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/deportes.json
-Cine y Series|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/cine.json
-Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/novelas.json
-Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/infantil.json
-Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/animacion.json
-Comedia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/comedia.json
-Reality|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/reality.json
-Provincia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/provincia.json
-Noticias Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/noticias-inter.json
-Canal Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/canal-inter.json
-Musica|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/musica.json
-Adultos|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/adultos.json
-
-
+MUNDIAL 2026|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasworld-cup-2026.json
+Buenos Aires|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasbuenos-aires.json
+Noticias|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasnoticias.json
+Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriascultura.json
+Deportes|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasdeportes.json
+Cine y Series|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriascine.json
+Novelas|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasnovelas.json
+Infantil|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasinfantil.json
+Animacion|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasanimacion.json
+Comedia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriascomedia.json
+Reality|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasreality.json
+Provincia|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasprovincia.json
+Noticias Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasnoticias-inter.json
+Canal Internacional|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriascanal-inter.json
+Musica|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasmusica.json
+Adultos|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categoriasadultos.json
