@@ -450,6 +450,15 @@
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "Fox Sports 2 🇲🇽",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfoxsports2.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=foxsports2",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
        "nombre": "Fox Sports 3",
 		"grupo": "⚽ Deportes",
@@ -504,6 +513,15 @@
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "L1Max",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHl1max.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=liga1max",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
     "nombre": "Latin American Sports",
     "grupo": "⚽ Deportes",
@@ -513,6 +531,15 @@
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "Movistar Deportes",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmovistardeportes.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=movistar",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  }
   {
        "nombre": "NBA TV",
 		"grupo": "⚽ Deportes",
@@ -521,6 +548,15 @@
         "url": "https://bestleague.top//tok.html?get=TkJBX1RW",
         "activo": true,
 	  "etiqueta": "bestleague.top"
+      },
+	{
+       "nombre": "Sky Sports La Liga",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHskysportslaliga.png",
+        "url": "https://la18hd.com/vivo/canales.php?stream=sky_sports_laliga,
+        "activo": true,
+	  "etiqueta": "la18hd.com"
       },
   {
        "nombre": "TNT Sports Premium",
@@ -585,6 +621,15 @@
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "TUDN",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
     "nombre": "TUDN",
     "grupo": "⚽ Deportes",
@@ -639,6 +684,15 @@
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "Win+ Futbol",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=winsports2",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
     "nombre": "Win Sports",
     "grupo": "⚽ Deportes",
@@ -647,6 +701,15 @@
     "url": "https://bolaloca.my/player/3/82",
     "activo": true,
 	  "etiqueta": "bolaloca.my"
+  },
+	{
+    "nombre": "Win Sports",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=winsports",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
   },
   {
     "nombre": "Automoto 🇫🇷",
