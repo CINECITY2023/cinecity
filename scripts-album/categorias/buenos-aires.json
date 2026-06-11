@@ -99,6 +99,15 @@
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
+	{
+       "nombre": "Argentinisima satelital",
+		"grupo": "🏙️ Buenos Aires",
+                  "icono": "🏙️",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png",
+        "url": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+        "activo": true,
+		  "etiqueta": "M3U8"
+      },
       {
        "nombre": "Bravo TV",
 		"grupo": "🏙️ Buenos Aires",
