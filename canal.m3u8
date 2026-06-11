@@ -2,3 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=934000,RESOLUTION=640x360,CODECS="mp4a.40.2,avc1.640016"
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1894000,RESOLUTION=960x540,CODECS="mp4a.40.2,avc1.64001f"
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2594000,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.640020"
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
