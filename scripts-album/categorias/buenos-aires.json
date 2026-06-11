@@ -198,6 +198,15 @@
         "activo":  true,
 		 "etiqueta": "M3U8"
     },
+	{
+        "nombre":  "Celta TV",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHceltatv.png",
+        "url":  "https://vivo.solumedia.com:19360/celta/celta.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
       {
        "nombre": "Ciudad Magazine",
 		"grupo": "🏙️ Buenos Aires",
@@ -216,6 +225,15 @@
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
+	{
+        "nombre":  "Neo TV (Florencio Varela)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHneotv.png",
+        "url":  "https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8",
+        "activo":  true,
+		 "etiqueta": "M3U8"
+    },
       {
        "nombre": "Net TV",
 		"grupo": "🏙️ Buenos Aires",
@@ -234,6 +252,33 @@
         "activo": true,
 		"etiqueta": "M3U8"
       },
+	{
+        "nombre":  "Sicardi TV (La pLata)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHsicarditv.png",
+        "url":  "https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	{
+        "nombre":  "Telecreativa (Lanus)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelecreativa.png",
+        "url":  "https://panel.host-live.com:19360/8012/8012.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	 {
+        "nombre":  "TeleJunin",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelejunin.png",
+        "url":  "https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8",
+        "activo":  true,
+		 "etiqueta": "M3U8"
+    },
       {
        "nombre": "Telemax",
 		"grupo": "🏙️ Buenos Aires",
@@ -242,5 +287,23 @@
         "url": "https://bestleague.top//tok.html?get=VGVsZW1heA",
         "activo": true,
 		  "etiqueta": "bestleague.top"
-      }
+      },
+	{
+        "nombre":  "Telemax",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png",
+        "url":  "http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	{
+        "nombre":  "UNLP TV (La Plata)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHunlptv.png",
+        "url":  "https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    }
 ]
