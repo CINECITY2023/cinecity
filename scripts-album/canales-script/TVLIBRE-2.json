@@ -231,6 +231,14 @@
         "url": "https://bestleague.top//tok.html?get=RGVwb3JUVkhE",
         "activo": true
       },
+	{
+       "nombre": "Dsports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+        "url": "https://tvlibre-online.com/eventos/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "activo": true
+      },
       {
        "nombre": "ESPN",
 		"grupo": "⚽ Deportes",
