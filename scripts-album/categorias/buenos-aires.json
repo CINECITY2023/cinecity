@@ -154,15 +154,6 @@
 		 "etiqueta": "M3U8"
     },
 	{
-        "nombre":  "Canal Provincial (San Miguel)",
-        "grupo":  "🏙️ Buenos Aires",
-        "icono":  "🏙️",
-        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalprovincialdesanmiguel.png",
-        "url":  "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8",
-        "activo":  true,
-		"etiqueta": "M3U8"
-    },
-	{
         "nombre":  "Canal 22",
         "grupo":  "🏙️ Buenos Aires",
         "icono":  "🏙️",
@@ -189,6 +180,24 @@
         "activo": true,
 		"etiqueta": "bestleague.top"
       },
+	{
+        "nombre":  "Canal Provincial (San Miguel)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalprovincialdesanmiguel.png",
+        "url":  "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	 {
+        "nombre":  "Celt TV",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcelttv.png",
+        "url":  "http://190.103.192.6:8080/hls/mystreamkey.m3u8",
+        "activo":  true,
+		 "etiqueta": "M3U8"
+    },
       {
        "nombre": "Ciudad Magazine",
 		"grupo": "🏙️ Buenos Aires",
