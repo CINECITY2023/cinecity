@@ -1,4 +1,13 @@
 [
+	{
+        "nombre":  "24/7 Canal de Noticias",
+        "grupo":  "🎙️ Noticias",
+        "icono":  "🎙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CH247.png",
+        "url":  "https://panel.host-live.com:19360/cn247tv/Source.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
   {
        "nombre": "A24",
 		"grupo": "🎙️ Noticias",
@@ -26,6 +35,24 @@
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
+	{
+        "nombre":  "Canal 26",
+        "grupo":  "🎙️ Noticias",
+        "icono":  "🎙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png",
+        "url":  "http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	{
+        "nombre":  "Canal E",
+        "grupo":  "🎙️ Noticias",
+        "icono":  "🎙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanale.png",
+        "url":  "https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
       {
        "nombre": "Cronica TV",
 		"grupo": "🎙️ Noticias",
@@ -70,5 +97,14 @@
         "url": "https://bestleague.top//tok.html?get=VG9kb05vdGljaWFz",
         "activo": true,
 		  "etiqueta": "bestleague.top"
-      }
+      },
+	{
+        "nombre":  "TN",
+        "grupo":  "🎙️ Noticias",
+        "icono":  "🎙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png",
+        "url":  "https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    }
 ]
