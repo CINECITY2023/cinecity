@@ -291,7 +291,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/telemax.playlist.m3u8
 
 ✔️ UNLP TV (La Plata)
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHunlptv.png" group-title="🏙️ Buenos Aires",✔️ UNLP TV (La Plata)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHunlptv.png" group-title="🏙️ Buenos Aires",✔️ UNLP TV (La Plata)
 https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
 
 ✔️ 24/7 Canal de Noticias
