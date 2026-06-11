@@ -639,6 +639,15 @@
     "activo": true,
 	  "etiqueta": "saohgdasregions.fun"
   },
+	{
+    "nombre": "TVC Deportes",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtvcdeportes.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tvc_deportes",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
        "nombre": "TyC Sports",
 		"grupo": "⚽ Deportes",
