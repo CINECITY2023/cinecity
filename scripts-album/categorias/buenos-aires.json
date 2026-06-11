@@ -136,6 +136,15 @@
 		  "etiqueta": "M3U8"
       },
 	{
+        "nombre":  "Canal 2 (Mar del Plata)",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal2mardelplata.png",
+        "url":  "https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8",
+        "activo":  true,
+		"etiqueta": "M3U8"
+    },
+	{
        "nombre": "Canal de la Ciudad",
 		"grupo": "🏙️ Buenos Aires",
                   "icono": "🏙️",
