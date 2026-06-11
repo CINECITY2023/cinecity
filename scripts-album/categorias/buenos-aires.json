@@ -144,6 +144,15 @@
         "activo":  true,
 		"etiqueta": "M3U8"
     },
+	 {
+        "nombre":  "Canal 11 de la Costa",
+        "grupo":  "🏙️ Buenos Aires",
+        "icono":  "🏙️",
+        "logo":  "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal11delacosta.png",
+        "url":  "https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8",
+        "activo":  true,
+		 "etiqueta": "M3U8"
+    },
 	{
        "nombre": "Canal de la Ciudad",
 		"grupo": "🏙️ Buenos Aires",
