@@ -72,6 +72,15 @@
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
+	{
+       "nombre": "Dsports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "activo": true,
+		 "etiqueta": "telegratuita.net"
+      },
   {
     "nombre": "DSports 2",
     "grupo": "⚽ Deportes",
@@ -603,6 +612,15 @@
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
+	{
+       "nombre": "TSN 4",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtsn4.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvdHNuNGNhLmh0bWw=",
+        "activo": true,
+		"etiqueta": "telegratuita.net"
+      },
   {
     "nombre": "TUDN",
     "grupo": "⚽ Deportes",
@@ -721,6 +739,15 @@
     "activo": true,
 	  "etiqueta": "la18hd.com"
   },
+	{
+       "nombre": "Win Sports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzQxLzQ1d3NwcnRzLnBocA==",
+        "activo": true,
+		"etiqueta": "telegratuita.net"
+      },
   {
     "nombre": "Automoto 🇫🇷",
     "grupo": "⚽ otros idiomas",
