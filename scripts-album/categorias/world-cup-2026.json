@@ -19,29 +19,29 @@
   },
 	{
     "nombre": "DSports",
-    "grupo": "⚽ Mexico - Sudafrica",
+    "grupo": "⚽ Canadá vs. Bosnia",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
-    "activo": false,
+    "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Mexico - Sudafrica",
+    "grupo": "⚽ Canadá vs. Bosnia",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
-    "activo": false,
+    "activo": true,
 	  "etiqueta": "la14hd.com"
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Mexico - Sudafrica",
+    "grupo": "⚽ Canadá vs. Bosnia",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": false,
+    "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
  {
