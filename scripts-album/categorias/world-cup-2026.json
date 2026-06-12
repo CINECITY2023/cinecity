@@ -8,6 +8,15 @@
         "activo": false,
 		  "etiqueta": "bestleague.top"
       },
+	 {
+    "nombre": "Telefe",
+    "grupo": "🏙️ Buenos Aires",
+    "icono": "🏙️",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
+    "activo": false,
+	  "etiqueta": "la18hd.com"
+  },
 	{
        "nombre": "Telefe",
                   "grupo": "⚽ Mexico - Sudafrica",
@@ -16,6 +25,51 @@
     "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
     "activo": false,
 		"etiqueta": "telegratuita.net"
+  },
+	{
+       "nombre": "TyC Sports",
+		"grupo": "⚽ Estados Unidos - Paraguay",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+        "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
+        "activo": false,
+	  "etiqueta": "bestleague.top"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://bolaloca.my/player/3/77",
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+    "activo": false,
+	  "etiqueta": "la18hd.com"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
+    "activo": false,
+	  "etiqueta": "streamtp-x-y-z.ws"
+  },
+	{
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
+    "activo": false,
+	  "etiqueta": "telegratuita.net"
   },
 	{
     "nombre": "DSports",
@@ -31,9 +85,9 @@
     "grupo": "⚽ Canadá vs. Bosnia",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
     "activo": true,
-	  "etiqueta": "la14hd.com"
+	  "etiqueta": "la18hd.com"
   },
   {
     "nombre": "DSports",
@@ -44,42 +98,15 @@
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
- {
-    "nombre": "Canal 5 🇲🇽",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5mexico.png",
-    "url": "https://telegratuita.net/repro/?r=L2RybS5waHA/aWQ9Y2FuYWw1",
-    "activo": false,
-   "etiqueta": "telegratuita.net"
-  },
 	{
-    "nombre": "Canal 5 🇲🇽",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5mexico.png",
-    "url": "https://bolaloca.my/player/3/107",
-    "activo": false,
-		"etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "Canal 7 🇲🇽",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHazteca7mexico.png",
-    "url": "https://bolaloca.my/player/3/108",
-    "activo": false,
-	  "etiqueta": "bolaloca.my"
-  },
- {
-    "nombre": "Azteca 7 🇲🇽",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHazteca7mexico.png",
-    "url": "https://telegratuita.net/repro/?r=L2RybS5waHA/aWQ9Y2FuYWw1",
-    "activo": false,
-   "etiqueta": "telegratuita.net"
-  },
+       "nombre": "Dsports",
+		"grupo": "⚽ Canadá vs. Bosnia,
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "activo": true,
+		 "etiqueta": "telegratuita.net"
+      },
  {
     "nombre": "TUDN",
     "grupo": "⚽ Mexico - Sudafrica",
@@ -97,6 +124,15 @@
     "url": "https://bolaloca.my/player/3/106",
     "activo": false,
 	  "etiqueta": "bolaloca.my"
+  },
+	{
+    "nombre": "TUDN",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+    "activo": false,
+	  "etiqueta": "la18hd.com"
   },
   {
     "nombre": "TUDN",
@@ -110,9 +146,40 @@
 
 
 
+
+
+
+	
+    {
+       "nombre": "Telefe",
+                  "grupo": "⚽ Estados Unidos - Paraguay",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+        "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
+        "activo": true,
+		  "etiqueta": "bestleague.top"
+      },
+	{
+    "nombre": "Telefe",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
+	{
+       "nombre": "Telefe",
+                  "grupo": "⚽ Estados Unidos - Paraguay",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
+    "activo": true,
+		"etiqueta": "telegratuita.net"
+  },
 	{
        "nombre": "TyC Sports",
-		"grupo": "⚽ Corea - Rep. Checa",
+		"grupo": "⚽ Estados Unidos - Paraguay",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
@@ -121,7 +188,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
@@ -130,26 +197,34 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://la14hd.com/vivo/canales.php?stream=tycsports",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
     "activo": true,
-	  "etiqueta": "la14hd.com"
+	  "etiqueta": "la18hd.com"
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
-	
+	{
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
+    "activo": true,
+	  "etiqueta": "telegratuita.net"
+  },
 	{
     "nombre": "DSports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -158,7 +233,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la14hd.com/vivo/canales.php?stream=dsports",
@@ -167,18 +242,25 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
- 
-  
+	{
+       "nombre": "Dsports",
+		"grupo": "⚽ Estados Unidos - Paraguay,
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "activo": true,
+		 "etiqueta": "telegratuita.net"
+      },
  {
     "nombre": "TUDN",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
@@ -187,16 +269,25 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/106",
     "activo": true,
 	  "etiqueta": "bolaloca.my"
   },
+	{
+    "nombre": "TUDN",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Corea - Rep. Checa",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
