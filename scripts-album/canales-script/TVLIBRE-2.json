@@ -367,6 +367,14 @@
         "url": "https://bestleague.top//tok.html?get=VE5UX1Nwb3J0c19IRA",
         "activo": true
       },
+	{
+       "nombre": "TSN 4",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtsn4.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvdHNuNGNhLmh0bWw=",
+        "activo": true
+      },
       {
        "nombre": "TyC Sports",
 		"grupo": "⚽ Deportes",
@@ -381,6 +389,14 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
+        "activo": true
+      },
+	{
+       "nombre": "Win Sports",
+		"grupo": "⚽ Deportes",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzQxLzQ1d3NwcnRzLnBocA==",
         "activo": true
       },
       {
@@ -1124,6 +1140,22 @@
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
         "url": "https://bestleague.top//tok.html?get=VGVsZW11bmRvX0hE",
+        "activo": true
+      },
+	{
+       "nombre": "Telemundo Internacional - Puerto Rico",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLndvcmxkL21wZGsvP2dldD1hSFIwY0hNNkx5OXNhWFpsTFc5dVpXRndjQzF3Y21RdGJtVjNjeTVoYTJGdFlXbDZaV1F1Ym1WMEwwTnZiblJsYm5RdlEwMUJSbDlQVERJdFExUlNMVFJ6TDB4cGRtVXZZMmhoYm01bGJDaExSRVZPS1M5dFlYTjBaWEl1YlhCayZrZXk9TW1FeE9UVmpPVFU0T0RCbE16YzJPRGd5T0RabE1HRTJNVEUzWVRNek5tWT0ma2V5Mj1aVFpqWW1FeFl6VXlaV0psWlRFMk1qZzVOemMxWmpVeE5qUmtZV1ZqWlRjPQ==",
+        "activo": true
+      },
+	{
+       "nombre": "Telemundo Internacional - Puerto Rico",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvNzR0ZWxlbXVuZG8uaHRtbA==",
         "activo": true
       },
       {
