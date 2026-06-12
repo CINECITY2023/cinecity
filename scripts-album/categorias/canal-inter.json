@@ -89,6 +89,15 @@
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
+	{
+       "nombre": "Trece - Paraguay",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtreceparaguay.png",
+        "url": "https://bestleague.top//tok.html?get=UlBDX0M0",
+        "activo": true,
+		  "etiqueta": "bestleague.top"
+      },
       {
        "nombre": "SNT - Paraguay",
 		"grupo": "🌍 Internacionales",
@@ -97,14 +106,41 @@
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
-      {
-       "nombre": "Trece - Paraguay",
+	{
+       "nombre": "Telefuturo - Paraguay",
 		"grupo": "🌍 Internacionales",
                   "icono": "🌍",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtreceparaguay.png",
-        "url": "https://bestleague.top//tok.html?get=UlBDX0M0",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelefuturoparaguay.png",
+        "url": "https://bestleague.top//tok.html?get=VEVMRUZVVFVST19DNA==",
         "activo": true,
 		  "etiqueta": "bestleague.top"
+      },
+	{
+       "nombre": "Telemundo Internacional - Puerto Rico",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+        "url": "https://bestleague.top//tok.html?get=VGVsZW11bmRvX0hE",
+        "activo": true,
+		  "etiqueta": "bestleague.top"
+      },
+	{
+       "nombre": "Telemundo Internacional - Puerto Rico",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLndvcmxkL21wZGsvP2dldD1hSFIwY0hNNkx5OXNhWFpsTFc5dVpXRndjQzF3Y21RdGJtVjNjeTVoYTJGdFlXbDZaV1F1Ym1WMEwwTnZiblJsYm5RdlEwMUJSbDlQVERJdFExUlNMVFJ6TDB4cGRtVXZZMmhoYm01bGJDaExSRVZPS1M5dFlYTjBaWEl1YlhCayZrZXk9TW1FeE9UVmpPVFU0T0RCbE16YzJPRGd5T0RabE1HRTJNVEUzWVRNek5tWT0ma2V5Mj1aVFpqWW1FeFl6VXlaV0psWlRFMk1qZzVOemMxWmpVeE5qUmtZV1ZqWlRjPQ==",
+        "activo": true,
+		"etiqueta": "telegratuita.net"
+      },
+	{
+       "nombre": "Telemundo Internacional - Puerto Rico",
+		"grupo": "🌍 Internacionales",
+                  "icono": "🌍",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvNzR0ZWxlbXVuZG8uaHRtbA==",
+        "activo": true,
+		"etiqueta": "telegratuita.net"
       },
       {
        "nombre": "Canal 4 - Uruguay",
@@ -139,24 +175,6 @@
                   "icono": "🌍",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteledoceuruguay.png",
         "url": "https://bestleague.top//tok.html?get=Q2FuYWwxMlVSVQ==",
-        "activo": true,
-		  "etiqueta": "bestleague.top"
-      },
-      {
-       "nombre": "Telefuturo - Paraguay",
-		"grupo": "🌍 Internacionales",
-                  "icono": "🌍",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelefuturoparaguay.png",
-        "url": "https://bestleague.top//tok.html?get=VEVMRUZVVFVST19DNA==",
-        "activo": true,
-		  "etiqueta": "bestleague.top"
-      },
-      {
-       "nombre": "Telemundo Internacional - Puerto Rico",
-		"grupo": "🌍 Internacionales",
-                  "icono": "🌍",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemundopuertorico.png",
-        "url": "https://bestleague.top//tok.html?get=VGVsZW11bmRvX0hE",
         "activo": true,
 		  "etiqueta": "bestleague.top"
       },
