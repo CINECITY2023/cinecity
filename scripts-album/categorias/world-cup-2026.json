@@ -32,7 +32,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-        "activo": true,
+        "activo": false,
 	  "etiqueta": "bestleague.top"
   },
   {
@@ -41,7 +41,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
-    "activo": true,
+    "activo": false,
 	  "etiqueta": "bolaloca.my"
   },
   {
@@ -50,7 +50,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-    "activo": true,
+    "activo": false,
 	  "etiqueta": "la18hd.com"
   },
   {
@@ -59,7 +59,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": true,
+    "activo": false,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
 	{
@@ -68,12 +68,12 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-    "activo": true,
+    "activo": false,
 	  "etiqueta": "telegratuita.net"
   },
 	{
     "nombre": "DSports",
-    "grupo": "⚽ Australia vs. Turquia - 01:00",
+    "grupo": "⚽ España vs. Cabo Verde - 13:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -82,7 +82,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Australia vs. Turquia - 01:00",
+    "grupo": "⚽ España vs. Cabo Verde - 13:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
@@ -91,7 +91,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Australia vs. Turquia - 01:00",
+    "grupo": "⚽ España vs. Cabo Verde - 13:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
@@ -100,7 +100,7 @@
   },
 	{
        "nombre": "Dsports",
-		"grupo": "⚽ Australia vs. Turquia - 01:00",
+		"grupo": "⚽ España vs. Cabo Verde - 13:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
@@ -149,191 +149,40 @@
 
 
 
-	
-    {
+
+
+
+
+{
        "nombre": "Telefe",
-                  "grupo": "⚽ Brasil VS Marruecos - 19:00",
+                  "grupo": "⚽ Mexico - Sudafrica",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
         "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
         "activo": false,
-		  "etiqueta": "bestleague.top"
-      },
-	{
-    "nombre": "Telefe",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": false,
-	  "etiqueta": "la18hd.com"
-  },
-	{
-       "nombre": "Telefe",
-                  "grupo": "⚽ Brasil VS Marruecos - 19:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": false,
-		"etiqueta": "telegratuita.net"
-  },
-	{
-       "nombre": "TyC Sports",
-		"grupo": "⚽ Brasil vs. Marruecos - 19:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-        "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-        "activo": false,
-	  "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Brasil vs. Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bolaloca.my/player/3/77",
-    "activo": false,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Brasil vs. Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-    "activo": false,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": false,
-	  "etiqueta": "streamtp-x-y-z.ws"
-  },
-	{
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-    "activo": false,
-	  "etiqueta": "telegratuita.net"
-  },
-	{
-    "nombre": "DSports",
-    "grupo": "⚽ Alemania vs. Curazao - 14:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://bolaloca.my/player/3/94",
-    "activo": true,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Alemania vs. Curazao - 14:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
-    "activo": true,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Alemania vs. Curazao - 14:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": true,
-	  "etiqueta": "streamtp-x-y-z.ws"
-  },
-	{
-       "nombre": "Dsports",
-		"grupo": "⚽ Alemania vs. Curazao - 14:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-        "activo": true,
-		 "etiqueta": "telegratuita.net"
-      },
- {
-    "nombre": "TUDN",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/68",
-    "activo": false,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/106",
-    "activo": false,
-	  "etiqueta": "bolaloca.my"
-  },
-	{
-    "nombre": "TUDN",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
-    "activo": false,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Brasil VS Marruecos - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
-    "activo": false,
-	  "etiqueta": "saohgdasregions.fun"
-  },
-
-
-
-
-
-
-
-
-
-
-	{
-       "nombre": "Telefe",
-                  "grupo": "⚽ Países Bajos vs. Japon - 17:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-        "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-        "activo": true,
 		  "etiqueta": "bestleague.top"
       },
 	 {
     "nombre": "Telefe",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "🏙️ Buenos Aires",
     "icono": "🏙️",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": true,
+    "activo": false,
 	  "etiqueta": "la18hd.com"
   },
 	{
        "nombre": "Telefe",
-                  "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+                  "grupo": "⚽ Mexico - Sudafrica",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": true,
+    "activo": false,
 		"etiqueta": "telegratuita.net"
   },
 	{
        "nombre": "TyC Sports",
-		"grupo": "⚽ Países Bajos vs. Japon - 17:00",
+		"grupo": "⚽ Belgica vs. Egipto - 16:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
@@ -342,7 +191,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
@@ -351,7 +200,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
@@ -360,7 +209,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
@@ -369,7 +218,7 @@
   },
 	{
     "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
@@ -378,7 +227,7 @@
   },
 	{
     "nombre": "DSports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -387,7 +236,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
@@ -396,7 +245,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
+    "grupo": "⚽ Belgica vs. Egipto - 16:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
@@ -405,7 +254,7 @@
   },
 	{
        "nombre": "Dsports",
-		"grupo": "⚽ Países Bajos vs. Japon - 17:00",
+		"grupo": "⚽ Belgica vs. Egipto - 16:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
@@ -414,161 +263,7 @@
       },
  {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/68",
-    "activo": true,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/106",
-    "activo": true,
-	  "etiqueta": "bolaloca.my"
-  },
-	{
-    "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
-    "activo": true,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos vs. Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
-    "activo": true,
-	  "etiqueta": "saohgdasregions.fun"
-  },
-
-
-
-
-
-
-
-
-
-
-	{
-       "nombre": "Telefe",
-                  "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-        "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-        "activo": true,
-		  "etiqueta": "bestleague.top"
-      },
-	 {
-    "nombre": "Telefe",
-    "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-    "icono": "🏙️",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": true,
-	  "etiqueta": "la18hd.com"
-  },
-	{
-       "nombre": "Telefe",
-                  "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": true,
-		"etiqueta": "telegratuita.net"
-  },
-	{
-       "nombre": "TyC Sports",
-		"grupo": "⚽ Países Bajos - Japon - 17:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-        "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-        "activo": false,
-	  "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bolaloca.my/player/3/77",
-    "activo": false,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-    "activo": false,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": false,
-	  "etiqueta": "streamtp-x-y-z.ws"
-  },
-	{
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-    "activo": false,
-	  "etiqueta": "telegratuita.net"
-  },
-	{
-    "nombre": "DSports",
-    "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://bolaloca.my/player/3/94",
-    "activo": true,
-	  "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
-    "activo": true,
-	  "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": true,
-	  "etiqueta": "streamtp-x-y-z.ws"
-  },
-	{
-       "nombre": "Dsports",
-		"grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-        "activo": true,
-		 "etiqueta": "telegratuita.net"
-      },
- {
-    "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
@@ -577,7 +272,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/106",
@@ -586,7 +281,7 @@
   },
 	{
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
@@ -595,13 +290,18 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
     "activo": false,
 	  "etiqueta": "saohgdasregions.fun"
   },
+
+
+
+
+
 
 
 
@@ -618,34 +318,34 @@
 
 {
        "nombre": "Telefe",
-                  "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
+                  "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
         "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-        "activo": false,
+        "activo": true,
 		  "etiqueta": "bestleague.top"
       },
 	 {
     "nombre": "Telefe",
-    "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
-    "icono": "🏙️",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
+    "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": false,
+    "activo": true,
 	  "etiqueta": "la18hd.com"
   },
 	{
        "nombre": "Telefe",
-                  "grupo": "⚽ Costa de Marfil vs. Ecuador - 20:00",
+                  "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": false,
+    "activo": true,
 		"etiqueta": "telegratuita.net"
   },
 	{
        "nombre": "TyC Sports",
-		"grupo": "⚽ Suecia vs. Tunez - 23:00",
+		"grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
@@ -654,7 +354,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
@@ -663,7 +363,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
@@ -672,7 +372,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
@@ -681,7 +381,7 @@
   },
 	{
     "nombre": "TyC Sports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
@@ -690,7 +390,7 @@
   },
 	{
     "nombre": "DSports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -699,7 +399,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
@@ -708,7 +408,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Suecia vs. Tunez - 23:00",
+    "grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
@@ -717,7 +417,7 @@
   },
 	{
        "nombre": "Dsports",
-		"grupo": "⚽ Suecia vs. Tunez - 23:00",
+		"grupo": "⚽ Arabia Saudita Vs. Uruguay - 19:00",
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
@@ -726,7 +426,7 @@
       },
  {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
@@ -735,7 +435,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/106",
@@ -744,7 +444,7 @@
   },
 	{
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Estados Unidos - Paraguay",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
@@ -753,13 +453,175 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Países Bajos - Japon - 17:00",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
+    "activo": false,
+	  "etiqueta": "saohgdasregions.fun"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+       "nombre": "Telefe",
+                  "grupo": "⚽ Arabia Saudita Vs.Uruguay - 19:00",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+        "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
+        "activo": false,
+		  "etiqueta": "bestleague.top"
+      },
+	 {
+    "nombre": "Telefe",
+    "grupo": "⚽ Arabia Saudita Vs.Uruguay - 19:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
+    "activo": false,
+	  "etiqueta": "la18hd.com"
+  },
+	{
+       "nombre": "Telefe",
+                  "grupo": "⚽ Arabia Saudita Vs.Uruguay - 19:00",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
+    "activo": false,
+		"etiqueta": "telegratuita.net"
+  },
+	{
+       "nombre": "TyC Sports",
+		"grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+        "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
+        "activo": true,
+	  "etiqueta": "bestleague.top"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://bolaloca.my/player/3/77",
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
+  {
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
+  },
+	{
+    "nombre": "TyC Sports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
+    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
+    "activo": true,
+	  "etiqueta": "telegratuita.net"
+  },
+	{
+    "nombre": "DSports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://bolaloca.my/player/3/94",
+    "activo": true,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "DSports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
+    "activo": true,
+	  "etiqueta": "la18hd.com"
+  },
+  {
+    "nombre": "DSports",
+    "grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
+    "activo": true,
+	  "etiqueta": "streamtp-x-y-z.ws"
+  },
+	{
+       "nombre": "Dsports",
+		"grupo": "⚽ Iran Vs. Nueva Zelanda- 22:00",
+                  "icono": "⚽",
+        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+        "activo": true,
+		 "etiqueta": "telegratuita.net"
+      },
+ {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://bolaloca.my/player/3/68",
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://bolaloca.my/player/3/106",
+    "activo": false,
+	  "etiqueta": "bolaloca.my"
+  },
+	{
+    "nombre": "TUDN",
+    "grupo": "⚽ Estados Unidos - Paraguay",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
+    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
+    "activo": false,
+	  "etiqueta": "la18hd.com"
+  },
+  {
+    "nombre": "TUDN",
+    "grupo": "⚽ Mexico - Sudafrica",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
     "activo": false,
 	  "etiqueta": "saohgdasregions.fun"
   }
-
 
 ]
