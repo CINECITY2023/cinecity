@@ -1762,6 +1762,10 @@ http://miotv.cc:8080/Lopez123/Lopez123/187330
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfifatv.png" group-title="⚽ Deportes",✔️ FIFA TV
 http://miotv.cc:8080/Lopez123/Lopez123/429027
 
+✔️ FIFA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfifatv.png" group-title="⚽ Deportes",✔️ FIFA TV
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+
 ✔️ FOX
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHfox.png" group-title="⚽ Deportes",✔️ FOX
 http://45.167.1.136:8000/play/a05u
