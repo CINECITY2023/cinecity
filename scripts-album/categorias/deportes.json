@@ -55,6 +55,15 @@
 	"etiqueta": "M3U8"
   },
   {
+    "nombre": "Claro Sports",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHclarosports.png",
+    "url": "https://dai.google.com/linear/hls/event/_OKWx76jT7mivD6d-25QAw/master.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
     "nombre": "DAZN F1",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
