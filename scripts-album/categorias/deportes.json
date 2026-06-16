@@ -113,6 +113,15 @@
     "grupo": "⚽ Deportes",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+    "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
+    "activo": true,
+	  "etiqueta": "M3U8"
+  },
+  {
+    "nombre": "DSports",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
