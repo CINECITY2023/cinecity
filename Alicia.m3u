@@ -3444,6 +3444,10 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 #KODIPROP:inputstream.adaptive.license_key=49eb924ba998ca7fbbaee30dcef1ecb4:6e131b04b2e87598fb588ac205673698
 https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc_C/GEN_TV.mpd
 
+✔️ 🇵🇾 GEN TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHgenparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 GEN TV
+http://45.170.130.224:8000/play/a04j/index.m3u8
+
 ✔️ 🇵🇾 La Tele
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHlateleparaguay.png" group-title="🌍 Paraguay",✔️ 🇵🇾 La Tele
 #KODIPROP:inputstream.adaptive.license_type=clearkey
