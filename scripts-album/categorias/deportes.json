@@ -46,6 +46,15 @@
 	"etiqueta": "M3U8"
   },
   {
+    "nombre": "Canela Deportes",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHcaneladeportes.png",
+    "url": "https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
     "nombre": "DAZN F1",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
