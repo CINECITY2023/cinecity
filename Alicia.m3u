@@ -1510,9 +1510,9 @@ https://zap-live1-ott.izzigo.tv/15/out/u/dash/WARNER-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHextremacinedeaccion.png" group-title="🎬 Cine",✔️ Xtrema TV Cine Accion
 https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
 
-✔️ Marvel
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagamarvel.png" group-title="🎬 Sagas de Peliculas",✔️ Marvel
-
+✔️ Filmrise - Autopista Al Cielo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHautopistaalcielo.png" group-title="🎬 Series Retro",✔️ Filmrise - Autopista Al Cielo
+https://jmp2.uk/rok-b602b0edb0cd58a5a5be2b7554166c07.m3u8
 
 ✔️ Rápido y Furioso
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHsagafast.png" group-title="🎬 Sagas de Peliculas",✔️ Rápido y Furioso
