@@ -25,7 +25,25 @@
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsñ.png",
     "url": "https://bolaloca.my/player/3/69",
     "activo": true,
-	  "etiqueta": "bolaloca.my"
+	"etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "Bein Sports Xtra ñ",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png",
+    "url": "https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
+    "nombre": "Bein Sports Xtra ñ",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHbeinsportsxtrañ.png",
+    "url": "https://bein-esp-xumo.amagi.tv/playlist.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
   },
   {
     "nombre": "DAZN F1",
