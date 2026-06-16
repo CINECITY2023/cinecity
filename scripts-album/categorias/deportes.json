@@ -113,7 +113,7 @@
     "grupo": "⚽ Deportes",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
+    "url": "http://190.117.20.37:8000/play/a08d/index.m3u8",
     "activo": true,
 	  "etiqueta": "M3U8"
   },
@@ -126,15 +126,15 @@
     "activo": true,
 	  "etiqueta": "streamtp-x-y-z.ws"
   },
-	{
-       "nombre": "Dsports",
-		"grupo": "⚽ Deportes",
-                  "icono": "⚽",
-        "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-        "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-        "activo": true,
-		 "etiqueta": "telegratuita.net"
-      },
+  {
+     "nombre": "Dsports",
+	 "grupo": "⚽ Deportes",
+     "icono": "⚽",
+     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
+     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
+     "activo": true,
+	 "etiqueta": "telegratuita.net"
+  },
   {
     "nombre": "DSports 2",
     "grupo": "⚽ Deportes",
@@ -161,6 +161,15 @@
     "url": "https://bolaloca.my/player/3/96",
     "activo": false,
 	  "etiqueta": "bolaloca.my"
+  },
+  {
+    "nombre": "DSports+",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports+.png",
+    "url": "http://190.108.83.69:8000/play/a05w/index.m3u8",
+    "activo": true,
+	  "etiqueta": "M3U8"
   },
   {
     "nombre": "DSports+",
