@@ -622,6 +622,24 @@
 	"etiqueta": "bolaloca.my"
   },
   {
+    "nombre": "MotorVision",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmotorvision.png",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=7342",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
+    "nombre": "Movil TV Turf",
+    "grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHmoviltvturf.png",
+    "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
     "nombre": "Movistar Deportes",
     "grupo": "⚽ Deportes",
     "icono": "⚽",
