@@ -658,6 +658,24 @@
 	"etiqueta": "bestleague.top"
   },
   {
+    "nombre": "Real Madrid TV",
+	"grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHrealmadridtv.png",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
+    "nombre": "Red Bull TV",
+	"grupo": "⚽ Deportes",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHredbulltv.png",
+    "url": "https://e115ca7eea9f45628f59ee2d3b8cbba4.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-LG_AR/957/hls/master/playlist.m3u8",
+    "activo": true,
+	"etiqueta": "M3U8"
+  },
+  {
     "nombre": "Sky Sports La Liga",
 	"grupo": "⚽ Deportes",
     "icono": "⚽",
