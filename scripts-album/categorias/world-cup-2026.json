@@ -1,6 +1,5 @@
 [
  
-
 {
      "nombre": "Telefe",
      "grupo": "⚽ Mexico - Sudafrica",
@@ -75,7 +74,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Francia vs. Senegal - 16:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -84,7 +83,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Francia vs. Senegal - 16:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
@@ -93,7 +92,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Francia vs. Senegal - 16:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
@@ -102,7 +101,7 @@
   },
   {
     "nombre": "Dsports",
-    "grupo": "⚽ Francia vs. Senegal - 16:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
@@ -111,338 +110,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/68",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/106",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Estados Unidos - Paraguay",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
-    "activo": false,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
-    "activo": false,
-    "etiqueta": "saohgdasregions.fun"
-  },
-
-
-
-
-
-
-
-
-
-
-
- 
-  {
-     "nombre": "Telefe",
-     "grupo": "⚽ Mexico - Sudafrica",
-     "icono": "⚽",
-     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-     "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-     "activo": false,
-     "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "🏙️ Buenos Aires",
-    "icono": "🏙️",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": false,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": false,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-    "activo": true,
-    "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bolaloca.my/player/3/77",
-    "activo": true,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-    "activo": true,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": true,
-    "etiqueta": "streamtp-x-y-z.ws"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-    "activo": true,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "DSports 2",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png",
-    "url": "https://bolaloca.my/player/3/95",
-    "activo": true,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports 2",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports2.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=dsports2",
-    "activo": true,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": true,
-    "etiqueta": "streamtp-x-y-z.ws"
-  },
-  {
-    "nombre": "Dsports",
-    "grupo": "⚽ Irak vs. Noruega - 19:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-    "activo": true,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/68",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://bolaloca.my/player/3/106",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Estados Unidos - Paraguay",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
-    "activo": false,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Mexico - Sudafrica",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
-    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
-    "activo": false,
-    "etiqueta": "saohgdasregions.fun"
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-     "nombre": "Telefe",
-     "grupo": "⚽ Argentina vs. Argelia - 22:00",
-     "icono": "⚽",
-     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-     "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-     "activo": true,
-     "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=telefe",
-    "activo": true,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": true,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bestleague.top//tok.html?get=VHlDU3BvcnQ",
-    "activo": true,
-    "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://bolaloca.my/player/3/77",
-    "activo": true,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=tycsports",
-    "activo": true,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=tycsports",
-    "activo": true,
-    "etiqueta": "streamtp-x-y-z.ws"
-  },
-  {
-    "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-    "activo": true,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://bolaloca.my/player/3/94",
-    "activo": true,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
-    "activo": true,
-    "etiqueta": "la18hd.com"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp-x-y-z.ws/global1.php?stream=dsports",
-    "activo": true,
-    "etiqueta": "streamtp-x-y-z.ws"
-  },
-  {
-    "nombre": "Dsports",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-    "activo": true,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "TUDN",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/68",
@@ -451,7 +119,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://bolaloca.my/player/3/106",
@@ -460,7 +128,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=tudn_mx",
@@ -469,7 +137,7 @@
   },
   {
     "nombre": "TUDN",
-    "grupo": "⚽ Argentina vs. Argelia - 22:00",
+    "grupo": "⚽ Portugal vs. Congo - 14:00",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtudn.png",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=33_",
