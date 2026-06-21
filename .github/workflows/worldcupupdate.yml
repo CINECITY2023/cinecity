@@ -2,7 +2,7 @@ name: Actualizar World Cup
 
 on:
   schedule:
-    - cron: "0 * * * *"   # cada hora
+    - cron: "0 3 * * *"   # una vez al dia
   workflow_dispatch:
 
 permissions:
