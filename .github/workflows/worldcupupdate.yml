@@ -1,0 +1,61 @@
+name: Actualizar World Cup
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # cada hora
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Actualizar activos
+        run: |
+          node <<'EOF'
+          const fs = require('fs');
+
+          const archivo = 'scripts-album/categorias/world-cup-2026.json';
+          const data = JSON.parse(fs.readFileSync(archivo, 'utf8'));
+
+          const fechaActual = new Intl.DateTimeFormat(
+            'es-AR',
+            {
+              timeZone: 'America/Argentina/Buenos_Aires',
+              day: '2-digit',
+              month: '2-digit',
+              year: 'numeric'
+            }
+          ).format(new Date());
+
+          data.forEach(item => {
+            const match = item.grupo.match(/(\d{2}\/\d{2}\/\d{4})$/);
+
+            item.activo = match
+              ? match[1] === fechaActual
+              : false;
+          });
+
+          fs.writeFileSync(
+            archivo,
+            JSON.stringify(data, null, 2),
+            'utf8'
+          );
+          EOF
+
+      - name: Commit y Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add scripts-album/categorias/world-cup-2026.json
+
+          if ! git diff --staged --quiet; then
+            git commit -m "Actualizar canales activos"
+            git push
+          fi
