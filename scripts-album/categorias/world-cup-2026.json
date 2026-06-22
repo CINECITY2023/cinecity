@@ -1,5 +1,4 @@
 [
-  
   {
     "nombre": "Telefe",
     "grupo": "⚽ Argentina vs. Austria 14:00 - 22/06/2026",
@@ -225,16 +224,6 @@
     "activo": true,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
   {
     "nombre": "DSports",
     "grupo": "⚽ Jordania vs. Argelia - 00:00 - 23/06/2026",
@@ -271,31 +260,14 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-     "nombre": "Telefe",
-     "grupo": "⚽ Portugal vs. Uzbekistan 14:00 - 23/06/2026",
-     "icono": "⚽",
-     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-     "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-     "activo": false,
-     "etiqueta": "bestleague.top"
+  {
+    "nombre": "Telefe",
+    "grupo": "⚽ Portugal vs. Uzbekistan 14:00 - 23/06/2026",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
+    "activo": false,
+    "etiqueta": "bestleague.top"
   },
   {
     "nombre": "Telefe",
@@ -396,29 +368,14 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-     "nombre": "Telefe",
-     "grupo": "⚽ Inglaterra vs. Ghana 17:00 - 23/06/2026",
-     "icono": "⚽",
-     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-     "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-     "activo": false,
-     "etiqueta": "bestleague.top"
+  {
+    "nombre": "Telefe",
+    "grupo": "⚽ Inglaterra vs. Ghana 17:00 - 23/06/2026",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
+    "activo": false,
+    "etiqueta": "bestleague.top"
   },
   {
     "nombre": "Telefe",
@@ -474,21 +431,7 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
+  {
     "nombre": "TyC Sports",
     "grupo": "⚽ Panama vs. Croacia - 20:00 - 23/06/2026",
     "icono": "⚽",
@@ -569,20 +512,6 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   {
     "nombre": "DSports",
     "grupo": "⚽ Colombia vs. Congo - 23:00 - 23/06/2026",
