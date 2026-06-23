@@ -1,5 +1,4 @@
 [
-  
   {
     "nombre": "DSports",
     "grupo": "⚽ Jordania vs. Argelia - 00:00 - 23/06/2026",
@@ -324,16 +323,6 @@
     "activo": true,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
   {
     "nombre": "TyC Sports",
     "grupo": "⚽ Suiza vs. Canada - 16:00 - 24/06/2026",
@@ -415,22 +404,7 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
+  {
     "nombre": "DSports 2",
     "grupo": "⚽ Bosnia vs. Qatar - 16:00 - 24/06/2026",
     "icono": "⚽",
@@ -466,29 +440,14 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{
-     "nombre": "Telefe",
-     "grupo": "⚽ Escocia vs. Brasil 19:00 - 24/06/2026",
-     "icono": "⚽",
-     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-     "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
-     "activo": false,
-     "etiqueta": "bestleague.top"
+  {
+    "nombre": "Telefe",
+    "grupo": "⚽ Escocia vs. Brasil 19:00 - 24/06/2026",
+    "icono": "⚽",
+    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+    "url": "https://bestleague.top//tok.html?get=VGVsZWZlSEQ=&lang=1",
+    "activo": false,
+    "etiqueta": "bestleague.top"
   },
   {
     "nombre": "Telefe",
@@ -508,7 +467,6 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
   {
     "nombre": "DSports",
     "grupo": "⚽ Escocia vs. Brasil 19:00 - 24/06/2026",
@@ -545,21 +503,7 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
+  {
     "nombre": "TyC Sports",
     "grupo": "⚽ Marruecos vs. Haiti - 19:00 - 24/06/2026",
     "icono": "⚽",
@@ -640,21 +584,7 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
+  {
     "nombre": "TyC Sports",
     "grupo": "⚽ Sudrafrica vs. Corea del Sur - 22:00 - 24/06/2026",
     "icono": "⚽",
@@ -735,22 +665,7 @@
     "activo": false,
     "etiqueta": "telegratuita.net"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- {
+  {
     "nombre": "DSports",
     "grupo": "⚽ Rep. Checa vs. México - 22:00 - 24/06/2026",
     "icono": "⚽",
