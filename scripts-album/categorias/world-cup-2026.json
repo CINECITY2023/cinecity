@@ -1,11 +1,11 @@
 [
-{
+  {
     "nombre": "DSports",
     "grupo": "⚽ Francia vs. Marruecos 17:00 - 09/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
-    "activo": false,
+    "activo": true,
     "etiqueta": "bolaloca.my"
   },
   {
@@ -14,7 +14,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://la18hd.com/vivo/canales.php?stream=dsports",
-    "activo": false,
+    "activo": true,
     "etiqueta": "la18hd.com"
   },
   {
@@ -23,7 +23,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtpday1.xyz/global1.php?stream=dsports",
-    "activo": false,
+    "activo": true,
     "etiqueta": "streamtpday1.xyz"
   },
   {
@@ -32,7 +32,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzNDU0MS5odG1s",
-    "activo": false,
+    "activo": true,
     "etiqueta": "telegratuita.net"
   }
 ]
