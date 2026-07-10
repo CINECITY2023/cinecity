@@ -5,7 +5,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
-    "activo": true,
+    "activo": false,
     "etiqueta": "bolaloca.my"
   },
   {
@@ -14,7 +14,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp.sbs/global1.php?stream=dsports",
-    "activo": true,
+    "activo": false,
     "etiqueta": "streamtp.sbs"
   },
   {
@@ -23,7 +23,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://stream-xhd.com/live1.php?stream=dsports",
-    "activo": true,
+    "activo": false,
     "etiqueta": "stream-xhd.com"
   },
   {
@@ -32,7 +32,7 @@
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzNDU0MS5odG1s",
-    "activo": true,
+    "activo": false,
     "etiqueta": "telegratuita.net"
   }
 ]
