@@ -1,115 +1,16 @@
 [
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ=",
-    "activo": false,
-    "etiqueta": "bestleague.top"
+{
+     "nombre": "Telefe",
+     "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
+     "icono": "⚽",
+     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
+     "url": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ=",
+     "activo": false,
+     "etiqueta": "bestleague.top"
   },
   {
     "nombre": "Telefe",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://streamtp.sbs/global1.php?stream=telefe",
-    "activo": false,
-    "etiqueta": "streamtp.sbs"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
-    "activo": false,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://bolaloca.my/player/3/94",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp.sbs/global1.php?stream=dsports",
-    "activo": false,
-    "etiqueta": "streamtp.sbs"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://stream-xhd.com/live1.php?stream=dsports",
-    "activo": false,
-    "etiqueta": "stream-xhd.com"
-  },
-  {
-    "nombre": "Dsports",
-    "grupo": "⚽ España vs. Bélgica 16:00 - 10/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzNDU0MS5odG1s",
-    "activo": false,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Noruega vs. Inglaterra 18:00 - 11/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://bolaloca.my/player/3/94",
-    "activo": false,
-    "etiqueta": "bolaloca.my"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Noruega vs. Inglaterra 18:00 - 11/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://streamtp.sbs/global1.php?stream=dsports",
-    "activo": false,
-    "etiqueta": "streamtp.sbs"
-  },
-  {
-    "nombre": "DSports",
-    "grupo": "⚽ Noruega vs. Inglaterra 18:00 - 11/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://stream-xhd.com/live1.php?stream=dsports",
-    "activo": false,
-    "etiqueta": "stream-xhd.com"
-  },
-  {
-    "nombre": "Dsports",
-    "grupo": "⚽ Noruega vs. Inglaterra 18:00 - 11/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
-    "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzNDU0MS5odG1s",
-    "activo": false,
-    "etiqueta": "telegratuita.net"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
-    "icono": "⚽",
-    "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
-    "url": "https://bestleague.top/tok.html?get=VGVsZWZlSEQ=",
-    "activo": false,
-    "etiqueta": "bestleague.top"
-  },
-  {
-    "nombre": "Telefe",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://streamtp.sbs/global1.php?stream=telefe",
@@ -118,7 +19,7 @@
   },
   {
     "nombre": "Telefe",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png",
     "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGZWRzJTJGVGVsZWZlJTJGbGl2ZV9kYXNoX2NsZCUyRlRlbGVmZS5tcGQlM0ZjayUzRGV5STVZbUkxTkdaalkyWm1ZV1JrWkRNNE9URTJaVGcxWXpBNFpHVTVPR05qT1NJNkltUXdObVkxTURsak5ERTRaV0kyWmpGaU1tWmpNbUkzTmpZME5EVXpNamhpSW4wJTNEJTI2aGVhZGVycyUzRGV5SnZjbWxuYVc0aU9pSm9kSFJ3Y3pvdkwzZGxZbU5zYVdWdWRDNWhiblJwYm1Gd2JHRjVjR3gxY3k1amIyMHVZWElpTENKeVpXWmxjbVZ5SWpvaWFIUjBjSE02THk5M1pXSmpiR2xsYm5RdVlXNTBhVzVoY0d4aGVYQnNkWE11WTI5dExtRnlMeUo5JTI2dGl0bGUlM0RUZWxlR3JhdHVpdGE=",
@@ -127,7 +28,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bestleague.top/tok.html?get=VHlDU3BvcnQ",
@@ -136,7 +37,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://bolaloca.my/player/3/77",
@@ -145,7 +46,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://streamtp.sbs/global1.php?stream=tycsports",
@@ -154,7 +55,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://stream-xhd.com/live1.php?stream=tycsports",
@@ -163,7 +64,7 @@
   },
   {
     "nombre": "TyC Sports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
@@ -172,7 +73,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://bolaloca.my/player/3/94",
@@ -181,7 +82,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://streamtp.sbs/global1.php?stream=dsports",
@@ -190,7 +91,7 @@
   },
   {
     "nombre": "DSports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://stream-xhd.com/live1.php?stream=dsports",
@@ -199,7 +100,7 @@
   },
   {
     "nombre": "Dsports",
-    "grupo": "⚽ Argentina vs. Suiza 22:00 - 11/07/2026",
+    "grupo": "⚽ Inglaterra vs. Argentina 16:00 - 15/07/2026",
     "icono": "⚽",
     "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
     "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheS5zYnMvY2FuYWxfODExMi9kc3BvcnRzNDU0MS5odG1s",
