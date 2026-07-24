@@ -1,5 +1,5 @@
-MUNDIAL 2026|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/world-cup-2026.json
 Buenos Aires|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/buenos-aires.json
+Eventos|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/Eventos.json
 Noticias|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/noticias.json
 Cultura|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/cultura.json
 Deportes|https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/scripts-album/categorias/deportes.json
