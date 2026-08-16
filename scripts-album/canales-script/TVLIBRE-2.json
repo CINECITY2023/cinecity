@@ -37,7 +37,7 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRmNkbi5zZW5zYS5jb20uYXIlMkZsaXZlJTJGc3RhMDIlMkZDYW5hbDklMkZsaXZlX2Rhc2hfY2xkJTJGQ2FuYWw5Lm1wZCUzRmNrJTNEZXlJM1l6Rm1OVEJsTTJZMU1USXhObUprWkRGbFptTmpPVGxrTTJFeU56SXhOeUk2SWpNME5ERmpPVE13TWpjM1pEZ3lORFF3TW1GaFptVmxORFEyWW1FNFpqa3dJbjAlM0QlMjZoZWFkZXJzJTNEZXlKdmNtbG5hVzRpT2lKb2RIUndjem92TDNkbFltTnNhV1Z1ZEM1aGJuUnBibUZ3YkdGNWNHeDFjeTVqYjIwdVlYSWlMQ0p5WldabGNtVnlJam9pYUhSMGNITTZMeTkzWldKamJHbGxiblF1WVc1MGFXNWhjR3hoZVhCc2RYTXVZMjl0TG1GeUx5SXNJblZ6WlhJdFlXZGxiblFpT2lKTmIzcHBiR3hoTHpVdU1DQW9WMmx1Wkc5M2N5Qk9WQ0F4TUM0d095QlhhVzQyTkRzZ2VEWTBLU0JCY0hCc1pWZGxZa3RwZEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1V2TVRRNExqQXVNQzR3SUZOaFptRnlhUzgxTXpjdU16WWlMQ0p6WldNdFkyZ3RkV0V0Y0d4aGRHWnZjbTBpT2lKY0lsZHBibVJ2ZDNOY0lpSXNJbk5sWXkxamFDMTFZUzF0YjJKcGJHVWlPaUklMkZNQ0lzSW5ObFl5MW5jR01pT2lJeEluMCUzRCUyNnRpdGxlJTNEVGVsZUdyYXR1aXRh",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Telefe",
@@ -133,7 +133,7 @@
                   "icono": "🏙️",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png",
         "url": "https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Telemax",
@@ -237,7 +237,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9UkhOd2IzSjBjMTlWV1E9PQ==",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "ESPN",
@@ -373,7 +373,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtsn4.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzgxMTIvdHNuNGNhLmh0bWw=",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "TyC Sports",
@@ -389,7 +389,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHtycsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9iZXN0bGVhZ3VlLnRvcC90b2suaHRtbD9nZXQ9VkhsRFUzQnZjblE=",
-        "activo": true
+        "activo": false
       },
 	{
        "nombre": "Win Sports",
@@ -397,7 +397,7 @@
                   "icono": "⚽",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHwinsports.png",
         "url": "https://telegratuita.net/repro/?r=aHR0cHM6Ly9zdWRhbWVyaWNhcGxheTIuY29tL2NhbmFsXzQxLzQ1d3NwcnRzLnBocA==",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Adult Swim",
@@ -413,7 +413,7 @@
                   "icono": "🤖",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHadultswim.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEyMzQtdGJ4LnZyaW9vdHQuY29tJTJGYWR1bHRzd2ltJTJGbWFuaWZlc3QubXBkJTNGY2slM0RleUk0TmpRNU1tRTBOV1ppTXpjMVpHWXhPREZsTjJGbVltVmlOMlUyTW1VM1ppSTZJbVF5T0dVeVlqaGhOR1UyTkdObU5UaGxNV014TVdZeVkyWTFaRGxqTVRaaUluMCUzRCUyNnRpdGxlJTNEVGVsZUdyYXR1aXRh",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Cartoonito",
@@ -501,7 +501,7 @@
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEwMTMtdGJ4LnZyaW9vdHQuY29tJTJGYW5pbWFscGxhbmV0JTJGbWFuaWZlc3QubXBkJTNGY2slM0RleUppTkRjM01qQXlZVGRoT1dJMVl6UTBPR0psT0RnM09HUTBNRGxpT0RjMU5TSTZJbU16WkRnMk5USXdOek0yT0RoaFlXTmxPVGszWldNMFpHTTBZemM0TVdRd0luMCUyNTNE",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Canal Rural",
@@ -541,7 +541,7 @@
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEwNzctdGJ4LnZyaW9vdHQuY29tJTJGZGlzY292ZXJ5aWRhciUyRm1hbmlmZXN0Lm1wZCUzRmNrJTNEZXlJMU9UZG1OR1ExT1RoaU56QTFaVEZsT0RSbE1qVmxOemM0TURVeU9EYzJNQ0k2SWpZME4yTmlOMkl4Wm1ReFlqUXdaRGszWXpBd01qazBaR015TWpjM1lXRTVJbjAlMjUzRA==",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Discovery Science",
@@ -669,7 +669,7 @@
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHtlc.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEyMjQtdGJ4LnZyaW9vdHQuY29tJTJGdGxjJTJGbWFuaWZlc3QubXBkJTNGY2slM0RleUl4WWpsak56RmtOV0U0TW1NMU16TTRPR1ZqTlRReE4yVmpOMlZqWXpjMk55STZJbU0xT0daak5UQXhOelF5WVdJNVkyVmpOR1prTVdRNVpHTXlZbUUxWkRVM0luMCUyNTNE",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "Turbo Discovery",
@@ -685,7 +685,7 @@
                   "icono": "🚜",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHturbodiscovery.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEwODEtdGJ4LnZyaW9vdHQuY29tJTJGZGlzY292ZXJ5dHVyYm8lMkZtYW5pZmVzdC5tcGQlM0ZjayUzRGV5STVNVFJoT1RJd04yTmlNREkxWVRVME9HUmhabVl6WWpZNVlUVTRZbUpoWVNJNklqZ3dORFZoWkRFek5HWmhOR1kyTWpkbE1qVmxOalV6TmpOaE1qSTBPRFV6SW4wJTNE",
-        "activo": true
+        "activo": false
       },
 	  {
        "nombre": "Universal Crime",
@@ -741,7 +741,7 @@
                   "icono": "🎬",
         "logo": "https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cine/CHamc.png",
         "url": "https://telegratuita.net/repro/?r=L2V4dGVuc2lvbi5waHA/cj1odHRwcyUzQSUyRiUyRjEwMDctdGJ4LnZyaW9vdHQuY29tJTJGYW1jbGElMkZtYW5pZmVzdC5tcGQlM0ZjayUzRGV5STVOelE0WlRJeE1HWXpaRGMxTURZd09EUXdOR1JpT0RFeE1HRTNNRFV6WVNJNklqZGhZVFE1TVdReVkySmhZemxrWkRVd1lqVTNaVGd3TkRBeFl6WmtaRFUzSW4wJTI1M0Q=",
-        "activo": true
+        "activo": false
       },
       {
        "nombre": "AXN",
