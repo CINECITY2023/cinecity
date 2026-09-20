@@ -4,12 +4,6 @@
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/eventosc.png" group-title="🎬 Eventos",✔️EVENTOS🎬 Cine 2
 
 ✔️ America TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc_C/AmericaTV.mpd
-
-✔️ America TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHamericatv.png" group-title="🏙️ Buenos Aires",✔️ America TV
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
@@ -24,12 +18,6 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
-✔️ TV Publica
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png" group-title="🏙️ Buenos Aires",✔️ TV Publica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
-https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd
-
 ✔️ TV Pública
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtvpublica.png" group-title="🏙️ Buenos Aires",✔️ TV Pública
 #EXTVLCOPT:http-user-agent=Android 8.0.0
@@ -42,84 +30,29 @@ https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-200
 
 ✔️ El Nueve
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png" group-title="🏙️ Buenos Aires",✔️ El Nueve
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
-
-✔️ El Nueve
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelnueve.png" group-title="🏙️ Buenos Aires",✔️ El Nueve
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-16.playlist.m3u8
 
 ✔️ Telefe
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
-https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd
-
-✔️ Telefe
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-http://miotv.cc:8080/Lopez123/Lopez123/272043
-
-✔️ Telefe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefe.png" group-title="🏙️ Buenos Aires",✔️ Telefe
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108795
 
 ✔️ Telefe Internacional
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc0abcc84ec380cfc192b96d32abad23:9b7825385b89ff82d01909a4ae404877
-https://cdn.cvattv.com.ar/live/c4eds/Telefe_Internacional/SA_Live_dash_enc_C/Telefe_Internacional.mpd
-
-✔️ Telefe Internacional
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelefeinternacional.png" group-title="🏙️ Buenos Aires",✔️ Telefe Internacional
-http://107.152.39.199:8030/hls/canal13.m3u8
 
 ✔️ El Trece
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
-https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD.mpd
-
-✔️ El Trece
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-http://miotv.cc:8080/Lopez123/Lopez123/272044
-
-✔️ El Trece
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltrece.png" group-title="🏙️ Buenos Aires",✔️ El Trece
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/108799
 
 ✔️ El Trece Internacional
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltreceinternacional.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5bd469f8bf268d5d148c3971c7c23fca:9af98080d22846fdf2988b8ba9ec4add
-https://cdn.cvattv.com.ar/live/c6eds/Artear_Internacional/SA_Live_dash_enc_C/Artear_Internacional.mpd
-
-✔️ El Trece Internacional
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHeltreceinternacional.png" group-title="🏙️ Buenos Aires",✔️ El Trece Internacional
-
-
-✔️ Argentinisima Satelital
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6243f46366445ebbf3117ec27365481:81667cdc3bcf19a6a66c0919fa00a20b
-https://cdn.cvattv.com.ar/live/c6eds/Argentinisima/SA_Live_dash_enc_C/Argentinisima.mpd
 
 ✔️ Argentinisima Satelital
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHargentinisimasatelital.png" group-title="🏙️ Buenos Aires",✔️ Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 
-✔️ Bravo TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad7fbbec39cea4a5a63ac13d94da48d4:f71087b4dc211db079237c0fb783eb93
-https://cdn.cvattv.com.ar/live/c7eds/BravoTV/SA_Live_dash_enc_C/BravoTV.mpd
-
-✔️ Bravo TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
+✔️ Alpha TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/alphatv.png" group-title="🏙️ Buenos Aires",✔️ Alpha TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 
-✔️ Bravo TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHbravotv.png" group-title="🏙️ Buenos Aires",✔️ Bravo TV
+✔️ Alpha TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/alphatv.png" group-title="🏙️ Buenos Aires",✔️ Alpha TV
 https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b2200448901667b8ad89485e5&sid=ba5t1l1xb2632655315680102df79614&ndvc=0
 
 ✔️ Canal 2 (Mar del Plata)
@@ -128,7 +61,7 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 ✔️ Canal 3 (Pinamar)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal3pinamar.png" group-title="🏙️ Buenos Aires",✔️ Canal 3 (Pinamar)
-https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 ✔️ Canal 10 (Junín)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal10dejunin.png" group-title="🏙️ Buenos Aires",✔️ Canal 10 (Junín)
@@ -146,7 +79,7 @@ https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
 ✔️ Canal 22
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanal22.png" group-title="🏙️ Buenos Aires",✔️ Canal 22
-https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+https://media.cdnvid.com/public/7c3g8h159tip.m3u8
 
 ✔️ Canal 79 (La Costa)
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (La Costa)
@@ -167,12 +100,6 @@ https://streamconex.com:19360/santaclara-1/santaclara-1.m3u8
 ✔️ Canal 79 (Villa Maza)
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/Canal79MardelPlata.png" group-title="🏙️ Buenos Aires",✔️ Canal 79 (Villa Maza)
 https://streamconex.com:19360/villamaza/villamaza.m3u8
-
-✔️ Canal de la Ciudad
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png" group-title="🏙️ Buenos Aires",✔️ Canal de la Ciudad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ee7842b3cf24d1dba088365fa5d0543:69cec006409823c06fbf2866a231b4f7
-https://cdn.cvattv.com.ar/live/c6eds/Canal_de_la_ciudad/SA_Live_dash_enc_C/Canal_de_la_ciudad.mpd
 
 ✔️ Canal de la Ciudad
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHelcanaldelaciudad.png" group-title="🏙️ Buenos Aires",✔️ Canal de la Ciudad
@@ -197,45 +124,15 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 ✔️ Ciudad Magazine
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHciudadmagazine.png" group-title="🏙️ Buenos Aires",✔️ Ciudad Magazine
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f1235069d34c22cb73d9b78bae15587:55e068ff6b152e34c66dc639b38e8692
-https://cdn.cvattv.com.ar/live/c3eds/Magazine/SA_Live_dash_enc_C/Magazine.mpd
-
-✔️ Ciudad Magazine
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHciudadmagazine.png" group-title="🏙️ Buenos Aires",✔️ Ciudad Magazine
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/ciudadmagazine.playlist.m3u8
 
 ✔️ KZO Entertainmen
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHkzo.png" group-title="🏙️ Buenos Aires",✔️ KZO Entertainmen
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=695d07988114f7fec31f8f27a6d67c32:8e4fbb96cff6a31c88f81565b199a13a
-https://cdn.cvattv.com.ar/live/c6eds/KZO/SA_Live_dash_enc_C/KZO.mpd
-
-✔️ KZO Entertainmen
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHkzo.png" group-title="🏙️ Buenos Aires",✔️ KZO Entertainmen
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-52.playlist.m3u8
 
 ✔️ Metro TV
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png" group-title="🏙️ Buenos Aires",✔️ Metro TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
-https://cdn.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc_C/Metro.mpd
-
-✔️ Metro TV
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmetrotv.png" group-title="🏙️ Buenos Aires",✔️ Metro TV
-http://cdn-abc.xyz:2086/CanalesVen/NF8sq6nCEq/160129
 
 ✔️ Mix TV
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHmixtv.png" group-title="🏙️ Buenos Aires",✔️ Mix TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0e1327b5b1f4dfe767aec622c9ef64ce:60c64a922af0121bf73261c825e33f18
-https://cdn.cvattv.com.ar/live/c4eds/MixTV/SA_Live_dash_enc_C/MixTV.mpd
-
-✔️ Net TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="🏙️ Buenos Aires",✔️ Net TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89d433166edd31d56df2a59df8ec6704:b2015faded0a456d10aa8db1b4cbac68
-https://cdn.cvattv.com.ar/live/c6eds/Net_TV/SA_Live_dash_enc_C/Net_TV.mpd
 
 ✔️ Net TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHnettv.png" group-title="🏙️ Buenos Aires",✔️ Net TV
@@ -258,12 +155,6 @@ https://panel.host-live.com:19360/8012/8012.m3u8
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 ✔️ Telemax
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png" group-title="🏙️ Buenos Aires",✔️ Telemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
-https://cdn.cvattv.com.ar/live/c6eds/Telemax/SA_Live_dash_enc_C/Telemax.mpd
-
-✔️ Telemax
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHtelemax.png" group-title="🏙️ Buenos Aires",✔️ Telemax
 http://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
 
@@ -281,12 +172,6 @@ https://panel.host-live.com:19360/cn247tv/Source.m3u8
 
 ✔️ A24
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b1b027dd011af20fd9956c16dc084fb:45f75aacf06593c9b693fe427c67e5b8
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_Live_dash_enc_C/America24.mpd
-
-✔️ A24
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 
@@ -295,106 +180,35 @@ https://dai.google.com/linear/hls/event/Txk1vDlZR2CCfDuUZ0ylpw/master.m3u8
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g3.mc-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/Playlist.m3u8?sense=true
 
-✔️ A24
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHa24.png" group-title="🎙️ Noticias",✔️ A24
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/a24.playlist.m3u8
-
 ✔️ Argentina 12
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png" group-title="🎙️ Noticias",✔️ Argentina 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5299f96f873aa0f0e47edc4e15784717:9d53176b0969492f2d93f1867be1dce1
-https://cdn.cvattv.com.ar/live/c7eds/Investigacion_Periodistica/SA_Live_dash_enc_C/Investigacion_Periodistica.mpd
-
-✔️ Argentina 12
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHargentina12.png" group-title="🎙️ Noticias",✔️ Argentina 12
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/local-21.playlist.m3u8
 
 ✔️ C5N
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png" group-title="🎙️ Noticias",✔️ C5N
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc_C/C5N.mpd
-
-✔️ C5N
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHc5n.png" group-title="🎙️ Noticias",✔️ C5N
-http://miotv.cc:8080/Lopez123/Lopez123/272077
-
-✔️ Canal 26
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="🎙️ Noticias",✔️ Canal 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e32aaa4b67430b3b51be1efce5a74ac5:ad60c5e1d378a97271bf8688f094d092
-https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_C/26_TV_HD.mpd
 
 ✔️ Canal 26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="🎙️ Noticias",✔️ Canal 26
 http://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-
-✔️ Canal 26
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanal26.png" group-title="🎙️ Noticias",✔️ Canal 26
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/c26.playlist.m3u8
 
 ✔️ Canal E
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcanale.png" group-title="🎙️ Noticias",✔️ Canal E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
 ✔️ Cronica TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="🎙️ Noticias",✔️ Cronica TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=745e7abcc90d41ab706b2ac2f4371da3:50acd9d19d1361cb4a8a13a867bdc352
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_C/CronicaTV.mpd
-
-✔️ Cronica TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="🎙️ Noticias",✔️ Cronica TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="🎙️ Noticias",✔️ Cronica TV
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://g2.mc-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_360p.m3u8
 
-✔️ Cronica TV
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHcronicatv.png" group-title="🎙️ Noticias",✔️ Cronica TV
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/CronicaTv.playlist.m3u8
-
 ✔️ Diputados TV
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHdiputadostv.png" group-title="🎙️ Noticias",✔️ Diputados TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9666b195171442afd4551a8de01291a6:1c0061df9b4b098e40355167e97cfbf0
-https://cdn.cvattv.com.ar/live/c6eds/Diputados_TV/SA_Live_dash_enc_C/Diputados_TV.mpd
 
 ✔️ LN+
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png" group-title="🎙️ Noticias",✔️ LN+
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc_C/La_Nacion.mpd
-
-✔️ LN+
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHln+.png" group-title="🎙️ Noticias",✔️ LN+
-http://miotv.cc:8080/Lopez123/Lopez123/272048
-
-✔️ TN
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",✔️ TN 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
-https://cdn.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc_C/TodoNoticias.mpd
 
 ✔️ TN
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",✔️ TN
 #EXTVLCOPT:http-user-agent=Android 8.0.0
 https://dai.google.com/linear/hls/event/5OEEtA9FR-yrvhNE5K8PQQ/master.m3u8
-
-✔️ TN
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/noticias/CHtn.png" group-title="🎙️ Noticias",✔️ TN
-#EXTVLCOPT:http-referrer=https://www.m3u8player.online/
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/tn.playlist.m3u8
-
-✔️ Animal Planet Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4146a8ecbb0540dc807c6389ee87e0bc:0c3cdc1b3e4617c57361265e9fa4c5bd
-https://cdn.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
-
-✔️ Animal Planet Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc518be0092c0ed80d8b1eeb243c5b6:7292a98762ff0ce0cf7ab33158f95ecf
-https://paz-live1-ott.izzigo.tv/12/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 ✔️ Animal Planet Discovery
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="🚜 Cultura",✔️ Animal Planet Discovery
@@ -406,19 +220,9 @@ https://jmp2.uk/plu-5efb8c19b2678b000780d032.m3u8
 
 ✔️ Canal (a)
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHcanala.png" group-title="🚜 Cultura",✔️ Canal (a)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=324ec73787744554ae1aef231a4f8f97:677a040674d1d0eccef327269b222bae
-https://cdn.cvattv.com.ar/live/c6eds/Canal_a/SA_Live_dash_enc_C/Canal_a.mpd
 
 ✔️ Canal Rural
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHcanalrural.png" group-title="🚜 Cultura",✔️ Canal Rural
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b02c568163c14cfda4ddb958a0aab742:ef64a70ac85a663a3308be6476610aad
-https://cdn.cvattv.com.ar/live/c6eds/Canal_Rural/SA_Live_dash_enc_C/Canal_Rural.mpd
-
-✔️ Canal Rural
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHcanalrural.png" group-title="🚜 Cultura",✔️ Canal Rural
-http://201.217.246.42:44310/Live/b2a71699bb0fb8179a07e9db02e020ed/rural.playlist.m3u8
 
 ✔️ Chacra TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHchacratv.png" group-title="🚜 Cultura",✔️ Chacra TV
@@ -430,31 +234,14 @@ https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 https://jmp2.uk/plu-5dcde0657444a40009cd2422.m3u8
 
 ✔️ Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="🚜 Cultura",✔️ Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c283c84a7af0d7c8b9b612a8fb22a001:f45510c721eebd6eaa86a2e16ccbd77d
-https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_Live_dash_enc_C/DiscoveryHD.mpd
-
-✔️ Discovery
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="🚜 Cultura",✔️ Discovery
-http://45.181.122.46:8090/play/a014
-
-✔️ Discovery
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscovery.png" group-title="🚜 Cultura",✔️ Discovery
 http://45.167.1.136:8000/play/a03h
 
 ✔️ Discovery Familia
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryfamilia.png" group-title="🚜 Cultura",✔️ Discovery Familia
-http://miotv.cc:8080/Lopez123/Lopez123/269969
 
 ✔️ Discovery ID
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="🚜 Cultura",✔️ Discovery ID
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0956caf2e2bd41f49fdcead7cc94fe24:640c49578073a911938617eb4e652d6c
-https://cdn.cvattv.com.ar/live/c7eds/ID/SA_Live_dash_enc_C/ID.mpd
-
-✔️ Discovery ID
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="🚜 Cultura",✔️ Discovery ID
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHdiscoveryid.png" group-title="🚜 Cultura",✔️ Discovery ID
 http://45.167.1.136:8000/play/a06l
 
 ✔️ Discovery ID
