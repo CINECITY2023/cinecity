@@ -1394,6 +1394,10 @@ http://45.167.1.136:8000/play/a00g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network
 http://170.244.209.30:8000/play/a027/index.m3u8
 
+✔️ Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHcartoonnetwork.png" group-title="🎈 Infantil",✔️ Cartoon Network
+http://38.44.109.41:8003/play/a0ef/index.m3u8?hls
+
 ✔️ Clan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/infantil/CHclan.png" group-title="🎈 Infantil",✔️ Clan
 http://45.167.1.136:8000/play/a03b
