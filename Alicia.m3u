@@ -1557,8 +1557,8 @@ https://jmp2.uk/plu-62d08af527ce19000731eaa0.m3u8
 http://146.19.49.197:81/live/loco_hi/index.m3u8
 
 ✔️ Los Simpson
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="🤖 Animacion",✔️ Los Simpson
-https://sinurl.com
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHlossimpson.png" group-title="🤖 Animacion",✔️ Los Simpson
+https://live20.bozztv.com/akamaissh101/ssh101/simplat/playlist.m3u8
 
 ✔️ Max Anime
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/animacion/CHmaxanime.png" group-title="🤖 Animacion",✔️ Max Anime
