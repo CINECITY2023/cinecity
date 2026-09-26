@@ -935,12 +935,12 @@ https://sinurl.com
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-✔️ Deportes TVC 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="⚽ Deportes",✔️ Deportes TVC 
+✔️ Deportes TVC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="⚽ Deportes",✔️ Deportes TVC
 http://45.167.1.136:8000/play/a02x
 
-✔️ Deportes TVC 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="⚽ Deportes",✔️ Deportes TVC 
+✔️ Deportes TVC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/deportes/CHdeportestvc.png" group-title="⚽ Deportes",✔️ Deportes TVC
 http://170.244.209.30:8000/play/a05f/index.m3u8
 
 ✔️ DeporTV
@@ -1605,9 +1605,6 @@ https://livepeercdn.studio/hls/132ekew5u1m403gy/index.m3u8
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHelchavo.png" group-title="🤡 Comedia",✔️ Chavo del Ocho
 https://sinurl.com
 
-✔️ Chapulín Colorado
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHchapulincolorado.png" group-title="🤡 Comedia",✔️ Chapulín Colorado
-
 ✔️ Comedy Central
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/comedia/CHcomedycentral.png" group-title="🤡 Comedia",✔️ Comedy Central
 http://38.137.192.250:8000/play/a04k
@@ -1726,7 +1723,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHcanal21misiones.png" group-title="🏡 Provincia",✔️ Canal 21 (Misiones)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-✔️ El Doce TV (Misiones)
+✔️ El doce TV (Misiones)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/provincias/CHeldocetvmisiones.png" group-title="🏡 Provincia",✔️ El doce TV (Misiones)
 https://g5.vxral-slo.transport.edge-access.net/a14/ngrp:c12_live01-100129_all/Playlist.m3u8?sense=true
 
@@ -2003,7 +2000,6 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 ✔️ 🇨🇴 Caracol TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcaracoltvcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 Caracol TV
 http://45.167.1.136:8000/play/a049
-
 
 ✔️ 🇨🇴 City TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcitytvcolombia.png" group-title="🌍 Colombia",✔️ 🇨🇴 City TV
@@ -2550,7 +2546,6 @@ https://acentotv01.streamprolive.com/hls/live.m3u8
 ✔️ 🇩🇴 Antena 7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHantena7repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Antena 7
 https://cors-proxy.cooks.fyi/https://alba-do-antena7-antena7.stream.mediatiquestream.com/original.m3u8
-http://45.167.1.136:8000/play/a00s
 
 ✔️ 🇩🇴 Canal 4 RTVD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal4rtvdrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Canal 4 RTVD
@@ -2564,14 +2559,13 @@ http://45.167.1.136:8000/play/a03v
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal14repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Canal Catorce
 https://stream.haislin.com/14tv/index.m3u8
 
-✔️ 🇩🇴 Color Visión 9
+✔️ 🇩🇴 Color visión 9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcolorvision9repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Color visión 9
 http://45.167.1.136:8000/play/a037
 
 ✔️ 🇩🇴 Digital 15
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHdigital15repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Digital 15
 https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
-http://45.167.1.136:8000/play/a021
 
 ✔️ 🇩🇴 Faro Vision
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHfarovisionrepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Faro Vision
@@ -2588,13 +2582,10 @@ http://45.167.1.136:8000/play/a00r
 ✔️ 🇩🇴 Telecentro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelecentrorepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Telecentro
 https://live2.telemicro.com.do/live/13/playlist_dvr.m3u8
-https://live4.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
-http://45.167.1.136:8000/play/a026
 
 ✔️ 🇩🇴 Telemicro 5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelemicro5repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Telemicro 5
 https://live2.telemicro.com.do/live/55/playlist_dvr.m3u8
-http://45.167.1.136:8000/play/a036
 
 ✔️ 🇩🇴 Telesistema 11
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHtelesistema11repdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Telesistema 11
@@ -2607,7 +2598,6 @@ http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
 ✔️ 🇩🇴 Teleuniverso
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHteleuniversorepdominicana.png" group-title="🌍 Rep. Dominicana",✔️ 🇩🇴 Teleuniverso
 https://videoserver.tmcreativos.com:19360/kptjeckkaa/kptjeckkaa.m3u8
-http://45.167.1.136:8000/play/a023
 
 ✔️ 🇺🇾 Canal 5
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/canales-internacionales/CHcanal5uruguay.png" group-title="🌍 Uruguay",✔️ 🇺🇾 Canal 5
@@ -2718,7 +2708,7 @@ https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHcanalvmlatino.png" group-title="🎵​ Musica",✔️ Canal VM Latino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 
-✔️ Claro Música 
+✔️ Claro Música
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHclaromusica.png" group-title="🎵​ Musica",✔️ Claro Música
 http://45.167.1.136:8000/play/a02o
 
@@ -2796,6 +2786,10 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretrotv.png" group-title="🎵​ Musica",✔️ Retro TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
+✔️ Retro TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHretrotv.png" group-title="🎵​ Musica",✔️ Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?
+
 ✔️ Telehit
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/musica/CHtelehit.png" group-title="🎵​ Musica",✔️ Telehit
 http://38.44.109.41:8003/play/a003/index.m3u8
@@ -2839,7 +2833,7 @@ https://cdn.cvattv.com.ar/live/c3eds/Senal_Maria/SA_Live_dash_enc_C/Senal_Maria.
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/buenos-aires/CHcanalsantamaria.png" group-title="🙏 Religion",✔️ Canal Santa Maria
 https://cdn.trimi.com.ar/live/sm-live/SANTA_MARIA/sa_live_hls/SANTA_MARIA.m3u8
 
-✔️ Elim Tv
+✔️ Elim TV
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/religion/CHelimtv.png" group-title="🙏 Religion",✔️ Elim TV
 http://45.167.1.136:8000/play/a01s
 
@@ -2875,34 +2869,35 @@ https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHunife.png" group-title="🙏 Religion",✔️ Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/pgv5kerk/index.m3u8
 
-✔️ 🎬 Kickboxer (1989)
+ 🎬 Kickboxer
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Kickboxer_poster.jpg" group-title="Movies", 🎬 Kickboxer
 https://archive.org/download/kickboxer_202508/Kickboxer.MP4
 
-✔️ 🎬 Constantine (2005)
+ 🎬 Constantine
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Constantine-696456521-large.jpg" group-title="Movies", 🎬 Constantine
 https://archive.org/download/constantine_202507/Constantine.MP4
 
-✔️ 🎬 Ghost Rider (2005)
+ 🎬 Ghost Rider
 #EXTINF:-1 tvg-logo="https://media-cache.cinematerial.com/p/500x/tggw6ebe/ghost-rider-movie-cover.jpg?v=1456236221" group-title="Movies", 🎬 Ghost Rider
 https://archive.org/download/97049-81f-13a-05-6eea-4e-52-932e-4ee-44e-948c-61-zbqc-918428-1fichier/97049--81f13a05-6eea-4e52-932e-4ee44e948c61--zbqc--918428-1fichier.MP4
 
-✔️ 🎬 Scary Movie 4 (2006)
+ 🎬 Scary Movie 4
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/czY9Ni-mFlq9iSMXeWapMCXGSSWiSsrbDS2kmKkHDkv5xL-U3Un4X0zJGd1MG5S8k_0a=w240-h480-rw" group-title="Movies", 🎬 Scary Movie 4
 https://archive.org/download/scary-movie-4_202508/ScaryMovie4.MP4
 
-✔️ 🎬 Scary Movie 5 (2013)
+ 🎬 Scary Movie 5
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/e/e6/Scary_Movie_5.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240810190419&path-prefix=es" group-title="Movies", 🎬 Scary Movie 5
 https://archive.org/download/scary-movie-5_202508/ScaryMovie5.MP4
 
-✔️ 🎬 Los Indestructibles 2 (2012)
+ 🎬 Los Indestructibles 2
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ1ZTIxOTctMjM2Ni00MTI2LTkwMWItZWUxNmQ2MTNhNzk0XkEyXkFqcGc@._V1_.jpg" group-title="Movies", 🎬 Los Indestructibles 2
 https://archive.org/download/los-indestructible-2/LosIndestructible2.MP4
 
-✔️ 🎬 Abraham Lincol Cazador de Vampiros (2012)
+ 🎬 Abraham Lincol Cazador de Vampiros
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_FMjpg_UX1000_.jpg" group-title="Movies", 🎬 Abraham Lincol Cazador de Vampiros
 https://archive.org/download/habram-casa-vampiro/HabramCasaVampiro.MP4
 
-✔️ 🎬 Instinto implacable (2026)
+ 🎬 Instinto implacable
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Protector-499860629-large.jpg" group-title="Movies", 🎬 Instinto implacable
 https://archive.org/download/2012_20260530/Ver%20Protector%20Online%20-%20PelisPop.mp4
+
